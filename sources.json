@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "name": "Autosport F1",
+      "category": "formula1",
+      "url": "https://www.autosport.com/rss/feed/f1"
+    },
+    {
+      "name": "Sky Sports F1",
+      "category": "formula1",
+      "url": "https://www.skysports.com/rss/12433"
+    },
+    {
+      "name": "Formula1.com",
+      "category": "formula1",
+      "url": "https://www.formula1.com/content/fom-website/en/latest/all.xml"
+    },
+    {
+      "name": "UFC Official",
+      "category": "ufc",
+      "url": "https://www.ufc.com/rss/news"
+    },
+    {
+      "name": "MMA Fighting",
+      "category": "ufc",
+      "url": "https://www.mmafighting.com/rss/current.xml"
+    },
+    {
+      "name": "BBC Sport Football",
+      "category": "football",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    },
+    {
+      "name": "Sky Sports Football",
+      "category": "football",
+      "url": "https://www.skysports.com/rss/11095"
+    },
+    {
+      "name": "The Guardian Football",
+      "category": "football",
+      "url": "https://www.theguardian.com/football/rss"
+    }
+  ]
+}
