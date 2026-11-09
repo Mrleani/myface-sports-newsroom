@@ -1,0 +1,67 @@
+name: MyFace Sports Newsroom Cloud
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: newsroom-deployment
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect sports news
+        run: python newsroom.py --check
+
+      - name: Export dashboard data
+        run: python export_data.py
+
+      - name: Save updated database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsroom.db web/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update sports news"
+            git push
+          else
+            echo "No new data to save."
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: web
+
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
