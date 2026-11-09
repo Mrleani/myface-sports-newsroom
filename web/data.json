@@ -1,23 +1,153 @@
 {
-  "generated_at": "2026-11-09T18:07:58.390670+00:00",
+  "generated_at": "2026-11-09T20:23:27.507514+00:00",
   "stats": {
-    "total": 273,
+    "total": 290,
     "categories": {
-      "football": 153,
-      "formula1": 80,
-      "ufc": 40
+      "football": 163,
+      "formula1": 81,
+      "ufc": 46
     },
     "priorities": {
-      "HIGH": 99,
-      "LOW": 144,
-      "MEDIUM": 30
+      "HIGH": 105,
+      "LOW": 153,
+      "MEDIUM": 32
     },
     "sources": 8,
-    "last_scan": null,
-    "last_scan_new": 0,
+    "last_scan": "2026-11-09T20:23:25.975155+00:00",
+    "last_scan_new": 17,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live",
+      "title": "Listen to Monday Night Club",
+      "summary": "Mark Chapman and guests debate the weekend's football.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-mercedes-title-celebrations-2026.1GRUyTDIodPm4vvlVEydw5",
+      "title": "The best images from Mercedes' title celebrations",
+      "summary": "Mercedes sealed the Teams' Championship in Sao Paulo on Sunday after a double points finish from George Russell and Kimi Antonelli.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/donte-johnson-you-might-go-home-lunchtime-polymarket-ufc-334",
+      "title": "Donte Johnson: ‘You Might Go Home At Lunchtime!’",
+      "summary": "Rising Middleweight Reflects on First Year In The UFC, Facing Cesar Almeida At Polymarket UFC 334, Working Quickly Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-09T20:07:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/09/ben-white-england-international-exile-arsenal-thomas-tuchel-squad-nations-league-spain-croatia",
+      "title": "Ben White says he has no complaints at boos from England fans over self-imposed exile",
+      "summary": "Arsenal defender was jeered during draw with Uruguay ‘Everyone can do whatever they want,’ says White Ben White has said he has no complaints at being booed by England fans when he ended his international exile during the 1-1 draw with ­Uruguay this year. The Arsenal defender, who has returned to Thomas Tuchel’s squad after missing last month’s camp because of injury, became unpopular with some supporters after leaving the 2022 World Cup in Qatar early for personal reasons. White made himself unavailable for the rest of Gareth Southgate’s time in charge and was given a frosty reception from the Wembley crowd when he came off the bench to make his first England appearance in almost four years during the friendly with Uruguay last March. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-09T20:00:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/fighters-rise-polymarket-ufc-334-gane-vs-hokit",
+      "title": "Fighters on the Rise | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Identifying Three Ascending Talents Looking To Break Out This Weekend In NYC Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-09T19:49:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-kayla-harrison-vs-amanda-nunes",
+      "title": "Coach Conversation | Polymarket UFC 334: Kayla Harrison vs Amanda Nunes",
+      "summary": "MMA Lab Head Coach John Crouch Drops In And Drops Knowledge On Saturday’s Massive Bantamweight Championship Fight Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-09T19:36:06+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo",
+      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
+      "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T19:33:28+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/gfl/520221/gfl-reveals-first-official-fight-card-for-dec-18",
+      "title": "GFL reveals first official fight card for Dec. 18",
+      "summary": "It’s happening! The GFL is really happening! Last month, the Global Fight League announced it was finally set to host its first event at Club Atletico Lanus in Buenos Aires on Dec. 18, showcasing its team-based MMA format with the Buenos Aires Gauchos welcoming the Miami Monsters to Argentina. And now, we know exactly what […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-09T19:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no",
+      "title": "People don't know full story behind England exile - White",
+      "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T19:00:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "title": "Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-09T18:12:39+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520214/kevin-holland-responds-to-jacobe-smiths-callouts-what-the-fck-is-the-guy-worried-about-me-for",
+      "title": "Kevin Holland responds to Jacobe Smith’s callouts: ‘What the f*ck is the guy worried about me for?’",
+      "summary": "Kevin Holland doesn’t understand why Jacobe Smith is so focused on him. For months, Smith has engaged in a nearly one-sided beef with Holland, after the two were set to fight at UFC Oklahoma City before Holland withdrew due to injury. Since then, Smith has stacked two more wins on his résumé, including a decision […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-09T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo",
+      "title": "Man Utd yet to make decision on Carrick's future",
+      "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T17:49:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o",
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T17:30:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-sao-paulo.3fmqE8g482DzZTO98sG7Bf",
       "title": "5 Winners and 5 Losers from Sao Paulo",
@@ -119,6 +249,16 @@
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
     },
     {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o",
+      "title": "Wilson eyeing survival step as Wales tackle Norway",
+      "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-09T17:21:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo",
       "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
       "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge.",
@@ -167,6 +307,16 @@
       "published": "2026-11-09T16:46:11+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/09/football-daily-email-manchester-united-aston-villa-4-4",
+      "title": "Football Daily | Manchester United, Aston Villa and the unseriousness of a 4-4 draw",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Precisely 13,266 games have been played since the inception of the Premier League, and 19 of those matches have finished 4-4 (0.1%), a rarity in a division dominated by the mighty 1-0 (17.6%). It was about time we got one, though. The months of August and September, when teams are still fighting to define their top-flight seasons and fitness and motivation tend to be at their peak, have never seen a single 4-4 draw. As motivation decreases the chances of stupid scorelines increase, and that’s where the 4-4 creeps in. There’s a certain on-the-beachness inherent in the score, and it is no coincidence that it has occurred more in the second half of April, as thoughts drift to the close season and the ineffable pointlessness of a lot of late-campaign football becomes unavoidable, than in the entirety of any other month. Students, teachers and visitors at the University of Queensland can view the world’s longest-running experiment. The flamin’ pitch drop experiment began in 1930 and is designed to demonstrate how an apparent solid (pitch) behaves like an extremely viscous liquid. Nearly 100 years ago pitch was placed in a funnel and ke",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-09T16:40:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
@@ -409,6 +559,16 @@
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "title": "World Cup winner Cubarsi named 2026 Golden Boy",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-09T13:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
+    },
+    {
       "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Aston Villa latest: 'Cunha and Lammens foul Suzuki,' says Sherwood",
       "summary": "",
@@ -437,6 +597,16 @@
       "published": "2026-11-09T12:54:09+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Spurs latest: Tel pulls out of France U21 duty after Bogle challenge",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-09T12:48:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-09T20:23:25.975155+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo",
