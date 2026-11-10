@@ -1,23 +1,463 @@
 {
-  "generated_at": "2026-11-10T14:15:20.414872+00:00",
+  "generated_at": "2026-11-10T22:46:41.701871+00:00",
   "stats": {
-    "total": 355,
+    "total": 405,
     "categories": {
-      "football": 210,
-      "formula1": 91,
-      "ufc": 54
+      "football": 238,
+      "formula1": 100,
+      "ufc": 67
     },
     "priorities": {
-      "HIGH": 126,
-      "LOW": 193,
-      "MEDIUM": 36
+      "HIGH": 146,
+      "LOW": 219,
+      "MEDIUM": 40
     },
     "sources": 8,
-    "last_scan": "2026-11-10T14:15:19.065464+00:00",
-    "last_scan_new": 65,
+    "last_scan": "2026-11-10T22:46:39.572067+00:00",
+    "last_scan_new": 50,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
+      "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
+      "summary": "Races like the Sao Paulo Grand Prix show everybody why Lando Norris is a World Champion, writes former Renault F1 driver Jolyon Palmer.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-sao-paulo-grand-prix.4dgXaQOufQtljKWj7Q7Yhs",
+      "title": "Who impressed our Power Rankings judges in Sao Paulo?",
+      "summary": "Find out who featured at the top of the Power Rankings table after the Sao Paulo Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-unveils-calendar-for-2027-season.1mYuyMEiCaWyI8pAfg5K0O",
+      "title": "F1 ACADEMY announces 2027 calendar",
+      "summary": "F1 ACADEMY has revealed its calendar for the 2027 campaign, with the all-female series’ fifth season featuring seven rounds.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j",
+      "title": "72+: The EFL Podcast",
+      "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T22:29:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+      "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+      "summary": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages. The English side had to come from behind after a slow start but two goals from Aoba Fujino put them ahead before half-time, and second-half efforts from Kerstin Casparij and Grace Clinton gave them a 4-1 victory in Monza that doubled their points tally, after their draws against Bayern Munich, Real Madrid and Paris Saint-Germain. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T22:05:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o",
+      "title": "Man City thrash Inter to claim first CL win of season",
+      "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T22:05:15+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520322/robert-whittaker-says-israel-adesanyas-biggest-opponent-isnt-shara-bullet-but-himself",
+      "title": "Robert Whittaker says Israel Adesanya’s biggest opponent isn’t Shara Bullet, but himself",
+      "summary": "Robert Whittaker hopes to see the Israel Adesanya of old. Next month, Adesanya takes on Shara Magomedov in the main event of UFC Saudi Arabia. It’s a pivotal fight for the former two-time middleweight champion, who is riding a four-fight losing streak, and it’s one that Adesanya foe-turned-friend Robert Whittaker is concerned about. “I don’t […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-10T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo",
+      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T20:49:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
+      "title": "Bo Nickal vs. Yoel Romero rescheduled for RAF 16",
+      "summary": "Bo Nickal meets Yoel Romero in a highly anticipated matchup of two of the best wrestlers to ever compete in MMA. RAF announced Tuesday that Nickal is set to take on Romero at RAF 16, which takes place Dec. 19 in Long Island, N.Y. See the announcement below. This is the third time RAF matchmakers […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T20:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o",
+      "title": "Chelsea play out goalless draw with Hacken",
+      "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T20:07:12+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-ciryl-gane-vs-josh-hokit",
+      "title": "Coach Conversation | Polymarket UFC 334: Ciryl Gane vs Josh Hokit",
+      "summary": "Eric Nicksick from Xtreme Couture Dissects Headlining Heavyweight Title Clash Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T19:57:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+      "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+      "summary": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June. At the time McTominay’s absence from training was put down to a stomach complaint. It emerged in August that the Napoli midfielder needed surgery to remedy an irregular heartbeat. The operation took place in September, causing McTominay to miss Scotland’s first four Nations League matches. The player has now said the matter arose in the US as Scotland prepared for their World Cup opener at Boston Stadium. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T19:54:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/bia-mesquita-chasing-her-final-goal-for-2026-polymarket-ufc-334",
+      "title": "Bia Mesquita Chasing Her Final Goal For 2026",
+      "summary": "Ascending Brazilian Bia Mesquita Eyes Place In Top 10 With Win Over Macy Chiasson This Weekend Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T19:49:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520408/joe-rogan-returns-3-former-champs-on-the-desk-for-ufc-334",
+      "title": "Joe Rogan returns, 3 former champs on the desk for UFC 334",
+      "summary": "After sitting out an international card at UFC 333, Joe Rogan is back to call the fights for UFC 334 from Madison Square Garden in New York on Saturday. MMA Fighting has confirmed the full broadcast details with UFC officials with Rogan re-joining the broadcast team alongside UFC Hall of Famer Daniel Cormier and play-by-play […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T19:45:13+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o",
+      "title": "Partick Thistle lose SWPL points for amateur player payments",
+      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T19:23:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo",
+      "title": "Lecturer's bid to challenge Fifa president Infantino",
+      "summary": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T19:14:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
+      "title": "Firing a manager is often more about maintaining the illusion of control",
+      "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He just had to go. His position had become untenable. Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, which is out now . He teaches at Marist University. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T19:03:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
+      "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d’Or ambition",
+      "summary": "Fearless winger has forced his way into Thomas Tuchel’s plans and believes he can become best player in the world Rio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger narrowly missed the cut for the World Cup squad last summer but he impressed during the pre-tournament camp in Florida and has forced his way into Thomas Tuchel’s plans after an excellent start to the season. There is an opportunity for the 18-year-old to advance his case with Bukayo Saka injured and more experienced players left out for the Nations League games against Croatia and Spain this week. Ngumoha, who is dangerous on both flanks, has a chance of starting when Croatia visit Wembley on Thursday and would love to test himself against Lamine Yamal when England face Spain in Madrid on Sunday. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T19:00:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "title": "F1 Academy to make Budapest debut as 2027 calendar confirmed",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-10T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/520399/jake-paul-responds-to-loud-fck-you-chants-from-french-fans-ahead-of-cedric-doumbe-fight",
+      "title": "Jake Paul responds to loud ‘F*ck you’ chants from French fans ahead of Cedric Doumbe fight",
+      "summary": "Jake Paul didn’t make any new friends in Paris as he prepares to face France’s Cedric Doumbe. “The Problem Child” returns to the boxing ring for the first time since having his jaw broken by Anthony Joshua 12 months ago when he faces Doumbe on Dec. 24 at Coca-Cola Arena in Dubai. Paul and Doumbe […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T19:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
+      "title": "Chelsea frustrated at Hacken in WCL",
+      "summary": "Chelsea remain unbeaten in the Women’s Champions League but they were frustrated in a goalless draw at BK Hacken.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-10T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/updates-polymarket-ufc-334-gane-vs-hokit",
+      "title": "Updates To Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Changes To Polymarket UFC 334 Scheduled On November 14 In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T18:26:17+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko",
+      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T18:12:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/520388/video-jake-paul-and-cedric-doumbe-exchange-words-in-1st-faceoff-for-boxing-showdown",
+      "title": "Video: Jake Paul and Cedric Doumbe exchange words in 1st faceoff for boxing showdown",
+      "summary": "Jake Paul had a lot to say as he went face to face with Cedric Doumbe for the first time. Paul and Doumbe meet in the ring on Dec. 24 at Coca-Cola Arena in Dubai, and ahead of that boxing match, “The Problem Child” headed to Doumbe’s stomping grounds in France for a press conference […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T18:09:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo",
+      "title": "Wales' Johnson says definitely more to come after 50 caps",
+      "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T18:01:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/empire-state-mind-10-years-ufc-nyc",
+      "title": "Empire State Of Mind | 10 Years Of UFC In NYC",
+      "summary": "A Decade After The State Of New York Lifted Its MMA Ban, We Look Back At True Company Milestones In The Big Apple Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T17:45:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the Guardian, with those same sources characterizing the interest as mutual. United are expected to sack their head coach, Michael Carrick, after a disastrous start to their season which leaves them at risk of relegation from the Premier League, their worst opening to a campaign in four decades. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T17:40:40+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610730/ferrari-should-back-extraordinary-lewis-hamilton-over-charles-leclerc-as-number-one-driver-damon-hill-tells-sky-sports-the-f1-show",
+      "title": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc",
+      "summary": "Former Formula 1 world champion Damon Hill has insisted Ferrari should back the \"extraordinary\" Lewis Hamilton over his team-mate Charles Leclerc if they want to have a chance of winning next year's drivers' title.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-10T17:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13610724/the-f1-show-should-ferrari-build-around-lewis-hamilton",
+      "title": "'There's a gravitas that Lewis has!'- Should Ferrari build around Hamilton?",
+      "summary": "Speaking on The F1 Show, Damon Hill says that Ferrari needs to settle a 'political problem' regarding if the team should be built around Lewis Hamilton.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-10T17:02:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-store-celebrates-10-years-madison-square-garden-new-merch-collection",
+      "title": "UFC Store Celebrates 10 Years at Madison Square Garden With New Merch Collection",
+      "summary": "From UFC 205 To UFC 309, Celebrate The Fights And Milestones That Shaped UFC History In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo",
+      "title": "McTominay reveals heart treatment at World Cup",
+      "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T16:46:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo",
+      "title": "Oldham boss Mellon charged by FA following red card",
+      "summary": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T16:41:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o",
+      "title": "What is the Women's Champions League prize money?",
+      "summary": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T16:29:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o",
+      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+      "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T16:17:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520312/ciryl-gane-rejects-fouling-criticism-before-ufc-334-im-not-here-to-try-and-convince-anyone",
+      "title": "Ciryl Gane rejects fouling criticism before UFC 334: ‘I’m not here to try and convince anyone’",
+      "summary": "Ciryl Gane doesn’t care about the criticism before UFC 334. This weekend, Gane makes the first defense of his heavyweight title when he takes on Josh Hokit in the main event. But Gane’s status as champion is controversial given the way he took the title, where his eye pokes injured undisputed champion Tom Aspinall to […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T16:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+      "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
+      "summary": "Scott McTominay has revealed he needed to have his heart “shocked” two days before Scotland's World Cup opener against Haiti.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-10T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter",
+      "title": "Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big Website’s Ultimate 1-50 , a rundown of the male footballers best associated with each squad number. It’s lighthearted reading designed to entertain, maybe even inform, and perhaps spark a few memories and a touch of debate. Or, if you prefer, a rage-bait waste of time that shames the internet. Where the hell is Roy Keane! How dare you leave out Bobby Moore! And Pelé? A list without Pelé? I don’t want to live in a world where there are lists without Pelé. Such is the world these days, though surely a certain amount of respect is due to an exercise that shuns Lionel Messi and Zinedine Zidane but can welcome in Salvatore Sirigu and Mateusz Klich. And true, it might be a challenging read for those (and, let’s be clear, we’re absolutely definitely not referring to ourselves here, no sirree) old enough to have been brought up in an era of 1; 2, 5, 6, 3; 7, 4, 8, 11; 9 (big man), 10 (little man). The days of two substitutes who wore Nos 12 and 14. The days of a quarter of wine gums in your pocket and m",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T15:26:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil",
+      "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
+      "summary": "This year's edition of the Sao Paulo Grand Prix at Interlagos served up its usual fascinating challenges and surprises. The race was great, perhaps only missing a late surprise or crescendo.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-10T15:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+      "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+      "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid paying Pierre Sage significant compensation if he is reappointed by his former club, Lens, with the manager’s departure from Selhurst Park yet to be confirmed. The decision to sack Sage was made on Sunday evening after Palace slumped to a 3-1 defeat against Liverpool . It was their fourth successive loss in the Premier League and left them bottom of the table for the first time since 2017. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-10T15:08:24+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
+      "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
+      "summary": "Kaveh Solhekol has answered your latest questions on Manchester United, with Michael Carrick's future up in the air, the club in the relegation zone and more issues behind the scenes.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-10T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643",
+      "title": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
+      "summary": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late February as the United States and Israel launched strikes on Iran, has destabilised the region. The calendars of many motorsport championships have been impacted – not least ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-10T14:52:26+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo",
+      "title": "Birthdays and broken lamps - at home with the Charles brothers",
+      "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T14:36:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno",
+      "title": "Kompany back at Bayern training after collapse",
+      "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T14:17:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH",
       "title": "Camara experiences every condition in ‘tricky’ Haas debut",
@@ -69,6 +509,36 @@
       "first_seen": "2026-11-10T14:15:19.065464+00:00"
     },
     {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o",
+      "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
+      "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T14:14:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes",
+      "title": "F1 planning to finish season in Middle East as Imola deadline passes",
+      "summary": "Formula 1 chiefs are proceeding with plans to hold the final two rounds of 2026 in the Middle East after a deadline to move one of the season-ending races to Italy passed.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-10T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520242/matt-brown-ciryl-gane-and-josh-hokit-are-fighting-for-second-place-in-the-heavyweight-division-at-ufc-334",
+      "title": "Matt Brown: Ciryl Gane and Josh Hokit are ‘fighting for second place’ in the heavyweight division at UFC 334",
+      "summary": "Ciryl Gane and Josh Hokit are battling for the undisputed heavyweight title in the UFC 334 main event, but is the winner truly the best of the best in that division? While Gane was crowned undisputed champion earlier this year, his title reign only started after Tom Aspinall gave up the belt when he was […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
       "title": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
       "summary": "Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around Europe. Continue reading...",
@@ -97,6 +567,16 @@
       "published": "2026-11-10T13:24:07+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-10T14:15:19.065464+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/519199/morning-report-sean-omalley-is-rooting-for-josh-hokit-at-ufc-334-so-he-can-continue-to-be-an-absolute-menace-to-the-ufc",
+      "title": "Morning Report | Sean O’Malley is rooting for Josh Hokit at UFC 334 so he can continue to be ‘an absolute menace to the UFC’",
+      "summary": "Sean O’Malley is pulling for Josh Hokit this weekend. On Saturday, Hokit challenges Ciryl Gane for the heavyweight title in the main event of UFC 334 at Madison Square Garden. It’s obviously a huge opportunity, made all the more impressive by the fact that Hokit only made his UFC debut a year ago. But since […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o",
@@ -217,6 +697,16 @@
       "published": "2026-11-10T11:24:58+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-10T14:15:19.065464+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po",
+      "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
+      "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T11:23:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
@@ -507,6 +997,16 @@
       "published": "2026-11-09T22:18:17+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-10T14:15:19.065464+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
+      "title": "City claim first win of European campaign in Inter thrashing",
+      "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-09T21:55:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-10T22:46:39.572067+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sounds/play/p0pm60tc",
