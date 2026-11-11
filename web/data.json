@@ -1,23 +1,473 @@
 {
-  "generated_at": "2026-11-10T22:46:41.701871+00:00",
+  "generated_at": "2026-11-11T13:29:20.306530+00:00",
   "stats": {
-    "total": 405,
+    "total": 454,
     "categories": {
-      "football": 238,
-      "formula1": 100,
-      "ufc": 67
+      "football": 276,
+      "formula1": 106,
+      "ufc": 72
     },
     "priorities": {
-      "HIGH": 146,
-      "LOW": 219,
-      "MEDIUM": 40
+      "HIGH": 158,
+      "LOW": 252,
+      "MEDIUM": 44
     },
     "sources": 8,
-    "last_scan": "2026-11-10T22:46:39.572067+00:00",
-    "last_scan_new": 50,
+    "last_scan": "2026-11-11T13:29:18.531107+00:00",
+    "last_scan_new": 49,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/where-do-mercedes-rank-in-the-list-of-constructors-championship-winners.4Cr98XypZEcBtcbsBqOtEB",
+      "title": "Where do Mercedes rank among Teams' Championship winners",
+      "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA",
+      "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
+      "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/he-was-immediately-fast-antonellis-junior-racing-boss-on-his-early-potential.3Hy1WZWp1lMwf0VTncC2xB",
+      "title": "‘He was immediately fast’ – Antonelli’s junior racing boss on his early potential",
+      "summary": "Rene Rosin ran Antonelli from F4 up to F2 with the legendary PREMA Racing team, and says the potential was clear from the young Italian's earliest days in the sport.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/3-drivers-to-watch-closely-in-the-early-las-vegas-grand-prix-betting-markets.7jgVWNjbZFmirJ9nK704a",
+      "title": "3 drivers to watch in the early Las Vegas GP markets",
+      "summary": "Lando Norris returned to the top step of the podium in Brazil, but what did the Sao Paulo Grand Prix signal in the markets ahead of the trip to Las Vegas?",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520300/morning-report-amanda-nunes-thinks-ronda-rousey-still-refuses-to-discuss-ufc-207-loss-she-never-say-my-name",
+      "title": "Morning Report | Amanda Nunes thinks Ronda Rousey still refuses to discuss UFC 207 loss: ‘She never say my name’",
+      "summary": "Amanda Nunes wasn’t expecting a call for a Ronda Rousey rematch anytime soon – especially with Rousey seemingly ignoring they fought altogether. This Saturday, Nunes returns from a three-year retirement to challenge bantamweight champion Kayla Harrison in the co-main event of UFC 334 at Madison Square Garden in New York. “The Lioness” walked away from […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-11T13:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o",
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T12:58:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
+      "title": "‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
+      "summary": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents just over a month ago are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard-fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T12:30:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo",
+      "title": "How promotion, relegation and knockouts work in Nations League",
+      "summary": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T12:09:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+      "title": "Man Utd strike Poch agreement as Carrick takes training",
+      "summary": "Manchester United have reached an agreement in principle with Mauricio Pochettino to take over as head coach if Michael Carrick is sacked.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo",
+      "title": "Scotland without captain Weir for World Cup play-off",
+      "summary": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T11:59:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+      "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+      "summary": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q Magazine and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T11:56:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o",
+      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+      "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T11:47:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Ipswich latest: VAR missed Town penalty vs Hull says panel",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T11:39:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o",
+      "title": "You are Scotland boss Pocognoli - what would you do?",
+      "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T11:33:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
+      "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
+      "summary": "Wage bills in third tier have increased by 15% this season ‘Luxury tax’ and three-year limits on losses considered League One clubs want to introduce new spending restrictions to reduce losses by limiting investment from owners. Clubs in the division voted to tighten the rules last summer by reducing spending limits from 60% to 50% of turnover, and removed a staggered approach to owner investment, so that only 50% of equity injections can be spent on squad costs, with the rest assigned to infrastructure projects. Less than six months later many want to go further. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T11:02:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T10:34:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
+      "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+      "summary": "Liverpool should have been awarded a penalty when Jurrien Timber pulled Alexander Isak's shirt in Arsenal's victory at Anfield, an independent panel has ruled.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T10:33:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo",
+      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
+      "summary": "Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T10:32:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610549/barcelona-vs-arsenal-can-gunners-learn-from-2025-womens-champions-league-victory-ahead-of-league-phase-meeting-on-thursday",
+      "title": "Big underdogs once more, can Arsenal beat Barcelona again?",
+      "summary": "Arsenal face Barcelona in the Women's Champions League this week - the first time the two have met since the 2025 final when the Gunners were victorious against all odds.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T10:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo",
+      "title": "Shirt pull on Isak should have been penalty - panel",
+      "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T10:23:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo",
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "summary": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T10:17:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+      "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+      "summary": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last international window, he offered an ambiguous farewell. “See you next …” Pochettino began as he headed to the tunnels of Allianz Field in Saint Paul, before cutting his sentence short. Then, a bit of a sing-song: “See you next, see you next.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T10:00:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13576948/andoni-iraola-was-sacked-from-his-first-job-at-aek-larnaca-in-cyprus-liverpool-managers-difficult-career-start-explained",
+      "title": "From the sack in Cyprus to Liverpool: Iraola's first job explained",
+      "summary": "Not every successful career starts spectacularly well but Andoni Iraola's journey to Liverpool will take some beating. Seven years ago, he was sacked from his first job in management after a winless streak in the Cypriot top division with AEK Larnaca.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13594403/jordan-hadaway-interview-meet-the-25-year-old-llandudno-boss-the-youngest-top-flight-manager-in-europe",
+      "title": "Meet the youngest top-flight manager in Europe",
+      "summary": "As football has evolved, so have routes into football management.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro",
+      "title": "Robinson unfazed by Pochettino departure talk",
+      "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T09:54:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789",
+      "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
+      "summary": "The question of what might happen in a wet race has vexed Formula 1's stakeholders since before the beginning of the season. It's also prompted some unnecessarily hysterical commentary throughout the year, peaking in the run-up to last weekend's Brazilian Grand Prix at Interlagos, where rain for qualifying and the race was a virtual certainty for the first time this season. Although the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-11T09:23:42+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
+      "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
+      "summary": "Mauricio Pochettino and Manchester United have a well-established history. One where paths might have crossed long before now, numerous times, but somehow never managed to converge.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+      "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+      "summary": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is sacked in line with the recommendation from Jason Wilcox, the director of football, and Omar Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the US men’s national team head coach but wants the United job if, as expected, Carrick is removed. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T08:56:37+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno",
+      "title": "NI can draw on strong club form in key window",
+      "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T08:09:02+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge",
+      "title": "Which football club has had most international captains in the same team? | The Knowledge",
+      "summary": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most international captains playing together at one time?” asks MH Zahid. “Conversely, which international team has had the most club captains in its starting lineup at one time?” A quick web search finds a fuss being made in various corners of the internet of Chelsea’s 2009-10 squad because it contained six national team captains in Michael Ballack (Germany), Petr Cech (Czech Republic), Didier Drogba (Côte d’Ivoire), Branislav Ivanovic (Serbia), Mikel John Obi (Nigeria) and John Terry (England). These are, indeed, six people who captained their countries, playing together at one time, but crucially they were not all international captains at that time, which because we like to have our hands bound as tight as possible – no questions please – mean they are disqualified from this particular tournament. Ivanovic, you see, was not named Serbia captain until 2012 and Mikel, who was but a whippersnapper at 22 when the 2009-10 season started, was still seven years from getting his hands on the Nigeria armband. Con",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T08:00:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers",
+      "title": "Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers",
+      "summary": "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990s How much is a shirt number worth? It costs £8 if you want two digits added to the back of Arsenal’s 2026-27 home shirt, whereas Manchester City add on £16 for customisation, whether you want a name as well as a number or not. That is cheap compared to what baseball players decide among themselves. Juan Soto bought Brett Baty a $92,000 (£69,000) car in exchange for getting his preferred number (22) when he joined the New York Mets last year. But that’s baseball, where they allow players to wear ‘0’. Anything goes. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T08:00:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o",
+      "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+      "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T08:00:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmdgqx",
+      "title": "Podcast: What’s going wrong at Hearts?",
+      "summary": "Why are Hearts conceding so many goals and how do they stop the slide?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610251/harry-kane-ballon-dor-winner-set-for-wembley-celebration-of-england-record",
+      "title": "England's best? Record-breaking Ballon d'Or winner Kane set for Wembley celebration",
+      "summary": "Harry Kane is set to become England's most-capped player ever on Thursday night - will it also be time to crown him the country's greatest?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T08:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y97eew80p7o",
+      "title": "Wimmer among Aberdeen applicants - gossip",
+      "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T07:40:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo",
+      "title": "From Jersey to Somalia... via Liverpool & Man City",
+      "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T07:13:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610745/james-vowles-williams-boss-admits-team-got-carried-away-with-success-but-says-2026-f1-season-struggles-are-only-a-blip",
+      "title": "Vowles: Williams got carried away with success but 2026 only a blip",
+      "summary": "Williams team principal James Vowles has admitted his squad \"got carried away\" with their success last season but insists a disappointing 2026 campaign is merely \"a blip\".",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-11T07:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T06:47:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo",
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T06:24:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+      "title": "Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
+      "summary": "Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret. Something the England captain got up to after matches. He felt he deserved the indulgence. Yes, it can be revealed, Kane loved to reward himself after a gruelling 90 minutes with a bag of sweets. “I do like a Haribo,” he said with a smile after the Nations League win against Czechia in Prague at the end of September. No more. At the beginning of last season, Kane took the decision to cut out the naughty treats. After a while, he noticed a difference. He felt sharper; able to sprint more, make a greater number of accelerations. Was it down to this latest entry on the list of personal sacrifices? Or was it a consequence of his broader health regime, the scope of which is mind-blowing? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-11T06:00:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520444/norma-dumont-parts-ways-with-the-ufc-teases-potential-move-to-boxing-in-2027",
+      "title": "Norma Dumont parts ways with the UFC, teases potential move to boxing in 2027",
+      "summary": "Norma Dumont has parted ways with the UFC after 13 octagon appearances, the Brazilian fighter announced on social media Tuesday. Dumont, 36, revealed she had multiple fights left on her deal with the promotion but requested and was granted her release. “I still had two fights left on my contract with the organization,” Dumont said, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-11T02:19:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-11T00:19:42+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/best-title-fights-madison-square-garden",
+      "title": "Best Title Fights In Madison Square Garden",
+      "summary": "Ahead Of Polymarket UFC 334: Gane vs Hokit, Take A Look Back At Some Of The Best Title Fights That Have Happened In The World's Most Famous Arena Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T23:37:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo",
+      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T23:08:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/519621/denise-gomes-campaigns-for-ufc-title-shot-at-mackenzie-dern-after-delivering-violence-against-yan-xiaonan",
+      "title": "Denise Gomes campaigns for UFC title shot at Mackenzie Dern after delivering ‘violence’ against Yan Xiaonan",
+      "summary": "Top-ranked strawweight contender Denise Gomes believes she has done enough to earn a shot at the UFC title against Mackenzie Dern after knocking out perennial contender Yan Xiaonan in such devastating fashion back in August. “I’m ready. I’ve already proven it, I’ve already shown it. There’s a lot more where that came from,” Gomes told […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-10T23:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
       "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
@@ -49,6 +499,16 @@
       "first_seen": "2026-11-10T22:46:39.572067+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-10T22:44:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j",
       "title": "72+: The EFL Podcast",
       "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
@@ -57,6 +517,26 @@
       "published": "2026-11-10T22:29:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-10T22:46:39.572067+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/zuffa-boxing-13-official-fight-card",
+      "title": "Zuffa Boxing 13 Official Fight Card",
+      "summary": "Carlos Adames Meets Gerome Warburton Saturday, November 14, In Riyadh Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-10T22:26:35+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o",
+      "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+      "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-10T22:17:53+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
@@ -4037,6 +4517,16 @@
       "published": "2025-10-01T11:00:23+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/b03y76xl",
+      "title": "Never-before-seen footage from interviews with eyewitnesses of WWI",
+      "summary": "Never-before-seen footage from interviews with eyewitnesses of the First World War.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2023-01-12T06:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-11T13:29:18.531107+00:00"
     },
     {
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
