@@ -1,23 +1,493 @@
 {
-  "generated_at": "2026-11-12T14:33:46.078960+00:00",
+  "generated_at": "2026-11-12T23:10:00.230888+00:00",
   "stats": {
-    "total": 542,
+    "total": 593,
     "categories": {
-      "football": 330,
-      "formula1": 116,
-      "ufc": 96
+      "football": 362,
+      "formula1": 121,
+      "ufc": 110
     },
     "priorities": {
-      "HIGH": 183,
-      "LOW": 308,
-      "MEDIUM": 51
+      "HIGH": 199,
+      "LOW": 337,
+      "MEDIUM": 57
     },
     "sources": 8,
-    "last_scan": "2026-11-12T14:33:44.330980+00:00",
-    "last_scan_new": 43,
+    "last_scan": "2026-11-12T23:09:58.090655+00:00",
+    "last_scan_new": 51,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
+      "title": "Why the F1 driver market might produce one last twist",
+      "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/trivia-false-start.403Q768qyuqJKKSGfQE9C1",
+      "title": "Trivia: False Start",
+      "summary": "",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/tsolov-to-join-red-bull-and-racing-bulls-as-reserve-driver-for-2027.390fvkyiS2t5fnyVjvxqFq",
+      "title": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
+      "summary": "Formula 2 racer Nikola Tsolov will step up to a role as Red Bull and Racing Bulls’ reserve driver next season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+      "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+      "summary": "Loss is Zinedine Zidane’s first as France head coach Spain beat Czechia 2-0 to maintain 100% record Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group. Michael Olise profited on a Gianluigi Donnarumma error to put the visitors in front after 10 minutes, but Italy hit back through Esposito and Davide Frattesi either side of half-time. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T22:31:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo",
+      "title": "Grealish apologises for absence after breach of discipline",
+      "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T22:10:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo",
+      "title": "Where does Kane rank among all-time England greats?",
+      "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T22:09:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/amanda-nunes-came-back-for-whats-hers-polymarket-ufc-334",
+      "title": "Amanda Nunes Came Back For What’s Hers",
+      "summary": "‘The Lioness’ Amanda Nunes Talks Retirement, Return, And The Full Circle Feeling Of Competing In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T22:04:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+      "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+      "summary": "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation’s most capped men’s player. And for much of the night, it felt as though the desire to celebrate him, certainly beforehand, was the main thing. The actual football in this Nations League group game felt like a sideshow. England had demolished Croatia 7-0 in Rijeka last month; it was Croatia’s heaviest defeat. It was a different story here. England lacked cut and thrust. There was a flatness to the Wembley atmosphere. Croatia were never likely to be humbled again and they sensed redemption when Petar Sucic capitalised upon a defensive aberration from Jarell Quansah to equalise for 1-1 just before the hour. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T21:58:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo",
+      "title": "Gritty Arsenal show different side in Barcelona draw",
+      "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T21:50:59+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ciryl-gane-unbothered-and-focused-on-the-present-polymarket-ufc-334",
+      "title": "Ciryl Gane | Unbothered And Focused The Present",
+      "summary": "French Heavyweight Champion Ciryl Gane Talks Undisputed Title, Facing Josh Hokit Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T21:49:59+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o",
+      "title": "Kane scores winner but who else made an impression? England player ratings",
+      "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T21:47:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo",
+      "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+      "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T21:28:06+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o",
+      "title": "SFA in talks with Boston officials over biennial friendly match",
+      "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T21:16:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o",
+      "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+      "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T21:13:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520574/amanda-nunes-reveals-her-toughest-opponent-and-its-not-kayla-harrison",
+      "title": "Amanda Nunes reveals her toughest opponent and it’s not Kayla Harrison",
+      "summary": "Amanda Nunes has fought and defeated a laundry list of former champions and all time greats during her career and she looks to add one more with her fight booked against Kayla Harrison at UFC 334. That said as Nunes returns from retirement, she definitely understands the dangers that Harrison represents in the octagon but […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
+      "title": "Papers: Bruno rejects second Man Utd contract offer",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Everton latest: Grealish apologises to fans after making return",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo",
+      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+      "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T20:09:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
+      "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
+      "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but Caroline Graham Hansen’s equaliser ensured the spoils would be shared. Barcelona have been formidable when playing at the club’s main stadia, winning nine and drawing twice, against Chelsea in the semi-finals in 2023 and now Arsenal. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T20:00:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo",
+      "title": "Quiz: Name England men's all-time leading appearance makers",
+      "summary": "Can you name every England men's player who has at least 60 caps?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T19:47:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610422/barcelona-1-1-arsenal-renee-slegers-side-withstand-onslaught-from-european-champions-to-snatch-point-in-wcl",
+      "title": "Arsenal survive dominant Barca to earn precious WCL point",
+      "summary": "Arsenal managed to withstand Barcelona's dominance to claim an impressive 1-1 draw against the European champions.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T19:40:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/gerome-warburton-wants-to-spoil-the-party-zuffa-boxing-13",
+      "title": "Gerome Warburton Wants To Spoil The Party | Zuffa Boxing 13",
+      "summary": "Welsh Middleweight Gerome Warburton Is Ready For The Biggest Opportunity Of His Career In The Main Event Of Zuffa Boxing 13. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T19:07:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520707/report-tommy-mcmillen-taken-to-the-hospital-after-a-possible-overdose",
+      "title": "Report: Tommy McMillen taken to the hospital after a possible overdose",
+      "summary": "Tommy McMillen was taken to the hospital after a possible overdose. Per a report by TMZ Sports, on Sunday, McMillen was rushed to a local hospital after being found unresponsive in the nightclub “Cake” in Scottsdale, AZ. McMillen was reportedly found in the bathroom with a white, powdery substance on the ground near him, prompting […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T18:45:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+      "title": "Bilal Hasan Is Ready To Shine On The Big Stage",
+      "summary": "Spectacular UFC Newcomer Bilal Hasan Has Already Made A Splash In The Octagon. Now He’s Planning To Steal The Show At Madison Square Garden. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T18:27:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
+      "title": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
+      "summary": "Tottenham full-back will make 102nd appearance on Friday ‘It’s another reason to honour one of the greatest players’ Andy Robertson insists his matching of Kenny Dalglish’s Scotland cap record by no means brings reputational parity. Four decades after Dalglish, widely regarded as the country’s finest player, ended his international run at 102 games Robertson will hit the same figure with the visit of North Macedonia to Hampden Park on Friday. The Tottenham full-back is understandably delighted by his own tally – and should surpass Dalglish in Switzerland on Monday – but paid glowing tribute to the man he got to know well during nine years at Liverpool. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T18:06:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/520695/alistair-overeem-vs-jimi-manuwa-added-to-paul-vs-doumbe-fight-card",
+      "title": "Alistair Overeem vs. Jimi Manuwa added to Paul vs. Doumbe fight card",
+      "summary": "A pair of former UFC fighters are set to compete on the Jake Paul vs. Cedric Doumbe headlined boxing event. Most Valuable Promotions announced on Thursday that a heavyweight matchup between Alistair Overeem and Jimi Manuwa is set for the Dec. 24 card in Dubai. The bout takes place over a scheduled six rounds. Overeem […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo",
+      "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
+      "summary": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T17:31:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611545/uefa-nations-league-format-rules-promotion-and-relegation-explained-and-how-it-affects-euro-2028-qualifying",
+      "title": "UEFA Nations League: All you need to know",
+      "summary": "The UEFA Nations League is back for its fifth edition, with 54 European countries competing for silverware, promotion and a potentially crucial route to Euro 2028.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T17:09:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
+      "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
+      "summary": "Michael Carrick’s replacement must find solutions on the pitch and pressure the hierarchy to accept a share of blame One of the final images of Michael Carrick’s time in charge will be of him standing in the rain on the Old Trafford touchline watching his side succumb to Bournemouth , while his sullen captain sat unused on the bench. Bruno Fernandes was dropped after calling out his head coach’s tactics, although Carrick said it was for football reasons. It was the second combustible television interview in as many Champions League games after Lisandro Martínez pointed the finger at the director of football, Jason Wilcox, for failing to provide a squad suitable for fighting on all fronts. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T17:00:22+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store",
+      "title": "Topps Royalty UFC Returns in 2026 at UFC Store!",
+      "summary": "Join the Chase for Autographs, Relics, Parallels and One-Of-One Collectibles! Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T17:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/conor-mcgregor-champ-champ-anniversary-collection-available-ufc-store",
+      "title": "Conor McGregor Champ-Champ Anniversary Collection Available at UFC Store",
+      "summary": "UFC Store Marks The 10-Year Anniversary Of Conor McGregor Becoming the First Simultaneous Two-Division World Champion Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T17:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/follow-ufc-apple-sports",
+      "title": "Follow UFC on Apple Sports",
+      "summary": "Apple Sports Expands Offerings To Include UFC Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded",
+      "title": "Inside Man Utd's pursuit of Pochettino",
+      "summary": "Manchester United's bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans",
+      "title": "UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS",
+      "summary": "",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T16:55:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520691/usman-nurmagomedov-banned-from-attending-raf-abu-dhabi-after-attacking-merab-dvalishvili",
+      "title": "Usman Nurmagomedov banned from attending RAF Abu Dhabi after attacking Merab Dvalishvili",
+      "summary": "Usman Nurmagomedov will not be allowed to attend RAF Abu Dhabi on Saturday. On Wednesday, video surfaced of Nurmagomedov and members of his team walking up on Merab Dvalishvili while doing an interview, before the PFL lightweight champ struck the former UFC bantamweight champ with a surprising shot. Then chaos ensued with an all-out brawl. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T16:49:49+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o",
+      "title": "Owono undecided over future following De Miguel death",
+      "summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T16:41:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/m0034dz1",
+      "title": "Football Daily",
+      "summary": "Simon Stone, Jay Motty & Tom Allnutt join Rick & Lloyd for reaction to Carrick’s sacking.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T16:31:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520618/between-the-links-ufc-334-gane-vs-hokit-usman-nurmagomedov-attacks-merab-dvalishvili",
+      "title": "BTL: UFC 334, Gane vs. Hokit, Usman Nurmagomedov attacks Merab Dvalishvili",
+      "summary": "UFC 334 takes over New York City with two big title fights, including Ciryl Gane defending the heavyweight title against Josh Hokit in the main event, while Kayla Harrison faces the returning Amanda Nunes in the co-main event for the women’s bantamweight title. Despite the card having some fun stuff, does it seem like the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T16:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmregjjnr1wno",
+      "title": "Wilson and Miller score as Scotland U21s thump Ukraine",
+      "summary": "James Wilson scores a double and Lennon Miller also finds the net as Scotland Under-21s ease to a 4-0 win in the first of two friendlies against Ukraine in Spain.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T16:29:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
+      "title": "Football Daily | ‘The club would like to thank …’: Manchester United dust off the heartfelt exit message",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Tuesday 22 April 2014: “Manchester United has announced that David Moyes has left the club. The club would like to place on record its thanks for the hard work, honesty and integrity he brought to the role.” Oh no! Where will the USA! USA! USA! ever be able to find a manager who could lead us to the dizzying heights of yet another humiliating defeat in the round of 16? A completely empty safari shirt on a clothes hanger could do that. Now he’s leaving the national team to prioritise a club team, which is exactly what he criticised Christian Pulisic for doing a while back. A $10m dollar buyout from Manchester United is a way more appealing prospect than another World Cup cycle with this guy. Adios, Mauricio. I’d add gracias , but for what, exactly?” – Chi. If any Manchester United fans weren’t already feeling that their board had totally lost its moral compass, then might I suggest that in holding the board meeting to seal Michael Carrick’s fate in Monaco a new bar in tone-deafness has been set. Out of touch, no? Pas du tout . Bonne chance, Mauricio, you are going to need it fella. Meanwhile, let’s pencil in the next board meeting ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T16:24:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o",
+      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+      "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T16:12:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151",
+      "title": "Tsolov lands reserve driver role for F1 2027",
+      "summary": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive. The 19-year-old Bulgarian had been linked to a step up from F2 to replace Liam Lawson at Racing Bulls in 2027, but after weeks of speculation the Faenza-based squad put rumours to rest by confirming the New Zealander would continue alongside ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-12T15:21:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/england-vs-croatia/report/554088",
+      "title": "Kane the hero on historic night as England book Nations League QF spot",
+      "summary": "Record-breaker Harry Kane scored from the spot to seal England's place in the Nations League quarter-finals with a 2-1 victory over Croatia, capping a memorable Wembley night as the captain became his country's most-capped player.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T15:12:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlq3llg19go",
+      "title": "Largs get floodlights consent in time for cup tie with Ayr – watch on BBC",
+      "summary": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T15:00:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
+      "title": "Anything but Fighting: Stephen Thompson loves anime",
+      "summary": "NEW YORK, NY — UFC welterweight contender Stephen Thompson speaks with MMA Fighting’s José Youngs about his lifelong love of anime on Anything But Fighting. In terms of competing, Thompson (17-9-1) will be making the walk to the octagon for the final time of his career against Charles Radtke at UFC 334 in Madison Square […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+      "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+      "summary": "USMNT coach agreed framework of a deal with United United have made contact with US federation Balogun: ‘I’d like to keep things the way they are’ Live news and reaction for Pochettino’s move to Man Utd Mauricio Pochettino will lead the US men’s national team through the remainder of this international window, a source with direct knowledge of US Soccer’s plans told the Guardian on Thursday. Pochettino has emerged as the leading candidate to replace Michael Carrick, who was sacked as Manchester United manager on Thursday. The Guardian previously reported that the framework of a deal had been agreed between Pochettino and United. The Athletic was first to report news of Pochettino’s plans for the upcoming US matches. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T14:57:56+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford",
+      "title": "Neville 'disgusted' at Man Utd's treatment of Carrick",
+      "summary": "Sky Sports' Gary Neville has described Manchester United's treatment of Michael Carrick as \"disgusting\" after the club legend was sacked as head coach, with Mauricio Pochettino set to succeed him at Old Trafford.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T14:49:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
       "title": "Russell launches new karting academy for young racers",
@@ -57,6 +527,16 @@
       "published": "2026-11-12T14:22:08+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-manager-crystal-palace-steve-parish-premier-league",
+      "title": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
+      "summary": "A losing run, set-piece struggles and a call for help led Steve Parish to cut ties with the manager after five months The moment that summed up Crystal Palace’s season under Pierre Sage came five minutes before half-time at Selhurst Park on Sunday. After Palace had gone close to taking the lead on numerous occasions against Liverpool, the Frenchman must have feared the worst when Alexis Mac Allister headed in from a soft free-kick conceded by Jefferson Lerma. The TV cameras immediately panned to Steve Parish in the stands. After the Palace chair removed his hands from in front of his eyes, his expression said everything you needed to know. The only surprise was that Sage had to wait until Thursday before his inevitable fate was confirmed . Not since the start of the 2017-18 season, after Frank de Boer was appointed as Palace’s first permanent foreign manager and sacked after five matches, have the club found themselves bottom. In their record 14th consecutive season in the top flight, and with preliminary work having started on building a new £200m main stand despite major doubts over funding, Palace cannot afford to be relegated. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T14:00:42+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
     },
     {
       "url": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
@@ -237,6 +717,26 @@
       "published": "2026-11-12T10:21:29+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
+      "title": "'Overwhelming' - Record-breaker Kane celebrates 'amazing' Wembley night",
+      "summary": "Harry Kane says the reaction to his Ballon d'Or win and record appearance for England has been \"overwhelming\".",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:16:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611419/harry-kane-england-captain-breaks-three-lions-appearance-record-by-winning-126th-senior-cap-vs-croatia-at-wembley",
+      "title": "Kane makes history with record 126th England cap",
+      "summary": "Harry Kane has broken the record for the most senior England caps by a single player in history.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:16:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards",
@@ -4467,6 +4967,16 @@
       "published": "2026-11-05T21:01:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "title": "Russell launches karting initiative for young drivers",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-05T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T23:09:58.090655+00:00"
     },
     {
       "url": "https://www.ufc.com/news/chris-billam-smith-plans-to-avenge-his-younger-self-zuffa-boxing-12",
