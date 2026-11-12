@@ -1,23 +1,443 @@
 {
-  "generated_at": "2026-11-11T23:59:20.811568+00:00",
+  "generated_at": "2026-11-12T14:33:46.078960+00:00",
   "stats": {
-    "total": 499,
+    "total": 542,
     "categories": {
-      "football": 301,
-      "formula1": 109,
-      "ufc": 89
+      "football": 330,
+      "formula1": 116,
+      "ufc": 96
     },
     "priorities": {
-      "HIGH": 170,
-      "LOW": 280,
-      "MEDIUM": 49
+      "HIGH": 183,
+      "LOW": 308,
+      "MEDIUM": 51
     },
     "sources": 8,
-    "last_scan": "2026-11-11T23:59:19.392579+00:00",
-    "last_scan_new": 45,
+    "last_scan": "2026-11-12T14:33:44.330980+00:00",
+    "last_scan_new": 43,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
+      "title": "Russell launches new karting academy for young racers",
+      "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/analysis-why-racing-bulls-stuck-with-lawson-and-lindblad-for-2027.5qokKr7EMWk8s3SNCSPwC",
+      "title": "Why Racing Bulls stuck with Lawson and Lindblad",
+      "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
+      "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
+      "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+      "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
+      "summary": "⚽️ Head coach departs after one win in 11 games ⚽️ Carrick was latest fall guy for dysfunctional hierarchy ⚽️ Have any thoughts? Email John “ After going through the Moyes season ,” writes Hugh, “the dross football of Mourinho and Van Gaal, the moments-years of Solskjaer, the Rangnick surgery that never was, the middling Ten Hag, the baffling Amorim, and now a decent man thrust into the meat grinder, this is the first year it’s been genuinely hard to watch Man Utd with any emotion. “And it’s not because of the football. It’s that the Glazer ownership and Ratcliffe mismanagement has met the Man City revelations, meaning it’s hard to see the point anymore. £1bn taken out of the club while others were illicitly pumping in roughly the same. A club drained of life, hollowed out … I can take crap football, but I can’t take this anymore.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T14:22:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
+      "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
+      "summary": "Cain Velasquez is one of the greatest heavyweights to ever compete in the sport of mixed martial arts, and the division, the sport — along with the UFC — has changed quite a bit since he last competed. That includes the rapid rise of Josh Hokit, who gets his first crack at UFC gold this […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
+      "title": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
+      "summary": "9 July 1990: The goalkeeper’s 20-year international career ends at the Italia 90 World Cup Harry Kane is expected to break the record for England men’s appearances tonight against Croatia at Wembley in the Nations League, overtaking goalkeeper Peter Shilton’s 125 appearances, a record set nearly four decades ago at the World Cup in Italy . Shilton wore the captain’s armband in his final England appearance in the unloved third-place play-off against Italy in Bari. The Three Lions had previously lost on penalties to West Germany in the semi-finals. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T13:27:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o",
+      "title": "Police investigation into Vigar's death ongoing",
+      "summary": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T13:11:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520485/morning-report-raul-rosas-jr-recounts-terrifying-raoni-barcelos-fight-ending-collapse-i-thought-i-killed-him",
+      "title": "Morning Report | Raul Rosas Jr. recounts terrifying Raoni Barcelos fight-ending collapse: ‘I thought I killed him’",
+      "summary": "Raul Rosas Jr. recently beat Raoni Barcelos to score the biggest win of his career, but the aftermath was a somber one. The UFC Vegas 121 main event ended in chilling fashion with Rosas earning a knockout victory when Barcelos abruptly collapsed during an exchange in the final round. During the ending sequence, Rosas did […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches",
+      "title": "Crystal Palace sack Sage",
+      "summary": "Crystal Palace have sacked manager Pierre Sage after just 16 matches.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T12:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
+      "title": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
+      "summary": "Sage goes after 16 games with club bottom of table He is the favourite to take over at former club Lens Pierre Sage has been sacked as Crystal Palace’s manager after 16 games, with Thomas Frank in advanced talks to succeed him. The Frenchman, appointed in mid-June to replace Oliver Glasner, has gone after Sunday’s 3-1 defeat by Liverpool left his team bottom of the Premier League. Frank, out of work since his dismissal by Spurs in February, has emerged as the main candidate to succeed Sage. He spoke to Palace in the summer and is keen for a new challenge after a successful spell at Brentford. It is hoped that he will take charge before next Saturday’s trip to Coventry. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T12:27:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110",
+      "title": "Russell partners with BRDC to launch karting academy",
+      "summary": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-time grand prix winner launched his GR63 Karting Academy on Thursday with it open to boys and girls aged eight to nine, based at the kart track in Silverstone. It features a “four stage path to the top” and ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-12T12:27:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do",
+      "title": "Crystal Palace sack boss Sage after 16 games",
+      "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T12:23:47+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
+      "title": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
+      "summary": "Disastrous decisions and confused appointments have been a constant theme at Old Trafford since Sir Alex Ferguson’s retirement in 2013 For a window into the alarming dysfunction at Manchester United that Michael Carrick failed to manage and caused his sacking , consider the case of Eddie Howe, initially a favourite to succeed the 45-year-old before Mauricio Pochettino’s emergence as the chosen one. The former Newcastle manager had been Jason Wilcox’s choice to take over from Carrick. Howe was also the favoured candidate of Dan Ashworth, Wilcox’s predecessor as United’s director of football, to follow Erik ten Hag after the Dutchman’s sacking in October 2024. Except Wilcox disagreed and Sir Jim Ratcliffe went with Wilcox’s man, Ruben Amorim, and that December Ashworth departed only five months after joining. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T12:00:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
+      "title": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
+      "summary": "Claire Emslie and Emma Kelly are among those taking advantage of new research and guidelines for pregnant players Claire Emslie wasn’t expecting to be able to run at 81% of her max speed at 32 weeks pregnant. Emslie, a Scotland international who also plays as a forward for Angel City FC , documented her journey through pregnancy and football training on social media and is part of a growing number of professional female footballers who are getting pregnant in their athletic prime and approaching motherhood with a fresh mindset. Rather than marking the end of a career (notably, Millie Bright announced her pregnancy in September, months after having retired), pregnancy can mark both a continuation and a renewal. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T12:00:47+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o",
+      "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+      "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T11:31:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo",
+      "title": "Six matches that defined Carrick's Man Utd tenure",
+      "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T11:25:46+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063",
+      "title": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
+      "summary": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season. They have formed a formidable duo this year having propelled Racing Bulls to fifth in the championship, which is set to be the Anglo-Italian team's best-ever result. Despite sitting on 89 points, however, compared to 38 for rookie Lindblad ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-12T11:06:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+      "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
+      "summary": "Midfielder’s old-school attributes came to the fore during Nottingham Forest’s win against Manchester City Modern football is more systematised and data-driven than ever but some things never change. Winning the first ball is important but the second ball – the holy grail for Sunday league footballers – is often more so. Nottingham Forest’s 3-1 win against Manchester City last weekend featured a classic example. Forest led 2-1 inside the last 20 minutes but City, lifted by Rayan Cherki’s sweet half-volley, were pushing for an equaliser. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T11:00:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610206/racing-bulls-confirm-liam-lawson-and-arvid-lindblad-as-2027-formula-1-driver-line-up",
+      "title": "Racing Bulls confirm 2027 line-up",
+      "summary": "Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will be retained for the 2027 Formula 1 season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-12T11:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years",
+      "title": "How Carrick's reign unravelled",
+      "summary": "Michael Carrick has been sacked as Manchester United head coach , so how did his Old Trafford reign go so wrong, so quickly?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season",
+      "title": "Carrick sacked by Man Utd",
+      "summary": "Michael Carrick has been sacked as Manchester United head coach with Mauricio Pochettino lined up to replace him.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:27:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
+      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+      "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T10:21:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards",
+      "title": "Retaining titles is tough but Arteta's Arsenal are built differently",
+      "summary": "The great basketball coach Phil Jackson is the most successful in NBA history having won 11 championships. Nevertheless, in his famous book Eleven Rings, he is still moved to claim that the year after winning a championship is always the hardest.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/12433/13611406/the-fast-and-the-curious-an-f1-podcast-with-greg-james-betty-glover-and-christian-hewgill",
+      "title": "The Fast and the Curious",
+      "summary": "The Fast and the Curious takes you inside the fascinating world of Formula 1.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-12T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko",
+      "title": "'Unfinished business' - Tuchel committed to England",
+      "summary": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T08:42:47+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo",
+      "title": "Young duo at heart of Nations League's meanest defence",
+      "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T08:17:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+      "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+      "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the 2022 World Cup, when the country finished the race with only two of the final 22 votes. Kozo Tashima was involved then, and now the honorary president of the Japan Football Association is going it alone in the hope of ousting Gianni Infantino. The 68-year-old Tashima is an unlikely insurgent and an unlikely challenger to Infantino. He is, however, a familiar and respected figure in Asian and global football politics, and ready to take the Fifa presidency out of the headlines into a quieter era. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T08:00:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmk9cf",
+      "title": "Podcast: What kind of boss do Aberdeen need & have Hibs turned a corner?",
+      "summary": "Scotland face North Macedonia, Aberdeen seek a manager and Hibs find form.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
+      "title": "Why have Man Utd only had two 'successful' managers?",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvglr2g04d8ko",
+      "title": "Aberdeen speak to seven managerial candidates - gossip",
+      "summary": "Aberdeen speak to managerial candidates and in-form Rangers forward attracts attention from English Championship.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T07:44:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo",
+      "title": "USA withdraw from U17 World Cup",
+      "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T07:44:21+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o",
+      "title": "Robertson set to make history but his hero Dalglish will always be King",
+      "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T07:19:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo",
+      "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+      "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T07:12:41+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo",
+      "title": "How 'Barca way' continues despite big-name exits",
+      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T06:41:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T06:29:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo",
+      "title": "Kane's top 10 England moments - which was your favourite?",
+      "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T06:25:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo",
+      "title": "Wales' James warns of Norwegian revenge in Oslo",
+      "summary": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T04:32:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/one/520504/one-books-flyweight-finishers-for-potential-title-eliminator-in-december",
+      "title": "ONE books flyweight finishers for potential title eliminator in December",
+      "summary": "Flyweight finishers Antonio Cesar and Viet Anh Do will collide over three rounds on Dec. 18 to likely determine the next man in line for the ONE Championship flyweight belt in 2027, ONE confirmed to MMA Fighting. ONE Fight Night 50 will take place at the Lumpinee Stadium in Bangkok, Thailand. Cesar (15-2) enters the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T02:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13",
+      "title": "Fight By Fight Preview | Zuffa Boxing 13",
+      "summary": "Zuffa Boxing Has Arrived In Riyadh, Saudi Arabia, With A World Champion At The Top Of The Card. Here’s Everything You Need To Know. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T01:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/carlos-adames-i-am-here-to-make-history-zuffa-boxing-13",
+      "title": "Carlos Adames: ‘I’m Here To Make History’ | Zuffa Boxing 13",
+      "summary": "Dominican World Champion Carlos Adames Is The Latest Name To Join A Growing Band Of Elite Middleweights In Zuffa Boxing. Now He Wants To Prove He’s The Best Of Them All. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-12T00:59:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520626/deplorable-sht-pros-condemn-usman-nurmagomedov-friends-for-jumping-merab-dvalishvili",
+      "title": "‘Deplorable sh*t’: Pros condemn Usman Nurmagomedov, friends for jumping Merab Dvalishvili",
+      "summary": "Usman Nurmagomedov may be the hottest free agent in combat sports, but he’s also become public enemy No. 1 after his surprise attack on Merab Dvalishvili in Abu Dhabi on Wednesday. The altercation occurred as Dvalishvili was doing an interview and Nurmagomedov approached him before slapping the former UFC bantamweight champion just a split second […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T00:26:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
+      "title": "UFC announcer Jon Anik signs long-term contract extension",
+      "summary": "Jon Anik will be sticking around as the voice of the UFC for the foreseeable future. The UFC announced Wednesday via a press release that Anik, 48, has signed a long-term extension to continue his role as the promotion’s lead play-by-play man. As noted in the release, Anik has worked as a live event commentator […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/i-know-f1-is-serious-but-we-can-still-make-it-fun-ricciardo-reacts-to-his-best-career-moments.NaM7kMUTZmxIzbRrJPoHY",
       "title": "Ricciardo reacts to his best career moments",
@@ -4967,6 +5387,16 @@
       "published": "2025-10-01T11:00:23+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00263v9",
+      "title": "How Wham! turned one song into a cultural phenomenon",
+      "summary": "The story of how Wham! turned one song into a cultural phenomenon.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2024-12-14T21:36:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-12T14:33:44.330980+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/iplayer/episode/b03y76xl",
