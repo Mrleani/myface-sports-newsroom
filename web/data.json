@@ -1,23 +1,503 @@
 {
-  "generated_at": "2026-11-12T23:10:00.230888+00:00",
+  "generated_at": "2026-11-13T13:51:55.403782+00:00",
   "stats": {
-    "total": 593,
+    "total": 647,
     "categories": {
-      "football": 362,
-      "formula1": 121,
-      "ufc": 110
+      "football": 398,
+      "formula1": 127,
+      "ufc": 122
     },
     "priorities": {
-      "HIGH": 199,
-      "LOW": 337,
-      "MEDIUM": 57
+      "HIGH": 214,
+      "LOW": 367,
+      "MEDIUM": 66
     },
     "sources": 8,
-    "last_scan": "2026-11-12T23:09:58.090655+00:00",
-    "last_scan_new": 51,
+    "last_scan": "2026-11-13T13:51:54.623925+00:00",
+    "last_scan_new": 54,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.ufc.com/news/official-weigh-results-polymarket-ufc-334-gane-vs-hokit",
+      "title": "Official Weigh-In Results | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "The Official Weights Of The Athletes Competing November 14 At Madison Square Garden In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
+      "title": "Caio Borralho | Reconnected And Ready For MSG",
+      "summary": "Fighting Nerds Standout Caio Borralho Talks Bounce Back Year For Brazilian Squad, Matchup This Weekend With Yousri Belgaroui Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T16:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/josh-hokits-remarkable-rise-to-polymarket-ufc-334",
+      "title": "Josh Hokit's Remarkable Rise To Polymarket UFC 334",
+      "summary": "Heavyweight Standout Looks To Cap An Incredible First Year In The UFC By Claiming Undisputed Heavyweight Gold At Madison Square Garden On November 14 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
+      "title": "Toto Wolff's journey from Williams to nine F1 titles",
+      "summary": "Discover Toto Wolff's journey from professional racing driver to team boss at Mercedes, where he has overseen nine Constructors' Championships, equalling Sir Frank Williams.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-champion-alisha-palmowski-graduates-to-formula-regional-with-fully-funded-seat.39A1mu7n4LQ3ljJdTyFlhW",
+      "title": "F1 ACADEMY Champion Palmowski graduates to Formula Regional",
+      "summary": "F1 ACADEMY Champion Alisha Palmowski will make the step up to the Formula Regional European Championship (FREC), with F1 ACADEMY and Red Bull Racing announcing she will receive a fully-funded seat with Rodin Motorsport for the 2027 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
+      "title": "Mercedes' incredible history of Formula 1 success",
+      "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
+      "title": "Mauricio Pochettino to Manchester United and record breaker Kane | Football Weekly video",
+      "summary": "Robyn Cowen is joined by Jacob Steinberg, Lars Sivertsen and Paul Watson as Manchester United appoint Mauricio Pochettino as their head coach and Harry Kane becomes the sole leading appearance maker for the England men’s team Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T13:41:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+      "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football – live",
+      "summary": "Pochettino is due to speak later on Friday Today’s fixtures | Follow us on TikTok | Mail Dominic Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the ballon from its stone in Arthurian fashion, then held it a little sheepishly in one hand. Prince William walked out and gave him a massive framed shirt, which seemed weird in the moment, like the chief area sales manager presenting the prize from the Christmas raffle. Has Prince William ever been asked to carry anything before?” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T13:34:55+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520831/usman-nurmagomedov-7-others-reportedly-sentenced-to-6-months-in-jail-for-attack-on-merab-dvalishvili",
+      "title": "Usman Nurmagomedov, 7 others reportedly sentenced to 6 months in jail for attack on Merab Dvalishvili",
+      "summary": "Eight people were sentenced to prison following Usman Nurmagomedov’s attack on Merab Dvalishvili this past Wednesday in a hotel lobby, The National News reported Friday following a social media post from the Abu Dhabi Judicial Department. Dvalishvili was doing an interview at Yas Hilton when Nurmagomedov and his associates approached him from behind, slapping him […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T13:33:22+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520824/raf-releases-update-on-merab-dvalishvilis-status-following-hotel-brawl-with-usman-nurmagomedov",
+      "title": "RAF releases update on Merab Dvalishvili’s status following hotel brawl with Usman Nurmagomedov",
+      "summary": "Real American Freestyle could be moving forward with Merab Dvalishvili’s match after the former UFC champion was involved in a wild brawl in Abu Dhabi. Dvalishvili is scheduled to wrestle Marlon Moraes at RAF Abu Dhabi this Saturday, but his fight week began with him being ambushed and left bruised and bloodied by a group […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T13:28:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520225/morning-report-daniel-cormier-condemns-usman-nurmagomedovs-attack-on-merab-dvalishvili",
+      "title": "Morning Report: Daniel Cormier condemns Usman Nurmagomedov’s attack on Merab Dvalishvili",
+      "summary": "Daniel Cormier does not condone Usman Nurmagomedov’s behavior. On Wednesday, Usman Nurmagomedov made headlines when he attacked Merab Dvalishvili after running into him before RAF Abu Dhabi, leading to a brawl that left Dvalishvili bloodied. The attack quickly earned immense backlash from most of the MMA community, including from teammate Daniel Cormier. Cormier has known […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o",
+      "title": "Odegaard backing Norway to avenge Wales defeat",
+      "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T12:43:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo",
+      "title": "Missing Israel games 'stressful' for captain Collins",
+      "summary": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T12:26:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko",
+      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T12:09:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
+      "title": "Man Utd appoint Pochettino as head coach",
+      "summary": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610560/arsenal-vs-london-city-lionesses-have-renee-slegers-side-lost-the-fear-factor-of-playing-at-the-emirates-stadium",
+      "title": "How do Arsenal rediscover the 'fear factor' at the Emirates?",
+      "summary": "When Arsenal don't win at the Emirates Stadium, it's a big deal. But after four attempts, Renee Slegers' side are still yet to win at home in the Women's Super League. That's a crisis.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march",
+      "title": "Who could England face in Nations League quarter-finals?",
+      "summary": "England have sealed their place in the Nations League quarter-finals after beating Croatia at Wembley - but who will they play in the last eight in March?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T11:56:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611861/birmingham-lead-middlesbroughs-will-lankshear-reliance-west-ham-need-scott-parker-spark-championship-talking-points",
+      "title": "Birmingham lead & Boro's Lankshear reliance - Championship talking points",
+      "summary": "We are a third of the way through the Championship season!",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T11:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo",
+      "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
+      "summary": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T10:49:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265",
+      "title": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+      "summary": "Mercedes mechanics have learned to watch their backs. Not because of the dangers of a pitstop, but because of Kimi Antonelli. Formula 1's newly crowned world champion has a rather unusual habit. He approaches members of his crew, greets them and, when they least expect it, gives their nipples a pinch - so nobody appears to be safe! It is just one of the many practical jokes through which the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-13T10:04:48+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo",
+      "title": "The club preparing to play again after the death of a player",
+      "summary": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T10:00:46+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo",
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T09:55:01+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611487/do-chelsea-go-into-this-weekends-top-of-the-table-wsl-clash-with-manchester-city-as-underdogs",
+      "title": "In a clash of the top two, should Chelsea be considered underdogs?",
+      "summary": "To consider Chelsea as underdogs in domestic competition feels alien. To a club so endowed with silverware and success over such a long period, it's like a dirty word. Something reserved for opponents, not them.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611021/chelsea-vs-man-city-mary-fowler-reveals-her-sides-latest-evolution-as-we-ask-are-city-more-dangerous-than-ever",
+      "title": "Man City are 'messier', but are they more dangerous than ever?",
+      "summary": "Trying to find a chink in Manchester City's armour is like looking for a needle in a haystack. If it does exist, it's barely detectable. Andree Jeglertz's impact has been profound in that sense.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo",
+      "title": "Beckham to be inducted into US Soccer Hall of Fame",
+      "summary": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T08:22:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o",
+      "title": "Who makes your Northern Ireland XI against Ukraine?",
+      "summary": "Ahead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T08:21:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo",
+      "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+      "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T08:13:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo",
+      "title": "How do you stop Haaland? Wales show how it's done",
+      "summary": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T08:05:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
+      "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
+      "summary": "Football and the art world have long remained distant but the breadth of entries for this year’s award revivals a healthy revival It may be the Beautiful Game, but in its early decades football was a rare subject for artists. The Italian Futurist Umberto Boccioni whirled an athlete’s body into a vortex of movement in his 1913 painting Dynamism of a Soccer Player . You can see one of the earliest fine art depictions of a match – a smoggy, factory-adjactent scene called Any Wintry Afternoon in England – at the Manchester Art Gallery. If 1930s abstraction is more your thing, you can enjoy decoding the geometric shapes in Kazimir Malevich’s Painterly Realism of a Football Player – Color Masses in the 4th Dimension. I’m guessing the small green pea shape is a ball. These, in any case, were exceptions. In 1953 the Football Association launched an art prize, backed by the newly formed Arts Council: the winning works included Going To The Match by LS Lowry, with its crowds flocking to Bolton Wanderers’ then home ground, Burnden Park. An exhibition of the submissions, Football and The Fine Arts, toured the country and the FA secretary, Sir Stanley Rous, said he hoped it would finally break ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T08:00:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmryl6",
+      "title": "Podcast: Domination from start to finish required as Scots face North Macedonia",
+      "summary": "Scotland v North Macedonia preview",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T08:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no",
+      "title": "Hayen on shortlist for Aberdeen job - gossip",
+      "summary": "New name in frame for Aberdeen job as Scotland head coach Sebastien Pocognoli attempts to increase player pool.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T07:48:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611803/cole-palmer-its-a-lie-chelsea-forward-does-not-want-to-play-for-england-says-team-mate-morgan-rogers",
+      "title": "'It's a lie!' - Palmer wants to play for England, says Rogers",
+      "summary": "Morgan Rogers says it is a \"lie\" that his Chelsea team-mate Cole Palmer does not want to play for England.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T07:46:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o",
+      "title": "How big a problem is central defence for Pocognoli?",
+      "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T07:23:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13",
+      "title": "Official Weigh-In Results | Zuffa Boxing 13",
+      "summary": "The Official Weights Of The Athletes Competing Saturday, November 14, In Riyadh Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T07:20:48+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
+      "title": "Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
+      "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that team Among the 20 managers with more than 290 matches in the Premier League, only the five “ big beasts ” of Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola have better points-per-game averages than Mauricio Pochettino. He is an elite manager. Pochettino took over Southampton midway through their first season back in the top flight (2012-13) after the club spent seven years in the lower leagues. In his only full campaign, they finished eighth. He led Tottenham to second in 2016-17, third in the seasons either side, and reached the 2019 Champions League final . His presence lifted those clubs. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T07:00:12+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "summary": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T06:57:25+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T06:42:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13480555/f1-lando-norris-becomes-the-2025-f1-world-champion",
+      "title": "Happy birthday Lando! Relive the moment he became F1 world champion last year!",
+      "summary": "As Lando Norris celebrates turning 27, relive the moment he became Formula One world champion in 2025.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-13T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
+      "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
+      "summary": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-13T06:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520726/no-bets-barred-can-josh-hokit-upset-ciryl-gane-and-complete-one-of-the-fastest-rises-in-ufc-history",
+      "title": "No Bets Barred | Can Josh Hokit upset Ciryl Gane and complete one of the fastest rises in UFC History?",
+      "summary": "The UFC is headed back to Madison Square Garden. On Saturday in New York City, the UFC returns to the world’s most famous arena for UFC 334, headlined by a heavyweight title fight between newly minted champion Ciryl Gane and rising contender Josh Hokit. In the co-main event, women’s bantamweight champion Kayla Harrison finally settles […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T01:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520760/hows-your-mom-doing-josh-hokit-takes-aim-at-ciryl-gane-flips-off-alex-pereira-ahead-of-ufc-334",
+      "title": "‘How’s your mom doing?’: Josh Hokit takes aim at Ciryl Gane, flips off Alex Pereira ahead of UFC 334",
+      "summary": "Josh Hokit may not be everybody’s favorite but he certainly had the crowd on his side at the UFC 334 pre-fight press conference. Wearing goggles, a pad on his neck and a protective cup, Hokit ratcheted up his trash talk with a very receptive New York crowd behind him. While he’s the challenger heading into […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T01:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520756/what-a-bunch-of-fcking-idiots-dana-white-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili",
+      "title": "‘What a bunch of f*cking idiots’: Dana White reacts to Usman Nurmagomedov attacking Merab Dvalishvili",
+      "summary": "Dana White sees no place for fighters getting into brawls outside the cage and that includes Usman Nurmagomedov attacking Merab Dvalishvili ahead of RAF Abu Dhabi on Saturday. The melee unfolded on Tuesday after videos surfaced showing Dvalishvili doing an interview and Nurmagomedov approaching him before unleashing a slap that set up a massive brawl […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T00:28:40+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520751/josh-hokit-wears-goggles-to-his-faceoff-with-ciryl-gane-ahead-of-ufc-334",
+      "title": "Josh Hokit wears goggles to his faceoff with Ciryl Gane ahead of UFC 334",
+      "summary": "Josh Hokit was in rare form during the UFC 334 pre-fight press conference on Thursday, including his outfit that featured a pair of goggles and an athletic cup as he prepares to face Ciryl Gane in the main event. Of course both props were taking aim at Gane’s history with fouls — in particular the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T00:13:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
+      "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
+      "summary": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology known as semantic satiation. Subjects are asked to repeat a word or phrase so many times that it loses any kind of meaning. Suddenly “daffodils” is just an absurd, empty set of sounds. So it was in the buildup to Harry Kane’s record-breaking 126th cap, at the end of Harry Kane Ballon d’Or fortnight, as Harry Kane’s England were led out by top scorer Harry Kane, climax to a week of Harry Kane tributes, Harry Kane montages, 26-page Harry Kane … wait. Where were we? This was that kind of occasion from start to finish, a night where you expected to look up from your desk mid-match to see Kane’s head looming helpfully over your shoulder, to enter the Wembley toilets at half-time and find him silently offering you a breath mint and a scented tissue. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T00:01:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13611751/england-vs-croatia-england-player-ratings-as-tuchels-reach-the-nations-league-quarters-finals",
+      "title": "England player ratings: Who impressed and who struggled in Croatia win?",
+      "summary": "David Reed and Pete Smith deliver their England player ratings following the Three Lions’ 2-1 victory over Croatia, as Harry Kane makes history on a record-breaking night and England secure their place in the Nations League quarter-finals.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T23:53:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "summary": "Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T23:39:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn",
+      "title": "Football Daily",
+      "summary": "Harry Kane becomes the most-capped England men's player in history.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T23:37:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+      "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+      "summary": "Forward springs to defence of Chelsea teammate ‘He wanted to come and represent his country’ Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are “a lie”. Palmer, who was left out of the squad for this week’s Nations League ties against Croatia and Spain, has faced questions over his desire to play international football since withdrawing from last month’s camp with a groin injury. Thomas Tuchel, who did not take the 24-year-old to last summer’s World Cup, expressed irritation at the time, saying the Chelsea attacker “misses too many opportunities” to play for his country. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T23:17:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
       "title": "Why the F1 driver market might produce one last twist",
@@ -47,6 +527,16 @@
       "published": null,
       "priority": "LOW",
       "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo",
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-12T23:09:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
@@ -87,6 +577,16 @@
       "published": "2026-11-12T22:04:10+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520720/ufc-334-press-conference-video",
+      "title": "UFC 334 press conference video",
+      "summary": "The UFC 334 pre-fight press conference goes down on Thursday starting at 6 p.m. ET/ 3 p.m. PT with the main card athletes all joining the stage. In the main event, Ciryl Gane makes the first defense of his undisputed heavyweight title as he takes on the always outspoken Josh Hokit. Any time Hokit appears […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-12T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
@@ -227,6 +727,16 @@
       "published": "2026-11-12T19:40:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-12T23:09:58.090655+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
+      "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+      "summary": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it’s hard to know who could be in the chair next Sign up for our free newsletter here Even before the 2026 World Cup, the US Soccer Federation projected an air of confidence in its ability to, someday, replace Mauricio Pochettino. “We have a process of, on a regular basis, always reviewing sort of succession planning for all of our key roles at US Soccer,” JT Batson, the federation CEO, told ESPN in April . “We’re ready when anything happens, whether it’s CFO, whether it’s a head coach or anything in between.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-12T19:20:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
       "url": "https://www.ufc.com/news/gerome-warburton-wants-to-spoil-the-party-zuffa-boxing-13",
@@ -489,6 +999,16 @@
       "first_seen": "2026-11-12T23:09:58.090655+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13611886/gary-neville-mauricio-pochettino-needs-control-of-manchester-united-recruitment",
+      "title": "Neville: Pochettino needs control of Man Utd recruitment",
+      "summary": "Sky Sports' Gary Neville says it will be key for Mauricio Pochettino to take a leading role in Manchester United's recruitment plans for the upcoming transfer window and beyond if he is to achieve success at Old Trafford.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T14:49:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
       "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
       "title": "Russell launches new karting academy for young racers",
       "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
@@ -687,6 +1207,16 @@
       "published": "2026-11-12T11:00:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
+      "title": "What does a Pochettino team look like?",
+      "summary": "Mauricio Pochettino has been named Manchester United's new manager following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T10:59:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years",
@@ -1317,6 +1847,16 @@
       "published": "2026-11-11T15:29:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-11T23:59:19.392579+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "title": "EFL latest: Boro pair Hellberg and Lankshear win October awards",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-11T15:22:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
       "url": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
