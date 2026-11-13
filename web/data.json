@@ -1,23 +1,343 @@
 {
-  "generated_at": "2026-11-13T13:51:55.403782+00:00",
+  "generated_at": "2026-11-13T23:12:21.112269+00:00",
   "stats": {
-    "total": 647,
+    "total": 703,
     "categories": {
-      "football": 398,
-      "formula1": 127,
-      "ufc": 122
+      "football": 428,
+      "formula1": 132,
+      "ufc": 143
     },
     "priorities": {
-      "HIGH": 214,
-      "LOW": 367,
-      "MEDIUM": 66
+      "HIGH": 231,
+      "LOW": 396,
+      "MEDIUM": 76
     },
     "sources": 8,
-    "last_scan": "2026-11-13T13:51:54.623925+00:00",
-    "last_scan_new": 54,
+    "last_scan": "2026-11-13T23:12:19.597348+00:00",
+    "last_scan_new": 56,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-15T02:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-14T22:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
+      "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-14T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-extra-gear-liam-lawsons-top-six-hopes-examined-after-securing-new-racing-bulls-deal.4FuO5PyKE8vCtfqm1OyxrJ",
+      "title": "Lawson's top-six hopes after new Racing Bulls deal",
+      "summary": "Liam Lawson's future at Racing Bulls has been decided, but how far is he from breaking into the top-six betting markets?",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/exclusive-piastri-on-taming-the-mcl40-redefining-success-and-why-a-tough-2026-could-make-him-stronger.qz9mVgFRNxNey7waRfq83",
+      "title": "Piastri on his tough 2026 and why it could make him stronger",
+      "summary": "McLaren's Oscar Piastri opens up about his difficulties in 2026 and why he hopes he can be better for them.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05",
+      "title": "Antonelli names his biggest threat for 2027 title defence",
+      "summary": "Kimi Antonelli has outlined his expectations for the competitive picture in 2027 – his first season as reigning World Champion.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
+      "title": "Why are F1 drivers obsessed with padel?",
+      "summary": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to embrace the sport through a new racket collection.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o",
+      "title": "Ferguson 'made up' with first win as Glentoran boss",
+      "summary": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:54:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:53:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+      "title": "Papers: Man Utd eyeing move for Como star Paz",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T22:51:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:37:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo",
+      "title": "'If that penalty is given against you, you're furious'",
+      "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:34:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
+      "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
+      "summary": "Carlos Prates and Michael Morales are already champing at the bit to fight. On Jan. 30, Prates and Morales fight each other for the interim welterweight title in the co-main event of UFC 336 at Scotiabank Arena in Toronto. Both men want their shot at undisputed champion Islam Makhachev, but they’re gonna have to fight […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T22:22:33+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+      "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
+      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves him level with Kenny Dalglish in the all-time Scottish list. Robertson will soon be a record holder. This was, however, John McGinn’s night. A double from McGinn, the second a penalty, spared Scottish blushes against a North Macedonia team who threatened to administer red faces to those in navy blue. This proved an almighty struggle for Scotland. Questions – and plenty of them – surround whether or not Sébastien Pocognoli can build on the excellent work of his predecessor Steve Clarke. For now, Scotland are a tough watch. Pocognoli looks tactically inflexible and this is not the new dawn many predicted. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T22:16:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:11:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo",
+      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+      "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T22:05:14+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+      "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+      "summary": "FC Andorra goalkeeper collided with De Miguel Owono: ‘I feel immense pain over the loss of Jesús’ The FC Andorra goalkeeper Jesús Owono was suspended for 12 matches by the Spanish football federation’s disciplinary committee on Friday after his challenge on Jesús de Miguel resulted in the death of the Tenerife striker last week. Owono, an Equatorial Guinea international, was sent off in the second division match on 2 November after racing into midfield and colliding with De Miguel while trying to clear an aerial ball. After the collision, De Miguel, 30, was placed in intensive care in hospital and the Spanish forward died on 3 November. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T22:04:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520982/ufc-334-preview-show-has-josh-hokit-gotten-over-with-fans-ahead-of-his-fight-with-ciryl-gane",
+      "title": "UFC 334 Preview Show: Has Josh Hokit gotten over with fans ahead of his fight with Ciryl Gane?",
+      "summary": "Josh Hokit is on a historic rise up the heavyweight ranks, but can Ciryl Gane stop him and solidify his new title? On Saturday, UFC 334 takes place at Madison Square Garden in New York City, headlined by a heavyweight title between Gane and Hokit, with both men looking to become the face of the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T22:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/england-u21-vs-portugal-u21/report/578797",
+      "title": "Dowman breaks record after making England U21s debut in loss to Portugal",
+      "summary": "Max Dowman broke Jude Bellingham's record to become the youngest player to represent England at U21 level but could not stop Lee Carsley's side from falling to a 1-0 loss against Portugal.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098",
+      "title": "McGinn double seals win for ragged Scotland",
+      "summary": "John McGinn's double rescued Scotland as they toiled to a 2-1 win over North Macedonia to keep their Nations League promotion hopes alive.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T21:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520942/ufc-335-and-ufc-336-press-conference-video",
+      "title": "UFC 335 and UFC 336 press conference video",
+      "summary": "Ahead of UFC 334 ceremonial weigh-ins Friday, a press conference is being held in New York for the stars of the upcoming UFC 335 and UFC 336 events. Watch a live stream above beginning at 4 p.m. ET. Flyweight champion Joshua Van, “BMF” champion Charles Oliveira, and former two-division champion Alex Pereira will take the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T20:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520949/mike-perry-re-signs-with-ufc",
+      "title": "Mike Perry re-signs with UFC",
+      "summary": "Mike Perry is returning to the UFC octagon. “Platinum” officially announced that he’s re-signed with the UFC on Friday. Perry hasn’t competed for the promotion since losing a unanimous decision to Daniel Rodriguez at UFC Vegas 23 in April 2021. Check out the official announcement below. Since parting ways with the UFC, Perry became the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T20:02:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13",
+      "title": "Andres Teran: Respect The Power | Zuffa Boxing 13",
+      "summary": "Mexican Bantamweight Andres Teran Has Demonstrated His Fight-Altering Punch Power. Now He Plans To Add A Former World Champion’s Name To His Resumé. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo",
+      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+      "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T19:59:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13",
+      "title": "Jason Moloney Is Plotting His Route Back To A World Title | Zuffa Boxing 13",
+      "summary": "Australia’s Former Bantamweight World Champion Jason Moloney Is Eyeing A Route Back To Championship Glory With Zuffa Boxing. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T19:58:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/pfl/520659/vadim-nemkov-sees-really-good-chance-fedor-emelianenko-beats-francis-ngannou-in-boxing",
+      "title": "Vadim Nemkov sees ‘really good’ chance Fedor Emelianenko beats Francis Ngannou in boxing",
+      "summary": "PFL heavyweight champion Vadim Nemkov is confident his mentor Fedor Emelianenko still has enough left in the tank to give former PFL star Francis Ngannou a go in the boxing ring. Emelianenko hasn’t fought in nearly four years, when he lost to Ryan Bader for the Bellator championship. The PRIDE legend is now 50 years […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T19:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo",
+      "title": "Ronaldinho, 46, to play first game since 2015",
+      "summary": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T19:12:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/thotmas-tuchel-england-anti-racism-protocols-spain-nations-league",
+      "title": "Tuchel to remind England players of anti-racism protocols before game in Spain",
+      "summary": "England visit Madrid for first time since fan abuse in 2004 ‘We had the same discussion before the Serbia game’ Thomas Tuchel will remind his ­England players of the anti-racism protocols as they prepare to play Spain in Madrid for the first time since the notorious meeting between the countries in 2004. Spain won 1-0 at the Bernabéu but the occasion was ruined by racist abuse directed at England’s black players from the stands. England have since played three games in Spain, although they refused to return to Madrid for the first of them in 2009. The match was moved to Seville. There were no ­problems in any of the three; the second was in Alicante in 2015, the third back in Seville in 2018. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T19:00:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
+      "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
+      "summary": "Manager calls Sunday’s Nations League decider a ‘final’ as preparations for Euro 2028 ratchet up a level Proof of concept. It is Thomas Tuchel’s latest buzz phrase. The England manager has dropped it into the conversation pretty regularly since the Friday of last week when he named his squad for this international window, the one that was always going to decide whether his team finished first or second in their Nations League group. By it, Tuchel means a test of his methods, what he is trying to build – or, more accurately, fine-tune – as he turns his gaze towards Euro 2028 and tries to move on from the devastation of the World Cup semi-final exit against Argentina . The test does not come any bigger than the one which faces him and his players in Madrid on Sunday night. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T19:00:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520837/tommy-mcmillen-releases-first-statement-since-reported-possible-overdose",
+      "title": "Tommy McMillen releases first statement since reported possible overdose",
+      "summary": "Tommy McMillen is already focusing on his next fight following a scary report that the popular UFC prospect was reportedly hospitalized due to a drug overdose. On Thursday, TMZ reported that McMillen was taken to a hospital Sunday after officers responded to call at a nightclub in Scottsdale, Ariz. The 28-year-old featherweight was reportedly found […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T19:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo",
+      "title": "EFL warns clubs over social media posts",
+      "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T18:20:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo",
+      "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
+      "summary": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T18:14:32+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
     {
       "url": "https://www.ufc.com/news/official-weigh-results-polymarket-ufc-334-gane-vs-hokit",
       "title": "Official Weigh-In Results | Polymarket UFC 334: Gane vs Hokit",
@@ -27,6 +347,116 @@
       "published": "2026-11-13T18:00:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov",
+      "title": "UFC Returns To Saudi Arabia With A Middleweight Showdown Between (#9) Israel 'The Last Stylebender' Adesanya And (#15) Shara 'Bullet' Magomedov",
+      "summary": "Tickets For UFC Fight Night Adesanya vs Magomedov Are On Sale Now Via Webook Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T18:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520723/matt-brown-stephen-wonderboy-thompson-recount-epic-fight-and-sharing-an-ambulance-afterwards",
+      "title": "Matt Brown, Stephen ‘Wonderboy’ Thompson recount epic fight and sharing an ambulance afterwards",
+      "summary": "Matt Brown was already an 11-fight UFC veteran when he got the call to face Stephen “Wonderboy” Thompson in his second appearance in the octagon. At the time, Thompson was a highly touted prospect with an undefeated record across his combat sports career and he got even more attention after delivering a brutal knockout in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/520904/jake-paul-vs-cedric-doumbe-co-main-event-revealed",
+      "title": "Jake Paul vs. Cedric Doumbe co-main event revealed",
+      "summary": "A third fight has been added to the Christmas Eve boxing event headlined by Jake Paul and Cedric Doumbe. Most Valuable Promotions announced on Friday that the co-main event for the Dec. 24 card in Dubai is a unified super welterweight championship rematch between Chantelle Cameron and Mikaela Mayer. The bout is slated to be […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T17:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/the-surprising-convergence-behind-f1s-increasingly-competitive-2026-season/10874375",
+      "title": "The surprising convergence behind F1's increasingly competitive 2026 season",
+      "summary": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the paddock. With this season the first year of all-new regulations, both on the chassis and power unit side, there were genuine fears of a 2014 repeat, with Mercedes out in front and the competition fighting over ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-13T17:14:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/new-josh-hokit-merch-now-available-ufc-store",
+      "title": "New Josh Hokit Merch Now Available at UFC Store",
+      "summary": "New Fan Gear Styles Just Dropped Ahead of Hokit's UFC 334 Championship Bout Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T17:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "title": "How To Watch Zuffa Boxing",
+      "summary": "See Where You Can Catch Zuffa Boxing Events From Your Country Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520878/merab-dvalishvili-still-competing-at-raf-abu-dhabi-saba-lazishvili-also-added-to-card-after-usman-nurmagomedov-attack",
+      "title": "Merab Dvalishvili still competing at RAF Abu Dhabi, Saba Lazishvili also added to card after Usman Nurmagomedov attack",
+      "summary": "Merab Dvalishvili will compete at RAF Abu Dhabi. The former UFC bantamweight champion was attacked earlier in the week by Usman Nurmagomedov and several members of his team. Despite being bloodied up, and being detained for around 48 hours, Dvalishvili made the choice to still face Marlon Moraes on Saturday’s wrestling event at Etihad Arena. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T17:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520891/ufc-334-weigh-in-results-1-fighter-misses-weight-by-over-4-pounds-championship-bouts-set",
+      "title": "UFC 334 weigh-in results: 1 fighter misses weight by over 4 pounds, championship bouts set",
+      "summary": "Terrance McKinney is lucky to still be fighting at UFC 334. Saturday’s event is headlined by a pair of title fights featuring Ciryl Gane and Josh Hokit, and Kayla Harrison and Amanda Nunes, but McKinney caused a stir at Friday’s official weigh-ins for the wrong reasons. The all-action lightweight registered at 160.2 pounds on the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T16:55:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "summary": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochettino is famously emotional, and nobody in attendance had to wait long for the waterworks – they came during his introductory remarks, as he thanked the US Soccer executives flanking him for the opportunity to guide the US men. He grew emotional again as he addressed his impending departure for Manchester United, one announced just hours earlier. “I think [the decision was],” Pochettino said, pausing to compose himself, “one of the most difficult decisions of our careers. Thank you guys. Thank you so much.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T16:53:14+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/nov/13/rugby-league-world-cup-finals-atp-and-wta-tennis-plus-wsl-follow-with-us",
+      "title": "Rugby League World Cup finals, ATP and WTA tennis, plus WSL – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T16:42:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo",
+      "title": "'Memories flood back' - Rochdale & York meet again after title drama",
+      "summary": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T16:39:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
       "url": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
@@ -39,6 +469,46 @@
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
     },
     {
+      "url": "https://www.ufc.com/news/legacy-stake-kayla-harrison-vs-amanda-nunes-polymarket-ufc-334",
+      "title": "Legacy At Stake | Kayla Harrison vs Amanda Nunes",
+      "summary": "It Doesn’t Get Better Than Kayla Harrison And Amanda Nunes Finally Stepping Into The Octagon With Gold On The Line At Polymarket UFC 334: Gane vs Hokit On November 14 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T16:18:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4",
+      "title": "Football Daily",
+      "summary": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T16:05:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
+      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
+      "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line up with his England teammates for a match against Spain. But the footballer has been hitting the headlines way beyond the pitch recently – thanks to fronting a Calvin Klein underwear ad released this month, and becoming the first footballer to appear solo on the cover of British Vogue . It’s a savvy move for the 23-year-old, future-proofing himself as a power player both on and off the pitch. This is a roadmap carved out by David Beckham, who since retiring in 2013 has become a brand and personality that transcends sport. Beckham – together with his wife, Victoria – became a billionaire this year. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T16:03:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/yousri-belgaroui-fine-tuned-best-polymarket-ufc-334",
+      "title": "Yousri Belgaroui | Fine-Tuned By The Best",
+      "summary": "Having Been Trained By The Best In Two Sports, Former Kickboxing Ace Yousri Belgaroui Says He Has The Tools To Break Into The Middleweight Elite Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T16:01:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
       "url": "https://www.ufc.com/news/josh-hokits-remarkable-rise-to-polymarket-ufc-334",
       "title": "Josh Hokit's Remarkable Rise To Polymarket UFC 334",
       "summary": "Heavyweight Standout Looks To Cap An Incredible First Year In The UFC By Claiming Undisputed Heavyweight Gold At Madison Square Garden On November 14 Read the Full Article Here",
@@ -47,6 +517,66 @@
       "published": "2026-11-13T16:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
+      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-13T15:28:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
+      "title": "Football Daily | Taking a brief minute to remember Pierre Sage’s impact at Crystal Palace",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! So farewell then, Pierre Sage . Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from another team’s managerial circus, but such was Sage’s fate . The news section of Crystal Palace’s website helpfully tells you the amount of time it might take you to read each story it links through to. For example it should take four minutes or so to get through Tuesday’s “On this day: five big Crystal Palace birthdays”. “England: I love a knee slide!” will take you five. “Prize draw: be a mascot for our next [Bigger Vase] tie!” is a two-minute job. The statement informing the world of Sage’s exit? One minute. Eighty-three words. By way of illustration, the word “words” was the 84th of this paragraph. Just because the man’s French doesn’t mean his exit should be marked with a shrug. As I have been away at a conference, giving a presentation that the MC described as ‘sobering’, I’ve missed the last few days of football, so I was very sad to read about the passing of the great Danny Kelly . Others are far better placed to give tributes to the great man, but for younger g",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T15:21:47+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/history-heavyweight-title-fights-madison-square-garden",
+      "title": "The History Of Heavyweight Title Fights At Madison Square Garden",
+      "summary": "Before Polymarket UFC 334, We Revisit Some Of The Best Heavyweight Title Fights To Take Place At The World's Most Famous Arena Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-13T15:15:24+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career",
+      "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'",
+      "summary": "An emotional Mauricio Pochettino said that leaving his role with the United States was the \"toughest decision of his career\" but admitted he couldn't turn down the chance to become head coach of Manchester United.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13611928/mauricio-pochettino-left-in-tears-on-leaving-us-job-most-difficult-decision",
+      "title": "Pochettino left in tears on leaving US job - 'Most difficult decision'",
+      "summary": "New Manchester United boss Mauricio Pochettino was very emotional when thanking the US Soccer Federation.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T14:49:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
+      "title": "Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think",
+      "summary": "Neither side have lost in the league yet but a more competitive division should take title race to the wire There was a time when the games between the top three – traditionally Chelsea, Manchester City and Arsenal – were title-deciders. Where every point taken off a title rival was key. Such was the gap in investment and quality between those teams and the rest of the Women’s Super League, it was extremely rare that points would be dropped to teams outside that elite clique. As the WSL has grown in investment, profile and size, that narrative has started to shift a little. The investment gap is still large from the top to the bottom of the league. But increased investment among the best of the rest and even among those teams further down the table, as well as an increase in high-quality coaches with the tactical and technical vision to get more from players, is having an impact. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T14:05:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
@@ -77,6 +607,16 @@
       "published": null,
       "priority": "LOW",
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13611911/from-usa-to-manchester-utd-mauricio-pochettinos-hectic-schedule-explained",
+      "title": "The HECTIC schedule Pochettino will face ahead of new life at Man Utd!",
+      "summary": "Sky Sports's Rob Dorsett explains why the new Manchester United head coach, Mauricio Pochettino, has a VERY busy few days ahead of him.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T13:48:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
@@ -207,6 +747,16 @@
       "published": "2026-11-13T10:49:07+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+      "title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+      "summary": "Emotions are running high after the confirmation of Michael Carrick’s dismissal at Old Trafford. Here are some views from our readers “As a United fan who was around for the early 90s seeing Carrick go is a sad end to a horrible situation. He was the only likable thing about the club … I took my eight-year-old lad to Old Trafford for the Brighton game in the FA Cup in January and I’ve never experienced a more toxic atmosphere at a football ground. The fans deserve better … Better owners, better attitudes, better standards. Nothing will change with the setup of the club today and we are in this macabre holding pattern of failure, hope, anger and disappointment” – Chris “Wilcox, [Berada] and [Jim] Ratcliffe should have fired themselves. They are the common denominator of all this failure. [Mauricio] Pochettino will last 12 months if he’s lucky” – Deb Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T10:45:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
       "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265",
@@ -6387,6 +6937,16 @@
       "published": "2026-08-04T05:17:17+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002p5wm",
+      "title": "Jennifer Lawrence stars in the dystopian sci-fi drama",
+      "summary": "As punishment for a failed rebellion, the 12 districts of Panem must offer up two tributes until only one is left",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-01-01T06:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2025/dec/20/ousmane-dembele-quietly-becomes-the-main-man-after-long-journey-to-the-top",
