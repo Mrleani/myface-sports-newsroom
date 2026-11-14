@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T12:54:54.284066+00:00",
+  "generated_at": "2026-11-14T21:56:21.633242+00:00",
   "stats": {
-    "total": 730,
+    "total": 769,
     "categories": {
-      "football": 444,
-      "formula1": 134,
-      "ufc": 152
+      "football": 471,
+      "formula1": 135,
+      "ufc": 163
     },
     "priorities": {
-      "HIGH": 235,
-      "LOW": 416,
-      "MEDIUM": 79
+      "HIGH": 247,
+      "LOW": 439,
+      "MEDIUM": 83
     },
     "sources": 8,
-    "last_scan": "2026-11-14T12:54:52.433167+00:00",
-    "last_scan_new": 27,
+    "last_scan": "2026-11-14T21:56:19.815368+00:00",
+    "last_scan_new": 39,
     "last_scan_errors": 0
   },
   "articles": [
@@ -49,6 +49,366 @@
       "first_seen": "2026-11-13T23:12:19.597348+00:00"
     },
     {
+      "url": "https://www.formula1.com/en/latest/article/exclusive-button-explains-what-will-keep-alonso-going-as-spaniard-prepares-for-another-year-with-aston-martin.7bxjUs5DZSH18UP0SEqFWD",
+      "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
+      "summary": "2009 F1 World Champion, and Aston Martin Ambassador, Jenson Button details what Fernando Alonso's re-signing means for the team.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo",
+      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+      "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T21:48:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/pfl/521195/pfl-dubai-results-sergei-bilostenniy-upsets-vadim-nemkov-to-win-title-patrick-habirora-shines",
+      "title": "PFL Dubai results: Sergei Bilostenniy upsets Vadim Nemkov to win title, Patrick Habirora shines",
+      "summary": "Sergei Bilostenniy upset Vadim Nemkov to become the PFL heavyweight champion Saturday, beating the Fedor Emelianenko protege in the main event of the PFL Dubai card on Nov. 14. Nemkov was quick to go for the takedown after a missed head kick early in the opening round, wasting no time before reaching full mount and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T21:13:58+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
+      "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
+      "summary": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo",
+      "title": "Spurs held to a draw by Everton in the WSL",
+      "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T20:56:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo",
+      "title": "What Wales need to stay in Nations League top tier",
+      "summary": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T20:52:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo",
+      "title": "'No racism in Spain' – De la Fuente message for Tuchel",
+      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T20:43:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o",
+      "title": "Rice close to signing new Arsenal contract",
+      "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T20:40:35+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
+      "title": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
+      "summary": "Tanzanian scores second-half winner in 2-1 victory Spirit reach fifth NWSL final and third in succession Washington will chase second title at home ground Clara Luvanga scored her second goal of the postseason in the 57th minute, capitalizing on an errant pass as the Washington Spirit reached their fifth NWSL Championship and third straight with a 2-1 semi-final victory over the Utah Royals on Saturday. Luvanga raced on to Nuria Rábano’s ill-advised ball after it rolled past Utah center-back Tatumn Milazzo, then chipped it delicately over the advancing goalkeeper Mandy McGlynn for the winner. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T20:33:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and October in order to return stronger. The Arsenal midfielder believes the break has served its purpose, having produced starring performances against Bayern Munich and Liverpool in recent weeks . He is now ready to hit his best level for England in Sunday’s Nations League showdown against Spain at the Metropolitano Stadium. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T20:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+      "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
+      "summary": "England’s first game in Madrid since racist abuse in 2004 De la Fuente tells Tuchel ‘we’re not racists, none of us’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protocol prior to their meeting at the Metropolitano on Sunday night. This will be the first time the countries play each other in Madrid since some of England’s black players were subjected to racist abuse in a match at the Santiago Bernabéu in 2004 . And although England have returned to Spain three times without incident since then, twice in Seville and once in Alicante, Tuchel was asked on Friday about going back in the buildup to Sunday’s game. The England coach replied that England “will not expect anything [untoward]” but also said: “maybe we take our five minutes to inform the players about the protocol if there is a precedent [in Madrid].” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T20:27:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo",
+      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T20:22:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+      "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleontology? Smithers: Yes, absolutely correct. Magnusson: What’s the name of the directory that lists members of the peerage? Smithers: A study of old fossils. Magnusson: Correct. Who are Len Murray and Sir Geoffrey Howe? Smithers: Burke’s. Magnusson: Correct. What is the difference between a donkey and an ass? Smithers: One’s a trade union leader, the other’s a member of the Cabinet … One of the Two Ronnies’ most celebrated sketches involves a Mastermind contestant whose specialist subject is answering the previous question. History repeats itself: the first time as comedy, the second time as Manchester United, who seem continually to be answering not the question of who would be the best available manager now, but who might have been the best available manager a few years ago. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T20:00:53+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521171/khamzat-chimaev-blanks-chris-weidman-with-tech-fall-victory-in-raf-abu-dhabi-main-event",
+      "title": "Khamzat Chimaev blanks Chris Weidman with tech fall victory in RAF Abu Dhabi main event",
+      "summary": "Khamzat Chimaev put on another dominant performance to blank UFC Hall of Famer Chris Weidman in the RAF Abu Dhabi main event. Originally scheduled to face Colby Covington on Saturday, Chimaev accepted Weidman as a late notice replacement and showed why he’s such a danger on the wrestling mats. Chimaev poured on the offense and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T19:37:22+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/521152/raf-abu-dhabi-results-arman-tsarukyan-makes-quick-work-of-neiman-gracie-with-tech-fall-victory",
+      "title": "RAF Abu Dhabi results: Arman Tsarukyan makes quick work of Neiman Gracie with tech fall victory",
+      "summary": "Arman Tsarukyan needed less than one period to dispatch Neiman Gracie in the RAF Abu Dhabi co-main event. While not surprising, Tsarukyan showed off his skills once again while taking on a much bigger opponent with Gracie struggling to keep any kind of momentum in the match. A takedown from Tsarukyan and several turns just […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T19:24:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o",
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "summary": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T19:23:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/521070/raf-abu-dhabi-live-blog-khamzat-chimaev-vs-chris-weidman",
+      "title": "RAF Abu Dhabi live blog: Khamzat Chimaev vs. Chris Weidman",
+      "summary": "This is the live blog for Khamzat Chimaev vs. Chris Weidman, the light heavyweight crossover championship main event for Saturday’s RAF Abu Dhabi match card at Etihad Arena. Weidman steps in on short notice for the injured Colby Covington. Chimaev still gets to compete for a title despite Covington’s withdrawal as the promotion created a […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T19:17:20+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+      "title": "Clinical Norway dent Wales’ Nations League top-tier hopes with victory in Oslo",
+      "summary": "Home side avenge October defeat in Cardiff Wales bottom of Group A4 with one game left Wales suffered a 3-1 defeat to Norway in Oslo to dent their hopes of staying in the top tier of the Nations League. Antonio Nusa and Andreas Schjelderup struck in the space of nine second-half minutes as Norway turned the screw. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T19:17:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
+      "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
+      "summary": "Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the legacy of Cristiano Ronaldo and ensure the number remains forever associated with their greatest footballing icon. The former forward, whose career spanned 23 years and 246 caps in which he scored 146 goals, announced his retirement on 5 November after a falling out with coach Jorge Jesus. His last appearance for Portugal was on 24 September, in a 1-0 home win over Wales in the Nations League. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T19:13:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521067/raf-abu-dhabi-live-blog-arman-tsarukyan-vs-neiman-gracie",
+      "title": "RAF Abu Dhabi live blog: Arman Tsarukyan vs. Neiman Gracie",
+      "summary": "This is the live blog for Arman Tsarukyan vs. Neiman Gracie, the catchweight co-main event for Saturday’s RAF Abu Dhabi wrestling event at Etihad Arena. Tsarukyan, the current RAF middleweight crossover champion, competes in a non-title match just a few weeks removed from his tech fall championship win over Dillon Danis at RAF 14 in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T19:06:25+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "title": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-14T19:02:39+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/norway-vs-wales/report/554107",
+      "title": "Wales beaten in Norway as threat of Nations League relegation grows",
+      "summary": "Wales suffered a 3-1 defeat to Norway in Oslo despite a spirited performance, as the threat of relegation to the second tier of the Nations League now looms over Craig Bellamy's side.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T19:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
+      "title": "MIDDLEWEIGHT KING AARON MCKENNA DEFENDS CROWN AGAINST JEVGENIJS ALEKSEJEVS in RIYADH SEASON ZUFFA BOXING 14 SHOWDOWN at THE VENUE in RIYADH DECEMBER 4",
+      "summary": "Jack Massey vs Andrew Tabiti cruiserweight co-feature & Zak Chelli vs Jesse Hart Light Heavyweight Bout Highlights Main Card Action Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-14T18:58:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo",
+      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
+      "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T18:55:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/521119/raf-abu-dhabi-results-merab-dvalishvilis-teammate-saba-lazashvili-pulls-off-upset-win-over-urijah-faber",
+      "title": "RAF Abu Dhabi results: Merab Dvalishvili’s teammate Saba Lazashvili pulls off upset win over Urijah Faber",
+      "summary": "It’s been quite a week for Saba Lazashvili. Prior to Wednesday, he was an unknown Georgian wrestler and teammate to Merab Dvalishvili but after backing up the former UFC bantamweight champion when they were attacked by Usman Nurmagomegdov and members of his squad, the 21-year-old has suddenly become a household name. On Saturday, Lazashvili not […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T18:33:08+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo",
+      "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+      "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T18:27:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/pfl/521124/watch-connor-hughes-knock-out-ufc-veteran-with-brutal-combo-at-pfl-dubai",
+      "title": "Watch Connor Hughes knock out UFC veteran with brutal combo at PFL Dubai",
+      "summary": "Connor Hughes made short work of Shem Rock in the final preliminary bout at PFL Dubai, which took place Saturday at the Coca-Cola Arena in the United Arab Emirates. A veteran of nine PFL appearances, Hughes slept Rock with a nasty combination of hooks early in the first round, forcing referee Bryan Miner to call […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T18:14:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521028/ufc-334-paths-to-victory-ciryl-gane-vs-josh-hokit",
+      "title": "UFC 334 Paths to Victory: Ciryl Gane vs. Josh Hokit",
+      "summary": "UFC 334 takes place this Saturday, headlined by a heavyweight title fight between newly minted champion Ciryl Gane and surging upstart Josh Hokit. Gane won an interim belt by beating Alex Pereira at UFC White House, and was later elevated to the undisputed champion after Tom Aspinall had a setback in his recovery. Hokit, meanwhile, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/latest-news/521108/raf-abu-dhabi-video-julianna-pena-falls-by-pin-in-raf-debut-to-diana-avsaragova",
+      "title": "RAF Abu Dhabi video: Julianna Pena falls by pin in RAF debut to Diana Avsaragova",
+      "summary": "Former UFC champion Julianna Pena did not have the debut she wanted at RAF Abu Dhabi. Usually part of the commentary team, Pena finally decided to cross over on the mats but she ultimately suffered a loss by pin to second-time wrestler Diana Avsaragova. The match ended after Avsaragova secured a slick throw to put […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T17:26:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko",
+      "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
+      "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T16:26:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko",
+      "title": "'I just play where the manager tells me to play!' - Walsh",
+      "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T16:17:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
+      "title": "Trafford to start in Spain - but what are Tuchel's other selection issues?",
+      "summary": "Against the best team in the world, Thomas Tuchel's defensive decisions will be key. And he has many to make.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T16:02:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo",
+      "title": "Chelsea go top with 1-0 win against Man City",
+      "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T15:50:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
+      "title": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
+      "summary": "Pragmatic, resolute and gutsy. Sonia Bompastor showed her ruthless side and delivered a tactical masterclass as Chelsea earned a 1-0 win over Manchester City and leapfrogged them at the top of the Women’s Super League. Lucy Bronze credited fellow full-back Katie McCabe with firing Chelsea up pre-match, having told them they “had to be dogs” in the game, and a dogged performance followed. Sandy Baltimore’s stunning strike in added time at the end of the first half was the difference as the west London side nullified the threat of a team that had scored in each of their preceding 21 games in all competitions, inflicting their first loss of the campaign. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T15:36:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go",
+      "title": "Former Stoke City manager Thordarson dies aged 71",
+      "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T15:04:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "summary": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the reins of the program after a disastrous performance at the 2024 Copa América cost his predecessor his job, with the first home World Cup in three decades looming on the horizon. The federation introduced him in New York City, on the 24th floor of a building overlooking the Hudson River. In short order, he was asked about the culture surrounding the program. In his answer, he invoked the four-time World Cup champion US women. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T14:06:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
       "title": "Listen to Off The Ball",
       "summary": "The most petty and ill-informed football show on radio.",
@@ -57,6 +417,16 @@
       "published": "2026-11-14T14:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+      "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+      "summary": "Loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat to Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, but was shown a red card after protesting against Tatsuhiro Sakamoto’s stoppage-time winner on the touchline. The Brazil head coach, Carlo Ancelotti, was also sent off in a fractious ending to the match. Japan went 2-0 up inside 20 minutes through Takefusa Kubo and Keito Nakamura. Vinicius Junior reduced the deficit in the 33rd minute and scored again to drag them level on 75 minutes, before Sakamoto’s controversial late winner. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T13:07:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
@@ -107,6 +477,26 @@
       "published": "2026-11-14T11:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
+      "title": "Big tactical calls and restricting Shaw - How Chelsea got better of Man City",
+      "summary": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T10:54:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
+      "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
+      "summary": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T10:54:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T21:56:19.815368+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o",
