@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T23:12:21.112269+00:00",
+  "generated_at": "2026-11-14T12:54:54.284066+00:00",
   "stats": {
-    "total": 703,
+    "total": 730,
     "categories": {
-      "football": 428,
-      "formula1": 132,
-      "ufc": 143
+      "football": 444,
+      "formula1": 134,
+      "ufc": 152
     },
     "priorities": {
-      "HIGH": 231,
-      "LOW": 396,
-      "MEDIUM": 76
+      "HIGH": 235,
+      "LOW": 416,
+      "MEDIUM": 79
     },
     "sources": 8,
-    "last_scan": "2026-11-13T23:12:19.597348+00:00",
-    "last_scan_new": 56,
+    "last_scan": "2026-11-14T12:54:52.433167+00:00",
+    "last_scan_new": 27,
     "last_scan_errors": 0
   },
   "articles": [
@@ -47,6 +47,256 @@
       "published": "2026-11-14T22:00:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "title": "Listen to Off The Ball",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
+      "title": "Our writers on Antonelli’s title success and what it means",
+      "summary": "After Kimi Antonelli was crowned the 2026 Formula 1 Drivers' World Champion, we asked our writers to give us their take on his achievement.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+      "title": "Chelsea v Manchester City: Women’s Super League – live",
+      "summary": "Updates from 1.30pm (GMT) kick-off at Stamford Bridge Get in touch: email Simon and follow us on BlueSky Team news has landed, and here are the lineups: Chelsea Women: Hampton, Bronze, Buchanan, McCabe, Carpenter, Walsh, Potter, Thompson, Kaptein, Malard, Baltimore. Subs: Peng, Buurman, Nusken, Cuthbert, Bjorn, Las, Hamano, Brown, Beever-Jones. Man City Women: Yamashita, Beney, Rose, Knaak, Wamser, Coffey, Hasegawa, Fowler, Fujino, Hemp, Shaw. Subs: Cumings, Shimizu, Clinton, Mead, Miedema, Casparij, Blindkilde, Lohmann, Prior. Referee: Phoebe Cross. Sonia Bompastor knows Chelsea will need to be “clinical” in their Women’s Super League clash with Manchester City. Saturday’s meeting between the top two takes place at Stamford Bridge and City enter the game as leaders having beaten West Ham 5-0 last weekend. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T12:37:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
+      "title": "PFL Dubai Results: Nemkov vs. Bilostenniy",
+      "summary": "MMA Fighting has PFL Dubai results for the Nemkov vs. Bilostenniy fight card and more from Coca-Cola Arena in Dubai on Saturday morning. In the main event, Nemkov defends his PFL heavyweight title for the first time when he takes on Sergei Bilostennyi, who is coming off of back-to-back knockout wins over Renan Ferreira and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822",
+      "title": "WSL LIVE! Man Utd vs Palace on Sky before Chelsea vs Man City",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T11:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521058/merab-dvalishvili-doesnt-want-to-press-charges-against-usman-nurmagomedov-wants-to-help-him-get-out-of-prison",
+      "title": "Merab Dvalishvili doesn’t want to press charges against Usman Nurmagomedov, wants to help him get out of prison",
+      "summary": "Merab Dvalishvili doesn’t want to make life harder on Usman Nurmagomedov. On Wednesday, Nurmagomedov and a group of his associates attacked Dvalishvili and his friend Saba Lazishvili in the Yas Hotel lobby in Abu Dhabi ahead of RAF Abu Dhabi. The brawl resulted in 10 arrests, including Dvalishvili and Lazishvili, Nurmagomedov and the other five […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o",
+      "title": "'Exciting' Moylan flourishing for club and country",
+      "summary": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T09:59:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo",
+      "title": "NI target challenge of Nations League promotion",
+      "summary": "A win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T09:57:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450",
+      "title": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas",
+      "summary": "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”. The team launched its 2027 front wing concept in Brazil, with team principal Andrea Stella describing it as an improvement for driveability and predictability; McLaren returned to form at Interlagos, with Lando Norris clinching pole ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-14T09:13:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo",
+      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+      "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T09:13:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo",
+      "title": "Who would make your England-Spain combined XI?",
+      "summary": "How many England players do you think would make the Spain team?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T08:57:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo",
+      "title": "Clough's longevity: landmark achievement or indictment on football?",
+      "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T08:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo",
+      "title": "Titz and Clarke on Aberdeen shortlist - gossip",
+      "summary": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T08:28:16+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+      "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+      "summary": "Head coach hits out at ‘lies’ as suggestions of preferential treatment for young star overshadow preparations for England game in Madrid From the London Palladium to Madrid’s Metropolitano, they’re all here. On Sunday night, the footballers who lifted the game’s biggest awards meet again three weeks later and on the field this time, dinner jackets but not a single man left behind. Harry Kane, the Ballon d’Or and Gerd Müller trophy winner. Unai Simón, holder of the Lev Yashin award . Luis de la Fuente , the coach of the year who on Thursday night announced that also joining them will be Lamine Yamal , the kid who lifted the Kopa award as the best young player for the third year running and said he would have preferred Pau Cubarsí to be standing there instead. And, yes, Cubarsí will be there too for the final Nations League group game. At 1.45pm the world and European champions landed back at Madrid’s Barajas airport from Prague, where they had won again, before making their way by bus to their Las Rozas HQ, around the M40 motorway to the north-west of the capital. At about the same time, Lamine Yamal arrived from Barcelona, due in at midday. As was Mikel Oyarzabal , scorer of the wi",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T08:00:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo",
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T07:49:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision",
+      "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+      "summary": "FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of \"excessive force\" which resulted in the death of Tenerife forward Jesus de Miguel.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T07:22:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
+      "title": "RAF Abu Dhabi Results: Khamzat vs. Weidman",
+      "summary": "MMA Fighting has RAF Abu Dhabi results for the Khamzat vs. Weidman match card, live blogs of the top two fights, and more from the Etihad Arena in Abu Dhabi, UAE, on Saturday afternoon. In the main event, former UFC champions Khamzat Chimaev and Chris Weidman square off in a light heavyweight crossover title contest. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T07:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
+      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
+      "summary": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years, Cristiano Ronaldo has been more than the country’s greatest footballer; he has been its defining sporting figure, a symbol of national pride and constant presence in the lives of supporters. After 234 appearances and 146 goals, the No 7 brought that chapter to a close and on Saturday night the team will play their first game without him . The national side are losing more than a great footballer; they are also losing one of the world’s biggest brands. Daniel Sá, the executive director of the Portuguese institute of marketing administration, believes Portugal require reinvention to attract at least some of the millions of viewers who tuned in because of CR7. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-14T06:53:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o",
+      "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+      "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T06:37:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T06:27:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+      "title": "UFC 334 Results: Gane vs. Hokit",
+      "summary": "MMA Fighting has UFC 334 results for the Gane vs. Hokit fight card, live blogs of the entire card, and more from Madison Square Garden in New York City on Saturday night. In the main event, Ciryl Gane tries to defend his UFC heavyweight title and hand undefeated challenger Josh Hokit his first career loss. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T05:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520430/caio-borralho-reveals-conversation-with-alex-pereira-after-booking-ufc-334-fight-with-yousri-belgaroui",
+      "title": "Caio Borralho reveals conversation he had with Alex Pereira after booking UFC 334 fight with Pereira teammate Yousri Belgaroui",
+      "summary": "Caio Borralho fights rising middleweight contender Yousri Belgaroui in the main card portion of UFC 334, which goes down Saturday in New York, and it puts his friend Alex Pereira on the opposite corner at Madison Square Garden. Borralho has trained with “Poatan” multiple times in the past, both in the United States and at […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T03:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520586/kayla-harrison-did-a-lot-of-soul-searching-before-deciding-to-return-from-neck-surgery-and-fight-amanda-nunes-at-ufc-334",
+      "title": "Kayla Harrison did ‘a lot of soul-searching’ before deciding to return from neck surgery and fight Amanda Nunes at UFC 334",
+      "summary": "Kayla Harrison went from being certain that a fight with Amanda Nunes was her destiny to wondering if she would ever fight again at all. For years, fans have clamored to see the former American Top Team training partners step into the cage and the matchup finally happens Saturday when Harrison defends her bantamweight title […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T02:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520929/melquizael-costa-says-jared-gordon-going-to-get-beat-up-bad-at-ufc-334-eyes-fast-turnaround-for-ufc-335",
+      "title": "Melquizael Costa says Jared Gordon ‘going to get beat up bad’ at UFC 334, eyes fast turnaround for UFC 335",
+      "summary": "Melquizael Costa decided to eliminate a rough weight cut going forward with his career and feels confident that his performances at UFC 334 will leave fans “amazed” this Saturday in New York, where he battles Jared Gordon at Madison Square Garden. Costa won six in a row at featherweight before losing a decision to Arnold […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-14T01:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
+      "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
+      "summary": "Florian Wirtz on target in Germany’s 3-1 win in Serbia Tijjani Reijnders hat-trick as Netherlands hammer Greece Germany cruised to a 3-1 win against Serbia in Belgrade on Friday, setting up a crunch encounter with the Netherlands in Berlin on Monday to decide who tops Group A2. In teeming rain in an almost empty stadium, the Germans forced Serbia’s Srdan Babic into an early own goal with Florian Wirtz and debutant Brajan Gruda also scoring. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-13T23:14:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/the-extra-gear-liam-lawsons-top-six-hopes-examined-after-securing-new-racing-bulls-deal.4FuO5PyKE8vCtfqm1OyxrJ",
@@ -87,6 +337,26 @@
       "published": null,
       "priority": "LOW",
       "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521011/josh-hokit-issues-warning-to-ciryl-gane-before-ufc-334-main-event-im-going-to-beat-the-sht-out-of-you",
+      "title": "Josh Hokit issues warning to Ciryl Gane before UFC 334 main event: ‘I’m going to beat the sh*t out of you’",
+      "summary": "Josh Hokit is ready for his title shot. On Saturday, Hokit challenges Ciryl Gane for the heavyweight title in the main event of UFC 334 in New York City. It’s been a miraculous rise up the ranks for Hokit — who just a year ago was fighting his way into the UFC from the Contender […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T23:06:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520744/ufc-334-paths-to-victory-kayla-harrison-vs-amanda-nunes",
+      "title": "UFC 334 Paths to Victory: Kayla Harrison vs. Amanda Nunes",
+      "summary": "UFC 334 takes place this Saturday, featuring a fight that is nearly five years in the making: Kayla Harrison vs. Amanda Nunes. Though Harrison and Nunes were teammates at American Top Team, the two women were looking to set up a superfight back in 2021 when Harrison was first free to leave the PFL. But […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-13T23:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-14T12:54:52.433167+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o",
