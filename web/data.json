@@ -1,23 +1,433 @@
 {
-  "generated_at": "2026-11-15T13:23:11.200338+00:00",
+  "generated_at": "2026-11-15T22:26:10.646753+00:00",
   "stats": {
-    "total": 805,
+    "total": 846,
     "categories": {
-      "football": 491,
-      "formula1": 138,
-      "ufc": 176
+      "football": 522,
+      "formula1": 140,
+      "ufc": 184
     },
     "priorities": {
-      "HIGH": 256,
-      "LOW": 465,
-      "MEDIUM": 84
+      "HIGH": 268,
+      "LOW": 483,
+      "MEDIUM": 95
     },
     "sources": 8,
-    "last_scan": "2026-11-15T13:23:10.549575+00:00",
-    "last_scan_new": 36,
+    "last_scan": "2026-11-15T22:26:08.885315+00:00",
+    "last_scan_new": 41,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
+      "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
+      "summary": "",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU",
+      "title": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph",
+      "summary": "F1 photographer Mark Sutton reflects on capturing Kimi Antonelli's 2026 championship, from the emotional celebrations at Monza to his title triumph in Mexico.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo",
+      "title": "Who swaggered around like he owned the place? Spain v England ratings",
+      "summary": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T22:12:55+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo",
+      "title": "London City earn point in thrilling draw against Arsenal",
+      "summary": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T22:06:41+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521095/ufc-336-gable-steveson-books-matchup-on-joshua-van-vs-manel-kape-fight-card",
+      "title": "UFC 336: Gable Steveson books matchup on Joshua Van vs. Manel Kape fight card",
+      "summary": "Gable Steveson looks to bounce back from his first UFC loss. Multiple people with knowledge of the promotion’s plans confirmed to MMA Fighting that the Olympic gold medalist is set to face Terrance Chatman at UFC 336, which takes place Jan. 30 in Toronto. Connected MMA was first to report the matchup on Instagram. Steveson […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
+      "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
+      "summary": "It was the game to show Thomas Tuchel where his rebooted England team had got to; surely the ultimate test in international football. Spain in Spain. A world champion team who, in Tuchel’s words, had “forgotten how to lose”. Before this Nations League tie, they had been beaten only once in 43 matches – on penalties by Portugal in the final of this competition last year. What England produced for 65 minutes in Madrid was extraordinary. What followed was equally so for very different reasons. And when it was all over, England had the most sensational of victories. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T21:56:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
+      "title": "Ten-man England hold on to claim famous win over Spain",
+      "summary": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T21:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+      "title": "Pocognoli reflects on an experimental start to Scotland reign",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T21:44:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/the-bigger-picture-polymarket-ufc-334",
+      "title": "The Bigger Picture | Polymarket UFC 334",
+      "summary": "Getting A Little Deeper Into What Transpired On Saturday Night At Madison Square Garden Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-15T21:33:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o",
+      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+      "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T20:47:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o",
+      "title": "London City's 'bravery' paying off in top three pursuit",
+      "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T20:03:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521627/call-the-cops-alex-pereira-reacts-to-robbery-in-ciryl-gane-vs-josh-hokit",
+      "title": "‘Call the cops’: Alex Pereira reacts to ‘robbery’ in Ciryl Gane vs. Josh Hokit",
+      "summary": "Josh Hokit came up short in his UFC heavyweight title fight with Ciryl Gane at UFC 334, losing a unanimous decision Saturday night in New York, and Alex Pereira seems to disagree with the result. Pereira, who has a hot rivalry with Hokit, was watching the fight at Madison Square Garden and couldn’t believe when […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o",
+      "title": "Aston Villa beat Birmingham in WSL derby",
+      "summary": "Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T19:47:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo",
+      "title": "Struggling Charlton make WSL history after defeat at West Ham",
+      "summary": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T19:43:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T19:31:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
+      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
+      "summary": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has been his refusal to embrace the term “friendly”. His preferred branding is “unofficial games”. His spin gained a bit of validity on Saturday, in the New York Red Bulls’ “friendly” against Club América, marred by a mass brawl between the sides that resulted in five red cards and a bevy of beverages thrown from the stands. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T19:29:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career",
+      "title": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
+      "summary": "Brazil legend plays first half for Serie C club at age 46 ‘Is this my last one? I don’t know,’ Ronaldinho says Ronaldinho played 45 minutes on his return to professional football in Italy. The 46-year-old Brazil great announced in June that he had signed for the Serie C side Ravenna, 11 years after he appeared to have brought his illustrious career to a close with Fluminense. Five months later, he was in the starting lineup as Ravenna faced their local rivals Forlì. Ronaldinho, wearing the No 10 shirt, entered the stadium to great fanfare, with the 5,000-capacity Stadio Bruno Benelli adding a temporary 1,800-capacity stand – dubbed “R10” – for the occasion. Flares and smoke bombs were let off in the stands while Andrea Bocelli’s Con Te Partiro blasted out of the stadium’s speakers. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T19:20:08+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+      "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+      "summary": "Arsenal’s fifth draw from five home games in the Women’s Super League left them frustrated once again but this was a wholly different story to the previous four, as they played out an entertaining 1-1 draw with a London City Lionesses side inspired by their goalkeeper Mary Earps. Aston Villa, Birmingham, Manchester United and Crystal Palace all came to this stadium for a point, defending resolutely and exposing Arsenal’s inability to break down low blocks, whereas London City came to play and were rewarded with a draw that maintains their six‑point advantage over Arsenal in the race for a European place, and moving within six points of the leaders Chelsea. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T18:53:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13612562/arsenal-1-1-london-city-lionesses-wsl-highlights",
+      "title": "Earps stars as London City frustrate Arsenal to seal point at Emirates",
+      "summary": "Highlights of the Women's Super League match between Arsenal and London City Lionesses.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T18:37:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "title": "Scot Prem latest: Aberdeen appoint ex-Luzern boss Frick as new head coach",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T18:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
+      "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+      "summary": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an inspired Mary Earps denying the Gunners victory.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T18:30:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko",
+      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+      "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T18:27:08+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno",
+      "title": "Children's tournament abandoned for parents' behaviour",
+      "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T18:24:54+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o",
+      "title": "Sule strikes late as Scotland U21s snatch draw against USA",
+      "summary": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T18:11:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13612463/ronaldinho-plays-45-minutes-on-his-debut-for-italian-side-ravenna-at-age-of-46",
+      "title": "Ronaldinho plays 45 mins on return to pro football aged 46",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T18:10:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521580/stephen-wonderboy-thompsons-perfect-ending-to-career-made-joe-rogan-emotional-at-ufc-334-ive-never-seen-that-guy-cry-in-my-life",
+      "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’",
+      "summary": "Stephen Thompson had Joe Rogan choked up at UFC 334. Win or lose Saturday, Thompson had vowed to hang up the gloves and bring an end to his 16-year pro MMA career. The 43-year-old “Wonderboy” got to go out on a high note as he blasted Charles Radtke with a spinning head kick knockout in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o",
+      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+      "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T17:56:57+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/spain-vs-england/live/554117",
+      "title": "Reaction to England's dramatic win in Spain LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T17:45:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13612543/brazil-legend-ronaldinho-involved-in-ravenna-opener-on-debut",
+      "title": "Brazil legend Ronaldinho involved in STUNNING opener on Ravenna debut!",
+      "summary": "Brazil legend Ronaldinho was involved in the build-up to Ravenna's opener on his Serie C debut against Forli - as well as the celebrations!",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T17:39:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo",
+      "title": "AS FAR retain Women's African Champions League title",
+      "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T17:23:45+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go",
+      "title": "Chapecoense air crash survivor wins promotion in final game",
+      "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T17:10:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521591/josh-hokit-releases-statement-following-ufc-334-title-fight-loss-to-ciryl-gane",
+      "title": "Josh Hokit releases statement following UFC 334 title fight loss to Ciryl Gane",
+      "summary": "Josh Hokit isn’t taking his UFC 334 loss lying down. “The Incredible Hok” fought tooth and nail against heavyweight champion Ciryl Gane the main event at Madison Square Garden in New York, but fell short on the scorecards despite a gutsy effort. Shortly after the conclusion of Saturday’s show, Hokit hopped onto to call for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T17:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o",
+      "title": "Tenerife return to action after death of De Miguel",
+      "summary": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T16:38:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo",
+      "title": "Why Northern Ireland won't focus on point they need in Hungary",
+      "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T16:04:45+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521598/dana-white-blasts-the-majority-draw-in-ufc-334-fight-clearly-kevin-holland-won-the-fight",
+      "title": "Dana White blasts the majority draw in UFC 334 clash: ‘Clearly, Kevin Holland won the fight’",
+      "summary": "Kevin Holland is leaving UFC 334 with a majority draw on his record when the vast majority o anybody watching his fight believes he should be walking away with a victory over Uros Medic. That now includes UFC CEO Dana White. The bizarre decision was handed down despite Medic actually getting a point deduction for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T16:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o",
+      "title": "You are Scotland boss Pocognoli - what would you do?",
+      "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T15:58:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521605/kayla-harrison-likes-idea-of-free-money-fight-against-ronda-rousey",
+      "title": "Kayla Harrison likes idea of ‘free money’ fight against Ronda Rousey",
+      "summary": "Kayla Harrison is calling the shots after vanquishing Amanda Nunes at UFC 334, and there’s another legend she’d love to welcome back to the octagon. Following the first successful defense of her bantamweight title Saturday at Madison Square Garden in New York, Harrison spoke to reporters about her next fight, which might not be for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T15:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o",
+      "title": "Club's first match since player's death abandoned because of serious injury",
+      "summary": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T14:06:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521595/dana-white-credits-josh-hokit-for-the-perfect-fight-but-he-still-lost-to-ciryl-gane",
+      "title": "Dana White credits Josh Hokit for the ‘perfect fight’ but he still lost to Ciryl Gane",
+      "summary": "Dana White has openly admitted he’s not the biggest fan of Josh Hokit, or his antics, but even in defeat he praised the always outspoken heavyweight for his performance against Ciryl Gane at UFC 334. A strong start for Hokit eventually gave way to Gane taking over late and that allowed the reigning heavyweight champion […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo",
+      "title": "Bristol Rovers being let down by poor players - Evans",
+      "summary": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T13:55:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno",
+      "title": "Pitch perimeters under review after Vigar death",
+      "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T13:49:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
       "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
