@@ -1,23 +1,303 @@
 {
-  "generated_at": "2026-11-14T21:56:21.633242+00:00",
+  "generated_at": "2026-11-15T13:23:11.200338+00:00",
   "stats": {
-    "total": 769,
+    "total": 805,
     "categories": {
-      "football": 471,
-      "formula1": 135,
-      "ufc": 163
+      "football": 491,
+      "formula1": 138,
+      "ufc": 176
     },
     "priorities": {
-      "HIGH": 247,
-      "LOW": 439,
-      "MEDIUM": 83
+      "HIGH": 256,
+      "LOW": 465,
+      "MEDIUM": 84
     },
     "sources": 8,
-    "last_scan": "2026-11-14T21:56:19.815368+00:00",
-    "last_scan_new": 39,
+    "last_scan": "2026-11-15T13:23:10.549575+00:00",
+    "last_scan_new": 36,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
+      "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
+      "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o",
+      "title": "Branthwaite, Garner and King omitted for Spain game",
+      "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T13:15:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/retaining-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874666",
+      "title": "Retaining Lawson isn't enough – Red Bull must stop treating him like a failure",
+      "summary": "Liam Lawson never failed at Red Bull Racing in 2025. It was Red Bull that failed Liam Lawson. Retaining his services for another year isn't just a logical decision, but perhaps the first sign that the organisation is changing the habits it developed under Helmut Marko. Yet there's perhaps one more step it needs to take to avoid failing Lawson again.– It needs to stop treating its young ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-15T13:08:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521582/jon-jones-celebrates-ciryl-gane-winning-over-josh-hokit-at-ufc-334-same-coaches-different-results",
+      "title": "Jon Jones celebrates Ciryl Gane winning over Josh Hokit at UFC 334: ‘Same coaches, different results’",
+      "summary": "Jon Jones wasted no time celebrating Ciryl Gane’s victory over Josh Hokit in the UFC 334 main event. The former heavyweight champion took to social media and watched the decision as Gane secured the victory to successfully defend his title. Of course, Jones made quick work of Gane when they fought back in 2023 as […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T13:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13612463/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
+      "title": "How to watch Ronaldinho's return today live on Sky!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T12:49:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
+      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
+      "summary": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who have watched Kenny Dalglish only on YouTube, to reputationally place Robertson above the Liverpool hero on the basis of a cap haul that will reach 103 in St Gallen on Monday. Dalglish’s international career ended at 102 and the curious events that meant he missed the 1986 World Cup. There is no requirement to compare a left-back in 2026 to a forward from decades earlier. Dalglish and Robertson are men in different positions in essentially a different sport. Instead, Robertson’s march to the top of the cap pile gives cause to laud his contribution. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T12:00:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o",
+      "title": "Wenger decides not to challenge Fifa chief Infantino",
+      "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T11:28:25+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/dana-white-polymarket-ufc-334-ciryl-gane-josh-hokit-kayla-harrison",
+      "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More",
+      "summary": "Dana White Fielded Questions From The Media At The Polymarket UFC 334 Post-Fight Press Conference In New York City On November 14 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-15T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go",
+      "title": "Celtic have eye on midfielder Ebonog - gossip",
+      "summary": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T10:45:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612415/x-paper-talk",
+      "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T09:47:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874610",
+      "title": "Inside Turkey’s revamp for the return of a modern F1 classic",
+      "summary": "Finding the right balance is often a challenge in modern Formula 1. That applies to the technical regulations: striking a balance between satisfying drivers and purists on the one hand, and delivering the spectacle F1 wants to offer younger fans on the other, with a constant stream of overtaking moves for, let’s say, the TikTok generation. But that balancing act also applies to the calendar ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-15T09:39:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/stephen-wonderboy-thompson-goodbye-to-one-of-the-good-guys",
+      "title": "Stephen “Wonderboy” Thompson: Goodbye To One Of The Good Guys",
+      "summary": "A Fond Farewell To A Welterweight Fixture Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-15T09:11:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521601/ufc-334-post-fight-show-reaction-to-ciryl-ganes-gutsy-win-over-josh-hokit-in-wild-brawl",
+      "title": "UFC 334 post-fight show: Reaction to Ciryl Gane’s gutsy win over Josh Hokit in wild brawl",
+      "summary": "Heading into UFC 334, the thought of Ciryl Gane outlasting Josh Hokit over 25 minutes didn’t seem like a likely outcome — but that’s exactly what happened in the main event of Saturday’s card at Madison Square Garden. Gane retained his heavyweight title after stepping up big in the championship rounds in his first title […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T08:16:13+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
+      "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
+      "summary": "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places “Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap. It turns out dozens of Guardian readers want to pick the brains of a much-loved centre-back who was feted en route to a World Cup semi-final and tormented four years previously by the mercurial genius of Diego Maradona. Did Maradona ever admit to the “Hand of God”? Butcher found himself in the post-match doping-control room alongside his nemesis at the Azteca in 1986. “I tapped my head, then my hand, and then he tapped his head,” Butcher says. “He didn’t admit to it because, if he had, I’d have been right across that room.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T08:00:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
+      "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+      "summary": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road train station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly opposite the site of the old Plough Lane stadium where there are now blocks of flats. There is a memorial to the old Wimbledon FC – a reminder that supporters can often have little say in the running of their club – on the same corner, just up the road from the new Cherry Red Records Stadium. AFC Wimbledon are one of only two majority fan-owned clubs in the EFL – along with Exeter City – but that makes running a loss-making operation, as 94% of teams in England’s top five tiers are doing according to the State of the Game report, even more challenging. “In other clubs, the owner just puts their hand in their pocket, produces cash,” said Hannah Kitcher, who has been a member of the Dons Trust Board (DTB), which runs AFC Wimbledon, for seven years. “It’s harder when the owners are fans – you can only go to them so many times.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T08:00:09+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o",
+      "title": "How Spain's humble superstar Simon became world's best keeper",
+      "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T07:29:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo",
+      "title": "How Aston Villa are reclaiming their identity",
+      "summary": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T07:12:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o",
+      "title": "Who am I? Guess WSL star No 12",
+      "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T07:01:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T06:47:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo",
+      "title": "Respect? Exposure? Why England's star names are going abroad",
+      "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T06:25:41+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521542/rip-to-the-fat-heavyweights-pros-react-to-ciryl-gane-beating-josh-hokit-in-wild-ufc-334-main-event",
+      "title": "‘RIP to the fat heavyweights’: Pros react to Ciryl Gane beating Josh Hokit in wild UFC 334 main event",
+      "summary": "Ciryl Gane is still heavyweight champion after an unpredictable UFC 334 main event opposite Josh Hokit that was non-stop action for five rounds. Hokit’s relentless pace is no secret, but the previously undefeated fighter gave Gane everything he could handle in Saturday’s main event at Madison Square Garden, until he seemingly ran out of gas […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T06:18:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521258/ufc-334-post-fight-press-conference-video",
+      "title": "UFC 334 post-fight press conference video",
+      "summary": "The UFC 334 post-fight press conference is the last piece of business to take care of after the action is over in the Octagon, and we have the live video above at MMAFighting.com. UFC officials will announce the winners of the “Fight of the Night” and the “Performance of the Night” bonuses, and winning fighters […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T06:06:06+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521484/ciryl-gane-survives-frantic-pace-punishes-josh-hokit-late-to-defend-title-in-ufc-334-main-event",
+      "title": "Ciryl Gane survives frantic pace, punishes Josh Hokit late to defend title in UFC 334 main event",
+      "summary": "Ciryl Gane looked tired early but then surged ahead late to secure a title defense and a win over Josh Hokit in the UFC 334 main event. Nothing came easy as Gane had to fend off an aggressive, unorthodox attack from Hokit but his ability to withstand that pressure and effectively use his striking late […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T06:04:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521233/ufc-334-live-blog-ciryl-gane-vs-josh-hokit",
+      "title": "UFC 334 live blog: Ciryl Gane vs. Josh Hokit",
+      "summary": "This is the UFC 334 live blog for Ciryl Gane vs. Josh Hokit, heavyweight championship main event Saturday at Madison Square Garden in New York. Gane (14-2, 1 NC) stands at No. 18 in the MMA Fighting Pound-for-Pound Rankings and was recently promoted to undisputed heavyweight champion in the absence of incumbent Tom Aspinall. The […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T05:58:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521385/ciryl-gane-vs-josh-hokit-full-fight-video-highlights-ufc-334",
+      "title": "Ciryl Gane vs. Josh Hokit full fight video highlights",
+      "summary": "Watch Ciryl Gane vs. Josh Hokit full fight video highlights from their UFC 334 main event showdown Saturday afternoon, courtesy of multiple outlets. Gane vs. Hokit took place Nov. 14 at Madison Square Garden in New York City. Ciryl Gane (15-2, 1 no-contest) and Josh Hokit (10-1) squared off in the main event clash. The […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T05:53:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521481/worst-gameplan-ever-pros-react-to-amanda-nunes-shocking-submission-loss-to-kayla-harrison-at-ufc-334",
+      "title": "‘Worst. Gameplan. Ever.’: Pros react to Amanda Nunes’ shocking submission loss to Kayla Harrison at UFC 334",
+      "summary": "Amanda Nunes made her highly anticipated comeback at UFC 334 on Saturday, but not everyone was thrilled with how it played out. “The Lioness” returned from a three-plus-year retirement to face current bantamweight champion Kayla Harrison in the hopes of adding to her incredible legacy, which included past title runs at 135 and 145 pounds. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T05:13:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521433/ufc-334-video-kayla-harrison-chokes-out-amanda-nunes-to-defend-title-in-co-main-event",
+      "title": "UFC 334 video: Kayla Harrison chokes out Amanda Nunes to defend title in co-main event",
+      "summary": "Kayla Harrison may have ascended to greatest of all-time status after she choked out Amanda Nunes in the UFC 334 co-main event. Harrison maintained control on the ground throughout the fight but a takedown in the fourth round allowed her to immediately jump on Nunes back and apply the submission. The choke was tight and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T05:05:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521232/ufc-334-live-blog-kayla-harrison-vs-amanda-nunes",
+      "title": "UFC 334 live blog: Kayla Harrison vs. Amanda Nunes",
+      "summary": "This is the UFC 334 live blog for Kayla Harrison vs. Amanda Nunes, bantamweight championship co-main event Saturday at Madison Square Garden in New York. Harrison (19-1) is currently No. 3 in the MMA Fighting Pound-for-Pound Rankings. A two-time Olympic gold medalist in judo (the only American to achieve that feat), Harrison took the MMA […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-15T05:01:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
     {
       "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
       "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
@@ -27,6 +307,56 @@
       "published": "2026-11-15T02:00:00+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-13T23:12:19.597348+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo",
+      "title": "The 'manager's dream' who has put NI one game from history",
+      "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T23:21:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o",
+      "title": "Liverpool put three past Brighton to end winless run",
+      "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T23:00:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Man City latest: Haaland 'hasn't read much' about PL charges guilty verdict",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T22:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo",
+      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+      "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T22:40:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o",
+      "title": "Devlin nets winner as NI top Nations League group",
+      "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-14T22:38:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
     },
     {
       "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
@@ -67,6 +397,26 @@
       "published": "2026-11-14T21:48:45+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/austria-vs-republic-of-ireland/report/554103",
+      "title": "Kalajdzic scores late as Republic of Ireland taste defeat in Austria",
+      "summary": "Sasa Kalajdzic dealt the Republic of Ireland a late blow in Linz with the only goal in Austria's 1-0 Nations League victory at the Raiffeisen Arena.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T21:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
+      "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
+      "summary": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on Tuesday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-14T21:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
     },
     {
       "url": "https://www.mmafighting.com/pfl/521195/pfl-dubai-results-sergei-bilostenniy-upsets-vadim-nemkov-to-win-title-patrick-habirora-shines",
@@ -497,6 +847,16 @@
       "published": "2026-11-14T10:54:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-14T21:56:19.815368+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/bonus-coverage-polymarket-ufc-334-gane-vs-hokit",
+      "title": "Bonus Coverage | Polymarket UFC 334: Gane vs Hokit",
+      "summary": "The Performances Awarded An Extra Bonus At Madison Square Garden On November 14, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-14T10:07:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-15T13:23:10.549575+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o",
