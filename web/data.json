@@ -1,23 +1,533 @@
 {
-  "generated_at": "2026-11-15T22:26:10.646753+00:00",
+  "generated_at": "2026-11-16T14:39:08.374725+00:00",
   "stats": {
-    "total": 846,
+    "total": 899,
     "categories": {
-      "football": 522,
-      "formula1": 140,
-      "ufc": 184
+      "football": 566,
+      "formula1": 147,
+      "ufc": 186
     },
     "priorities": {
-      "HIGH": 268,
-      "LOW": 483,
-      "MEDIUM": 95
+      "HIGH": 290,
+      "LOW": 511,
+      "MEDIUM": 98
     },
     "sources": 8,
-    "last_scan": "2026-11-15T22:26:08.885315+00:00",
-    "last_scan_new": 41,
+    "last_scan": "2026-11-16T14:39:07.001711+00:00",
+    "last_scan_new": 53,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+      "title": "5 storylines we're excited about ahead of the Las Vegas GP",
+      "summary": "Chris Medland runs through the biggest talking points as F1 heads to Las Vegas for Round 21 of the 2026 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
+      "title": "McLaren determined to take fight for P3 ‘down to the wire’",
+      "summary": "On the latest episode of F1 Nation, Racing Director Randy Singh opened up on the pressure McLaren are under to clinch P3 in the Teams’ Championship.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-to-race-for-the-team-in-las-vegas-as-hirakawa-returns-for-fp1-appearance.2as7TuSF4UHgXczZlu4245",
+      "title": "Haas confirm Camara to race for the team in Las Vegas",
+      "summary": "Rafael Camara will return for his second Formula 1 race weekend at the Las Vegas Grand Prix, having made his debut for Haas last time out in Sao Paulo.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13612859/thomas-tuchel-has-england-boss-learnt-from-argentina-disaster-and-fixed-dna-problem",
+      "title": "Has Tuchel learnt from Argentina disaster and fixed England's 'DNA problem'?",
+      "summary": "Sky Sports' David Reed breaks down whether Thomas Tuchel has already fixed England's 'DNA problem'.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T14:22:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/union-of-european-clubs-complaint-european-commission-uefa-european-football-clubs",
+      "title": "Union of European Clubs escalates fight for football influence with formal complaint",
+      "summary": "Body of 138 members complains to European Commission Uefa and the European Football Clubs power targeted The Union of European Clubs has submitted a formal complaint against the stranglehold Uefa and European Football Clubs maintain on football within the continent, dramatically escalating its efforts to obtain recognition by governing bodies and dilute the power held by the elite. The complaint, filed to the European Commission on Monday, challenges the memorandum of understanding (MoU) between EFC and Uefa. That agreement, which runs until July 2033, stipulates that EFC is the “sole body” representing European clubs. The UEC, which was founded three years ago and has 138 members from 25 national associations, aims to afford a voice to those beyond the established powers and has long sought to be allowed a formal presence in the corridors of power. It believes a select group of leading clubs hold decisive influence over the fate of those beneath them, including their prospects of access to competitions such as the Champions League and Europa League. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T14:02:53+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
+      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years",
+      "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the Abdullah bin Khalifa Stadium marked the first time the Socceroos had returned to the Gulf state since their heartbreaking elimination from the Asian Cup just under three years ago. Back then, coach Graham Arnold called Doha a “home away from home” after they relocated there during the Covid pandemic, and went so far as to suggest that they would have some form of advantage at the 2022 World Cup as a result. Wandering around the city in 2026, memories rush back of Socceroos fans becoming eager participants in the takeover of the city’s souks during the World Cup. So too the feelings of sadness to see the birds still cooped up in small cages at the nearby bird market. It evokes recollections of trips on the red Metro line out to the Al Janoub Stadium in Al Wakrah, aided by the faded posters and stickers celebrating the 2022 tournament’s arrival that to this day can still be seen in shopfronts. There’s the excitement, for some, when a stray cat reminds you just how personable the local felines can b",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T14:00:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521551/ufc-334-report-did-ciryl-gane-silence-his-haters-by-beating-josh-hokit",
+      "title": "UFC 334 Report: Did Ciryl Gane silence his haters by beating Josh Hokit?",
+      "summary": "Ciryl Gane had to dig deep, but he survived Josh Hokit and remains the UFC heavyweight champion. On Saturday, UFC 334 went down in New York City, headlined by a pair of title fights: Gane vs. Hokit for the heavyweight title, and Kayla Harrison vs. Amanda Nunes for the women’s bantamweight title. While both fights […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+      "title": "Beckham firm sues after fragrance found for sale in Poundland",
+      "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in petrol stations and in Poundland, court documents have revealed. The former England football captain’s brand, DB Ventures, has launched a lawsuit against the distributor of the products, arguing it allowed them to be sold in stores that had not been agreed upon. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T13:26:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo",
+      "title": "Has Trafford replaced Pickford as England No 1?",
+      "summary": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T13:01:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/16/england-hang-on-to-end-spains-unbeaten-reign-football-weekly-video",
+      "title": "England hang on to end Spain’s unbeaten reign | Football Weekly – video",
+      "summary": "Max Rushden is joined by Lucy Ward, George Elek and Will Unwin as England win 3-2 in Madrid to top their Nations League group Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T12:56:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
+      "title": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
+      "summary": "Brazilian legend, an investor at Serie C club, showed glimpses of old brilliance as he played 45 minutes for the promotion-chasing side It may have been the longest buildup in world football. In June, the former Barcelona and Brazil legend Ronaldinho was unveiled by the Serie C side Ravenna to make his comeback at the age of 46 – 11 years after his last official game. Then silence. But on a chilly November day on the eastern coast of Italy, there he was , not only in the squad, but in the starting XI for the eagerly anticipated derby against Forlì as Ravenna chase promotion. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T12:49:11+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlg3dgyp50o",
+      "title": "McAteer 'intelligence' earns praise from Ipswich boss",
+      "summary": "Ipswich Town boss David Wright praised the football intelligence of Wales international Mary McAteer following her first goal for the club.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:47:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
+      "title": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
+      "summary": "Blues beat champions after bold substitution and Gunners’ home struggles continue with fifth consecutive WSL draw Sonia Bompastor attempted to deflect suggestions that the removal of Kadeisha Buchanan 12 minutes into Chelsea’s top-of-the-table clash with Manchester City was tactical, but few were convinced by the claim that it was down to injury. The manager said the centre-back, who had not asked to come off and walked straight down the tunnel, had taken a knock to the head in training and been assessed and cleared, but that during the game “she was not herself”. On came Veerle Buurman and the threat of Khadija Shaw was nullified, the Dutch defender restricting the golden boot favourite so well that Shaw did not manage a shot on target. Bompastor said after the game that she had not spoken to Buchanan but that she would “explain myself to her”. “I always have good relationships with the players, bring them clarity, and I’m always direct and honest so they have the information,” she said. “It won’t be any different.” Enforced or not, the substitution was a huge gamble that paid off, even after the loss of Melvine Malard to injury in the first half reduced their number of remaining ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T12:30:57+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o",
+      "title": "Cap fits as Robertson poised to take King Kenny's crown",
+      "summary": "Andy Robertson will take over from Kenny Dalglish as Scotland's most-capped player when he captains his country against Switzerland on Monday evening.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:18:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o",
+      "title": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
+      "summary": "Blackpool boss Ian Evatt says his squad had a horrific build-up to Saturday's League One defeat by AFC Wimbledon following a fast-spreading sickness bug in his camp.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:15:46+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo",
+      "title": "Lye, Peterborough and the never-ending Women's FA Cup tie",
+      "summary": "Nowadays, Women's FA Cup ties are decided on the day with extra time and penalties if needed. Unless that tie is Lye Town v Peterborough United.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:11:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o",
+      "title": "Republic of Ireland captain Collins to miss Kosovo game",
+      "summary": "Republic of Ireland captain Nathan Collins is ruled out of Tuesday's must-win Nations League game against Kosovo with a knee injury.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:02:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo",
+      "title": "Vinicius says transfer interest affected Real form",
+      "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T12:01:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo",
+      "title": "Belgium's Lukaku retires from internationals",
+      "summary": "Romelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T11:40:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/republic-of-ireland-heimir-hallgrimsson-nations-league-kosovo",
+      "title": "Republic of Ireland have plenty of promise, but are unable to shake self-sabotage",
+      "summary": "Hopes of promotion remain alive, but another costly collapse has raised familiar questions before the decisive Nations League game with Kosovo The Republic of Ireland stand on the verge, although of what, nobody seems quite sure. Tuesday’s final Nations League group match, at home to Kosovo, presents a chance for progress or yet another opportunity to showcase a frustrating habit of messing things up. For 78 minutes in Linz on Saturday, Heimir Hallgrímsson’s side gave as good as they got against an Austria side who had not lost at home for a little more than three years. Set up in a compact, attack-minded formation they carried credible threat against hosts managed by Ralf Rangnick, but to nobody’s great surprise Sasa Kalajdzic broke the deadlock, scrambling home the winner from a needlessly conceded and poorly defended corner. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T11:30:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
+      "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
+      "summary": "Crystal Palace have agreed terms in principle with Thomas Frank to become their next head coach, Sky Sports News understands.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T11:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo",
+      "title": "Klopp says Infantino worse than Blatter",
+      "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T11:27:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+      "title": "French football head Philippe Diallo is shock contender to fight Infantino for Fifa job",
+      "summary": "Diallo may have candidacy confirmed by Uefa on Tuesday Uefa executive committee meeting to discuss matter The French Football Federation president, Philippe Diallo, is a surprise late contender to run for the Fifa presidency and could have his candidacy confirmed by Tuesday. The search for a Uefa-backed candidate to run against Gianni Infantino has been taken to the wire, with Wednesday the deadline for those planning to contest the Fifa election in March. Diallo has emerged as the favourite after plans to enlist a decorated former player or manager did not reach fruition, although other names are understood to remain under consideration. Uefa’s executive committee will discuss the matter on Monday and the approval of its 55 member associations would be sought. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T11:20:03+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo",
+      "title": "What's at the top of Frick's Aberdeen to-do list?",
+      "summary": "Mario Frick is Aberdeen's new head coach, but what does the former Liechtenstein striker have to do to lift his side clear of the relegation zone?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T11:15:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612488/lucy-bronze-leads-chelsea-to-biggest-wsl-win-of-season-over-man-city-as-mary-earps-gives-arsenal-another-headache-at-home",
+      "title": "Still England's best? Bronze and Earps' performances analysed",
+      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781",
+      "title": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
+      "summary": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session. Both Hirakawa and Camara have now raced for the team following the dismissal of Esteban Ocon, who was stood down during the Mexico City Grand Prix weekend. Hirakawa, contesting the World Endurance Championship finale in Monza - ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-16T09:52:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13612731/rafael-camara-haas-keep-brazilian-driver-as-oliver-bearmans-team-mate-for-las-vegas-gp-following-home-debut",
+      "title": "Camara to drive for Haas again at Las Vegas GP",
+      "summary": "Haas have confirmed that Rafael Camara will continue as Oliver Bearman's team-mate for this weekend's Las Vegas Grand Prix after making his Formula 1 debut last time out in Brazil.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-16T09:50:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769",
+      "title": "What is left to fight for in F1 2026?",
+      "summary": "A five-way battle for P2 in the drivers’ championship Kimi Antonelli romped to his maiden world title to become Formula 1’s youngest world champion, but behind him it’s all to play for – and closer than ever. As the highest-scoring driver across the latest eight rounds, Max Verstappen has climbed to second in the championship, but that doesn’t mean he’ll comfortably be this ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-16T09:28:44+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o",
+      "title": "More than F1 - Monza's captivating football story",
+      "summary": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:31:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o",
+      "title": "Every goal from the Women's Super League - matchweek 10",
+      "summary": "Watch every goal from across the Women's Super League in matchweek ten, from a brilliant free kick from West Ham's Viviane Asseyi to a stunning strike from Maya Le Tissier on her 150th Manchester United appearance.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:30:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Newcastle latest: Hall reaches 'new level' in battle with Yamal",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T08:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o",
+      "title": "Burnham urges caution on scrapping 3pm TV blackout",
+      "summary": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:18:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo",
+      "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+      "summary": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:17:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo",
+      "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+      "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:02:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+      "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
+      "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome It will be one of the most eagerly anticipated documents in football circles, assuming its contents are ever fully revealed. In September the increasingly powerful European Football Clubs body announced a “feasibility study” into exactly how it can become established on a more global scale, morphing into an organisation that represents clubs all over the world. The study’s findings could, some leading figures in the sport’s governance believe, define football’s long-term future. It has the potential to transform a landscape destabilised by the scandals surrounding Fifa and Gianni Infantino . Once considered a lobby group representing clubs’ interests in the face of domineering governing bodies, EFC has mushroomed into a behemoth with almost 1,000 members that has the potential to supplant them. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T08:00:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34",
+      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
+      "summary": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo",
+      "title": "Vote for the best men's European striker this century",
+      "summary": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T07:59:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po",
+      "title": "Homophobia on the rise in football - what is your club doing about it?",
+      "summary": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T07:26:27+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o",
+      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
+      "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T07:09:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cx9871qeq59jo",
+      "title": "Clyde ready for 'heavy metal football' as rock band sponsors club",
+      "summary": "Metalcore act Bleed From Within have also co-designed the new third kit for the Bully Wee, who now play in the band's home town of Hamilton.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T06:48:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T06:23:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13611832/toto-wolff-says-mercedes-could-prioritise-george-russell-over-kimi-antonelli-in-final-races-of-2026-f1-season",
+      "title": "'All the force!' - Mercedes open to prioritising Russell in final races",
+      "summary": "Toto Wolff says Mercedes could throw their weight behind George Russell over the final three races of the season to help him finish second in the Drivers' Championship.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-16T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034fdk",
+      "title": "Poppy Jay explores the appeal of being a tradwife",
+      "summary": "Happy homemaker or modern-day submission? Poppy Jay steps inside the world of tradwives",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T06:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13612650/redemption-for-thomas-tuchel-in-miracle-in-madrid-spain-vs-england-verdict",
+      "title": "Redemption for Tuchel in 'Miracle in Madrid' - Spain vs England Verdict",
+      "summary": "Rob Dorsett gives his verdict on England's 'statement victory over Spain in the Nations League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T00:28:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
+      "title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T00:02:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521613/yair-rodriguez-vs-steve-garcia-set-for-ufc-dallas-main-event",
+      "title": "Yair Rodriguez vs. Steve Garcia set for UFC Dallas main event",
+      "summary": "Yair Rodriguez is set to make his return at UFC Dallas. The UFC announced Saturday that Rodriguez (20-5, 1 NC) faces Steve Garcia (19-6) in a featherweight bout that serves as the main event of UFC Dallas at American Airlines Center on Jan. 16. This marks Rodriguez’s first fight of 2026. The former interim champion […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o",
+      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+      "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T23:52:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+      "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
+      "summary": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on to do Dan Burn things, when the board had gone up with a 4 on but the clock wasn’t moving fast enough and the men in red kept coming back, Harry Kane had come to the side of the pitch to stand beside Thomas Tuchel. Palms out, Kane signalled and directed and appealed with his teammates to hold on to what they had: s omehow, anyhow . What they had was special, but their grip on it was not as secure as it had seemed. Not as secure as it should have been too. Tuchel gave Kane a nudge that looked pretty playful considering the pressure, before Marc Bollengier, the fourth official, ordered him back to the bench. But England’s captain was not gone for long and when he returned he was joined by almost all of them, awaiting the big moment. From there, he watched James Trafford make an astonishing double save, a moment of heroism that allowed them to hang on. Then, standing alongside the rest who could no longer just sit there, he saw the last header clear –",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T23:50:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk",
+      "title": "Football Daily",
+      "summary": "Reaction to England’s 3-2 win over Spain in the Nations League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-15T23:16:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
+      "title": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
+      "summary": "Hopkins’ 89th-minute volley seals dramatic 2-1 upset Bethune scores stunning free kick against top seeds Current to face Washington Spirit for first NWSL title After a week dominated by a headline-grabbing stadium imbroglio , Gotham FC and the Kansas City Current finally got down to the vital business of their NWSL semi-final on Sunday afternoon, a frigid encounter at an unlikely venue on New York City’s Randall’s Island with a place in next Saturday’s championship match at stake. Haley Hopkins delivered the knockout blow at the death, hitting an 89th-minute volley off the crossbar and in to seal a 2-1 upset that shattered Gotham FC’s bid for the league’s first-ever treble. Paired with Croix Bethune’s first-half free-kick stunner, the late winner sent fourth-seeded Kansas City past the NWSL Shield and in-season Challenge Cup winners into a championship showdown in six days against the Washington Spirit. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-15T23:03:38+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+      "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T22:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
       "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
@@ -37,6 +547,16 @@
       "published": null,
       "priority": "HIGH",
       "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612624/james-trafford-has-leeds-goalkeeper-overtaken-jordan-pickford-as-englands-no-1-after-starring-display-against-spain",
+      "title": "Is Trafford England's new No 1 after Spain heroics?",
+      "summary": "Do England have a new No 1? Thomas Tuchel insists not. \"There's no No 1,\" he said. But Jordan Pickford might have his work cut out to wrestle the shirt back from James Trafford on the evidence of his performance in England's 3-2 win over Spain.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T22:20:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo",
@@ -77,6 +597,16 @@
       "published": "2026-11-15T21:56:41+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-15T22:26:08.885315+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine",
+      "title": "England talking points: Tuchel learns Argentina lesson as full-backs shine",
+      "summary": "After England beat Spain in their own back yard in a statement result, we look at the main talking points from a memorable moment in Madrid...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T21:52:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-16T14:39:07.001711+00:00"
     },
     {
       "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
