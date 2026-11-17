@@ -1,23 +1,513 @@
 {
-  "generated_at": "2026-11-17T01:30:01.711304+00:00",
+  "generated_at": "2026-11-17T15:26:53.461816+00:00",
   "stats": {
-    "total": 947,
+    "total": 997,
     "categories": {
-      "football": 597,
-      "formula1": 153,
-      "ufc": 197
+      "football": 637,
+      "formula1": 160,
+      "ufc": 200
     },
     "priorities": {
-      "HIGH": 309,
-      "LOW": 536,
-      "MEDIUM": 102
+      "HIGH": 320,
+      "LOW": 568,
+      "MEDIUM": 109
     },
     "sources": 8,
-    "last_scan": "2026-11-17T01:30:00.607104+00:00",
-    "last_scan_new": 48,
+    "last_scan": "2026-11-17T15:26:51.705173+00:00",
+    "last_scan_new": 50,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz",
+      "title": "Brown on why McLaren struggled to fight for title in 2026",
+      "summary": "McLaren CEO Zak Brown has reflected on why the team were unable to defend their titles in 2026 – and the learnings that they are taking forward into next season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb",
+      "title": "The 5 drivers most likely to win in Las Vegas",
+      "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q",
+      "title": "Alonso set for Dakar Rally return with Aston Martin",
+      "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY",
+      "title": "Aston Martin showcase bespoke Las Vegas Grand Prix livery",
+      "summary": "Aston Martin will run a special livery on the AMR26 for the Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
+      "title": "Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+      "summary": "A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Marengo when she first approached him to take part in The Match, a documentary about the 1986 World Cup quarter-final between England and Argentina. Flora told an audience at the London film festival premiere of the film that she played her best card then and showed Lineker an image of Maradona with Queen in 1981, during the band’s tour of Argentina. Maradona wearing a union jack T-shirt and Freddie Mercury an Argentina strip. It worked. Lineker said yes. The rock’n’roll angle, with Brian May as a talking head, is one of the very few details the film-makers added to Andrés Burgo’s book, The Match, on which the documentary is based. The directors Juan Cabral and Santiago Franco play with the timeline, hopping between past and present across 91 minutes, the exact duration of the match itself. Anecdotes that now form part of Argentina’s football folklore are spliced with excellent archive material. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T15:00:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
+      "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
+      "summary": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T14:36:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T14:09:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521780/matt-brown-doubts-josh-hokits-ability-to-become-ufc-heavyweight-champion-i-dont-think-hes-going-to-get-better",
+      "title": "Matt Brown doubts Josh Hokit’s ability to become UFC heavyweight champion: ‘I don’t think he’s going to get better’",
+      "summary": "Josh Hokit went to war with Ciryl Gane at UFC 334, but ultimately came up short losing a unanimous decision after five rounds before calling for an immediate rematch. While Hokit remains ranked near the top of the division, retired UFC welterweight Matt Brown admits despite scoring the fight for him on Saturday, he has […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/audio/2026/nov/17/chelsea-back-on-top-manchester-city-wsl-womens-football-weekly-podcast",
+      "title": "Chelsea back on top as Baltimore bullet stuns Manchester City: Women’s Football Weekly – podcast",
+      "summary": "Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Chris Paouros to discuss the latest WSL action The title race is on with Chelsea nudging ahead after Sandy Baltimore’s goal secures a 1-0 win over Manchester City. And it’s yet another draw for Renée Slegers’ side as Arsenal share the points with London City Lionesses. Elsewhere there are wins for Aston Villa, Manchester United and West Ham, while Liverpool turn a performance into points, thrashing Brighton. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T13:39:23+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo",
+      "title": "Romario demands Ancelotti sacking as war of words continues",
+      "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T13:10:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo",
+      "title": "Hincapie in advanced talks over new Arsenal deal",
+      "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T13:09:23+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/sarina-wiegman-england-young-talent-contract-isobel-goodwin-squad",
+      "title": "Wiegman cites young talent as key to new England deal after calling up Goodwin",
+      "summary": "Head coach excited by ‘high potential’ of players Striker Goodwin and keeper Cox in squad for first time Sarina Wiegman says the potential in England’s emerging young players helped convince her to extend her contract until the end of 2029’s European Championship. The Lionesses head coach, whose previous deal was due to expire next year, gave first senior call-ups to the striker Isobel Goodwin and goalkeeper Katie Cox on Tuesday as she named her squad for December’s two-leg World Cup qualifying playoff against Ukraine. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T13:09:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521736/morning-report-merab-dvalishvili-wont-make-peace-with-umar-and-usman-nurmagomedov-these-two-guys-are-not-real-men",
+      "title": "Morning Report | Merab Dvalishvili won’t make peace with Umar and Usman Nurmagomedov: ‘These two guys are not real men’",
+      "summary": "Merab Dvalishvili has no olive branch to give to the Nurmagomedov brothers. Last week, the ongoing rivalry between Dvalishvili and Umar Nurmagomedov escalated at RAF Abu Dhabi, when Umar’s brother, Usman Nurmagomedov, attacked Dvalishvili at a hotel before the event, inciting a brawl. While no serious injuries occurred, Dvalishvili suffered some minor ones, and everyone […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo",
+      "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
+      "summary": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T12:56:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o",
+      "title": "Watch: Can Northern Ireland hit the right notes in Budapest?",
+      "summary": "As Northern Ireland prepare to face Hungary in a key Nations League encounter, BBC Sport NI teams up with the Ulster Orchestra to build up to the big game in Budapest in musical fashion.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T12:40:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter",
+      "title": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’",
+      "summary": "In an extract from the former South Africa captain’s book, she details less than ideal Wafcon 2006 preparations I was just a year into my international career when we qualified for my first Wafcon, which was then called the African Women’s Championship (AWC) and was held in Nigeria in 2006. I was extremely excited but very nervous to participate in this tournament, more so when it was announced that we would be in the same group as the hosts, and would play them last in the group. As it turned out, it would be the game that decided who finished top of the group. By then we had beaten Algeria 4-0 and Equatorial Guinea 2-0 and had to travel to Delta State to take on the hosts. I’d heard that Nigeria was the toughest country to travel to and I was about to realise why. It’s become common knowledge that South Africans and Nigerians are massive rivals on the football field but also don’t really get on off it. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T11:57:35+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo",
+      "title": "'Why not have a go?' - the halfway line goal phenomenon",
+      "summary": "Why Premier League players are trying their luck on goal from long range more regularly.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T11:54:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo",
+      "title": "When is the Nations League quarter-final draw?",
+      "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T11:21:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo",
+      "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+      "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T11:13:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o",
+      "title": "London City's Goodwin gets first England call-up",
+      "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T11:06:33+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613091/england-women-ella-toone-and-aggie-beever-jones-back-for-lionesses-as-chloe-kelly-and-lauren-james-miss-out-through-injury",
+      "title": "Toone, Beever-Jones return for Lionesses ahead of WC play-off",
+      "summary": "Sarina Wiegman has named 25 players for England’s decisive FIFA Women’s World Cup play-off against Ukraine, with Ella Toone and Aggie Beever-Jones returning to the squad.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o",
+      "title": "Blackburn boss Mowbray steps back over health issues",
+      "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T10:40:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo",
+      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+      "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T10:32:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/blackburn-rovers-tony-mowbray-steps-down-due-to-health-issues",
+      "title": "Blackburn Rovers head coach Tony Mowbray steps down due to health issues",
+      "summary": "Mowbray confirms he has had to ‘step back from role’ Rovers are currently 13th in the Championship table Tony Mowbray has stepped back from his role as the Blackburn Rovers head coach for health reasons. The 62-year-old rejoined Rovers in June and has guided a club threatened with relegation last season to 13th in the Championship, three points off the playoff places. However, he has been forced to step away from the game for a second time owing to a health issue. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T10:19:13+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/max-dowman-england-under-21s-record-jude-bellingham",
+      "title": "Max Dowman shines in England colours and sends another record tumbling",
+      "summary": "Midfielder’s under-21s winner eclipsed Jude Bellingham’s mark and there was other talent to admire against France There may have been an Mbappé on the pitch – Ethan, the younger brother of Kylian, with whom he shares a near-identical gait – but by the end there was only one precocious talent on the lips of those watching England overcome France in their under-21s clash. Max Dowman had done it again, lighting up another game, this time in filthy conditions at Ashton Gate. It was fitting he had the final say in a 3-2 win. The noise that accompanied his match-winning goal? Well, beyond the palpable excitement in the stands in Bristol, that would be the sound of the teenager sending yet another record tumbling. Which one takes your fancy? Take your pick. At 14, playing for Arsenal Under-19s, he became the Uefa Youth League’s youngest goalscorer. This time last year, after taking to the field at Slavia Prague aged 15 and 308 days , Dowman became the youngest player to feature in the Champions League. In March, six months on from his professional debut, he became the Premier League’s youngest goalscorer . He is the youngest player to earn a Premier League winner’s medal. Last month he wa",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T10:13:45+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
+      "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
+      "title": "Mowbray steps down from Blackburn due to health issues",
+      "summary": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo",
+      "title": "Pochettino says he would tell Guardiola to take USA job",
+      "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T09:48:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
+      "title": "Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player",
+      "summary": "Deal will run to 2031 and worth about £300,000 a week Jurriën Timber also agrees fresh contract extension Declan Rice has agreed a new five-year contract at Arsenal, with the England midfielder poised to match Bukayo Saka’s status as the highest-paid player at the Premier League champions. Representatives for Rice, who won his 82nd cap in England’s thrilling win over Spain on Sunday, have been in talks for months about extending the deal he signed in 2023 after a record £105m move from West Ham. That is believed to be worth about £250,000 a week and is due to expire in 2028, although Arsenal have the option of a further 12 months. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T09:19:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo",
+      "title": "'Switzerland didn't have better players but were better team'",
+      "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T09:09:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/dakar/news/alonso-loeb-join-aston-martin-for-2027-dakar-rally/10875003",
+      "title": "Alonso, Loeb join Aston Martin for 2027 Dakar Rally",
+      "summary": "Two-time Formula 1 champion Fernando Alonso will headline Aston Martin’s factory entry into the Dakar Rally in 2027, joining Sebastien Loeb and Lucas Moraes as part of a star-studded line-up. Alonso will drive a Prodrive-built Aston Martin Dreadnought in the 49th edition of Dakar, which will take place in Portugal and Morocco from 9-23 January 2027 after being relocated from its original ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-17T09:01:58+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13612958/fernando-alonso-aston-martin-driver-to-race-in-dakar-rally-ahead-of-2027-f1-season-in-return-to-rally-raid-event",
+      "title": "Alonso to race in fearsome Dakar Rally with Aston Martin",
+      "summary": "Fernando Alonso will race in the Dakar Rally for Aston Martin in January.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-17T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around",
+      "title": "What is going wrong for Pocognoli and Scotland?",
+      "summary": "A year is a long time in football and that is certainly the case when it comes to Scotland's fortunes.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T08:54:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o",
+      "title": "Owono did not deserve 12-match ban - Pique",
+      "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T08:28:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo",
+      "title": "How do NI replace 'perfect player' Donley?",
+      "summary": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T08:17:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/he-wants-to-change-lives-the-story-behind-bukayo-sakas-socrates-award",
+      "title": "‘He wants to change lives’: the story behind Bukayo Saka’s Sócrates award",
+      "summary": "By supporting the non-profit BigShoe, the Arsenal forward has earned deserved plaudits for his social conscience Valerie Fiesser will never forget her surprise when Bukayo Saka contacted her out of the blue, asking whether he could help support a project in Nigeria in 2022. “I remember thinking: ‘Is this really Bukayo writing us an email?’” says the president of BigShoe, a non-profit organisation based in Frankfurt that has helped more than 10,000 children worldwide. “But that’s how he is. He’s always asking what more we can do.” Four years on from that unexpected email, Fiesser was given the secret task of reaching out for a letter for Saka to read from the podium when he was presented with the Sócrates award at last month’s Ballon d’Or ceremony in London for his humanitarian work. She got the words from Byiringiro, a 14-year-old from Rwanda who had his eyesight restored after having surgery thanks to BigShoe’s initiative. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T08:00:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/thomas-frank-crystal-palace-pierre-sage-sacked-steve-parish",
+      "title": "Thomas Frank’s to-do list: lift mood, fix defence and fire up Sarr and Mateta",
+      "summary": "Seeking redemption after failing at Spurs, newly installed Crystal Palace manager has a tough challenge ahead Thomas Frank promised his wife, Nanna, he would take a year’s sabbatical after being sacked by Tottenham in February , but he couldn’t wait that long. Having received a reported £8m payoff from Spurs, he kept an extremely low profile in the first few months after an experience at the club that sources close to the 53‑year‑old have described as “traumatic”. Frank broke his silence at the start of June with a statement released by the League Managers Association. It said he would cover the World Cup for the BBC (thereby going head-to-head with Ange Postecoglou, his predecessor at Spurs, who worked for ITV) before “experiencing the Tour de France”, a lifelong passion. Frank usually preferred to run to Brentford’s training ground and home matches from his home in East Sheen during a nine‑year spell as assistant and then manager, but he occasionally cycled because it helped to clear his head. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T08:00:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/azteca-argentina-fearless-england-start-afresh-spain",
+      "title": "Echoes of Azteca but not like Argentina: fearless England start afresh in Madrid",
+      "summary": "‘We will not go back on this way of playing,’ says Thomas Tuchel after he delivered response to World Cup critics Thomas Tuchel made defensive substitutions as England protected a lead. He finished with three centre-backs on the pitch. His team could not get out of their half in the final part of the game. So close your eyes and imagine an alternate universe in which James Trafford did not make his stunning double save in stoppage time on Sunday and England had drawn 3-3 with Spain at the Metropolitano Stadium rather than won 3-2 . The reaction would not have been kind because Tuchel has been here before. The head coach wanted to push one particular comparison from the World Cup over the summer. “It was Mexico reloaded,” he said, with a nod towards the 3-2 last-16 win at the Azteca Stadium and it fitted like a glove – down to the detail of Jarell Quansah and red cards. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T08:00:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pncq48",
+      "title": "Listen: Where do Scotland go after Swiss humiliation?",
+      "summary": "Pressure builds on Pocognoli after Scotland’s Swiss nightmare.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o",
+      "title": "Are Scotland still too reliant on 'old guard'?",
+      "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T07:55:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o",
+      "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+      "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T07:22:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2le1784m7o",
+      "title": "'Monaco unrest as they prepare to face Hearts' - gossip",
+      "summary": "Speculation surrounds the future of two top Monaco players as they prepare to face Heart of Midlothian, while the Scottish Premiership's top summer free agents are highlighted.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T07:10:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx5y1pl7yvz6o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T06:26:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/17/listener-mailbag-manchester-city-media-coverage-and-making-gravy-football-weekly-video",
+      "title": "Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
+      "summary": "Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T06:26:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o",
+      "title": "Why always him? The rise and fall of Balotelli",
+      "summary": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T06:15:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion",
+      "title": "Fifa accused of climate ‘record of failure’ due to Aramco deal and tournament expansion",
+      "summary": "Groups question ‘sincerity’ to meet emissions pledges Oil giant is a major sponsor of football governing body The United Nations has been asked to review Fifa’s status as a signatory to a key environmental initiative, with complainants arguing football’s governing body has a “record of failure” on climate action. Fifa is a signatory to the UN’s Sports for Climate Action Framework, a coalition which seeks to persuade sporting organisations to “work together to achieve a climate-resilient future”. Under the framework, signatories agree to cut their greenhouse gas emissions by 50% by 2030 and to “partner with key stakeholders to deliver joint climate action”. They can have their status as a signatory removed, however, if “sincerity in participation or ability to participate is a cause for concern”. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T06:00:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13612940/mclaren-chief-zak-brown-says-advice-from-novak-djokovic-will-help-f1-team-bounce-back-from-losing-titles-to-mercedes",
+      "title": "Brown reveals Djokovic advice that will help McLaren after 'underperformance'",
+      "summary": "McLaren chief executive Zak Brown says he is using advice from Novak Djokovic to aid his team's attempt to bounce back after losing both of their Formula 1 titles to Mercedes this season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-17T06:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no",
+      "title": "Life after Ronaldo - Portugal face post-Bale Wales",
+      "summary": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T04:45:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521867/mike-perry-reacts-to-his-return-to-ufc-teases-interest-in-jorge-masvidal-for-first-fight-back",
+      "title": "Mike Perry reacts to his return to UFC, teases interest in Jorge Masvidal for first fight back",
+      "summary": "It’s been almost six years since Mike Perry fought in the UFC but that finally changes when he makes his return to the promotion in 2027. Perry recently cut ties with BKFC after becoming a superstar in bare-knuckle fighting and now he’s signed a massive eight fight deal to make his return to the UFC. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T02:51:03+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/americans-are-becoming-more-formula-1-terry-crews-on-why-f1-is-winning-over-the-us.6Uqdsu4AlrP8Y3fxNUMesa",
       "title": "Terry Crews on America's growing love for F1",
@@ -4317,6 +4807,16 @@
       "published": "2026-11-12T08:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/story-telling/13610897/why-have-man-utd-only-had-two-successful-managers",
+      "title": "Why have Man Utd only had two 'successful' managers?",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-12T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T15:26:51.705173+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cvglr2g04d8ko",
