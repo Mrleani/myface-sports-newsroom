@@ -1,23 +1,483 @@
 {
-  "generated_at": "2026-11-16T14:39:08.374725+00:00",
+  "generated_at": "2026-11-17T01:30:01.711304+00:00",
   "stats": {
-    "total": 899,
+    "total": 947,
     "categories": {
-      "football": 566,
-      "formula1": 147,
-      "ufc": 186
+      "football": 597,
+      "formula1": 153,
+      "ufc": 197
     },
     "priorities": {
-      "HIGH": 290,
-      "LOW": 511,
-      "MEDIUM": 98
+      "HIGH": 309,
+      "LOW": 536,
+      "MEDIUM": 102
     },
     "sources": 8,
-    "last_scan": "2026-11-16T14:39:07.001711+00:00",
-    "last_scan_new": 53,
+    "last_scan": "2026-11-17T01:30:00.607104+00:00",
+    "last_scan_new": 48,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/americans-are-becoming-more-formula-1-terry-crews-on-why-f1-is-winning-over-the-us.6Uqdsu4AlrP8Y3fxNUMesa",
+      "title": "Terry Crews on America's growing love for F1",
+      "summary": "As Formula 1 returns to Las Vegas, actor Terry Crews discusses the sport's growing popularity in the United States and how it is encouraging Americans to embrace the wider world.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/williams-unveil-special-one-off-livery-for-las-vegas-grand-prix.01klQqq0PYu7wjugCtr98K",
+      "title": "Williams unveil special livery for Las Vegas Grand Prix",
+      "summary": "The Williams FW48 will sport a unique livery across the Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-las-vegas-grand-prix-and-how-can-i-watch-it.5klYngWOQMjROxZ3nEp5Pr",
+      "title": "What time is the 2026 Las Vegas GP and how can I watch it?",
+      "summary": "Here are all the timings – along with all the additional information you need – for the 21st Grand Prix weekend of the 2026 season from Las Vegas.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/las-vegas-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.5sEja0aYqYkyfdSZ9sTibF",
+      "title": "Las Vegas Grand Prix betting guide and latest odds",
+      "summary": "Our experts bring you all the important betting information you need before making your predictions for Vegas.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521857/mike-perry-talks-ufc-move-bkfc-past-and-more",
+      "title": "LIVE! Mike Perry talks UFC move, BKFC past, and more",
+      "summary": "Mike Perry is a new member of the UFC. The former BKFC star joins MMA Fighting’s Mike Heck in his first interview since joining the UFC to discuss the big change, his combat sports future, and more Monday night. Perry is expected to be live at 8:15 p.m. ET.",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T01:12:08+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o",
+      "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
+      "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T00:19:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520917/ufc-saudi-arabia-several-new-bouts-added-to-israel-adesanya-vs-shara-magomedov-fight-card",
+      "title": "UFC Saudi Arabia: Several new bouts added to Israel Adesanya vs. Shara Magomedov fight card",
+      "summary": "UFC Saudi Arabia is coming together. The promotion announced a slew of new matchups set to take place on Dec. 5 at The Venue in Riyadh. The event is headlined by a middleweight contest between former, two-time middleweight champion Israel Adesanya and Shara Magomedov. Among the additions is a heavyweight contest between Serghei Spivac and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
+      "title": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
+      "summary": "Matos has indicated a desire for move to Ligue 1 Championship club would be due compensation Swansea City are increasingly resigned to their head coach, Vítor Matos, joining Strasbourg after he indicated a desire to join Chelsea’s sister club. The Ligue 1 club have approached Swansea with a view to Matos succeeding Hugo Oliveira. Strasbourg, acquired by Chelsea’s parent company BlueCo in 2023, have identified Matos as a replacement for Oliveira, who has won three of 10 league matches since succeeding Gary O’Neil in July. The French club are hovering two points above the relegation zone. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T23:32:23+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+      "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino and former Manchester City head coach Pep Guardiola have a long, storied past. The two faced each other as players, when Guardiola was at Barcelona and Pochettino was making his name across town at Espanyol. They faced each other 22 times as managers in the Premier League and the two share a mutual respect – and intensity – when it comes to their approach to playing and coaching alike. So when Guardiola visited Yankee Stadium in September to serve as New York City FC’s pre-match hype man before their rivalry match with Red Bull New York, Pochettino – in town anyways to scout the match – made it a point to sit with him during the game. He brought along his assistant coach and confidant Jesús Pérez, and US Soccer CEO and secretary general JT Batson. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T23:01:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521791/amanda-nunes-calls-for-featherweight-rematch-with-kayla-harrison-accepted",
+      "title": "Amanda Nunes calls for featherweight rematch with Kayla Harrison: ‘Accepted’",
+      "summary": "Amanda Nunes wants another shot at Kayla Harrison in the UFC cage, this time for the featherweight title. “The Lioness” returned from retirement to challenge Harrison for the 135-pound championship in the co-main event of UFC 334, which took place Nov. 14 in New York, and was having success on the feet while struggling in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o",
+      "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+      "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T22:36:26+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+      "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
+      "summary": "Jürgen Klopp’s side make statement with 5-0 triumph Dutch advance, Greece miss out despite win over Serbia Florian Wirtz scored twice as Germany delivered a 5-0 rout of the Netherlands in Berlin on Monday, reaching the Nations League quarter-finals as group winners. Brajan Gruda contributed a goal and two assists, with Derry Scherhant and Nico Schlotterbeck also on the scoresheet as the hosts delivered their most impressive display so far under Jürgen Klopp’s leadership. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T22:33:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612913/andy-robertson-scotland-captain-breaks-national-appearance-record-by-winning-103rd-senior-cap-vs-switzerland",
+      "title": "Robertson makes history with record 103rd Scotland cap",
+      "summary": "Andy Robertson has broken the record for the most senior Scotland men's team caps, surpassing the feat held by Sir Kenny Dalglish for 40 years.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T22:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo",
+      "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+      "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T22:14:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo",
+      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+      "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T22:06:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521806/jon-jones-issues-parting-shot-to-josh-hokit-in-feud-good-luck-little-man",
+      "title": "Jon Jones issues parting shot to Josh Hokit in feud: ‘Good luck little man’",
+      "summary": "Jon Jones appears to be calling an end to his back-and-forth beef with Josh Hokit. For now. An online feud erupted between Jones and Hokit over the weekend following Hokit’s loss to heavyweight champion Ciryl Gane in Saturday’s UFC 334 main event. Hokit battled Gane for five rounds of non-stop action, but Gane retained his […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report",
+      "title": "Switzerland roll over sorry Scotland to increase the pressure on Pocognoli",
+      "summary": "A match that should have been about 103 was instead about four. Andy Robertson is due acclaim for becoming the most capped player in Scotland’s history but how the full-back will wish the moment had arrived in different circumstances. A second-string Switzerland team pulled Scotland apart, raising further and significant questions about the suitability of Sébastien Pocognoli to carry out the job his paymasters boldly entrusted him with. Scottish FA giddiness about Pocognoli as the successor to Steve Clarke, a hugely successful leader of the national team, is looking increasingly ridiculous. “I don’t think you’ve got time in international football,” said Robertson as dust settled here. Ouch. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T21:53:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
+      "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
+      "summary": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T21:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5",
+      "title": "Football Daily",
+      "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T21:14:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
+      "title": "Rice verbally agrees new Arsenal contract",
+      "summary": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T21:12:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po",
+      "title": "Portugal boss responds to criticism from Ronaldo's mum",
+      "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T21:08:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo",
+      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T21:01:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/521773/merab-dvalishvili-saba-lazishvili-book-bouts-for-december-raf-event",
+      "title": "Merab Dvalishvili, Saba Lazishvili book bouts for December RAF event",
+      "summary": "Merab Dvalishvili and Saba Lazishvili are riding high off of a wild RAF fight week, and the promotion has already lined up their next appearances. The Georgian fighters had the MMA world buzzing ahead of RAF Abu Dhabi, when video surfaced of former PFL lightweight champion Usman Nurmagomedov, UFC bantamweight contender Umar Nurmagomedov, along with […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
+      "title": "Tuchel and England must learn lessons of history, Seville and Southgateism | Barney Ronay",
+      "summary": "Another 3-2 win in Spain brings the lure of a golden new hyper-future – but it did not pan out that way last time I may have the body of a weak and feeble German, but I have the heart and stomach of a manager of England. And I think it foul scorn that Spain should dare to invade the borders of my realm. Or, for that matter, any one of 24 qualified teams for Euro 2028, because at the end of the day there are no easy games at this level, I’ve always said that. The words, there, of Thomas Tuchel, England’s Faerie King, speaking to TalkSport shortly after the glorious 3-2 defeat of the Spanish possession armada at the Riyadh Air Metropolitano Stadium in Madrid. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T20:02:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521692/jon-jones-josh-hokit-trade-vicious-insults-hokit-makes-wild-accusation-the-wrath-of-god-is-coming-for-you",
+      "title": "Jon Jones, Josh Hokit trade vicious insults, Hokit makes wild accusation: ‘The wrath of God is coming for you’",
+      "summary": "Jon Jones and Josh Hokit went at each others’ throats on social media late Sunday evening. Hokit competed in Saturday’s UFC 334 main event, challenging heavyweight champion Ciryl Gane and battling hard for five rounds before eventually losing a unanimous decision. During his rise to becoming a top contender, Hokit ruffled plenty of feathers with […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T20:01:29+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521675/dana-white-recounts-crazy-and-unique-experience-being-nominated-as-press-secretary-for-president-donald-trump",
+      "title": "Dana White recounts ‘crazy’ and ‘unique’ experience being nominated as press secretary for President Donald Trump",
+      "summary": "Dana White was at a Zuffa Boxing event in London when his world was suddenly turned upside down after President Donald Trump dropped a message that the UFC CEO was being nominated to take over as the press secretary for his office. At the time, White had no idea what was exactly happening but Trump’s […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnb81q",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T19:58:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521748/jim-miller-apologizes-for-accepting-fight-against-terrance-mckinney-after-complete-bullsht-missing-weight",
+      "title": "Jim Miller apologizes for accepting fight against Terrance McKinney after ‘complete bullsh*t’ missing weight",
+      "summary": "Jim Miller suffered a knockout loss at UFC 334 after moving forward with his fight when Terrance McKinney missed weight by over four pounds, but he wishes he had made better choices. On Monday, Miller released a video expressing his regrets after accepting the fight with no hesitation rather than turning it down because McKinney […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T19:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
+      "title": "Wales have a free hit against Ronaldo-less Portugal",
+      "summary": "The Cardiff City Stadium sold out very quickly when the Nations League fixtures threw up a Wales vs Portugal game for the final match of Group D.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T19:28:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/england-u21-vs-france-u21/report/578798",
+      "title": "'Outstanding' Dowman scores historic winner as England U21s beat France",
+      "summary": "Max Dowman became England Under-21s' youngest ever goalscorer by grabbing a late winner in a 3-2 victory over France at Ashton Gate.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T19:07:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
+      "title": "‘We want to win it’: Tuchel says Nations League can set up England for Euro 2028 glory",
+      "summary": "Winning Nations League ‘the best preparation’ for Euros England to be seeded in Friday’s draw after Spain win Thomas Tuchel believes winning the Nations League would provide England with the springboard to Euro 2028 glory. The head coach watched his team close out the calendar year with a sensational 3-2 victory against Spain at the Metropolitano Stadium on ­Sunday. It meant England leapfrogged the world champions to finish top of their Nations League group and ensured seeded status for the ­quarter-final draw on Friday. England will co‑host the European Championship and Tuchel wants to go into it as the Nations League winners. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T19:00:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
+      "title": "Fight By Fight Preview | UFC Qatar",
+      "summary": "Detailing All The Action Set To Hit The Octagon This Saturday At UFC Fight Night: Procházka vs Stirling Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-16T19:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo",
+      "title": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
+      "summary": "Cameroon, Senegal and Benin are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial win in their bid to reach the finals.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T18:07:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/521707/chase-demoor-faces-former-ufc-champion-in-misfits-boxing-new-blood-main-event",
+      "title": "Chase DeMoor faces former UFC champion in Misfits Boxing ‘New Blood’ main event",
+      "summary": "Chase DeMoor steps into the ring with former UFC heavyweight champion Andrei Arlovski this December. Misfits Boxing announced Sunday that DeMoor is set to defend his heavyweight belt against Arlovski in the main event of its Dec. 18 show, billed as “New Blood,” which takes place at Municiple Auditorium in Nashville, Tenn. See the announcement […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
+      "summary": "While the head coach, players and Spanish press were magnanimous in defeat, there was pride mixed in with disappointment – and confidence the future is still bright “With every game, defeat gets closer,” Luis de la Fuente had said and on Sunday night it finally came. Spain had lost only one competitive game since Scotland in March 2023 back when the coach hadn’t won anything and didn’t look like he ever would – and that solitary loss was on penalties in the 2025 Nations League final . Statistically, they said, penalties don’t count, so while Portugal lifted the trophy that night, the team that won the European Championship and World Cup in the summers either side also claimed a Fifa record of 44 official games unbeaten. And then England turned up at the Metropolitano . A night that started with Iker Casillas, Fernando Torres and Fernando Llorente handing the World Cup to Unai Simón ended with Spain trying to overhaul a shock 3-0 deficit. Against 10 men and led by a superb Lamine Yamal, Spain made De la Fuente think for a while that they would too, but it wasn’t to be. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T17:48:38+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro",
+      "title": "How Frank can restore reputation and save Crystal Palace",
+      "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T17:46:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/lando-norris-f1-needs-better-rain-tyres-as-wet-las-vegas-would-be-scary/10874886",
+      "title": "Norris: Las Vegas GP would be \"scary\" with current F1 wet tyres",
+      "summary": "Lando Norris hopes Formula 1 tyre supplier Pirelli will field much-improved rain tyres in 2027 as he expects the current range won't work properly at a low-downforce circuit like Las Vegas. Following partially rain-affected weekends in Malaysia and Singapore, F1's 2026 cars went through their first proper qualifying and grand prix held in wet conditions at the Brazilian Grand Prix, with both ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-16T17:30:03+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
+      "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
+      "summary": "Frank’s first job since Spurs dismissal in February He has been promised funds for January signings Thomas Frank has been confirmed as Crystal Palace’s manager after Pierre Sage was sacked last week. Frank, out of work since being dismissed by Tottenham in February, was quickly identified as Palace’s main target and has signed a two-and-a-half-year deal at the Premier League’s bottom club. Frank spoke to Palace in the summer about succeeding Oliver Glasner but decided he was not ready to return to the dugout because he wanted to take a break from football. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T17:03:14+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park",
+      "title": "Frank appointed Crystal Palace manager",
+      "summary": "Crystal Palace have appointed Thomas Frank as their new manager.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/england-spain-nations-league-victory-football-daily-newsletter",
+      "title": "Football Daily | England’s Nations League triumph in Spain sparks familiar rush to glory",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Glory. Imminent and near-enough-guaranteed glory. That, surely, is what we’re looking at from the giddy heights England reached in crushing Spain 3-2 on Sunday . “If we can find that first hour consistently, we are a genuine favourites for the next tournament,” roared Steven Gerrard, a statement he believed in so much he then said it again using different words: “The first 60 minutes told me, from watching it, that we’re capable of winning the next tournament. That’s the big thing to take away.” Thomas Tuchel reckoned England had reached the “highest level football-wise in all aspects of the game” . This is the kind of positivity engendered in visiting international teams when they romp to victory in Madrid. Just listen to what the England captain said on the flight home: “You play like that and you’ve got a chance against anyone, anywhere. You get 11 fellows who can play a bit – and let’s face it, they’re not going to be there in the first place if they can’t – and you get them running themselves off their feet, working themselves into the ground for an hour and a half, and you’re odds on before you start, aren’t you.” Did anyone",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T16:20:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
+      "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
+      "summary": "In a mailbag edition of our newsletter, we look at Mauricio Pochettino, Pep Guardiola’s international credentials and the lack of elite English managers Sign up for our free newsletter here Who should replace Mauricio Pochettino as the USMNT manager? – Tom S Although the salary I’m sure will be excellent, I think the US job is going to be a really difficult sell to a top-level coach. The 2030 World Cup is a long way away and I’m not sure the Concacaf Nations League, the Gold Cup or even the 2028 Copa América carry much appeal for a manager with European experience or aspirations. But I’m not entirely sure that sort of coach is necessarily a great idea. The last two World Cups, after all, have been won by low-key coaches who have come from within the federation and have worked with many of the players at youth level. That’s the positive from appointing from within; appointing from without is almost certainly more expensive and there’s the danger the next foreign manager does just what Mauricio Pochettino does, and has his head turned by the first vaguely attractive European job that comes calling. This is an extract from Soccer Desk, a newsletter from the Guardian US. Subscribe for ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T16:14:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/16/nwsl-playoffs-gotham-icahn-stadium-controversy",
+      "title": "‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check",
+      "summary": "Problems faced by Gotham FC and Washington Spirit over staging of their playoff semi-finals shows the league still has work to do In so many ways, Icahn Stadium, tucked away on Randall’s Island in the Harlem River, is a fantastic place to watch soccer. The 5,000-seat facility was thrown together in the early 2000s, constructed to replace Downing Stadium, an aging relic that hosted Pelé’s first match with the New York Cosmos 51 years ago. It sits in the shadow of the Triborough Bridge and in the late afternoon fans get one of the more spectacular backdrops in American soccer: the silhouette of the Manhattan skyline framed against the warm orange and red hues of the sunset. The playing surface, replaced in 2024 by Major League Soccer’s NYC FC, is immaculate. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-16T15:56:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo",
+      "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
+      "summary": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-16T15:55:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612908/england-have-golden-opportunity-to-win-euro-2028-says-martin-tyler-as-legendary-commentator-reflects-on-50-year-career",
+      "title": "Tyler: England have golden opportunity to win Euro 2028",
+      "summary": "Martin Tyler is more convinced than ever he will finally get the chance to commentate on England winning a major international trophy after watching Thomas Tuchel's side's 3-2 Uefa Nations League victory in Spain",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-16T15:45:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13612897/lewis-hamilton-says-work-improving-diversity-in-f1-nowhere-near-finished-as-mission-44-outlines-recommendations-for-further-change",
+      "title": "'Now we need to go further' - Hamilton outlines next targets to improve F1 diversity",
+      "summary": "Lewis Hamilton says Formula 1 has \"shown that change is possible\" to improve diversity in the sport over the past five years and \"now we need to go further\" in increasing opportunities for the next generation.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-16T15:19:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521643/cain-velasquez-named-gm-of-mma-for-combat-u-at-sacramento-state-teases-potential-return-to-competition",
+      "title": "Cain Velasquez named GM of MMA for Combat U at Sacramento State, teases potential return to competition",
+      "summary": "Cain Velasquez will be using his knowledge in the fight game to prepare the next generation of MMA fighters. Velasquez has been named the new GM of MMA for Combat U — a first-of-the-nation collegiate club sport for students seeking a world-class education as well as high-level opportunities for combat sports training and competition. The […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-16T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
       "title": "5 storylines we're excited about ahead of the Las Vegas GP",
@@ -527,6 +987,16 @@
       "published": "2026-11-15T22:45:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-16T14:39:07.001711+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk",
+      "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-15T22:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
@@ -8717,6 +9187,16 @@
       "published": "2026-10-13T10:13:34+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13596475/declan-rice-arsenals-total-player-and-105m-bargain-can-unlock-more-levels-after-agreeing-new-contract",
+      "title": "Rice: More to come from Arsenal's £105m 'bargain'",
+      "summary": "Arsenal's Kroenke family owners tend not to get involved in transfer dealings but when it came to Declan Rice, and the prospect of spending £100m on a player for the first time, they needed to be sure that it was a sensible investment.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-10-08T12:54:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-17T01:30:00.607104+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
