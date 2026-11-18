@@ -1,23 +1,543 @@
 {
-  "generated_at": "2026-11-18T15:01:28.343412+00:00",
+  "generated_at": "2026-11-18T23:51:06.862829+00:00",
   "stats": {
-    "total": 1089,
+    "total": 1146,
     "categories": {
-      "football": 694,
-      "formula1": 182,
-      "ufc": 213
+      "football": 725,
+      "formula1": 191,
+      "ufc": 230
     },
     "priorities": {
-      "HIGH": 352,
-      "LOW": 620,
-      "MEDIUM": 117
+      "HIGH": 377,
+      "LOW": 648,
+      "MEDIUM": 121
     },
     "sources": 8,
-    "last_scan": "2026-11-18T15:01:26.926032+00:00",
-    "last_scan_new": 44,
+    "last_scan": "2026-11-18T23:51:05.296013+00:00",
+    "last_scan_new": 57,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
+      "title": "Cadillac confirm Bottas will remain with the team in 2027",
+      "summary": "Cadillac have completed their 2027 driver line-up, with Valtteri Bottas set to continue racing alongside Sergio Perez.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-las-vegas-grand-prix.G1YHN2K36iO2K2PxC7zjh",
+      "title": "Best value early bets for the Las Vegas Grand Prix",
+      "summary": "We've assessed the latest betting markets and picked the early bets offering the best value at the Las Vegas Strip Circuit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
+      "title": "Formula 1 and WHOOP announce landmark partnership",
+      "summary": "WHOOP has become an Official Partner of Formula 1 in a multi-year partnership, helping unlock a new era of human performance storytelling in the sport.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-las-vegas-grand-prix.3CN1v7zsYxJIfD3azv9vjj",
+      "title": "Our early Bet Builder picks for Las Vegas",
+      "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Las Vegas Grand Prix, including two podium finishes, a top-six selection and a driver with points potential.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/one/522253/one-championship-strips-christian-lee-of-welterweight-title-after-4-years-of-inactivity",
+      "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity",
+      "summary": "Christian Lee is no longer a ONE champion. On Wednesday, ONE Championship announced it has officially vacated Lee’s welterweight title after four years of inactivity in the division. BREAKING 🚨 ONE Championship has officially declared the ONE Welterweight MMA World Title vacant with immediate effect due to inactivity. Exactly four years ago to the day, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo",
+      "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+      "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T22:34:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+      "title": "Manchester United’s infamous 1974 relegation is a warning from history",
+      "summary": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again In many ways, there are striking parallels between the Manchester United relegated in 1974 and the Manchester United sitting in the relegation zone at this stage of the season for the first time in 40 years. A legendary manager leaves, his shadow remains; with boardroom dithering and uncertainty, his replacements churn and burn as the club slide over several years. Sir Matt Busby stepped aside as manager of the 1968 European Cup-winning side, but stayed on as a director, just as Sir Alex Ferguson did, watching from the Old Trafford directors’ box as successors tried and failed. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T22:30:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo",
+      "title": "Buurman rescues late Chelsea win against PSG",
+      "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T22:13:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
+      "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
+      "summary": "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily at least, at the top of the table in the league phase. Buurman had stolen the show in Chelsea’s defeat of Manchester City at the weekend, coming on 12 minutes in and nullifying Khadija Shaw’s threat to be named player of the match, and she was the hero under the lights with Chelsea doing everything but score prior to her goal. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T22:06:45+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnqxmx",
+      "title": "Euro Leagues",
+      "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T22:06:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/kevin-vallejos-five-fights-to-watch-before-ufc-qatar",
+      "title": "Kevin Vallejos | Five Fights To Watch Before UFC Qatar",
+      "summary": "A Handful Of Performances You Need To See Ahead Of The Featherweight Prospects Return To The Octagon At UFC Fight Night: Procházka vs Stirling This Saturday Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
+      "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
+      "summary": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522148/opinion-where-does-ufc-334-rank-among-the-10-madison-square-garden-ufc-cards",
+      "title": "Opinion: Where does UFC 334 rank among the 10 Madison Square Garden UFC cards?",
+      "summary": "Every week I solicit questions in the feed. Sometimes, I get a question so good that I want to spend 1200+ words diving into it. This is one of those weeks. Was UFC 334 the worst Madison Square Garden card of all time? Was that the worst MSG card of all time? Other than a […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T21:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo",
+      "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+      "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T21:22:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o",
+      "title": "England defender Carter joins Bay FC after Gotham exit",
+      "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T21:07:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o",
+      "title": "Strasbourg appoint Swansea boss Matos",
+      "summary": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T20:57:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T20:55:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522274/ryan-hall-parts-ways-with-ufc-5-years-after-last-fight",
+      "title": "Ryan Hall parts ways with UFC 5 years after last fight",
+      "summary": "Ryan Hall hasn’t fought in nearly five years, and now, he’s officially out of the UFC roster, MMA Fighting has learned. Hall, who was last seen inside the octagon in a decision victory over Darrick Minner in December 2021, remained on the roster since, getting randomly drug tested multiple times per year, and was removed […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T20:51:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo",
+      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+      "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T20:25:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
+      "title": "Cadillac confirm Bottas to stay with team for 2027",
+      "summary": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish driver's future.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-18T20:11:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/alessandro-costa-happy-for-rematch-with-amir-albazi-ufc-doha",
+      "title": "Alessandro Costa Happy For Rematch With Amir Albazi",
+      "summary": "Surging Brazilian Alessandro Costa Discusses Current Hot Streak, Chance To Secure A Place In The Rankings With Win In Rematch With Amir Albazi Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T20:05:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/cadillac-retaining-bottas-for-f1-2027-is-the-logical-move/10875337",
+      "title": "Cadillac retaining Bottas for F1 2027 is the logical move",
+      "summary": "The longest-running contract saga of the Formula 1 season is now at an end. Not that it has been blockbuster material, since it revolves around a team struggling to lift itself from the back of the grid. Still, the easy option for Cadillac F1's stakeholders would have been to throw Valtteri Bottas under the bus after a year in which he has been outqualified by team-mate Sergio Perez 11-9 – ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T20:01:35+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/cadillac-completes-f1-2027-driver-pairing/10875162",
+      "title": "Cadillac completes F1 2027 driver pairing",
+      "summary": "Incumbent Valtteri Bottas will remain with the Cadillac Formula 1 team through 2027 after the US-owned team decided against fast-tracking American test driver Colton Herta to a race seat. Bottas will stay on board with Cadillac alongside Sergio Perez as initially planned, with both race-winning veterans having signed a multi-year deal when they initially joined F1's 11th team. But after ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T20:01:11+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
+      "title": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+      "summary": "New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a privilege” to be the new Manchester United head coach after arriving in England on Wednesday. Pochettino flew from Cincinnati to Manchester overnight after overseeing the USA beating Haiti in his final game in charge. Members of Pochettino’s staff landed earlier in the week to begin work at Carrington , laying the foundations as United seek to turn their season around. His right-hand man, Jesús Pérez, the goalkeeping coach Toni Jiménez and the fitness coach Sebastiano Pochettino, who continues to work with his father, have already taken training with those not on international duty. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T19:58:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/report/578269",
+      "title": "Hemp stars as Man City beat Hacken in Champions League",
+      "summary": "Lauren Hemp scored one and assisted another as Manchester City beat BK Hacken 2-0 in their penultimate Women's Champions League league phase game on Wednesday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T19:50:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo",
+      "title": "Leicester split with sponsor after porn actress row",
+      "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T19:10:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo",
+      "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+      "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T19:09:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
+      "title": "Leicester part ways with BC Game after sponsor’s partnership with porn actor",
+      "summary": "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino’s partnership with a porn actor sparked a fan backlash. BC Game, an offshore company registered in Belize that is unlicensed to operate in the UK , had been Leicester’s main sponsor since 2024. This month BC Game named Eva Elfie a brand ambassador, leading the Foxes Trust, Leicester’s supporters’ trust, to highlight the “devastating impacts” caused by gambling and pornography. On Wednesday the club said they prematurely ended their agreement with the online betting firm after they “recognised our differing commercial priorities”. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T19:01:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/jiri-prochazka-new-dad-new-skills-ufc-doha",
+      "title": "Jiří Procházka | New Dad, New Skills",
+      "summary": "Former Light Heavyweight Champion Jiří Procházka Looking To Defeat Navajo Stirling, Earn A Title Rematch With The Kiwi's Teammate Carlos Ulberg Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T19:01:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/kevin-vallejos-chasing-championship-opportunity-close-year-two-ufc-qatar",
+      "title": "Kevin Vallejos | Chasing A Championship Opportunity To Close Year Two",
+      "summary": "Argentinian Standout Kevin Vallejos Looks To Impress Champion Alexander Volkanovski With His Performance Against Aljamain Sterling On Saturday In Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T19:00:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
+      "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19",
+      "summary": "Khamzat Chimaev’s tour of former UFC champions continues. On Tuesday, Real American Freestyle announced that Chimaev will defend his light heavyweight crossover title against former UFC light heavyweight champion Rashad Evans at RAF 16 on Dec. 19 at Nassau Veterans Memorial Coliseum in Uniondale, NY. A former UFC middleweight champion, Chimaev has become a staple […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+      "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+      "summary": "US women’s head coach won Olympics in 2024 Hayes enjoyed trophy-laden tenure at Chelsea The US women’s national team head coach, Emma Hayes, said she was “confident in the group that is being put together” to select her next counterpart for the men’s team – a group that includes her. Speaking after announcing her team’s squad for the ­Concacaf championship and World Cup qualifier, Hayes shed light for the first time on her role in searching for Mauricio Pochettino’s replacement after the Argentinian decamped to Manchester United . US Soccer had previously said Hayes – alongside the federation CEO, JT Batson, the chief operating officer, Dan Helfrich, and Oguchi Onyewu, the vice-president of sporting – would assist with the search. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T18:44:26+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/dan-hooker-here-we-go-again-ufc-qatar",
+      "title": "Dan Hooker | Here We Go Again",
+      "summary": "Dan ‘The Hangman’ Hooker Talks Losing Streaks, Pressure, And Hustling Back Into The Fray This Weekend Against Brian Ortega In Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T18:31:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/journey-to-main-event-navajo-stirling-ufc-qatar",
+      "title": "Journey To Main Event | Navajo Stirling",
+      "summary": "New Zealander Looks To Secure Biggest Win Of His Career Against Former Champion Jiří Procházka In Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T18:07:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o",
+      "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
+      "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T18:06:04+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
+      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+      "summary": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “a monumental day for US Soccer”, federation president, Cindy Parlow Cone, announced they had bagged their man, Mauricio Pochettino, to become the highest-profile United States manager in the men’s national team’s history. Pochettino held court for three-quarters of an hour in his signature blend of Spanglish before the assembled media and a grab bag of sponsors. Then he recorded some TV hits. And after that, in a bit of accidental prescience, he went off to record a podcast with Gary Neville. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T18:00:04+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go",
+      "title": "Rooney revelations important - Bradford boss Duff",
+      "summary": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T17:52:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-announces-new-partnership-with-whoop/10875346",
+      "title": "F1 to showcase driver health data in new partnership",
+      "summary": "Formula 1 has signed a deal with wearables company WHOOP which will see a number of drivers wear the company's health trackers and showcase their data on the TV broadcasts in 2027. WHOOP will become an Official Partner of F1 in a deal that will see an increasing number of drivers start wearing tech bracelets provided by the company while inside the car. Per F1's plans, that data such as heart ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T17:39:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
+      "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef",
+      "summary": "UFC 334 certainly had it’s ups and downs, but the main event delivered in a big way between Ciryl Gane and Josh Hokit. Days later, people are still breaking down what they saw, how the fight was scored, and if an immediate rematch could be in play. What has been taken away most from the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T17:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o",
+      "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
+      "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T17:06:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-store-drops-georges-st-pierre-20-year-anniversary-collection",
+      "title": "UFC Store Drops Georges St-Pierre 20 Year Anniversary Collection",
+      "summary": "A Custom GSP Classic Signature Replica Title Belt Anchors the Celebration of a Defining Career Milestone Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-18T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522236/aljamain-sterling-details-umar-nurmagomedovs-alleged-role-in-merab-dvalishvili-attack",
+      "title": "Aljamain Sterling details Umar Nurmagomedov’s alleged role in Merab Dvalishvili attack",
+      "summary": "Aljamain Sterling has lost all respect for Umar and Usman Nurmagomedov. Last week, Sterling’s teammate, Merab Dvalishvili, got jumped by Usman Nurmagomedov and his entourage at the Yas Hotel lobby ahead of RAF Abu Dhabi. Multiple people caught the event on video, and everyone involved was arrested. And like most of the MMA community when […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
+      "title": "Fernandes tumbles as new No 1 is crowned: Sky Sports' top 25 Premier League players",
+      "summary": "Bruno Fernandes has been dethroned as the king of the Premier League in a major shake-up to the top 25 Premier League players.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo",
+      "title": "Watch: Non-league player scores from own half",
+      "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T16:46:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnnkrh",
+      "title": "72+: The EFL Podcast",
+      "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T16:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o",
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T16:09:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier",
+      "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
+      "summary": "Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris Olympics, Emma Hayes has thoroughly tested fresh faces and new combinations, gathering a considerable amount of data about the US women’s national team. It’s been a thorough process, with 33 players earning their first caps since Hayes assumed the post, to bring her roster of options to 61 players. At last, the main event is nearing. On 27 November, the United States will enter the Concacaf W Championship with a clear objective: beat El Salvador. Winning the whole thing is nice, of course, and the USWNT have done so in nine of the tournament’s 11 installments to date. But by far the most important game on that journey is the first one, that quarter-final date with clear stakes: overcome El Salvador, or rely on a playoff to reach next summer’s World Cup. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T16:00:05+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522223/josh-hokit-explains-why-he-flipped-off-bruce-buffer-at-ufc-334-its-gonna-be-fck-you-every-time",
+      "title": "Josh Hokit explains why he flipped off Bruce Buffer at UFC 334: ‘It’s gonna be f*ck you every time’",
+      "summary": "For Josh Hokit, flipping off at UFC announcer Bruce Buffer during his introduction at Madison Square Garden is a message to the current state of the sport. Hokit entered the octagon on Nov. 16 to challenge Ciryl Gane for the undisputed heavyweight title in New York and decided to show Buffer the finger while being […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
+      "title": "Premier League predictor - play our new game each week!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
+      "title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been understandably busy since being appointed head coach of Manchester United. Unfortunately for Old Trafford regulars, the small print of his contract meant the Argentinian was tied up masterminding victory for USA USA USA in the second leg of their Concacaf Nations League quarter-final against Haiti when he ought to have been in Carrington moving red magnets around a tactics board in front of Marcus Rashford, Kobbie Mainoo and Harry Maguire. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T15:16:44+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522228/ufc-releases-former-title-contender-virna-jandiroba-i-was-caught-off-guard-by-this-decision",
+      "title": "UFC releases former title contender Virna Jandiroba: ‘I was caught off guard by this decision’",
+      "summary": "Virna Jandiroba has been released from the UFC after a loss to Tatiana Suarez at UFC Vegas 124, she announced Wednesday on social media. The former Invicta FC champion and UFC title challenger leaves the promotion with an Octagon record of 9-5, a run that includes wins over Yan Xiaonan, Tabatha Ricci, Angela Hill and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T15:14:22+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo",
+      "title": "Pressley calls for national centre to enhance Scottish game",
+      "summary": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T15:07:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/the-f1-braking-system-innovation-that-could-soon-be-revealed.5BLbJmoFNGwhbllIHNGHOG",
       "title": "The F1 braking system innovation that could soon be revealed",
@@ -119,6 +639,26 @@
       "first_seen": "2026-11-18T15:01:26.926032+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale",
+      "title": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing",
+      "summary": "Arsenal are one of three top Premier League clubs interested in signing Bournemouth and England midfielder Alex Scott.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
+      "title": "Piastri to serve grid penalty at Las Vegas GP",
+      "summary": "McLaren have confirmed that Oscar Piastri will serve a 10-place grid penalty at this weekend's Las Vegas Grand Prix as he will be forced to exceed his engine allowance for the season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-18T14:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
       "url": "https://www.autosport.com/f1/news/the-factors-behind-the-abortive-f1-2030-rules-announcement/10875290",
       "title": "The factors behind the abortive 2030 F1 rules announcement",
       "summary": "Famously, when the papal conclave gathers to elect a new pope, a successful vote is communicated to the huddled masses via smoke from the Sistine Chapel chimney as the chemically impregnated ballot papers are burned: white smoke signifies a decision, black means yet another round of voting. The practice derives from the 13th century, when the cardinals took three years to debate a successor to ... Keep reading",
@@ -127,6 +667,16 @@
       "published": "2026-11-18T14:08:08+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522012/feelings-is-not-for-the-cage-jiri-prochazka-promises-to-be-a-weapon-like-never-before-in-ufc-qatar-main-event",
+      "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event",
+      "summary": "Jiri Prochazka is ready to rectify a big mistake in his eyes. The former UFC light heavyweight champion is set to face Navajo Stirling in the main event of UFC Qatar this Saturday. Prochazka recently competed for the chance to regain championship gold at UFC 327 in April. After Carlos Ulberg suffered a torn ACL […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o",
@@ -157,6 +707,16 @@
       "published": "2026-11-18T13:05:48+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521990/morning-report-joe-rogan-thinks-its-crazy-ciryl-gane-didnt-lose-point-for-josh-hokit-eye-poke",
+      "title": "Morning Report: Joe Rogan thinks it’s ‘crazy’ Ciryl Gane didn’t lose point for Josh Hokit eye poke",
+      "summary": "Ciryl Gane beat Josh Hokit in convincing fashion at UFC 334, but an uncalled foul might have affected the end result. Saturday’s main event saw Gane and Hokit batter each other for 25 non-stop minutes of action, with Gane eventually taking the win on the scorecards to successfully defend his UFC heavyweight title. The win […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo",
@@ -597,6 +1157,16 @@
       "published": "2026-11-17T22:58:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613766/manchester-united-pursuit-of-nico-paz-boosted-by-mauricio-pochettino-arrival-paper-talk",
+      "title": "Papers: Pochettino could help Man Utd's pursuit of Paz",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T22:58:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T23:51:05.296013+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo",
