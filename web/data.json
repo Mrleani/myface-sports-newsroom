@@ -1,23 +1,463 @@
 {
-  "generated_at": "2026-11-18T00:27:45.615458+00:00",
+  "generated_at": "2026-11-18T15:01:28.343412+00:00",
   "stats": {
-    "total": 1045,
+    "total": 1089,
     "categories": {
-      "football": 666,
-      "formula1": 167,
-      "ufc": 212
+      "football": 694,
+      "formula1": 182,
+      "ufc": 213
     },
     "priorities": {
-      "HIGH": 338,
-      "LOW": 593,
-      "MEDIUM": 114
+      "HIGH": 352,
+      "LOW": 620,
+      "MEDIUM": 117
     },
     "sources": 8,
-    "last_scan": "2026-11-18T00:27:43.871559+00:00",
-    "last_scan_new": 48,
+    "last_scan": "2026-11-18T15:01:26.926032+00:00",
+    "last_scan_new": 44,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-f1-braking-system-innovation-that-could-soon-be-revealed.5BLbJmoFNGwhbllIHNGHOG",
+      "title": "The F1 braking system innovation that could soon be revealed",
+      "summary": "Mark Hughes and Giorgio Piola speculate about a revolutionary cooling method that could soon be revealed.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY",
+      "title": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
+      "summary": "World Champion Kimi Antonelli is set to run with Mercedes' upgraded turbocharger at this weekend's Las Vegas Grand Prix, but team mate George Russell will not.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-las-vegas-grand-prix.7yJLDDlVCuKALLnoYrpgrb",
+      "title": "How F1 drivers and strategists tackle the Las Vegas Grand Prix",
+      "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/save-the-date-f1-unlocked-season-finale-watch-party.22ZXTQut4A8OosqH0ldCTM",
+      "title": "Save the date: F1 Unlocked Season Finale Watch Party",
+      "summary": "",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-formula-1-night-races.w2XDE4bcho7ho79HRKfFa",
+      "title": "QUIZ: 10 tricky questions on Formula 1 night races",
+      "summary": "This weekend we return to Las Vegas – F1’s newest night race – so it’s the best time to test your knowledge on racing action under floodlights...",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
+      "title": "Piastri set for grid penalty at Las Vegas Grand Prix",
+      "summary": "Oscar Piastri is set to take a penalty for the Las Vegas Grand Prix with McLaren confirming the Australian will have a new Internal Combustion Engine.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-las-vegas-grand-prix-on-f1-tv-premium.5YZztaEts0uPxfdx2UwaQE",
+      "title": "How to stream the 2026 Las Vegas Grand Prix on F1 TV Premium",
+      "summary": "Here is all the information you need to follow the Las Vegas Grand Prix weekend live on F1 TV.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-las-vegas-grand-prix.1ki78WcweOZ8vq2zQ1HOJX",
+      "title": "What is the weather forecast for the Las Vegas Grand Prix?",
+      "summary": "The weather forecast is in ahead of the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w",
+      "title": "What tyres will the teams have for the Las Vegas Grand Prix?",
+      "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/trivia-the-facts.5avgFqteXDYBLcsPPYOJcj",
+      "title": "QUIZ: How well do you know F1's races in the Americas?",
+      "summary": "",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/the-factors-behind-the-abortive-f1-2030-rules-announcement/10875290",
+      "title": "The factors behind the abortive 2030 F1 rules announcement",
+      "summary": "Famously, when the papal conclave gathers to elect a new pope, a successful vote is communicated to the huddled masses via smoke from the Sistine Chapel chimney as the chemically impregnated ballot papers are burned: white smoke signifies a decision, black means yet another round of voting. The practice derives from the 13th century, when the cardinals took three years to debate a successor to ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T14:08:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o",
+      "title": "Fan voice on board key to ending Celtic unrest - club legend McStay",
+      "summary": "Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T13:55:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/what-mclaren-has-learned-from-a-tough-f1-2026/10875268",
+      "title": "What McLaren has learned from a tough 2026 as it aims for a return to glory in 2027",
+      "summary": "McLaren's 2026 Formula 1 season has been characterised by a recovery effort that never quite came to fruition. Yet, team principal Andrea Stella insists the reasons for this are well understood, so he can be optimistic about 2027: \"We are in a completely different place compared to the start of the season,\" he told Autosport. Whenever it seemed to have caught its rivals, McLaren found itself ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T13:30:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo",
+      "title": "Israel row a 'defining moment for us' - Hallgrimsson",
+      "summary": "Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T13:05:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo",
+      "title": "Toney loses bid to avoid Euro 2028 court clash",
+      "summary": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T12:46:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o",
+      "title": "Joint-record six referee errors in last Premier League weekend",
+      "summary": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T12:38:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+      "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a cut-price deal to avoid legal action from the existing rights holders, Fox Sports. This week’s tender process for the 2030 tournament will be anything but. Media rights and broadcast experts canvassed by the Guardian in the US and Europe are united in agreement that Fifa will benefit from the most competitive and expensive auction in the competition’s history. It is expected to fetch between $1.5bn (£1.13bn) and $2bn, with some predicting the outcome could be a landmark moment for the sports and entertainment industry. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T12:01:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west",
+      "title": "‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
+      "summary": "Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ‘I think you should be a model,’” the Bromley defender Omar Sowunmi says. He was already living out many people’s dreams as a professional footballer but was able to assume an alter ego in the world of fashion. There are few parallels between the grind of lower-league football and Milan fashion week but the 31-year-old is adept in both worlds. Sowunmi’s dual career mixes trips to Doncaster with visits to Paris. On Saturday Bromley travel to Reading under their new manager, Karl Robinson, as they attempt to move off the bottom of League One and the centre-back is clear where his focus lies even after his chance encounter with a model agency employee expanded his horizons. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T12:00:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
+      "title": "Your PL club's 'Unfinished Business' revealed ahead of January window",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january",
+      "title": "Man Utd expected to back Poch in January transfer window",
+      "summary": "Manchester United head coach Mauricio Pochettino is expected to be backed in the January transfer window as the club aim to address their disappointing start to the season.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T12:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Leeds latest: KMI panel split on if Bogle should've seen red vs Spurs",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Coventry latest: Yirenkyi hair pull should've led to penalty, panel votes",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo",
+      "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+      "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T10:51:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo",
+      "title": "Williams to join temporary Swansea coaching team",
+      "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T10:48:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo",
+      "title": "Former Spain midfielder Mata retires aged 38",
+      "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T10:12:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do",
+      "title": "NI will carry momentum into Euro 2028 qualifiers",
+      "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T10:04:44+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness",
+      "title": "What does Arteta do with Konsa once Saliba returns?",
+      "summary": "Arsenal have a big set of fixtures coming up after the November international break. Big games require big team selections - and Mikel Arteta has a huge decision to make in his defence.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T10:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
+      "title": "Hall is England's best left-back - because he started out as a midfielder",
+      "summary": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents",
+      "title": "Fifa’s World Cup TV rights documents indicate hydration breaks will stay in 2030",
+      "summary": "Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World Cup includes a provision for broadcasters to sell adverts during hydration breaks in a strong indication the controversial stoppages will be retained. A three-minute break midway through each half was introduced for the first time at all 104 matches at last summer’s World Cup in the interests of player welfare, a radical move that also provided a commercial boon for broadcasters, particularly the rights holders in the United States, Fox Sports and Telemundo. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T09:29:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613499/mauricio-pochettino-incoming-manchester-united-head-coach-calls-for-time-to-topple-manchester-city-ahead-of-old-trafford-arrival",
+      "title": "Pochettino vows to make Manchester red again",
+      "summary": "Mauricio Pochettino has promised to make Manchester United the dominant force in the city again, insisting \"you will see\" when challenged over Manchester City's supremacy.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T09:21:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-daily-life-with-f1s-newest-champion/10875217",
+      "title": "The Antonelli you don't know: Daily life with F1's newest champion",
+      "summary": "There is one thing that physiotherapist Sergi Avila took a little while to understand. When Kimi Antonelli finally found himself with a free weekend, after weeks being spent between circuits, airports and training, the most logical choice would have been to stay at home: sleep a few extra hours, meet friends and switch off. Antonelli, instead, got in the car and went to a race track - perhaps to ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T09:20:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o",
+      "title": "Manchester won't always be blue - Pochettino",
+      "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T08:42:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o",
+      "title": "Rangers explore return for Cerny - gossip",
+      "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T08:15:37+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/piastri-to-receive-grid-drop-at-las-vegas-gp/10875205",
+      "title": "Piastri to receive 10-place grid drop at Las Vegas GP",
+      "summary": "McLaren driver Oscar Piastri is set for a 10-place grid drop at the Las Vegas Grand Prix for exceeding his engine allowance in the 2026 Formula 1 season. The 25-year-old was already on the limit of four internal combustion engines for the campaign, but will need a fifth Mercedes V6 engine to finish 2026. As it is the first time he is exceeding his ICE allowance, Piastri will be docked 10 ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-18T08:14:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
+      "title": "Swing when you’re winning? Biggest leaps across Fifa’s football rankings | The Knowledge",
+      "summary": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and more Mail us with all of your questions and answers “The Scotland men’s team’s highest Fifa ranking was 13th (in 2007) and the worst was 88th place (in 2005) – a difference of 75 positions,” writes Bogdan Kotarlic. “Is this the biggest gap between the best and worst ranking for one national team?” The gap between Scotland’s best and worst Fifa rankings isn’t the biggest in men’s international football; in fact, Pete Tomlin calculates that a 75-place swing puts them joint 141st with Ghana and Seychelles. And, as Chris Lewis and others point out, there are a couple of other home nations who have had more dramatic swings. Wales and Northern Ireland both moved up 109 places: Wales from 117th to eighth under Gary Speed and then Chris Coleman, Northern Ireland from 129th in 2004 to 20th in 2017. 183 places Montenegro (16th/199th) 165 Kuwait (24/189) 160 Bosnia and Herzegovina (13/173) 155 Cape Verde (27/182) 153 Central African Republic (49/202) 151 Libya (36/187) 146 Equatorial Guinea (49/195) 144 Moldova (37/181) 141 El Salvador (49/190) 136 Cuba (46/182), Slovakia (14/150) Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T08:00:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
+      "title": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "summary": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “everything about”. The reason for Jack Grealish’s omission from Tuchel’s first England squad in March 2025 was given as “he simply has no rhythm”. Catch a falling star? Grealish was suspended by Everton for three matches following “a breach of club discipline”. Suggestions his loan from Manchester City might be cancelled were calmed by David Moyes. Last week, Grealish played in a behind-closed doors friendly against Derby before issuing an Instagram statement: “I want to apologise to the fans and everyone at the club for not being able to help the team the last few weeks.” Amid tabloid tales of karaoke nights and extended socialising, how close is the former boy wonder, now 31, to blowing it? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T08:00:36+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
+      "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
+      "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved dramatically. Once a defensive-first position that provided some auxiliary attacking support, the role has developed into something far more multifaceted. Just ask right-back Ben White, who – with Riccardo Calafiori on the left – has been an important figure in Arsenal’s superb start to the campaign. Talking a few years ago, he said: “Playing full-back the way [Mikel Arteta] wants is completely different to any other manager. To play full-back for him, you’ve got to be a centre-midfielder, a centre-back, a winger and a No 10.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-18T08:00:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnkk9j",
+      "title": "Listen: What needs to change for Pocognoli and Scotland?",
+      "summary": "What needs to change to turn Scotland’s fortunes around?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13613478/premier-league-top-25-players-who-is-the-best-player-in-the-premier-league-right-now",
+      "title": "The big top-25 PL player reveal is on... Who's ranked 15 to 11?",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T07:42:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro",
+      "title": "From one of Ajax's future stars to quitting football for music",
+      "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T07:02:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T06:56:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o",
+      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
+      "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-18T06:27:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships",
+      "title": "What's still to play for in 2026 as F1 hits Vegas?",
+      "summary": "The 2026 Formula 1 season has three races left to go with the Las Vegas Grand Prix opening the final triple header of the year this weekend.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-18T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522129/ufc-signs-two-fighters-for-late-notice-undercard-matchup-for-ufc-qatar",
+      "title": "UFC signs two fighters for late-notice undercard matchup for UFC Qatar",
+      "summary": "UFC Qatar just added an all-new fight. On Tuesday, MMA Fighting confirmed that the prospects John Mitchell and Shoaib Yousaf had signed with the promotion and will make their debuts this Saturday in a lightweight fight at UFC Qatar. The fight was first reported by Marcel Dorff. A 31-year-old Irish fighter, Mitchell (11-3) has competed […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T01:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T15:01:26.926032+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES",
       "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
