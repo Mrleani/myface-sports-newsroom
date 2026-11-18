@@ -1,23 +1,493 @@
 {
-  "generated_at": "2026-11-17T15:26:53.461816+00:00",
+  "generated_at": "2026-11-18T00:27:45.615458+00:00",
   "stats": {
-    "total": 997,
+    "total": 1045,
     "categories": {
-      "football": 637,
-      "formula1": 160,
-      "ufc": 200
+      "football": 666,
+      "formula1": 167,
+      "ufc": 212
     },
     "priorities": {
-      "HIGH": 320,
-      "LOW": 568,
-      "MEDIUM": 109
+      "HIGH": 338,
+      "LOW": 593,
+      "MEDIUM": 114
     },
     "sources": 8,
-    "last_scan": "2026-11-17T15:26:51.705173+00:00",
-    "last_scan_new": 50,
+    "last_scan": "2026-11-18T00:27:43.871559+00:00",
+    "last_scan_new": 48,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES",
+      "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
+      "summary": "Cadillac have become the latest team to showcase a bespoke livery that will feature on their car for the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/audi-announce-emma-felbermayr-for-third-f1-academy-season-in-2027.3numbjpdYoNe5Bp0NCeSUz",
+      "title": "Audi announce Felbermayr for third F1 ACADEMY season in 2027",
+      "summary": "Audi have confirmed that Emma Felbermayr will contest a third F1 ACADEMY season next year, with the Austrian driver remaining part of the Audi Driver Development Programme.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9",
+      "title": "Sainz on his 250th GP and Williams’ ‘most important year’",
+      "summary": "Amid a challenging season for Williams, Carlos Sainz looks back at the ups and downs of his Formula 1 career so far as he gets ready for his 250th Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-las-vegas.4bdBCuhbBNlUkHaoVfsopF",
+      "title": "The 5 drivers to back in Qualifying in Las Vegas",
+      "summary": "We have looked at the betting markets for Qualifying at the Las Vegas Strip Circuit and assessed the chances of the leading contenders for pole.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/williams-retain-jade-jacquet-for-2027-f1-academy-campaign.5BcvOHlUPr9OJXYXq30dnE",
+      "title": "Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign",
+      "summary": "Williams have announced that Jade Jacquet will continue to represent the team for a second F1 ACADEMY season, with the French driver remaining with ART Grand Prix in 2027.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9",
+      "title": "How the Sphere became the heart of the Las Vegas GP",
+      "summary": "It's eye-catching, spectacular and unmistakably Las Vegas. The Sphere has become an integral part of the Las Vegas Grand Prix, and we explore how and why.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522136/uros-medic-says-kevin-holland-milked-the-foul-at-ufc-334-holland-responds",
+      "title": "Uros Medic says Kevin Holland ‘milked the foul’ at UFC 334; Holland responds",
+      "summary": "Uros Medic and Kevin Holland might have to run things back. This past weekend, Medic and Holland faced off in a main card bout at UFC 334, but after 15 minutes of fighting, neither man left happy because, though the judges favored Medic in the majority of rounds, multiple low blows from Medic led referee […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-18T00:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
+      "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+      "summary": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T23:49:31+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o",
+      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T23:37:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
+      "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
+      "summary": "Haaland’s late penalty grabs Norway last-eight spot Parrott penalties help Republic of Ireland secure playoff A wonder strike from Justin Devenny earned Northern Ireland top spot in Nations League Group B2 and promotion to the top tier of the competition. The Stoke player fired home on the volley from the edge of the area to earn a 1-1 draw away to Hungary , who would have leapfrogged Michael O’Neill’s side in the group with victory. Northern Ireland had fallen 1-0 behind after a 35th-minute goal from the striker Barnabas Varga, who slotted home when one-on-one with the goalkeeper Pierce Charles after a defensive mix-up. The goal ended Northern Ireland’s proud record of not having conceded in this campaign and also sent Hungary to the top of the group in the live standings. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T23:35:42+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo",
+      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+      "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T23:10:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-returns-to-toronto-with-world-championship-doubleheader-ufc-336",
+      "title": "UFC RETURNS TO TORONTO WITH WORLD CHAMPIONSHIP DOUBLEHEADER",
+      "summary": "UFC's Return To Toronto Features A Flyweight Title Fight Between Joshua Van (C) and Manel Kape, Interim Welterweight Title Bout Between Carlos Prates and Michael Morales Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-17T23:06:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522043/conor-mcgregor-calls-rising-star-biggest-draw-in-the-ufc-besides-himself",
+      "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself",
+      "summary": "Conor McGregor might have finally met his match at the box office. Though it’s been a while since McGregor was in his championship prime, to this day no UFC fighter has been able to match his pay-per-view pull, with “Notorious” holding several UFC pay-per-view records as well as being one half of a crossover boxing […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613427/man-utd-boss-mauricio-pochettino-to-appoint-clubs-first-ever-female-coach-paper-talk",
+      "title": "Papers: Poch to appoint Man Utd's first-ever female coach",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T22:58:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo",
+      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
+      "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T22:54:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/asu-almabayev-out-to-prove-himself-once-more-ufc-doha",
+      "title": "Asu Almabayev | Out To Prove Himself Once More",
+      "summary": "Ascending Flyweight Contender Asu Almabayev Talks Being Doubted, Importance Of Matchup With Kyoji Horiguchi In Doha, Qatar To Close Out 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-17T22:26:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o",
+      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T22:25:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+      "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy of the player wearing the updated jersey, one with a cross through the number to preserve Ronaldo’s eternal legacy, as the Portuguese Football Federation put it. A sumptuous finish by Carlos Forbs, a second-half substitute, was ultimately enough to clinch victory on a topsy-turvy night with Portugal surviving Pedro Neto’s sending-off for two yellow cards. For Wales, a Nations League relegation playoff double-header awaits in March, with Slovenia, Hungary, Republic of Ireland or Bosnia and Herzegovina – who knocked them out of World Cup qualifying this year – all potential opponents in Friday’s draw in Switzerland. Afterwards Craig Bellamy stressed the importance of keeping elite company to accelerate improvement but reiterated that he will not be in the job beyond Euro 2028, after which his contract expires. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T22:14:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o",
+      "title": "Highlights: Ten-man Portugal beat Wales to top group",
+      "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T21:56:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131",
+      "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
+      "summary": "Justin Devenny's superb strike saw Northern Ireland earn promotion to the top tier of the Nations League with a hard-fought 1-1 draw away to closest challengers Hungary in Budapest.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T21:49:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/republic-of-ireland-vs-kosovo/report/554134",
+      "title": "Parrott fires Republic of Ireland into Nations League play-offs",
+      "summary": "Troy Parrott fired the Republic of Ireland into a Nations League play-off berth with two penalties in their 3-0 victory over 10-man Kosovo at the Aviva Stadium in Dublin.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T21:44:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/wales-vs-portugal/report/554136",
+      "title": "Wales beaten by 10-man Portugal as Neto scores but is sent off",
+      "summary": "Wales ended their Nations League group campaign with a 3-2 defeat against 10-man Portugal in Cardiff after Chelsea's Pedro Neto was sent off.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T21:40:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o",
+      "title": "Rangers great Brand dies aged 89",
+      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T21:02:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522050/tommy-mcmillen-reveals-details-of-his-overdose-my-body-just-gave-out",
+      "title": "Tommy McMillen reveals details of his overdose: ‘My body just gave out’",
+      "summary": "Tommy McMillen nearly paid a heavy price for his partying. Last week, reports surfaced that McMillen was taken to an Arizona hospital after suffering an apparent overdose at the nightclub “Cake” in Scottsdale. Details were murky, but on Tuesday’s Joe Rogan Experience, McMillen confirmed the report, sharing more about what happened. “F*ck, man. OK, for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o",
+      "title": "Millwall open disciplinary proceedings against Baker",
+      "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T20:00:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
+      "title": "‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future",
+      "summary": "At a potentially critical juncture for football, the PFA chief executive talks about the organisation, wider fears in the game and why the Folarin Balogun affair was ‘scandalous’ After five years in charge of the Professional Footballers’ Association, what has Maheta Molango learned? “The game is in danger,” the 43-year-old says. “I’ve learned that the game I loved and led me to first play and then advise and then lead a club and today to lead the PFA, is in danger because it is being forgotten.” In 2026, with football ubiquitous on all platforms, with a World Cup that generated $15bn (£11.4m) in revenue, and with attendances across the English pyramid growing year on year, it may seem hard to imagine forgetting about the game. But Molango’s unique perspective as head of the English players’ union observes a different picture; one where the future of the sport is being determined not by what will maintain its popularity, but what will make the most money. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T20:00:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/521853/raf-exec-dana-whites-criticism-about-security-protocols-unfair-after-usman-nurmagomedovs-attack-on-merab-dvalishvili",
+      "title": "RAF exec: Dana White’s criticism about security protocols ‘unfair’ after Usman Nurmagomedov’s attack on Merab Dvalishvili",
+      "summary": "RAF co-founder Chad Bronstein doesn’t agree with Dana White’s criticism of the wrestling promotion’s criticism in regard to security. During UFC 334 fight week, the UFC CEO reacted to the viral incident of Usman Nurmagomedov and several members of his team attacking Merab Dvalishvili ahead of RAF Abu Dhabi at the athlete hotel. White said […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
+      "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
+      "summary": "Teenager says ‘thank you for everything’ in video Gabriel expected to join Real Madrid JJ Gabriel has announced his departure from Manchester United by posting a farewell message to the club on social media. The teenager, who has not played a competitive game for the first team, joined as a 10-year-old in 2020 but has been absent since he requested the cancellation of his registration in September before he turned 16, on 6 October. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T19:50:48+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522021/josh-hokit-claims-ciryl-gane-completely-poked-my-eye-out-in-ufc-334-main-event-campaigns-for-rematch",
+      "title": "Josh Hokit claims Ciryl Gane ‘completely poked my eye out’ in UFC 334 main event, campaigns for rematch",
+      "summary": "Josh Hokit wants another shot at Ciryl Gane. Now. The heavyweights battled back-and-forth this past Saturday in the championship main event of UFC 334, with Gane eventually earning a five-round decision win to retain his title. Hokit marched forward for almost the entire fight and even though Gane appeared to clearly out-strike him, cageside commentator […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T19:43:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo",
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T19:35:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly",
+      "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
+      "summary": "Jordan 2-0 Australia (Al-Taamari 34, Ali Olwan 90+3) Socceroos had just one effort on target in defeat In their final game of 2026, the Socceroos were given a reminder that they remain a work in progress, beaten 2-0 by Jordan in an international friendly where the scoreline failed to reflect the first-half siege the victors laid on their opponent’s goal, nor the unforced errors and brain fades that helped doom the Australians’ hopes of firing a shot in response. Optimism was high for those in green and gold after their comfortable win against the reigning Asian champions Qatar on Friday but very quickly on Tuesday it was made apparent that the Jordanians were to provide far more spirited opposition. This time around it would be the Australians that were to be the subject of a first-half onslaught, as a Jordan team inspired by Musa al-Taamari launched forward with wicked pace and ruthless intent whenever the opportunity, or space left by the Socceroo defence, presented itself. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T19:14:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
+      "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+      "summary": "JJ Gabriel has announced he is leaving Manchester United as he looks forward to his \"next chapter\" at Real Madrid.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T18:29:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
+      "title": "Navajo Stirling | Four Up, Four Down",
+      "summary": "Surging Light Heavyweight Seeks Fourth Win In 2026 And Biggest Victory Of His Career On Saturday Against Jiří Procházka In Doha, Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-17T18:10:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/get-to-know-navajo-stirling",
+      "title": "Get To Know Navajo Stirling",
+      "summary": "Learn More About New Zealander Navajo Stirling Before His First UFC Main Event Against Jiří Procházka In Doha, Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-17T17:48:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/media/2026/nov/17/danny-kelly-obituary",
+      "title": "Danny Kelly obituary",
+      "summary": "Ebullient journalist, magazine editor and broadcaster whose passion for music and football shone through all his work Danny Kelly, who has died aged 69, influenced music journalism and sports broadcasting for more than four decades. Humour, enthusiasm and encyclopedic knowledge were the hallmarks of his work as a writer and editor at the New Musical Express (NME) and Q magazine, and throughout his online, TV and audio career, most prominently around his passion for football. In 1997 Kelly helped set up Football 365, one of the earliest football websites, and still one of the most popular in the UK. He hosted radio shows on BBC 5 Live, TalkSport, BT Sport and Times Radio, as well as many podcasts including The View from the Lane, about the team he had supported since childhood, Tottenham Hotspur. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T17:46:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo",
+      "title": "Arsenal Double winner Storey dies aged 81",
+      "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T17:33:41+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/im-entering-to-win-philippe-diallo-launches-campaign-to-topple-gianni-infantino",
+      "title": "‘I’m entering to win’: Philippe Diallo launches campaign to topple Gianni Infantino",
+      "summary": "French FA chief officially begins bid for Fifa presidency Uefa’s choice hints at ‘support from other continents’ Philippe Diallo, Europe’s candidate to fight Gianni Infantino for the Fifa presidency, said he had received “strong signs of support from other continents” as he launched his campaign in Paris on Tuesday. The French Football Federation president also said he had contacted Kozo Tashima, who announced his candidacy this month, and would try to convince him to “join forces”. Diallo did not indicate whether he would explicitly be asking Tashima to stand aside. “Our approaches are based on the same assessments and the same values,” he said. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T17:18:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
+      "title": "Wayne Rooney says he contemplated taking own life during playing career",
+      "summary": "Former England footballer opens up on mental health ‘It was probably the lowest point’ at Manchester United Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own life. The former England striker said that, even as he flourished on the pitch, he was struggling with his mental health off it, despite being newly married and a dad to his eldest child, Kai. He said he would spend two days at a time drinking at home and, he told the Life At The Midpoint with Gabby Logan podcast, at his lowest point considered taking his own life. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T17:13:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
+      "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko",
+      "summary": "Kayla Harrison beat one of the best fighters of all-time at UFC 334 and also strengthened her case to be MMA’s current pound-for-pound queen. In a matchup years in the making, Harrison spoiled the comeback of the great Amanda Nunes with a fourth-round rear-naked choke submission win this past Saturday at Madison Square Garden in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
+      "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
+      "summary": "The 4-0 debacle against Switzerland has added to the tactical concerns about the head coach’s suitability, just six games into the job The Scottish Football Association can only cling to a lesson from the past when assessing a worrying international window. Steve Clarke was beleaguered during his early games in charge. Successive 4-0 defeats by Belgium and Russia in 2019 left Clarke with the sense he should have stayed in club management. A revival meant Clarke led his country to three out of four tournaments. There are, however, fundamental differences between the story of Clarke and that being delivered by Sébastien Pocognoli. Clarke was a pragmatist, whose decades in coaching suggested he had the wherewithal to revive Scotland. Pocognoli, six games into his tenure, is in danger of lurching into the territory of dreamy ideologue whose aspiration for how Scotland must play is unworkable. The meek nature of Scotland’s collapse in the 4-0 loss to a second-string Switzerland was lamentable. The Belgian’s assessment, with overpraise a key theme, raised eyebrows. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T16:59:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+      "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+      "summary": "Arsenal are close to finalising new deals with David Raya, Jurrien Timber and Piero Hincapie.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T16:23:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/fighters-on-the-rise-ufc-qatar-topuria-costa-lorenz",
+      "title": "Fighters On The Rise | UFC Qatar",
+      "summary": "Identifying Three Names To Track This Weekend And Going Forward Inside The Octagon At UFC Fight Night: Prochazka vs Stirling Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-17T16:22:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o",
+      "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
+      "summary": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T16:03:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo",
+      "title": "FA wants to host Nations League finals in England",
+      "summary": "England could host the Nations League finals this season after Football Association officials register their interest.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-17T15:51:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/peter-storey-arsenal-england-dies-aged-81",
+      "title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
+      "summary": "Storey made 501 appearances for Arsenal from 1965 He won 19 England caps and finished career at Fulham Arsenal have paid tribute to Peter Storey, a key member of their 1971 Double-winning team, after the death of the former England midfielder at the age of 81. Storey was part of the Bertie Mee team that secured the First Division title and FA Cup in a season that remains one of the most celebrated in Arsenal’s history and played 501 times for the club. That places him eighth on their appearances list. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T15:46:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613272/mercedes-confirm-aduo-turbo-upgrade-ready-for-las-vegas-gp-with-kimi-antonelli-set-to-run-new-engine-part",
+      "title": "Mercedes set to run ADUO engine upgrade in Las Vegas with one driver",
+      "summary": "World champions Mercedes will bring their ADUO turbocharger upgrade to this weekend's Las Vegas Grand Prix, although George Russell will not use it to avoid having to take another grid penalty in his bid for second place in the Drivers' Championship.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-17T15:31:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521973/usman-nurmagomedov-associates-involved-in-abu-dhabi-brawl-out-of-prison-following-reduced-sentences",
+      "title": "Usman Nurmagomedov, associates involved in Abu Dhabi brawl out of prison following reduced sentences",
+      "summary": "Usman and Umar Nurmagomedov appear to be in the clear after being detained for their involvement in the gang attack on Merab Dvalishvili ahead of RAF Abu Dhabi. United Arab Emirates news outlet The National reported Tuesday that the Nurmagomedovs and their associates have been released from prison after potentially facing a six-month stay for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-17T15:30:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz",
       "title": "Brown on why McLaren struggled to fight for title in 2026",
@@ -57,6 +527,16 @@
       "published": null,
       "priority": "HIGH",
       "first_seen": "2026-11-17T15:26:51.705173+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+      "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greece – but the manager tasked with returning Die Mannschaft to relevance claimed not to care. “I’m completely unbothered,” Klopp trilled unconvincingly. “I’ve lost far more matches than I would have liked, but as long as you draw the right conclusions, a loss is ultimately a piece of information – no different from a win.” It was a quote straight out of the Pierre Sage playbook for unfussed continental coaches – and probably worried a few German FA suits, given Klopp had already threatened to quit at his own unveiling over potential media intrusion and criticism. “If you say tomorrow, ‘he’s [sh!t]’, tell me to my face and I’m out,” Klopp roared to trembling hacks in July . That imagined confrontation now looks unlikely to take place, because his Germany side are suddenly very good indeed. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-17T15:23:15+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-18T00:27:43.871559+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
