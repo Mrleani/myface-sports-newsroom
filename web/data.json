@@ -1,23 +1,593 @@
 {
-  "generated_at": "2026-11-18T23:51:06.862829+00:00",
+  "generated_at": "2026-11-19T15:11:00.778710+00:00",
   "stats": {
-    "total": 1146,
+    "total": 1207,
     "categories": {
-      "football": 725,
-      "formula1": 191,
-      "ufc": 230
+      "football": 760,
+      "formula1": 212,
+      "ufc": 235
     },
     "priorities": {
-      "HIGH": 377,
-      "LOW": 648,
-      "MEDIUM": 121
+      "HIGH": 398,
+      "LOW": 685,
+      "MEDIUM": 124
     },
     "sources": 8,
-    "last_scan": "2026-11-18T23:51:05.296013+00:00",
-    "last_scan_new": 57,
+    "last_scan": "2026-11-19T15:11:00.279988+00:00",
+    "last_scan_new": 61,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
+      "title": "All the stories that got the Las Vegas paddock talking",
+      "summary": "Lawrence Barretto delves into the key talking points from Wednesday at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-have-stuck-with-bottas-for-2027.7vPHYNkm1aup0szRFaVYyd",
+      "title": "Why Cadillac have stuck with Bottas for 2027",
+      "summary": "Cadillac believe experience in the cockpit is key as they look to level up in their second season in Formula 1 in 2027, which is why they have opted to keep Valtteri Bottas alongside Sergio Perez next season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-williams-mini-league-and-what-you-need-to-know-for-las-vegas-and-qatar.6hHYy6ckLb4oqMNCVPbRul",
+      "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
+      "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
+      "title": "What could shake up the Las Vegas betting markets?",
+      "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-las-vegas-grand-prix.6ynxQ4e9Z7F1o2Uijhh1FK",
+      "title": "Facts, stats and trivia ahead of the 2026 Las Vegas GP",
+      "summary": "As F1 prepares for the Las Vegas Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-las-vegas-strip-circuit.1W9ULMy0aEkvfsJ9tRzItg",
+      "title": "Everything you need to know about the Las Vegas Strip Circuit",
+      "summary": "Get up to speed with all the key Las Vegas statistics, driving pointers, facts and more.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/camara-looks-ahead-to-second-f1-outing-and-offers-update-on-plans-for-final-races.75aokJ7GXrP44nJ1p7NZbv",
+      "title": "Camara offers update on plans for final races of 2026",
+      "summary": "Rafael Camara reflects on his F1 debut in Brazil as he prepares for the Las Vegas Grand Prix, with his plans for Qatar and Abu Dhabi still undecided.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
+      "title": "Piastri opens up on decision to split with management team",
+      "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
+      "title": "'I want to fight for the victory' in Las Vegas – Russell",
+      "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/verstappen-explains-his-only-goal-for-the-rest-of-2026-and-why-red-bull-can-be-very-proud.18FKT9igd9FRjKkBk7PD9q",
+      "title": "Verstappen explains his only goal for the rest of 2026",
+      "summary": "Ahead of the Las Vegas Grand Prix weekend, Max Verstappen has reflected on what his key aim is for the final races of the 2026 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o",
+      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+      "summary": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T15:05:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522362/amanda-nunes-pushes-back-on-kayla-harrison-calling-shots-on-potential-rematch-this-is-not-pfl-baby",
+      "title": "Amanda Nunes pushes back on Kayla Harrison calling shots on potential rematch: ‘This is not PFL, baby’",
+      "summary": "Amanda Nunes expects Kayla Harrison to follow through on her suggestion of a rematch. The bantamweight greats met in a highly anticipated title fight in the UFC 334 co-main event, Nunes’ first fight since 2023. Harrison defeated Nunes via fourth-round submission to successfully defend her 135-pound title, adding another accolade to her crowded trophy case. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
+      "title": "Will Pochettino fix Manchester United? Will Unwin is answering your questions – live",
+      "summary": "As Mauricio Pochettino prepares for his first game in charge at Anfield, the Guardian’s Will Unwin is taking your questions on Manchester United’s new head coach, the crisis he inherits and what comes next. Ask a question: log in or sign up here tetters asks: Every few months there is the report of a new “wonderkid” being signed: a South American full-back, a Scandinavian midfielder, a flying winger etc. But then they never seem to make the squad, let alone the first team. The same for our academy, which wins trophies regularly. Are there real prospects who could supplement or even improve the team? Is it too difficult to introduce them into Premier League games? Are they just investments for future sell-on? And why did JJ Gabriel leave? Will: The simple answer for many, and we can take the Paraguayan left-back Diego León as our example here, is that they are plainly not good enough and signing them has been poor judgment . Some will take time, Sekou Kone was brought in from Mali and is out on loan at Lausanne to gain experience. Developing footballers is not an exact science and bringing them in from all around the world is a complex process to begin with. It is reliant on human f",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T14:58:20+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
+      "title": "Man Utd announce financial results as revenue and wages rise",
+      "summary": "Manchester United have released their latest financial results, with revenue and wages increasing.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T14:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522271/brian-ortega-reveals-crazy-coincidence-about-his-famous-tracy-cortez-lip-tattoo",
+      "title": "Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattoo",
+      "summary": "Sometimes the universe works in mysterious ways. For over two years, two-time featherweight title challenger Brian Ortega was in a relationship with UFC flyweight Tracy Cortez. The two were engaged, and in 2022, Ortega even got her name, “Tracy,” tattooed on the inside of his lip, along with a little heart. The two ultimately broke […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo",
+      "title": "Five return for Wales' World Cup play-off final",
+      "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T13:40:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo",
+      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+      "summary": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T13:29:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
+      "title": "Scotland smashed by the Swiss and Mauricio Pochettino takes charge | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Ali Maxwell , Dan Bardell and Ewan Murray to wrap up the latest international break and look ahead to the Premier League this weekend, including Liverpool v Manchester United Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T13:18:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ikram-aliskerov-eager-continue-climbing-ufc-qatar",
+      "title": "Ikram Aliskerov | Eager to Continue Climbing",
+      "summary": "Russian Middleweight Ikram Aliskerov Discusses Breaking Into The Rankings And His Desire To Keep Moving Forward Ahead Of His Bout In Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T13:00:04+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613937/premier-league-fixtures-on-sky-sports-man-city-vs-arsenal-and-man-utd-vs-liverpool-live-in-january",
+      "title": "Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January",
+      "summary": "Arsenal's trip to Man City and Man Utd hosting Liverpool at Old Trafford are two of the standout fixtures live on Sky Sports in January.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T12:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o",
+      "title": "Will this be the tightest Championship promotion race ever?",
+      "summary": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T12:36:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3kn54nxljo",
+      "title": "Posh chairman MacAnthony 'fighting for his legacy'",
+      "summary": "Darragh MacAnthony says he is \"working around the clock\" to protect his \"legacy\" as Peterborough United chairman.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T12:33:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
+      "title": "Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden",
+      "summary": "The journalist and broadcaster who died last week aged 69 knew the enduring power of radio, even as the landscape changed so quickly It’s injury time at the Emirates on the 29 October 2008, Arsenal are 4-3 up against Spurs. Tom Huddlestone cushions a ball to Luka Modric, whose strike takes a deflection. It loops over Manuel Almunia and on to the post into the path of Aaron Lennon, who prods it home and starts skipping towards the Spurs fans before diving on to the ground and being enveloped by Modric, Benoît Assou-Ekotto, Darren Bent and a couple of pitch-invading fans. Pandemonium, for once, seems the apt way to describe it. But the real entertainment is happening in a radio studio at 18 Hatfields, London SE1; the old home of TalkSport. As the goal goes in, a guttural voice makes an indecipherable but very loud noise. It’s hard to transcribe – perhaps “ERRRRRAAAARRRGGHH”, or maybe “OOEEERRAAGGH”. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T12:28:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+      "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
+      "summary": "Spain Under-21 striker admits the pace of the Premier League has surprised him but says he must stay calm over goal drought at Fulham The first thing Rita Hayworth’s great nephew says when he walks in is: “Sorry I’m late.” Gonzalo García is not late, but it’s very like him: he is impeccably polite, accommodating, and there’s an almost gentle quality to him, a calm that’s not common but can help, especially in moments when the pressure builds. There’s a reason one of the coaches standing in the rain by the pitch where Spain’s under-21s have just finished training says everyone here loves García. The Fulham striker shakes hands, introduces himself and ducks into the dressing room to change; then a few minutes later he’s back, apologising for a wait that wasn’t one. Time to talk, so let’s start with tinseltown, the family tale. García laughs. His great-aunt, born Margarita Carmen Cansino, was among the biggest stars in Hollywood, although he’s not sure he’s seen any of her films. His grandfather was a surgeon and others in the family followed. His uncles played rugby for Spain, but that wasn’t his thing. As for him, he enrolled in a degree in business management and analytics, and rec",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T12:16:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/520735/morning-report-daniel-cormier-reacts-to-jon-jones-josh-hokit-feud-were-talking-about-jon-jones-when-it-really-isnt-his-story-anymore",
+      "title": "Morning Report | Daniel Cormier reacts to Jon Jones-Josh Hokit feud: ‘We’re talking about Jon Jones when it really isn’t his story anymore’",
+      "summary": "Once again, Daniel Cormier is disappointed by something Jon Jones has done. This past weekend, Josh Hokit challenged Ciryl Gane for the heavyweight title in the main event of UFC 334, losing by unanimous decision in a hard-fought battle. Shortly afterward, Jones, who has a personal beef with Hokit despite working with many of the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T12:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875609",
+      "title": "Hamilton insists there are no \"trust\" problems at Ferrari",
+      "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored calls to pit in two of the last four rounds - Singapore and Brazil - with both backfiring on the Scuderia driver. In Singapore he elected to keep track position under a ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T11:49:02+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
+      "title": "Washington Spirit v Kansas City Current: where the NWSL Championship will be won and lost",
+      "summary": "Croix Bethune, Trinity Rodman and the Rowdy Audi crowd are among the factors that could swing Saturday’s final This year’s NWSL Championship blends recurring themes with some newness. For the familiar: the Washington Spirit are in the final for the third straight year, hoping the third time’s the charm after back-to-back 1-0 defeats in their past two attempts. Slightly familiar, too, is Kansas City Current playing the championship game at Washington’s Audi Field, where they lost the final to Portland in 2022 and where they will contend again Saturday. For the novelty? Neither Kansas City nor Washington, despite their modern dominance in the NWSL table, have won the championship since 2021 (when Washington won). With Gotham’s bid for a two-peat stymied by the Current in the semi-final, here are five things that will decide a new winner in 2026. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T11:40:20+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o",
+      "title": "Magill returns to NI squad for Greece friendlies",
+      "summary": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T11:12:20+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
+      "title": "Battle for second and driver changes! Biggest talking points ahead of Las Vegas GP",
+      "summary": "Craig Slater explains the biggest talking points ahead of the Las Vegas GP.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T11:05:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
+      "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
+      "summary": "A 14-year civil war ravaged the country and ground women’s football to a halt. Today, the first glimmers of hope are beginning to emerge amid difficulty In December 2024, Syria’s under-18 women’s football team boarded a last-minute bus at midnight from Aqaba, bound for Damascus. The players had been in Jordan preparing for their final match of the WAFF women’s championship, where a win against Saudi Arabia would have kept their hopes of winning the title alive. Syria pulled out amid fears that the border would close. Back home, a war that had been largely frozen for four years was suddenly moving at pace. Rebel forces had swept out of the northwest, taking Aleppo and were pushing south towards the capital, 350km away, threatening to topple the now-former president, Bashar al-Assad. Players from the provinces around Damascus made their way home. But those from Hasakah, in the country’s far north-east, spent the next three days stranded at Damascus airport, as airline staff fled and planes sat idle on the tarmac, until a bus was finally able to take them home. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T11:00:26+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview",
+      "title": "Pochettino vows to 'change things' at Man Utd",
+      "summary": "Mauricio Pochettino has vowed to \"change things\" at Old Trafford in a confident first interview as Manchester United boss.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T11:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612519/chelsea-ten-things-weve-learnt-about-xabi-alonsos-blues-after-10-premier-league-games",
+      "title": "Consistently inconsistent? Ten things we've learnt about Alonso's Chelsea so far",
+      "summary": "Xabi Alonso's Chelsea project is 10 Premier League games in. Here's what we've learnt so far...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T11:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+      "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+      "summary": "Philippe Diallo and Kozo Tashima are both standing But Ramon Vega fails to get the necessary backing Fifa has confirmed that Gianni Infantino will face challenges from Philippe Diallo of France and Japan’s Kozo Tashima in March’s presidential election. The president of the French football federation and the honorary president of the Japan football association submitted nomination letters with endorsements from five member associations by Wednesday night’s midnight CET deadline. The former Switzerland and Tottenham defender Ramon Vega has not met that threshold, despite repeatedly saying he would stand. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T10:56:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591",
+      "title": "Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory",
+      "summary": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active aerodynamics, getting temperature into the Pirelli tyres – and, given the long straights, keeping it there – promises to be even more difficult than before. According to newly ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T10:47:32+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test",
+      "title": "How 'sleeping giant' Everton are exceeding expectations",
+      "summary": "Everything felt a bit gloomy at Everton after the closure of the summer transfer window. 'Disappointment' was the buzzword used by David Moyes - especially after a Deadline Day move for Folarin Balogun fell through.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T10:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro",
+      "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+      "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T10:32:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no",
+      "title": "Eight-year ban for player who threw rock that hit assistant referee",
+      "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T10:20:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out",
+      "title": "Seven years on from the sack at Spurs what sort of coach is Pochettino now?",
+      "summary": "What Mauricio Pochettino achieved with Tottenham Hotspur in the previous decade looks even more impressive now than it did at the time. Manchester United really should have turned to the popular Argentine coach years ago.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
+      "title": "Man City have problems - is Fernandez their most obvious?",
+      "summary": "Enzo Maresca is being forced to work within an unprecedented set of circumstances this season. Up until recently, his fixation on football matters served to quieten the noise around the club. But now the anomalous nature of Manchester City's situation is apparent on and off the pitch.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo",
+      "title": "The best European strikers this century - ranked by you",
+      "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T08:50:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo",
+      "title": "Armstrong would relish Rangers switch - gossip",
+      "summary": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T08:01:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
+      "title": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
+      "summary": "Tenth-tier club aim to become a new home for disillusioned supporters and those priced out of the Premier League It began with a timely message on social media. “We’ve seen the posts. We’ve read the comments. If all the recent conversation has made you curious about the other team in Manchester playing in sky blue, come and see us.” It was a direct response to the news of a guilty verdict in the Premier League’s financial fair play case against Manchester City and it came from the 10th-tier (step six) club Maine Road, who carry City’s colours and a near-identical badge, as well as the name of City’s previous home. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T08:00:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613637/max-verstappen-says-he-trusts-f1-bosses-over-plans-to-proceed-with-season-ending-races-in-qatar-and-abu-dhabi-amid-conflict-in-middle-east",
+      "title": "Verstappen trusts F1 chiefs over plan to proceed with Middle East races",
+      "summary": "Max Verstappen says he trusts Formula 1 to \"make the right call\" as the sport pushes on with plans to hold the final two races of the season in Qatar and Abu Dhabi despite continued conflict in the Middle East.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnsj90",
+      "title": "Podcast: Who should be worried in Premiership bottom four?",
+      "summary": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
+      "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
+      "summary": "The Premier League is back after the recent international break and the Sky Sports football writers dissect all the major talking points ahead of another busy weekend's action.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/honda-reveals-key-f1-power-unit-change-for-2027/10875538",
+      "title": "Honda reveals key F1 power unit change for 2027",
+      "summary": "Immediately after the Brazilian Grand Prix, Honda was still unable to fully explain Lance Stroll's DNF. The Canadian was forced to retire for the 14th time, equalling the all-time record for the most retirements in a single Formula 1 season. Ahead of the race weekend in Las Vegas, Honda has gathered more information about the battery failure, with chief engineer Shintaro Orihara explaining when ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T07:57:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo",
+      "title": "How Premier League's big six keep getting richer",
+      "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T07:38:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
+      "title": "CHAOS incoming... F1 Lego race returns for Las Vegas GP!",
+      "summary": "The F1 Lego race returns for the Las Vegas Grand Prix!",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T07:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o",
+      "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+      "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T07:14:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T07:06:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o",
+      "title": "Vote for the first BBC Men's Footballer of the Year",
+      "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T06:30:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613632/formula-1-drivers-back-return-of-very-cool-v8-engines-in-the-future-ahead-of-las-vegas-grand-prix",
+      "title": "F1 drivers back return of 'very cool' V8 engines in the future",
+      "summary": "Formula 1's drivers appear to be unanimous with the prospect of V8 engine returning to the sport in the 2030s.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T06:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875462",
+      "title": "Why Verstappen's ideal F1 rules would make some circuits off-limits",
+      "summary": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be introduced in 2030 rather than 2031. Max Verstappen is one of the biggest critics of the current regulations and therefore one ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T06:00:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races",
+      "title": "Hamilton: No trust problem with Ferrari team",
+      "summary": "Lewis Hamilton has insisted there is no lack of trust between himself and his Ferrari team despite having overridden orders from the pit wall twice in recent races.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T06:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13613786/i-found-the-limit-of-a-champagne-bottle-lando-norris-reflects-on-viral-brazil-gp-podium",
+      "title": "'I found the limit of a champagne bottle!' - Norris reflects on VIRAL Brazil podium",
+      "summary": "Lando Norris reflects on his viral Sao Paulo GP podium, where he smashed his champagne bottle and appeared to get caught in the face by pyrotechnic sparks!",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T04:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/alonso-wont-stay-for-v8-return-f1-has-lost-16-years-of-pure-racing/10875426",
+      "title": "Alonso won't stay for V8 return: \"F1 has lost 16 years of pure racing\"",
+      "summary": "Although the FIA's formal confirmation on Tuesday was only online for a few minutes before being temporarily taken down again, it is clear to everyone in the paddock that V8 engines will return to Formula 1. The agreement in principle involves a 2.1-litre turbocharged V8 – with the turbo being particularly important for Audi and Honda – and a significantly smaller electrical component. The ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T03:53:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522295/ufc-signee-fails-drug-test-after-98-second-knockout-win-at-dwcs",
+      "title": "UFC signee fails drug test after 98-second knockout win at DWCS",
+      "summary": "Igor Cavalcanti tested positive for a banned substance in his Dana White’s Contender Series victory over Oscar Ravello on Sept. 15, the Nevada Athletic Commission announced Tuesday. “Jacare”, who tested positive for 19-Norandrosterone, is currently suspended until a definitive ruling of his case. It’s still unclear if the commission will overturn his 89-second knockout win, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T01:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
       "title": "Cadillac confirm Bottas will remain with the team in 2027",
@@ -449,6 +1019,16 @@
       "first_seen": "2026-11-18T23:51:05.296013+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13613585/how-brentford-plan-to-develop-the-best-young-talent-and-break-into-the-premier-league-elite",
+      "title": "The secrets of Brentford's success",
+      "summary": "'Data wizards'. 'Great recruiters'. 'Punching above their weight' - Brentford have come to be known for all these things in recent years. Now, having established themselves in the Premier League, they have become bolder about wanting to mix it with the big clubs and break into Europe.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo",
       "title": "Watch: Non-league player scores from own half",
       "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
@@ -527,6 +1107,16 @@
       "published": "2026-11-18T15:14:22+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613642/david-rayas-shot-stopping-cross-claiming-and-passing-make-him-premier-leagues-best-goalkeeper-the-radar",
+      "title": "Why Raya is the Premier League's best goalkeeper",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-18T15:12:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo",
@@ -10559,6 +11149,16 @@
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
     },
     {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do",
+      "title": "How to follow the Premier League on the BBC this weekend",
+      "summary": "Our Ask Me Anything team explains how to follow matches from week 11 of the Premier League season on the BBC this weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-05T12:14:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
       "title": "Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
       "summary": "The 18-year-old on being thrown in at the deep end with the first team, playing with her idols and replacing a legend The next move on the chess board could not have been clearer for Barcelona and their coach, Pere Romeu: a new queen has broken into the Blaugrana midfield. Clara Serrajordi has made substantial moves already: she made her first-team debut at the age of 17, started ahead of Aitana Bonmatí in the 2026 Champions League final and is filling the void left by the departed Alexia Putellas this season. Serrajordi is a keen chess player and uses it to disconnect from football and there are similarities to how she plays. A pure representation of a La Masia -educated midfielder, she is always one move ahead, conscious of the space around her and fully aware of the importance of each teammate. Continue reading...",
@@ -11237,6 +11837,16 @@
       "published": "2026-09-30T06:07:28+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o",
+      "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
+      "summary": "It has taken more than two years, but a judgement has finally been made on the 115 charges levelled against Manchester City. Here's what it means.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-09-29T17:37:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-19T15:11:00.279988+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb",
