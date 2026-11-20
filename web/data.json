@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T14:50:30.061120+00:00",
+  "generated_at": "2026-11-20T23:38:24.883759+00:00",
   "stats": {
-    "total": 1311,
+    "total": 1361,
     "categories": {
-      "football": 820,
-      "formula1": 238,
-      "ufc": 253
+      "football": 852,
+      "formula1": 242,
+      "ufc": 267
     },
     "priorities": {
-      "HIGH": 437,
-      "LOW": 736,
-      "MEDIUM": 138
+      "HIGH": 451,
+      "LOW": 768,
+      "MEDIUM": 142
     },
     "sources": 8,
-    "last_scan": "2026-11-20T14:50:28.115708+00:00",
-    "last_scan_new": 51,
+    "last_scan": "2026-11-20T23:38:22.855701+00:00",
+    "last_scan_new": 50,
     "last_scan_errors": 0
   },
   "articles": [
@@ -47,6 +47,486 @@
       "published": "2026-11-21T15:00:00+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
+      "title": "FIA confirms unanimous agreement on 2030 PU framework",
+      "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
+      "title": "Las Vegas GP: Busy final practice anticipated with no rain expected LIVE!",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T23:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T23:18:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521975/tallison-teixeira-learned-heel-hooks-training-with-valter-walker-shamil-gaziev-in-trouble-at-ufc-qatar",
+      "title": "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar",
+      "summary": "Tallison Teixeira is set to take on Shamil Gaziev on Saturday’s UFC Qatar card, and the timing couldn’t have been better for the Brazilian heavyweight. “Xicao” flew to Germany for a seminar and decided to accept an invitation from Valter Walker to spend time training with him at Gor MMA in Moscow. The promotion called […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T23:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o",
+      "title": "First defeat and first red for Ferguson as Glentoran falter",
+      "summary": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T22:54:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with Cologne on Friday. Kane was substituted after 20 minutes of the Bundesliga game, having been left limping after a challenge from the Cologne defender Joël Schmied. The Ballon d’Or winner was substituted with the returning Bayern coach, Vincent Kompany, saying afterwards that the injury would take “months” rather than weeks to heal. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T22:43:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do",
+      "title": "NFL great Brady could buy Chelsea stake",
+      "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T22:36:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
+      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
+      "summary": "Everton’s playmaker returns after being stood down, while Liverpool’s head coach keeps focus for Anfield showdown Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T22:31:19+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/522619/sean-omalley-books-raf-wrestling-debut-at-raf-16",
+      "title": "Sean O’Malley books RAF wrestling debut at RAF 16",
+      "summary": "Sean O’Malley is headed to the wrestling mats. Real American Freestyle announced Friday that the former UFC bantamweight champion is set to face Marlon Moraes at RAF 16, which takes place Dec. 19 at Nassau Veterans Memorial Coliseum in Uniondale, N.Y. This marks O’Malley’s promotional debut. “Suga” looks to cap off his 2026 combat sports […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T22:30:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
+      "title": "Kane set to miss three months with ankle injury",
+      "summary": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury during Bayern Munich's Bundesliga game with Cologne on Friday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T22:26:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/carlos-prates-y-michael-morales-dos-hombres-de-estilo",
+      "title": "Carlos Prates Y Michael Morales: Dos Hombres De Estilo",
+      "summary": "",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-20T22:20:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o",
+      "title": "Lampard calls for fairness after Coventry penalty row",
+      "summary": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T22:04:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522550/ufc-qatar-preview-show-is-this-do-or-die-for-jiri-prochazka-against-navajo-stirling",
+      "title": "UFC Qatar Preview Show: Is this do-or-die for Jiri Prochazka against Navajo Stirling?",
+      "summary": "On Saturday, the UFC returns to Al-Rayyan for UFC Qatar, headlined by a light heavyweight main event between Jiri Prochazka and Navajo Stirling. The card also features a marquee matchup between Aljamain Sterling and Kevin Vallejos with serious title implications on the line, and a host of other big-name fights. Join MMA Fighting’s Jed Meshew […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T22:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o",
+      "title": "Shevchenko lying about drugs test claims - Mudryk",
+      "summary": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T21:54:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o",
+      "title": "Watch: Inverness and Ayr play out goalless draw",
+      "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T21:47:58+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522579/mma-fighter-arrested-for-murdering-dog-kicked-out-of-the-fighting-nerds",
+      "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds",
+      "summary": "Junior Dias, a 27-year-old flyweight fighter from Brazil, was arrested Wednesday after allegedly stabbing a dog to death in Sao Paulo. The 4-1 fighter was kicked out of The Fighting Nerds team following the arrest. Dias received provisional release after claiming self-defense, saying the dog had attacked his wife. He will not be allowed near […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T21:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522187/ufc-qatars-alessandro-costa-seeks-4th-win-in-2026-pitches-backup-role-for-joshua-van-vs-manel-kape",
+      "title": "UFC Qatar’s Alessandro Costa seeks 4th win in 2026, pitches backup role for Joshua Van vs. Manel Kape",
+      "summary": "Alessandro Costa enters the octagon Saturday to rematch Amir Albazi at UFC Qatar, looking to avenge his first octagon loss after already finishing three opponents in 2026, and plans to take the rest of the year off to rest his body after an intense run. Or maybe not. Between April and July, a span of […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522581/usman-nurmagomedov-breaks-silence-after-release-from-jail-brendan-schaub-rips-him",
+      "title": "Usman Nurmagomedov breaks silence after release from jail; Brendan Schaub rips him",
+      "summary": "Usman Nurmagomedov has had very little said about him in the positvity department as of late, and that trend continues. The PFL lightweight champion attacked Merab Dvalishvili during RAF Abu Dhabi fight week earlier this month, and several members of Nurmagomedov’s team joined in on the assault, which was caught on video in multiple angles. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T20:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
+      "title": "Van Dijk uncertain on Liverpool future",
+      "summary": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T20:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
+      "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
+      "summary": "Formula 1 will return to V8 engines from 2030 in a move FIA president Mohammed Ben Sulayem has described as \"an opportunity to reconnect with the DNA\" of the sport.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T20:10:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo",
+      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+      "summary": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T20:06:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614363/mauricio-pochettino-manchester-united-head-coach-discusses-drone-footage-his-approach-to-data-and-bruno-fernandes-ahead-of-first-game",
+      "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
+      "summary": "Mauricio Pochettino has questioned what could have been gained from the drone footage of a Manchester United training session ahead of his first game in charge against Liverpool.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
+      "title": "Washington Spirit provide hope and joy in a city that badly needs it",
+      "summary": "Spirit’s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than one In the moments after the Washington Spirit’s 2-1 semi-final victory over the Utah Royals last weekend, all of Audi Field was in rapture. In the stands, around 20,000 Spirit supporters had filled the stadium to capacity, the sixth time they’d done so in 2026. They filled the place with the type of wondrous noise that’s become alien in DC sports in recent years, the type of gleeful adoration reserved for the city’s rare winners. The Spirit will return to their home stadium to face the Kansas City Current in the NWSL championship this Saturday. In short order, the Spirit’s players made their way to the north end of the stadium, taking their celebrations into the crowd with their supporters. Perhaps no player has done more to push the Spirit into not only local but national relevance than US women’s national team forward Trinity Rodman, and Rodman herself grabbed a flag from a fan, jubilantly waving it above the crowd. Moments later, she bolted back onto the field and track down the club’s owner, Michele Kang, cajoling the businesswoman int",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T19:56:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/nwsl-championship-final-ticket-prices-755-washington-spirit-kansas-city-current",
+      "title": "NWSL final tickets top $350 in ‘perfect storm’ even after fall from $755 peak",
+      "summary": "Get-in price peaked at $755 before dropping to $362 Previous NWSL finals never topped $100 on matchday Analyst cites Spirit home game and thin resale supply The get-in price for tickets to Saturday’s NWSL Championship match plunged more than 50% this week but was still set to finish at more than three times the previous record for an NWSL final. After the Washington Spirit booked their spot in the final against the Kansas City Current with a semi-final victory last Saturday, the get-in price for the championship match spiked as high as $755 that same night, according to TicketData.com. However, that price had dropped as low as $308 on Friday morning before climbing back to $362 by midday. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T19:06:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119",
+      "title": "F1 set for V8 return from 2030",
+      "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1 has long worked towards cheaper and simpler engines for the next regulation cycle, which starts in 2031, having recognised the current formula is too complex and physically ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T19:02:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+      "title": "Pochettino the connector: will human touch lift Manchester United?",
+      "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capitals have but only Paris truly does . Pochettino’s family and friends were there. So were his inner coaching circle, who are basically family. There were lots of people from PSG. And a good time was had by all. For Pochettino, it was emotional. As everybody knows, the new Manchester United head coach is the kind of guy to well up when the speeches start, so imagine how he felt when he looked up at the big screen and a video montage of well-wishers started to roll. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T19:00:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he takes exception to suggestions he has given up on football in favour of becoming an internet personality. He trains five or six days a week with Connor Peters, an elite performance coach who has worked with players including Trevoh Chalobah. They spend four days on the pitch and days in between in the gym. A typical day begins at 9am with an hour of activation and stretching before Dele heads to non-league Windsor & Eton at 11am, where he trains on the pitches and uses the facilities. Then it’s back home to use his own oxygen chamber and sauna for a recovery session. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T19:00:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521924/kevin-vallejos-expects-title-shot-with-ufc-qatar-win-over-aljamain-sterling-im-next",
+      "title": "Kevin Vallejos expects title shot with UFC Qatar win over Aljamain Sterling: ‘I’m next’",
+      "summary": "Kevin Vallejos enters the biggest fight of his career Saturday in Doha with big aspirations, hoping to earn a shot at featherweight champion Alexander Volkanovski with a definitive victory over Aljamain Sterling in the co-main event of UFC Qatar. “El Chino” had a somewhat short, but intense rise in the UFC, going 4-0 in the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o",
+      "title": "Sarr focused on Palace return after Liverpool interest",
+      "summary": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T18:41:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "title": "Premier League team news: predicted lineups for the weekend action",
+      "summary": "Newcastle host Arsenal on Saturday while Mauricio Pochettino’s Manchester United visit Liverpool on Sunday Saturday 12.30pm TNT Sports 1 Venue Etihad Stadium Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T18:03:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo",
+      "title": "Chelsea fined £150,000 for discriminatory chanting",
+      "summary": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T17:52:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar",
+      "title": "Brian Ortega | Educating And Entertaining The Masses",
+      "summary": "Perennial Featherweight Contender Brian Ortega Talks Recent Results, Approach In The Octagon Ahead Of Lightweight Debut In Doha, Qatar Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-20T17:50:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Brighton latest: In-form midfielder signs new contract",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T17:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/jake-matthews-25-not-out-ufc-qatar",
+      "title": "Jake Matthews | 25 Not Out",
+      "summary": "Aussie Welterweight Jake Matthews Continues His 12-Year Run In The UFC As He Looks To Earn A Shot At Ranked Opposition In 2027. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-20T17:28:47+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
+      "title": "Pochettino’s fiery start, plus England v All Blacks and ATP Finals finale – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T17:27:24+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
+      "title": "Amir Albazi Wants To Show He’s Still That Guy",
+      "summary": "Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-20T17:21:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck87912p3z82o",
+      "title": "Johnstone no longer need to play twice in one day",
+      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T17:16:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/rankings/521827/divisional-rankings-ciryl-gane-is-ufcs-defending-champion-but-is-he-mmas-true-no-1-heavyweight",
+      "title": "Divisional Rankings: Ciryl Gane is UFC’s defending champion, but is he MMA’s true No. 1 heavyweight?",
+      "summary": "In the ever-shifting MMA landscape, ranking the world’s greatest fighters might seem like a fool’s errand, but that’s exactly what we’ve set out to do with the MMA Fighting Global Rankings. Here, our esteemed panel sorts out the movers and shakers from every division to provide you with the most definitive list of the best […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T17:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo",
+      "title": "Matos accepts Swansea fans' anger over shock exit",
+      "summary": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T16:57:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o",
+      "title": "Man Utd fan criticism has gone too far at times - Berrada",
+      "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T16:55:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/m003471n",
+      "title": "Football Daily",
+      "summary": "The team look at Mauricio Pochettino's opening match as Manchester United head coach",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T16:53:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-resumes-club-by-club-recap-football-daily-newsletter",
+      "title": "Football Daily | The Premier League resumes: here’s our almost essential club-by-club recap",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Just like taking the Manchester United job or listening in on a conversation with Stephen Warnock, the men’s international break can be a long, hard slog, a domestic hiatus so long that we can forget both basic hygiene and how the clubs are faring in the Best League in the World™: the Championship the Premier League. So after desperately trying to break into either tears or just a smile at Harry Kane’s appearance record – no dice, unfortunately – here is a rundown on the state of play for each club, as we prepare for a weekend of football that might actually make us feel something . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T16:32:26+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo",
+      "title": "Mowbray support no surprise, says interim boss Johnson",
+      "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T16:27:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo",
+      "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+      "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T16:00:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522557/there-will-be-no-excuses-and-no-mercy-jiri-prochazka-and-navajo-stirling-have-intense-final-faceoff-before-ufc-qatar",
+      "title": "‘There will be no excuses, and no mercy’: Jiri Prochazka and Navajo Stirling have intense final faceoff before UFC Qatar",
+      "summary": "Jiri Prochazka and Navajo Stirling are ready to go. On Saturday, Prochazka and Stirling fight in the main event of UFC Qatar at Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar. It’s an important matchup with serious title implications in the light heavyweight division, and their final faceoff at the Ceremonial Weigh-Ins on Friday […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T15:41:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o",
+      "title": "Why injured Joao Pedro may be Chelsea's most important player",
+      "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T15:18:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o",
+      "title": "Filming training by drones should be illegal - Iraola",
+      "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T15:08:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522480/brian-ortega-blames-ufc-for-backlash-with-renato-moicano-situation-this-is-why-im-pissed",
+      "title": "Brian Ortega blames UFC for backlash with Renato Moicano situation: ‘This is why I’m pissed’",
+      "summary": "Brian Ortega received a ton of fan backlash after being forced to withdraw from his fight with Renato Moicano at UFC 331 in September, which was the second announced bout between the two by the UFC in 2026. The multi-time UFC title challenger is set to compete for the first time this year at UFC […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
@@ -147,6 +627,16 @@
       "published": null,
       "priority": "LOW",
       "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
+      "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
+      "summary": "NFL legend was Chelsea guest at Club World Cup Brady has good relationship with Behdad Eghbali Tom Brady is in discussions about buying a small stake in Chelsea. The NFL legend sold a minority share in Birmingham City this month after three years, a move sources said was to pave the way for investing at Stamford Bridge. Brady was a guest of Chelsea when they won the Club World Cup in New Jersey last year and was seen celebrating with the players after their remarkable 3-0 final win over Paris Saint-Germain. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T14:50:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo",
@@ -297,6 +787,16 @@
       "published": "2026-11-20T10:46:32+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+      "title": "Will Frank turn things around at Crystal Palace?",
+      "summary": "One of the Premier League's most charismatic managers is back.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T23:38:22.855701+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
