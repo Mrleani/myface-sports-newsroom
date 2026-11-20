@@ -1,23 +1,503 @@
 {
-  "generated_at": "2026-11-19T15:11:00.778710+00:00",
+  "generated_at": "2026-11-20T00:15:18.944111+00:00",
   "stats": {
-    "total": 1207,
+    "total": 1260,
     "categories": {
-      "football": 760,
-      "formula1": 212,
-      "ufc": 235
+      "football": 791,
+      "formula1": 217,
+      "ufc": 252
     },
     "priorities": {
-      "HIGH": 398,
-      "LOW": 685,
-      "MEDIUM": 124
+      "HIGH": 417,
+      "LOW": 712,
+      "MEDIUM": 131
     },
     "sources": 8,
-    "last_scan": "2026-11-19T15:11:00.279988+00:00",
-    "last_scan_new": 61,
+    "last_scan": "2026-11-20T00:15:17.703616+00:00",
+    "last_scan_new": 53,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
+      "title": "Main Card Results | UFC Qatar",
+      "summary": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-21T18:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
+      "title": "Official Scorecards | UFC Qatar",
+      "summary": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-21T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
+      "title": "Prelim Results | UFC Qatar",
+      "summary": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-21T15:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
+      "title": "Formula 1 and Nike join forces in long-term partnership",
+      "summary": "Formula 1 welcomes Nike as an Official Partner from 2027 in a deal that will see the sports and lifestyle brand become F1’s Official Apparel and Uniform Supplier as part of a long-term partnership.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj",
+      "title": "FIA to introduce full-time stewards in F1 from 2027",
+      "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and Manchester City face favourite whipping boys After three Premier League defeats on the spin, Manchester City need something or someone to come along and put some pep in their step, and Fulham look like just the thing – after all, in the past 15 years these teams have played 20 times in all competitions, and City have won precisely 20 of those games. Their current run of 17 successive league wins against Fulham is the longest run of victories by one club against a single opponent in English top-flight history. It is a reflection of the changing realities of English football, and the gulf that has opened between the teams that dominate it and those who seek to challenge them, that of the top 10 such runs all but one occurred in whole or in part after 2010 and six of them have been achieved by Sheikh Mansour’s Manchester City, with Chelsea responsible for another two, Manchester United one, and Portsmouth’s postwar, 13-game supremacy over Everton – a wild ride that included two 5-0s, a 5-1, a 6-3 and a 7-0 – the anomaly. Simon Burnton Manchester City v Fulham, Saturday 12.30pm (all times GMT)",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T00:00:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522430/new-ufc-dallas-fights-include-former-title-challenger-return-of-chanco",
+      "title": "New UFC Dallas fights include former title challenger, return of ‘Chanco’",
+      "summary": "UFC Dallas is loading up with some notable names officially announced for the lineup. The Jan. 16 event at American Airlines Center is set to be headlined by a featherweight bout between Yair Rodriguez and Steve Garcia, with welterweights Daniel Rodriguez and Roberto Soldic positioned in the co-main event. On Thursday, several new UFC Dallas bouts […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-20T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T23:57:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
+      "title": "Las Vegas GP: Rain falling ahead of first practice LIVE!",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T23:25:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522477/former-ufc-title-challenger-manon-fiorot-suspended-3-months-for-anti-doping-violation",
+      "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation",
+      "summary": "One-time UFC title challenger Manon Fiorot has been handed a three month suspension for violating the promotion’s anti-doping policy. UFC officials announced the suspension on Thursday. “Fiorot tested positive for low levels of ostarine, a prohibited non-Specified Substance in the class of Anabolic Agents that is prohibited at all times under the UFC ADP,” Combat […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T22:56:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-collect-by-topps-app-now-live",
+      "title": "UFC Collect by Topps App: NOW LIVE",
+      "summary": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T22:34:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/522473/muhammad-ali-boxing-revival-act-passes-senate-unanimously-likely-heads-to-president-trump-soon",
+      "title": "Muhammad Ali Boxing Revival Act passes Senate unanimously, likely heads to President Trump soon",
+      "summary": "The Muhammad Ali American Boxing Revival Act is one step closer to becoming law. On Thursday, the Senate voted unanimously to pass the measure and now it heads back to the House of Representatives with an expectation that it passes there and then heads to President Donald Trump’s desk to sign into law. The act […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T22:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+      "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+      "summary": "Ban by Uefa is suspended for two years Uefa also fines FA £12,500 for offensive chants England have been handed a ­suspended ­one-match ban on away ticket sales by Uefa in relation to “­racist and/or ­discriminatory” behaviour by fans at Sunday’s 3-2 Nations League victory over Spain. The punishment is suspended for two years. Uefa has also fined the Football Association €15,000 (£12,500), with the behaviour in question believed to be the chant of “Fuck the pope and the IRA” at the ­Metropolitano ­Stadium in Madrid. A further charge in the next two years could trigger a ban on away fans for a competitive game. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T22:05:54+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+      "title": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
+      "summary": "Arsenal’s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL Lyonnes, as the French side continued their statement form in Europe. Goals in either half from Jule Brand and Melchie Dumornay were the ­difference at Meadow Park and Lyonnes are joint-top of the table and still yet to concede in the league phase with one game remaining. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T22:05:36+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522317/no-bets-barred-can-jiri-prochazka-get-back-on-track-against-navajo-stirling-at-ufc-qatar",
+      "title": "No Bets Barred | Can Jiri Prochazka get back on track against Navajo Stirling at UFC Qatar?",
+      "summary": "Jiri Prochazka is back, and he’s looking for some revenge. On Saturday, Prochazka returns to action in the main event of UFC Qatar, where he takes on Navajo Stirling, teammate of the man who just defeated him for the vacant light heavyweight title, Carlos Ulberg. But can Prochazka get some get-back, or will Stirling prove […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T22:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko",
+      "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+      "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T21:57:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
+      "title": "Arsenal outclassed in defeat to dominant Lyon",
+      "summary": "Arsenal’s hopes of automatic qualification to the Women’s Champions League quarter-finals are hanging by a thread after they were beaten 2-0 at home by a dominant Lyon in foggy conditions.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T21:28:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-to-improve-consistency/10875719",
+      "title": "FIA to phase in full-time F1 stewards from 2027",
+      "summary": "The consistency of stewards’ decisions has been a topic of discussion in the Formula 1 paddock for years. While the complexity of the sporting regulations and racing guidelines is one factor, another question keeps coming up: would a permanent panel of stewards improve consistency? From 2027, the FIA will take a step in that direction. The governing body announced on Thursday that it will ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-19T21:01:44+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/bkfc/522440/derek-brunson-ready-for-darren-till-or-yoel-romero-in-bkfc-after-mike-perry-left-because-he-didnt-want-to-fight-me",
+      "title": "Derek Brunson ready for Darren Till or Yoel Romero in BKFC after ‘Mike Perry left because he didn’t want to fight me’",
+      "summary": "Derek Brunson was always a well-rounded fighter during his MMA career but he’s giving up some of those weapons now that he’s about to make his BKFC debut on Friday. The former UFC middleweight signed with the bare-knuckle fighting outfit and now he’s putting all his time into making waves in BKFC. While MMA has […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o",
+      "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+      "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T20:44:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614150/fia-announce-introduction-of-full-time-f1-stewards-from-2027-ahead-of-las-vegas-grand-prix",
+      "title": "FIA to introduce full-time F1 stewards",
+      "summary": "The FIA has announced it will introduce full-time Formula 1 stewards from 2027 with the aim of having \"greater consistency in decision-making\".",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-19T20:37:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614159/manchester-united-drone-footage-of-mauricio-pochettinos-first-training-session-leaked-online",
+      "title": "Drone footage of Pochettino's first Man Utd training session leaked online",
+      "summary": "Mauricio Pochettino’s first Manchester United training session today has been leaked online in a major security breach.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T20:28:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro",
+      "title": "Frank happy to be 'back in the circus' at Palace",
+      "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T20:16:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522460/merab-dvalishvili-calls-for-song-yadong-next-expects-sean-omalley-to-get-title-shot",
+      "title": "Merab Dvalishvili calls for Song Yadong next, expects Sean O’Malley to get title shot",
+      "summary": "Merab Dvalishvili eyes a streaking bantamweight for his next opponent. Coming off a back-and-forth battle with UFC bantamweight champion Petr Yan in his last outing, Dvalishvili is anxious to start his climb back up the ranks so he can potentially earn another shot at the belt. While he understands he’s not getting another title shot […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+      "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+      "summary": "Dane was sacked by Tottenham in February ‘I know what I want and the direction we should go in’ Thomas Frank has admitted he has a point to prove on his return to management as he aims to steer Crystal Palace away from relegation trouble after taking over from Pierre Sage. The Dane was confirmed as manager on Monday with Palace at the bottom of the table after 10 matches having conceded 24 goals – the most in the Premier League. They face a crucial trip to Coventry on Saturday and Frank said he had been “surprised about how good it feels” after returning to work for the first time since being sacked by ­ Tottenham in February . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T19:50:10+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo",
+      "title": "New manager Frick to take Aberdeen back to basics",
+      "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T19:11:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T19:11:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521654/on-to-the-next-one-whats-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334",
+      "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?",
+      "summary": "Take a bow Ciryl Gane and Josh Hokit as the two heavyweight fighters put on a show to cap off Saturday’s UFC 334 event at Madison Square Garden in New York City. While Gane left The Big Apple with the UFC heavyweight title, Hokit exited as a made guy in the division, and in the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T19:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o",
+      "title": "Sutton's predictions v world champion boxer Lauren Price",
+      "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T18:52:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo",
+      "title": "Pochettino's first Man Utd training session filmed by drone operator",
+      "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T18:45:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614117/england-handed-suspended-away-ticket-ban-and-fine-by-uefa-for-fans-racist-and-or-discriminatory-behaviour-in-spain",
+      "title": "England handed suspended away ticket ban for fans' chants in Spain",
+      "summary": "England have been given a suspended away ticket ban by UEFA for \"racist and/or discriminatory behaviour\" by their fans during the 3-2 win over Spain in Madrid.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T18:36:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/statement-manon-fiorot",
+      "title": "Statement on Manon Fiorot",
+      "summary": "",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T18:23:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/aljamain-sterling-still-embracing-grind-ufc-qatar",
+      "title": "Aljamain Sterling | Still Embracing The Grind",
+      "summary": "Former Bantamweight Champion Hopes Victory Over Kevin Vallejos Will Be The Perfect Springboard To A Shot At A Second Title. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T18:15:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insight Lionel Messi has closer company at the top of MLS’s list of highest-paid players, thanks to another pair of former Barcelona attackers. The Inter Miami captain is still comfortably the league’s top earner, on a guaranteed compensation of $28.3m. Robert Lewandowski (Chicago Fire) and Antoine Griezmann (Orlando City) have entered the list with the second and third highest wages, while Atlanta United’s Breel Embolo, another summer signing, ranks fifth on a guaranteed compensation of $10.8m. Second-year LAFC forward Son Heung-min sits fourth on $11.2m. Casimiro, who joined Messi in Miami at the end of his contract with Manchester United, is his team’s fourth top-earner with a guaranteed compensation of $3.54m. This comes after Miami announced his signing as a non-designated player to the surprise of some as the Brazilian arrived on a Bosman transfer rather than a loan-with-purchase, as Rodrigo De Paul had last summer, to keep Miami rules compliant. The MLS Players’ Association lists Casimiro on a base salary of $896,004. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T18:01:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522377/tom-aspinall-provides-key-date-as-he-deals-with-ongoing-eye-issues",
+      "title": "Tom Aspinall provides key date as he deals with ongoing eye issues",
+      "summary": "Tom Aspinall’s long road to recovery continues. The UFC heavyweight star has been out of action since October 2025, when he suffered an eye poke in his championship title defense against Ciryl Gane, leading to a no-contest and injuries requiring surgery. Since then, Gane has gone on to defeat Alex Pereira for an interim title, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+      "title": "PL Predictions: How will your club fare this weekend?",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight as the Premier League returns from the international break.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T18:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Forest latest: PL vote not in support of Man City",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T17:38:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o",
+      "title": "We'll only sell if offer makes club blink - McInnes",
+      "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T17:11:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/m003501m",
+      "title": "Football Daily",
+      "summary": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T16:42:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo",
+      "title": "Crawley keep Blackwell as boss until end of season",
+      "summary": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T16:40:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o",
+      "title": "Struggling Blackpool sack Evatt on his birthday",
+      "summary": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-19T16:12:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
+      "title": "Premier League clubs vote through new rules to increase legal protection for board",
+      "summary": "Individual indemnity extended for potential lawsuits Key figures may be named in action over Manchester City Clubs rallied behind the Premier League’s leadership in a key vote on Thursday, overwhelmingly backing new rules that would protect the chief executive, Richard Masters, from potentially damaging lawsuits. A vote to expand the legal indemnity afforded to Premier League directors was won 18-2 at a shareholders’ meeting in central London, granting Masters and other figures greater protection in the event they were subjected to legal action as a consequence of doing their job. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T16:03:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+      "title": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
+      "summary": "It also wants exchange-rate fees exemption for 2035 Fifa at loggerheads with UK’s four FAs and government Fifa is at loggerheads with the UK’s government and four football associations over the world governing body’s demands for tax-free status and exemptions from exchange-rate fees at the 2035 Women’s World Cup. The UK bid to host the tournament is due to be ratified at an extraordinary Fifa congress in Zurich on Monday and the Guardian has learned there is tension behind the scenes over many of Fifa’s requirements, which multiple sources involved in the discussions have indicated will not be met. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T16:00:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/action-packed-main-event-yair-rodriguez-vs-steve-garcia-headlines-ufc-return-to-dallas-texas",
+      "title": "Action-Packed Featherweight Main Event Between Yair Rodriguez And Steve Garcia Headlines UFC's Return To Dallas",
+      "summary": "Tickets On Sale Friday, November 21 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522299/dan-hooker-welcomes-pressure-that-comes-along-with-3-straight-losses-surely-i-can-beat-brian-ortega",
+      "title": "Dan Hooker welcomes pressure that comes with 3 straight losses: ‘Surely I can beat Brian Ortega’",
+      "summary": "Dan Hooker never backs down from a challenge, but he also understands the scrutiny and expectations he’s facing with a fourth straight loss looming. The always exciting New Zealand native returns at UFC Qatar on Saturday after a disappointing outing in his most recent fight against promotional newcomer Salahdine Parnasse. Heading into the fight, Hooker […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-19T16:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
+      "title": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting midnight launch involving a sprawling enterprise full of shady characters. Over in Zurich, the clock also struck 12 on the candidate deadline for next year’s Fifa presidential election, leaving those of us who have no interest in video games with our own chaotic, multi-billion-dollar sandbox where untouchable bosses bend the rules to suit themselves. While online carjackers are busy exploring a “most extraordinarily, indulgently detailed virtual world” , football’s real-life power brokers are gearing up for a March showdown in the actual city of Rabat. When I first saw the photo in yesterday’s Football Daily , I thought Mauricio Pochettino had opted for a short back and sides, presumably to pre-empt him tearing his luscious locks out in frustration at forthcoming poor results/terrible January transfer window/petulant sniping from sulky squad members. Then I realised he was in the back seat, all but entirely obscured by the rear-view mirror, in which he could perhaps see his sense of job satisfact",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T15:42:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+      "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+      "summary": "Premier League clubs have voted to cover the legal costs of their five board members if they are sued individually by Manchester City's sponsors.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T15:26:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
       "title": "All the stories that got the Las Vegas paddock talking",
@@ -129,6 +609,16 @@
       "first_seen": "2026-11-19T15:11:00.279988+00:00"
     },
     {
+      "url": "https://www.ufc.com/news/updates-ufc-qatar",
+      "title": "Updates To UFC Qatar",
+      "summary": "Key Information For UFC Fight Night: Prochazka vs Stirling, Live From Doha On November 21, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-19T15:04:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
       "url": "https://www.mmafighting.com/ufc/522362/amanda-nunes-pushes-back-on-kayla-harrison-calling-shots-on-potential-rematch-this-is-not-pfl-baby",
       "title": "Amanda Nunes pushes back on Kayla Harrison calling shots on potential rematch: ‘This is not PFL, baby’",
       "summary": "Amanda Nunes expects Kayla Harrison to follow through on her suggestion of a rematch. The bantamweight greats met in a highly anticipated title fight in the UFC 334 co-main event, Nunes’ first fight since 2023. Harrison defeated Nunes via fourth-round submission to successfully defend her 135-pound title, adding another accolade to her crowded trophy case. […]",
@@ -137,6 +627,16 @@
       "published": "2026-11-19T15:00:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
+      "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
+      "summary": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
@@ -209,6 +709,16 @@
       "first_seen": "2026-11-19T15:11:00.279988+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
+      "title": "Assessing Iraola's Liverpool start",
+      "summary": "Liverpool head coach Andoni Iraola asked for judgements on his tenure to wait until after the November international break - we assess how the Basque is faring so far in his new role ahead of the visit of Manchester United in the Premier League on Super Sunday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-19T13:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
       "url": "https://www.skysports.com/football/news/11095/13613937/premier-league-fixtures-on-sky-sports-man-city-vs-arsenal-and-man-utd-vs-liverpool-live-in-january",
       "title": "Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January",
       "summary": "Arsenal's trip to Man City and Man Utd hosting Liverpool at Old Trafford are two of the standout fixtures live on Sky Sports in January.",
@@ -217,6 +727,16 @@
       "published": "2026-11-19T12:50:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-19T15:11:00.279988+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+      "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+      "summary": "New head coach’s first game is at Anfield on Sunday ‘We are going there with the idea to win and be brave’ Mauricio Pochettino has called on Manchester United to have “no fear” when they travel to Anfield on Sunday for his first game. The Argentinian does not want his players to take a backward step as he targets a fast start. United are 18th in the Premier League and Liverpool fourth but the head coach will not accept any self-doubt. Pochettino is known for being attack-minded and is keen to instil those ideals, but will have had only three days with the players since replacing Michael Carrick. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-19T12:38:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o",
@@ -1757,6 +2277,16 @@
       "published": "2026-11-17T22:58:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-18T23:51:05.296013+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614185/fulham-pushing-to-extend-contract-of-man-utd-target-calvin-bassey-paper-talk",
+      "title": "Papers: Fulham pushing to extend contract of Man Utd target",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-17T22:58:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T00:15:17.703616+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo",
