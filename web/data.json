@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T00:15:18.944111+00:00",
+  "generated_at": "2026-11-20T14:50:30.061120+00:00",
   "stats": {
-    "total": 1260,
+    "total": 1311,
     "categories": {
-      "football": 791,
-      "formula1": 217,
-      "ufc": 252
+      "football": 820,
+      "formula1": 238,
+      "ufc": 253
     },
     "priorities": {
-      "HIGH": 417,
-      "LOW": 712,
-      "MEDIUM": 131
+      "HIGH": 437,
+      "LOW": 736,
+      "MEDIUM": 138
     },
     "sources": 8,
-    "last_scan": "2026-11-20T00:15:17.703616+00:00",
-    "last_scan_new": 53,
+    "last_scan": "2026-11-20T14:50:28.115708+00:00",
+    "last_scan_new": 51,
     "last_scan_errors": 0
   },
   "articles": [
@@ -47,6 +47,516 @@
       "published": "2026-11-21T15:00:00+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
+      "title": "Best Qualifying bets before the Las Vegas GP",
+      "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
+      "title": "Thursday rains in Las Vegas leave teams playing catch-up",
+      "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
+      "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
+      "summary": "",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/cadillac-ceo-towriss-gives-update-on-hertas-future-as-he-explains-why-the-team-opted-for-bottas-extension.6e7buM26RfuQSk1VzmqY6b",
+      "title": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
+      "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B",
+      "title": "Aron leaves Alpine as Vesti doubles up in reserve role",
+      "summary": "Mercedes reserve driver Fred Vesti will take on additional reserve duties at Alpine for the final three races of 2026 following Paul Aron's departure from the team.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
+      "title": "What the teams said – Thursday in Las Vegas",
+      "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
+      "title": "Palmowski makes history as she secures pole in Las Vegas",
+      "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
+      "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
+      "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
+      "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
+      "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
+      "title": "Red Bull working to fix Verstappen's Vegas practice issues",
+      "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo",
+      "title": "Celtic's Baur out for up to 10 weeks, says O'Neill",
+      "summary": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, says Celtic manager Martin O'Neill.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T14:47:54+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+      "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
+      "summary": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T14:36:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+      "title": "Pochettino session leaked on drone footage; Arteta takes fantasy football action; Nations League draw – live",
+      "summary": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Tom A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Association . Semenyo was due to give evidence at Liverpool Magistrates’ Court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on August 15 last year. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T14:32:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o",
+      "title": "SFA should not change to pander to clubs - McLeish",
+      "summary": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T14:09:07+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro",
+      "title": "Arteta warns Arsenal players over FPL team news leak",
+      "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T14:08:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo",
+      "title": "Key questions as Scottish Premiership returns",
+      "summary": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T13:53:22+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo",
+      "title": "Legendary Irish League manager Coyle dies aged 80",
+      "summary": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T13:52:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo",
+      "title": "Southampton give head coach Eckert new deal",
+      "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T13:10:33+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
+      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
+      "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, Dennis Lisa Baum is 19, for the next few days at least, but you wouldn’t know it. The Germany forward plays with a maturity that explains why she was handed her Arsenal debut in their opening game of the season, less than two months after joining. Baum had been told that the 2025 European champions had a vision for her but that coming in as a young player she would have to be patient. Ten minutes into her debut against Brighton, in Crawley, the young winger scored what would be the winning goal. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T13:00:29+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
+      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
+      "summary": "Man accused of abusing former Bournemouth winger Alleged incident happened at Anfield game in 2025 A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution. Semenyo was due to give evidence at Liverpool magistrates court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on 15 August last year. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T12:20:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o",
+      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+      "summary": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T11:35:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting",
+      "title": "England to face Norway in Nations League last eight",
+      "summary": "England will take on Erling Haaland and Norway in the Nations League quarter-finals.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T11:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po",
+      "title": "Fan found not guilty of racially abusing Semenyo",
+      "summary": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T11:12:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
+      "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+      "summary": "In a transformative year, Crew GM Issa Tall’s boldest change may have been to abandon his best-laid plans The Columbus Crew have a more holistic operation than most in MLS. The club as a whole still exists thanks to the dogged efforts of their fervent fanbase that helped block relocation. Their under-19s won the national cup in June, while the developmental Crew 2 made a fourth semi-final berth in five seasons in MLS Next Pro. The first team regularly punches above its weight in MLS, winning the third-most major titles (nine) among MLS originals. And yet, this year tested the conventions set by team and league alike. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T11:00:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
+      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+      "summary": "Zubimendi also out of Saturday’s game at Newcastle Arteta imposes Fantasy Premier League ban after leak Mikel Arteta has said Bukayo Saka may not return before Christmas as the Arsenal forward continues his rehabilitation from a thigh injury . Saka has been out since limping off against Bayern Munich at the end of last month, and it is understood he has yet to resume light training. Arteta revealed more tests during the international break confirmed the England forward did not need surgery and that he was expected to be out for another four weeks. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T10:46:32+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+      "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
+      "summary": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in the Gunners' system.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T09:38:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+      "title": "Drone operator takes down Man Utd footage and issues apology",
+      "summary": "The drone operator who posted footage of Mauricio Pochettino's first training session at Manchester United on YouTube has said he has now removed the video.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T09:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o",
+      "title": "EFL preview: Evans' gripes & unexpected departures",
+      "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T08:24:38+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/pirelli-reintroduces-stint-limit-for-f1-qatar-gp/10875958",
+      "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+      "summary": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track. Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely opt for a two-stop strategy in the 57-lap race. It is a similar situation to last year when stints were limited ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T08:21:11+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945",
+      "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
+      "summary": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given that no more rain is forecast for the remainder of the weekend. The conditions were therefore not representative during the practice day, and that was precisely why Max ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T08:12:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o",
+      "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+      "summary": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John McGinn.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T08:07:48+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+      "title": "What history tells us about the Premier League table after 10 games of a season",
+      "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there are 10 in the next seven weeks. Yet if you hibernated for winter, most clubs would be in roughly the same position no matter when in spring you emerged. Across the past decade, Premier League teams’ positions changed by an average of 2.6 places between matchweeks 10 and 38. Only 5.5 clubs per season moved by more than three places over the final 28 games, with almost half of the teams (89 out of 200) shifting by a single spot at most. Every club other than Arsenal will be looking to improve their position but they need not trouble themselves too much. History shows they will probably finish 2026-27 close to their current standing. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T08:00:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnz8rn",
+      "title": "Listen: Premiership preview - can Falkirk really finish third?",
+      "summary": "Can Falkirk finish third and will Rangers keep their unbeaten run going?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T08:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13613485/fabian-hurzeler-how-brighton-boss-won-fans-over-as-seagulls-relish-in-more-controlled-football",
+      "title": "From booed to beloved – how Hurzeler turned his Brighton fortunes around",
+      "summary": "Graham Potter set the tone. Roberto De Zerbi raised expectations. Fabian Hurzeler is blowing both out of the water.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
+      "title": "Brown: McLaren wouldn't trade Norris for anyone else on F1 grid",
+      "summary": "McLaren chief Zak Brown says he would not want to trade Lando Norris for anyone else on the Formula 1 grid.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T07:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo",
+      "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+      "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T07:42:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo",
+      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+      "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T07:26:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo",
+      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T07:08:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
+      "title": "Official Weigh-In Results | UFC Qatar",
+      "summary": "The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-20T06:43:53+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T06:43:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo",
+      "title": "'I felt like I was a ghost' - when players miss a season through injury",
+      "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-20T06:13:23+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+      "title": "The male footballers best associated with each shirt number – the readers’ edition",
+      "summary": "Last week we selected 50 players who are synonymous with their squad numbers . Our readers spotted notable absentees so came up with an alternative list, which does not start at No 1 or end at No 50 Which footballers are inextricably linked to their shirt numbers? We picked out 50 players last week who have come to embody the numbers on their backs. It was not an exhaustive list – as our readers have proved. We couldn’t include some legends of the game – Pelé and Lionel Messi for a start – and we missed a few brilliant stories. Thankfully our readers have provided an alternative list. And, creative bunch that they are, they have begun with No 0 and ended with No 51 … *** Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T06:00:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman",
+      "title": "Antonelli hit with grid penalty for Las Vegas GP",
+      "summary": "Kimi Antonelli has received a five-place grid penalty for the Las Vegas Grand Prix after further exceeding his engine allocation for the season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614175/las-vegas-gp-george-russell-tops-practice-for-mercedes-as-rain-limits-running-on-first-day-of-track-action",
+      "title": "Russell fastest as rain limits running in Las Vegas GP practice",
+      "summary": "Mercedes' George Russell topped Practice Two from Alpine's Pierre Gasly as rain limited running on the opening day of track action at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T05:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614226/las-vegas-grand-prix-practice-highlights",
+      "title": "Drivers battle tough conditions as heavy rain hits Las Vegas GP",
+      "summary": "Highlights from Friday's practice sessions at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T05:28:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841",
+      "title": "F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly",
+      "summary": "George Russell pipped Pierre Gasly to go fastest in second practice for the Formula 1 Las Vegas Grand Prix thanks to a late time in slippery conditions. The Mercedes driver set a 1m47.272s at the chequered flag which put him 0.071s ahead of Gasly, who benefitted from track evolution to take a shock second for Alpine. This was the first relatively meaningful session of the weekend after a ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T05:15:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/cadillac-ditches-plan-to-produce-own-v6-hybrid-engine-ahead-of-f1s-v8-push/10875807",
+      "title": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
+      "summary": "Cadillac is set to delay the introduction of its in-house Formula 1 power unit by a year to 2030. The American squad's initial plan was to compete in the championship with its own General Motors power unit for the first time in 2029. However, that was based on the idea that the current regulations cycle would run its full course and that the next generation of power units would not be ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T04:01:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614217/las-vegas-gp-watch-onboard-as-max-verstappen-battles-heavy-rain-during-p1",
+      "title": "'Look at that visibility!' - Watch onboard as Verstappen battles heavy rain in Vegas!",
+      "summary": "Red Bull's Max Verstappen battles the elements during the first practice session at the Las Vegas GP.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-20T01:59:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770",
+      "title": "F1 Las Vegas GP: Rain drowns out FP1",
+      "summary": "\"If we're on a track like Vegas and it rains, honestly, I think we're in trouble,\" Racing Bulls driver Liam Lawson predicted after sampling this year's rain tyres in Brazil. His comments reflected the general mood in the paddock as the Pirelli tyres are difficult to bring up to temperature, especially at a circuit with low corner speeds and glacial temperatures like the 6km street circuit in ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T01:43:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+      "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+      "summary": "Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the most exciting talents in Australian football, leading the Joeys to a shock 2-0 victory over Argentina to launch their U17 World Cup campaign in style. The brilliant young winger had his shot deflected for an own goal on the hour and then produced an audaciously cheeky finish 11 minutes later to seal the opening-day win on Friday (AEDT) as Carl Veart’s side announced their return to the global boys’ competition for the first time in seven years. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-20T01:31:38+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757",
+      "title": "Nike joins F1 as apparel partner",
+      "summary": "Athletic apparel giant Nike has joined F1 as its official partner and uniform supplier, taking over from Puma at the start of 2027. As was long rumoured, Nike will start supplying F1 personnel with apparel and footwear from the start of next season, a partnership that also extends to F1 Academy, which had both been using Puma kit until this year. The athletic company will also come up with ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-20T00:24:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-20T14:50:28.115708+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
