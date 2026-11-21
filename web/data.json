@@ -1,23 +1,463 @@
 {
-  "generated_at": "2026-11-21T14:08:08.537920+00:00",
+  "generated_at": "2026-11-21T22:44:09.621581+00:00",
   "stats": {
-    "total": 1407,
+    "total": 1475,
     "categories": {
-      "football": 870,
-      "formula1": 267,
-      "ufc": 270
+      "football": 925,
+      "formula1": 270,
+      "ufc": 280
     },
     "priorities": {
-      "HIGH": 481,
-      "LOW": 781,
-      "MEDIUM": 145
+      "HIGH": 498,
+      "LOW": 822,
+      "MEDIUM": 155
     },
     "sources": 8,
-    "last_scan": "2026-11-21T14:08:07.165277+00:00",
-    "last_scan_new": 46,
+    "last_scan": "2026-11-21T22:44:08.008039+00:00",
+    "last_scan_new": 68,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone",
+      "title": "Match of the Day",
+      "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T09:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX",
+      "title": "Our final Las Vegas Grand Prix betting predictions",
+      "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-las-vegas-grand-prix.24NadP7NoIqRfhaeuykCuI",
+      "title": "How F1 fans can avoid emotional betting in Las Vegas",
+      "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during this weekend's race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX",
+      "title": "Our Las Vegas GP Bet Builder selections made",
+      "summary": "We have picked a four-leg Bet Builder for Las Vegas, including winner and a podium finish selection.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+      "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
+      "summary": "Steven Pressley: ‘I’m embarrassed … I apologise’ Celtic 4-1 St Mirren; Rangers 2-1 Motherwell Wouter Vrancken said Hearts ’ remarkable 8-0 demolition of 10-man Dundee was his team’s best performance since he took charge at Tynecastle. Sabah Kerjota and Pierre Landry Kaboré both scored twice with Claudio Braga, Sabri Guendouz, Stuart Findlay and a Ryan Finnigan own goal completing the rout. Vrancken was naturally delighted that his players had ended a run of three defeats in a row in such spectacular style. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T22:20:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
+      "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
+      "summary": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from “special” talent Luca Williams-Barnett and compared the 18-year-old to Barcelona’s Lamine Yamal after Saturday’s 2-0 win over Ipswich.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T22:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/motherwell-vs-rangers/report/558416",
+      "title": "Naderi strike snatches late win for Rangers at Motherwell",
+      "summary": "Ryan Naderi was the hero for Rangers as he scrambled a late winner against Motherwell to keep up the pressure in the Scottish Premiership title race.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T21:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522822/need-to-go-to-185-pros-react-to-jiri-prochazka-suffering-disappointing-knockout-to-navajo-stirling-at-ufc-qatar",
+      "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar",
+      "summary": "Jiri Prochazka had never lost two straight fights in his career, a trend that ended in emphatic fashion at the hands of Navajo Stirling at UFC Qatar. Stirling not only put Prochazka on his first-ever losing streak, he delivered the former champion his second consecutive knockout loss in the main event of UFC Qatar on […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T21:19:01+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T21:14:08+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522771/navajo-stirling-delivers-devastating-knockout-to-beat-jiri-prochazka-in-ufc-qatar-main-event",
+      "title": "Navajo Stirling delivers devastating knockout to beat Jiri Prochazka in UFC Qatar main event",
+      "summary": "Navajo Stirling earned a massive win in the UFC Qatar main event after he put former champion Jiri Prochazka down with a devastating knockout in the second round. Biding his time for most of the fight, Stirling finally found an opening for a huge right hook that twisted Prochazka’s head around and sent him crashing […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T20:59:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+      "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+      "summary": "Keating’s resilience keeps Chelsea at bay in 0-0 draw Van de Donk and Putellas score twice to sink Palace 6-2 Khiara Keating’s resilient performance in goal denied Chelsea , the Women’s Super League leaders, and earned Liverpool a point, while London City Lionesses moved to within four points of the top by beating Crystal Palace 6-2. After hard-fought 1-0 wins against Manchester City last Saturday and Paris Saint-Germain on Wednesday night , Chelsea drew a blank. Against Gareth Taylor’s side, Chelsea’s lack of cutting edge was clear a week after they beat City to go top. The calf injury picked up by Melvine Malard against City, the absence of Lauren James, who has a thigh injury, and the form of Aggie Beever-Jones, who scored her first WSL goal in more than a year in the 6-0 defeat of Charlton, have left Chelsea’s attack short. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T20:54:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell",
+      "title": "Bonus Coverage | UFC Qatar",
+      "summary": "See Who Came Away With The Best Performances And Biggest Bumps In Paychecks At UFC Fight Night: Prochazka vs Stirling, Live From Doha, Qatar On Saturday, November 21, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-21T20:39:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522768/robbery-pros-react-to-kevin-vallejos-narrow-win-over-aljamain-sterling-at-ufc-qatar",
+      "title": "‘Robbery’: Pros react to Kevin Vallejos’ narrow win over Aljamain Sterling at UFC Qatar",
+      "summary": "Kevin Vallejos knocked off former bantamweight champion Aljamain Sterling at UFC Qatar, but the reception to the result online wasn’t as unanimous as the judges’ decision. Saturday’s co-main event was a closely fought affair, with neither Vallejos nor Sterling managing to author a truly definitive moment over the course of their three-round duel. Vallejos looked […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T20:36:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo",
+      "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+      "summary": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T20:36:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o",
+      "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+      "summary": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T20:35:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o",
+      "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+      "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T20:30:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522610/ufc-qatar-live-blog-jiri-prochazka-vs-navajo-stirling",
+      "title": "UFC Qatar live blog: Jiri Prochazka vs. Navajo Stirling",
+      "summary": "This is the live blog for Jiri Prochazka vs. Navajo Stirling, the light heavyweight main event at Saturday’s UFC Qatar card at Ali Bin Hamad al-Attiyah Arena in Doha, Qatar. Prochazka is currently No. 4 at 205 pounds in the MMA Fighting Global Rankings, with Stirling close behind at No. 6. This is a pivotal […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T20:27:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
+      "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
+      "summary": "Doué injury adds to that of Kvaratskhelia last month Nice 2-3 PSG; Lazio 3-0 Lecce; Gladbach 0-1 Dortmund Désiré Doué was carried off in tears after suffering what looked like a nasty knee injury as Paris Saint-Germain beat Nice 3-2 in Ligue 1. Doué went down after twisting awkwardly late in the first half as he tried to control the ball, shortly after scoring to put PSG 2-1 ahead. The match was stopped for five minutes to allow Doué to receive treatment to his right knee before being carried off to a backdrop of applause from the crowd at the Allianz Riviera stadium. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T20:25:53+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522743/ufc-qatar-results-kevin-vallejos-calls-for-title-shot-after-winning-decision-over-aljamain-sterling",
+      "title": "UFC Qatar results: Kevin Vallejos calls for title shot after winning decision over Aljamain Sterling",
+      "summary": "Kevin Vallejos picked up the biggest win of his career with a decision over Aljamain Sterling in the UFC Qatar co-main event. Far from his previous performances where he delivered some devastating knockouts, Vallejos had to fight much more strategically on Saturday as he shut down Sterling’s wrestling attacks and countered with superior striking on […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T20:25:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615040/arsenal-escape-with-2-2-draw-at-newcastle-after-complacent-second-half-almost-proves-costly-for-defending-champions",
+      "title": "How 'complacent' Arsenal unravelled at Newcastle - and their key lesson",
+      "summary": "From \"exceptional\" to \"complacent\" - Arsenal's drop-off in the second half at Newcastle was extraordinary.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T20:21:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo",
+      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+      "summary": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T20:07:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
+      "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
+      "summary": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge Everybody knows the pattern. Performances fade. Results falter. A title challenge becomes clinging on for the last Champions League spot becomes mid-table. Or a promising start becomes a troubling dip, becomes a full-on battle against relegation. Fans begin to grumble. The media wonder whether the spark has gone. Players look disaffected. A dressing room, once lost, is seldom rediscovered, and few managers are given the opportunity to find it again. A crisis in football, once acknowledged, is only ever resolved in one way: by the sacking of the manager. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T20:00:06+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:59:35+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:59:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:59:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "summary": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:59:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "summary": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:59:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:58:56+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:58:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522613/ufc-qatar-live-blog-aljamain-sterling-vs-kevin-vallejos",
+      "title": "UFC Qatar live blog: Aljamain Sterling vs. Kevin Vallejos",
+      "summary": "This is the live blog for Aljamain Sterling vs. Kevin Vallejos, the featherweight co-main event at Saturday’s UFC Qatar card at Ali Bin Hamad al-Attiyah Arena in Doha, Qatar. Sterling (26-5) is a former bantamweight champion who has found new life at 145 pounds. Since dropping a title to Sean O’Malley, Sterling is 3-1 since […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T19:52:54+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522721/ufc-qatar-results-dan-hooker-calls-out-max-holloway-after-winning-brian-ortega-announces-his-retirement",
+      "title": "UFC Qatar results: Dan Hooker calls out Max Holloway after win, Brian Ortega announces retirement",
+      "summary": "Dan Hooker got back in the win column by out-striking Brian Ortega over three rounds to win at UFC Qatar. While he didn’t get a finish, Hooker showed off impressive kicks and combinations on the feet to bust up Ortega across three rounds. All the judges scored the fight 30-27 for Hooker as he gets […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T19:50:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
+      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
+      "summary": "If Mikel Arteta was delighted to see the back of Eddie Howe as Newcastle’s head coach, the bad news is that another similarly awkward technical area adversary has been installed at St James’ Park. Arsenal’s manager never seemed to relish trips to face Howe’s old team and he certainly did not enjoy this latest trip to Tyneside, where Matthias Jaissle’s initially overwhelmed team fought back commendably to earn a point courtesy of a stellar second-half performance. At half-time the crowd had felt close to turning against Jaissle but he held his nerve and, thanks to a triple substitution and subtle tactical rejig suggested he is no mug after all. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T19:47:11+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615004/newcastle-2-2-arsenal-premier-league-highlights",
+      "title": "Arsenal rescue a draw at Newcastle",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Arsenal.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T19:35:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o",
+      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
+      "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:29:48+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
+      "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:21:01+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
+      "summary": "Xabi Alonso is straying towards crisis territory. Here’s a mind-bending statistic: Chelsea are eighth but have now lost more league games than Manchester United. They were bullied by a rampant Leeds United, who fully merited their first win at Stamford Bridge since going top with a 2-0 victory in December 1999, and can look forward to another season with no European football if they do not sharpen up soon. It is not really worth dwelling on the fact that the second Leeds goal, a Dominic Calvert-Lewin penalty converted early in an astonishingly one-sided second half, came after Morgan Rogers was harshly penalised for handball. That was a minor detail given the wider picture. Leeds, superbly coached by Daniel Farke and up to sixth after two clinical strikes from Noah Okafor, Calvert-Lewin’s sixth goal of the season and a late effort from Brenden Aaronson, were so dominant that they had no real need for a helping hand from the officials. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T19:20:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522703/ufc-qatar-results-kyoji-horiguchi-apologizes-after-winning-boring-fight-against-asu-almabayev",
+      "title": "UFC Qatar results: Kyoji Horiguchi apologizes after winning ‘boring fight’ against Asu Almabayev",
+      "summary": "Kyoji Horiguchi got back on track with a win over Asu Almabayev at UFC Qatar, but it was far from the fight he wanted. Horiguchi spent much of the fight on his back trying to inflict damage and look for submissions while Almabayev was content going for takedowns and controlling the action on the ground. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T19:14:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
+      "title": "Alonso: Chelsea are fragile and need to be tougher",
+      "summary": "Chelsea manager Xabi Alonso said his side are \"fragile\" and need to be \"tougher\" after being embarrassed by Leeds United.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T19:13:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522612/ufc-qatar-live-blog-dan-hooker-vs-brian-ortega",
+      "title": "UFC Qatar live blog: Dan Hooker vs. Brian Ortega",
+      "summary": "This is the live blog for Dan Hooker vs. Brian Ortega, the lightweight main card bout at Saturday’s UFC Qatar card at Ali Bin Hamad al-Attiyah Arena in Doha, Qatar. Hooker (24-15) is hanging on to the No. 15 spot at 155 pounds in the MMA Fighting Global Rankings after losing his past three fights, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T19:09:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "summary": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T19:04:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o",
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "summary": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T18:34:55+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno",
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "summary": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T18:32:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "summary": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T18:30:22+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko",
+      "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
+      "summary": "Nottingham Forest manager Oliver Glasner believes his side \"deserved\" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T18:16:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
     {
       "url": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
       "title": "Main Card Results | UFC Qatar",
@@ -27,6 +467,186 @@
       "published": "2026-11-21T18:00:00+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
+      "title": "Arsenal's winning run ended by Newcastle in thrilling draw",
+      "summary": "Arsenal's four-game winning Premier League run without conceding was ended by Newcastle in a frantic 2-2 draw.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T18:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o",
+      "title": "Fifpro criticises Bayern Munich for Musiala comments",
+      "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T17:43:44+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo",
+      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+      "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T17:42:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/championship-roundup-southampton-birmingham-middlesbrough-swansea",
+      "title": "Championship roundup: Strelec sends Middlesbrough top; 10-man Stoke go second",
+      "summary": "Boro beat Bristol City 2-0; Stoke 1-0 Birmingham Scott Parker still winless as West Ham held by Preston Middlesbrough scored a goal either side of half-time to climb to the top of the Championship with a 2-0 win that piled further pressure on the Bristol City manager Michael Skubala. Adilson Malanda’s header five minutes before half-time was followed by David Strelec’s finish in the 54th minute to secure victory. The three points were effectively secured before Middlesbrough head coach Kim Hellberg introduced the division’s top scorer, Will Lankshear, for the final 14 minutes from the bench after injury. Defeat heightened the frustrations being felt by Bristol City, who have won just one of their last eight matches, as they dropped to 18th. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T17:37:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
+      "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
+      "summary": "For Aston Villa , a painful stalemate at home to Sunderland, but for Régis Le Bris and his players, this was another triumph of sorts. The raw numbers spoke volumes of Villa’s struggles against a defence that backed themselves to keep Unai Emery’s side at bay. All but one of Villa’s seven shots on target came from outside the visitors’ box and the one inside it, courtesy of Ian Maatsen, was forgettable. Owing to a summer of change, injuries and Emery resting John McGinn with Tuesday’s game at Galatasaray in mind, Maatsen, incredibly, was the sole survivor in the Villa starting XI from when these sides played out a 4-3 classic seven months ago. Villa were too predictable, short of a spark, someone to unpick an organised back line. Johan Manzambi, Emi Buendía and Alysson all flattered to deceive on an afternoon when Ibrahim Mbaye and McGinn arrived from the bench. Alejandro Garnacho, however, was not involved in Villa’s matchday squad for the second successive match and the Chelsea loanee has played just 38 minutes in the Premier League this campaign. Tammy Abraham, the match-winner in April, was also left out and a January move looks likely. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T17:32:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614901/chelsea-1-4-leeds-united-premier-league-highlights",
+      "title": "Leeds run riot at Stamford Bridge as Chelsea crumble",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Leeds United.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:23:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
+      "title": "Fulham earn point at the Etihad as Man City's poor run continues",
+      "summary": "Highlights from the Premier League match between Manchester City and Fulham.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614870/tottenham-hotspur-2-0-ipswich-town-premier-league-highlights",
+      "title": "Eighteen-year-old Williams-Barnett shines as Spurs beat Ipswich",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Ipswich Town.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614863/aston-villa-0-0-sunderland-premier-league-highlights",
+      "title": "Sunderland frustrate uninspiring Villa in goalless draw",
+      "summary": "Highlights from the Premier League match between Aston Villa and Sunderland.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:15:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614873/bournemouth-2-0-nottingham-forest-premier-league-highlights",
+      "title": "Evanilson strikes again as Bournemouth dominate lacklustre Forest",
+      "summary": "Highlights from the Premier League match between Bournemouth and Nottingham Forest.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:14:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
+      "summary": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course for a club record ninth straight win in all competitions, while the defeat means Forest are only above the relegation places on goal difference having failed to build on the momentum of their 3-1 win against Manchester City before the international break. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T17:10:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614869/coventry-3-2-crystal-palace-premier-league-highlights",
+      "title": "Late OG gives Coventry points in five-goal thriller",
+      "summary": "Highlights from the match between Coventry and Crystal Palace in the Premier League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:10:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
+      "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
+      "summary": "New manager, new formation, familiar defensive failings. Twice Crystal Palace equalised. They seemed to have stabilised after half-time. But sometimes the rot is so deep-rooted that the new manager bounce manifests as nothing more than it not looking quite as shambolic as it did before. Thomas Frank started with a defeat that means Palace remain bottom of the table having lost five league games in a row. Yet for much of the second half, there had been reasons for Palace optimism. They seemed to have settled better after a ludicrous first half in which neither side looked at all capable of defending. But a triple substitution by Frank Lampard with 20 minutes to go shifted the game back in Coventry’s favour. With five minutes remaining, a long throw arced into the box. Brandon Thomas-Asante headed it goalwards. Dean Henderson got in the way but the ball bounced off him, hit Dwight McNeil and ricocheted in. “We came through with spirit,” Lampard said. “There was good play and a big impact from the subs. It’s a good sign for the squad.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T17:09:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/559547",
+      "title": "Leeds dismantle Chelsea as pressure grows on Alonso",
+      "summary": "Leeds dismantled Chelsea and increased the pressure on manager Xabi Alonso with an outstanding performance in a stunning 4-1 win.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
+      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+      "summary": "Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why as the 18-year-old became their youngest Premier League goalscorer since Gareth Bale in 2007 before teeing up Dominic Solanke with a mesmerising and match-winning assist against Ipswich. That made it four league victories from their last five matches for Roberto De Zerbi’s side and the Italian could only have enjoyed the view from the stands as he served his one-match touchline ban. Tottenham have struggled to match their London rivals Arsenal and Chelsea’s record of producing homegrown players in recent years but they appear to have struck gold with Williams-Barnett. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T16:58:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553",
+      "title": "'Special' teen Williams-Barnett scores to dazzle in Spurs' win over Ipswich",
+      "summary": "Teenager Luca Williams-Barnett scored on his first Tottenham start to make history in Spurs’ 2-0 home win over Ipswich.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T16:45:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo",
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T16:07:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo",
+      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+      "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T15:34:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
     },
     {
       "url": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
@@ -47,6 +667,36 @@
       "published": "2026-11-21T15:00:00+00:00",
       "priority": "MEDIUM",
       "first_seen": "2026-11-20T00:15:17.703616+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
+      "summary": "Manchester City are living in Premier League purgatory, without a win in four, but at least against Fulham they ended a three-game losing run. As they await their fate after being found guilty of financial breaches, their form has slumped. This passive draw was met with boos from the home fans. Arguments will be made over Erling Haaland’s disallowed goal but City did not deserve anything more. The Norwegian uncharacteristically missed a number of fine chances as Rodrigo Muniz took advantage of City’s porous defence. They had to rely on Elliot Anderson to get anything out of the fixture. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T14:34:03+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no",
+      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
+      "summary": "How Manchester City and Fulham players rated in their Premier League match.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T14:21:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+      "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+      "summary": "Attorney also representing Joshua Kushner in Uefa battle Clearlake Capital seeking additional investors Elon Musk’s lawyer is joining Tom Brady in buying a stake in Chelsea. The Guardian revealed on Friday that the much-decorated former NFL player is in discussions about purchasing a minority shareholding at Stamford Bridge and can now disclose that Alex Spiro of the New York law firm Quinn Emmanuel is also seeking to buy a stake by investing in Chelsea’s majority owners, Clearlake Capital. Brady and Spiro, who is representing the planned Fifa investor Joshua Kushner in a legal battle against Uefa, would become limited partners in Clearlake with no voting rights at Chelsea if the transactions are completed. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T14:20:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
@@ -267,6 +917,16 @@
       "published": "2026-11-21T11:32:13+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614659/problems-for-passive-man-city-as-chelsea-are-bullied-by-leeds-premier-league-hits-and-misses",
+      "title": "Hits and misses: Problems for passive Man City as Chelsea bullied again",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T11:23:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13614655/harry-kane-england-and-bayern-munich-striker-vows-to-be-back-for-business-end-of-season-after-ankle-surgery",
@@ -7707,6 +8367,26 @@
       "published": "2026-11-13T11:56:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-13T13:51:54.623925+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-city-vs-fulham/report/559551",
+      "title": "Man City end losing streak but held at home by Fulham",
+      "summary": "Man City ended their losing streak but were still held to a 1-1 draw by Fulham at the Etihad Stadium.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T11:44:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/coventry-city-vs-crystal-palace/report/559548",
+      "title": "McNeil own goal gives Coventry win and hands Frank losing start at Palace",
+      "summary": "A late Dwight McNeil own goal meant it was defeat for Thomas Frank in his first game in charge of Crystal Palace as Coventry celebrated a valuable 3-2 win.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-13T11:44:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T22:44:08.008039+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13611861/birmingham-lead-middlesbroughs-will-lankshear-reliance-west-ham-need-scott-parker-spark-championship-talking-points",
