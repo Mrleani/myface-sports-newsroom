@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T23:38:24.883759+00:00",
+  "generated_at": "2026-11-21T14:08:08.537920+00:00",
   "stats": {
-    "total": 1361,
+    "total": 1407,
     "categories": {
-      "football": 852,
-      "formula1": 242,
-      "ufc": 267
+      "football": 870,
+      "formula1": 267,
+      "ufc": 270
     },
     "priorities": {
-      "HIGH": 451,
-      "LOW": 768,
-      "MEDIUM": 142
+      "HIGH": 481,
+      "LOW": 781,
+      "MEDIUM": 145
     },
     "sources": 8,
-    "last_scan": "2026-11-20T23:38:22.855701+00:00",
-    "last_scan_new": 50,
+    "last_scan": "2026-11-21T14:08:07.165277+00:00",
+    "last_scan_new": 46,
     "last_scan_errors": 0
   },
   "articles": [
@@ -49,6 +49,436 @@
       "first_seen": "2026-11-20T00:15:17.703616+00:00"
     },
     {
+      "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
+      "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
+      "summary": "Toto Wolff reflected on the impact of the slipstream during Las Vegas Grand Prix Qualifying, with Mercedes believing George Russell was ideally positioned for pole.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C",
+      "title": "What are the tyre strategy options for the Las Vegas GP?",
+      "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day under the Las Vegas lights.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
+      "title": "What To Watch For in the Las Vegas Grand Prix",
+      "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
+      "title": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
+      "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
+      "title": "What the teams said – Qualifying in Las Vegas",
+      "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
+      "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
+      "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/i-still-cant-wrap-my-head-around-it-russell-stunned-by-insane-tow-power-in-las-vegas-as-he-assesses-qualifying.52i0msrzwiBfGBpbuoNIwx",
+      "title": "Russell stunned by 'insane’ tow power in Las Vegas",
+      "summary": "Mercedes' George Russell missed out on getting a tow during Qualifying at the Las Vegas Grand Prix, but the Briton will still line up on the front row for Saturday's race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/i-took-a-big-risk-antonelli-reflects-on-las-vegas-gp-qualifying-after-finishing-fastest.6q1eKT6GSaau0L9WFiTq9M",
+      "title": "Antonelli's 'big risk' pays off in Vegas Qualifying",
+      "summary": "Kimi Antonelli admits that he \"took a big risk\" after finishing fastest in Qualifying for the Las Vegas Grand Prix, with the Mercedes driver also suggesting \"I wasn't driving well\".",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-going-to-be-a-tough-day-norris-wary-of-mclarens-straight-line-speed-deficit-ahead-of-las-vegas-gp.43WdQWgZsqQaofWDF0E1l3",
+      "title": "Norris expects tough Vegas GP amid McLaren speed struggles",
+      "summary": "Lando Norris expects a challenging Las Vegas Grand Prix despite securing a P3 start, with the McLaren driver concerned about his team's straight-line speed deficit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
+      "title": "Ferrari drivers critical of 'very poor Qualifying' in Vegas",
+      "summary": "Charles Leclerc admits that he and Ferrari team mate Lewis Hamilton suffered \"a very poor Qualifying\" for the Las Vegas Grand Prix, as neither reached the top 10.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
+      "title": "Manchester City v Fulham: Premier League – live",
+      "summary": "⚽️ Premier League updates from the 12.30pm GMT kick-off ⚽️ Live scores | Table | Follow on TikTok | And email Barry Elsewhere in Manchester: Maine Road FC,who play in English football’s tenth tier, aim to become a new home for any Manchester City supporters disillusioned by the possible consequences of the guilty verdict handed down to their team, and those priced out of the Premier League. Dominic Booth reports … Gonzalo Garica: The Fulham striker and great nephew of Rita Hayworth admits the pace of the Premier League has surprised him but says he will remain calm over his 11-match goal drought. Interview: Sid Lowe. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T13:54:38+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/live/559545",
+      "title": "In-form Cherries unchanged as Ndoye returns for Forest LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T13:30:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/aston-villa-vs-sunderland/live/559544",
+      "title": "McGinn on the bench for Aston Villa vs Sunderland LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T13:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o",
+      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+      "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T13:29:40+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/coventry-city-vs-crystal-palace/live/559548",
+      "title": "Coventry vs Crystal Palace team news LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T13:29:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/live/559553",
+      "title": "Spurs teenager Williams-Barnett handed first start vs Ipswich LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T13:24:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547",
+      "title": "Emegha starts and Martinez returns for Chelsea vs Leeds LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T13:03:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522470/dan-hooker-confident-alexander-volkanovski-can-beat-justin-gaethje-thats-a-very-winnable-fight-for-him",
+      "title": "Dan Hooker confident Alexander Volkanovski can beat Justin Gaethje: ‘That’s a very winnable fight for him’",
+      "summary": "Alexander Volkanovski hasn’t decided on his next move, but he’s requested an opportunity to move to lightweight to challenge reigning champion Justin Gaethje in a potential retirement fight. After taking out undefeated challenger Movsar Evloev in his latest featherweight title defense, Volkanovski pitched the idea that he could return to 155 pounds with hopes of […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T13:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
+      "title": "Liverpool and Chelsea battling to find opening goal LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T12:20:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614666/audi-flying-lap-las-vegas",
+      "title": "Audi Flying Lap: Las Vegas",
+      "summary": "Powered by Audi: Anthony Davidson takes us round the sensational Las Vegas track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points and elite-level performance.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T12:19:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/southampton-vs-derby-county/live/560685",
+      "title": "Larin fires Southampton in front against Derby LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T12:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn80vgexz13o",
+      "title": "Two SPFL postponements due to frozen pitch",
+      "summary": "Dunfermline's Championship match against Morton and Spartans' League 2 game against Dumbarton have been postponed with frozen pitches.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T11:32:13+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614655/harry-kane-england-and-bayern-munich-striker-vows-to-be-back-for-business-end-of-season-after-ankle-surgery",
+      "title": "Kane vows to be back for ‘business end of season’ after ankle surgery",
+      "summary": "Harry Kane is targeting the \"business end of the season\" after undergoing surgery on a torn ligament in his left ankle.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T11:20:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456",
+      "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
+      "summary": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and track position. Traffic played a significant role in qualifying on Friday night with drivers reluctant to go first, considering the advantage of a tow is huge around the low-downforce street circuit. There was the added ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T11:05:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b",
+      "title": "Football Daily",
+      "summary": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404",
+      "title": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
+      "summary": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied. Yes, Red Bull has made significant progress with its power unit on energy-poor circuits and, following the balance problems during free practice, the team also managed to make effective set-up changes ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T08:52:06+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o",
+      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+      "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T08:05:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614578/las-vegas-gp-mercedes-chief-toto-wolff-insists-george-russell-had-perfect-track-position-in-qualifying-amid-questions-over-tow",
+      "title": "'George had perfect position' - Wolff defends Mercedes' Vegas Q3 strategy",
+      "summary": "Mercedes chief Toto Wolff dismissed suggestions the team should have done more to aid George Russell's bid for Las Vegas Grand Prix pole as he insisted the British driver had \"perfect\" track position for his final run in qualifying.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T08:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337",
+      "title": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'",
+      "summary": "During the final practice session for the Formula 1 Las Vegas Grand Prix, Max Verstappen and George Russell crossed paths once again. The Dutchman overtook the Mercedes driver, but then slowed down in front of him and, according to the stewards, changed direction several times. Russell subsequently went down the inside of the four-time world champion, leading to contact between the two at Turn ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T07:05:12+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614576/george-russell-hits-out-at-max-verstappen-after-las-vegas-gp-clash-and-says-somebodys-got-to-stand-up-to-that-guy",
+      "title": "'Somebody’s got to stand up to that guy' - Russell slams Verstappen after clash",
+      "summary": "George Russell launched a scathing criticism of Max Verstappen after a clash between them in final practice at the Las Vegas Grand Prix ahead of a race they will now start on the front row together.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T07:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T06:50:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614577/las-vegas-gp-lewis-hamilton-devastated-and-charles-leclerc-angry-after-both-ferrari-drivers-make-shock-early-exits-from-qualifying",
+      "title": "Hamilton 'devastated', Leclerc 'angry' after Ferrari Las Vegas shocker",
+      "summary": "Charles Leclerc was left \"angry\" while Lewis Hamilton said he was \"devastated\" after both Ferrari drivers suffered shock early exits from Las Vegas Grand Prix Qualifying.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T06:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316",
+      "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+      "summary": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time Formula 1 world champion felt he'd rallied from difficulties with overall tyre grip. The Briton struggled throughout FP3 under braking, as the front tyres proved particularly lock-up prone and resulted in Hamilton enduring multiple excursions into the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T06:33:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309",
+      "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
+      "summary": "George Russell has hit out at Max Verstappen after they collided in Free Practice 3 at Formula 1’s Las Vegas Grand Prix. Verstappen overtook the Mercedes ahead of Turn 14 in a quest for free air, but Russell moved to get back ahead, with the Dutchman unsuccessfully closing the door. Russell eventually muscled his rival out of the way, with the Red Bull racer later giving him the middle ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T06:28:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T06:17:32+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+      "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+      "summary": "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying high They lined up in sky‑blue shirts, white shorts. A combined value of £327m. Enzo Fernández, Ayyoub Bouaddi and Elliot Anderson were starting their first match together in Manchester City’s midfield. But it was a Brighton midfielder who made the game’s first decisive contribution. Yasin Ayari slotted the ball home. The away crowd at the Etihad Stadium roared, then watched their team defend relentlessly, securing Brighton’s first league victory away to City . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T06:00:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13614575/las-vegas-gp-kimi-antonelli-fastest-but-max-verstappen-on-pole-from-george-russell-after-dramatic-qualifying",
+      "title": "Antonelli fastest but Verstappen on pole after dramatic Las Vegas qualifying",
+      "summary": "Kimi Antonelli was fastest in qualifying for the Las Vegas Grand Prix but a five-place grid penalty means Max Verstappen will start on pole position from George Russell.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T05:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233",
+      "title": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
+      "summary": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. The 2026 world champion beat the Red Bull driver by 0.258s, but is set for a five-place grid drop due to a new internal combustion engine on his Mercedes. It came after Verstappen took provisional pole with a ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T05:20:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
+      "title": "Las Vegas Grand Prix - Qualifying Highlights",
+      "summary": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T05:10:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
+      "title": "UFC Qatar Results: Prochazka vs. Stirling",
+      "summary": "MMA Fighting has UFC Qatar results for the Prochazka vs. Stirling fight card, a live blog of the top three fights, and more from Ali Bin Hamad al-Attiyah Arena in Doha, Qater, on Saturday morning. In the main event, former UFC champion Jiri Prochazka squares off against the undefeated Navajo Stirling in a light heavyweight […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T05:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189",
+      "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
+      "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been derailed by rain, the Las Vegas Strip was buzzing with activity at dusk on Friday. The sole remaining practice session became crucial as it presented the only dry running heading ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-21T01:46:05+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
+      "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
+      "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-21T01:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522566/ufc-qatar-predictions",
+      "title": "UFC Qatar predictions",
+      "summary": "UFC Qatar is the definition of survival of the fittest. The UFC’s 2026 matchmaking philosophy has embraced having veteran names defend their spots in the rankings and Saturday’s event is no different, with the entire main card having meaningful stakes. In the headliner, Jiri Prochazka bounces back from a disappointing light heavyweight championship loss to […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
       "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
       "title": "FIA confirms unanimous agreement on 2030 PU framework",
       "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
@@ -67,6 +497,16 @@
       "published": "2026-11-20T23:30:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-20T23:38:22.855701+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614555/x-paper-talk",
+      "title": "Papers: Osimhen ready to listen to Man Utd offers",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-20T23:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
@@ -12839,6 +13279,16 @@
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/manchester-city-vs-fulham/live/559551",
+      "title": "Anderson volleys Man City level against Fulham LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-04T13:29:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
       "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
       "summary": "WSL’s second-highest goalscorer is likened to England legend for her crossing and has earned France call-up At the conclusion of Birmingham’s warm-up, the players quietly and carefully placed their footballs into a draw-string bag. All except one, Océane Hurtré, who nonchalantly chipped hers straight into the bag from about 15 yards. It was an innocuous moment that might have escaped most onlookers at Hednesford Town’s Keys Park but it demonstrated the swagger with which she is playing. To observe the 22-year-old warming up before the 1-1 League Cup draw at Aston Villa last week was to witness a player making skills look easy, taking one touch where others took two and pulling off no-look passes. She is backing up that panache in the Women’s Super League, as the joint second-highest goalscorer with six from the promoted side’s opening eight matches. Only Khadija Shaw has scored more. Continue reading...",
@@ -13517,6 +13967,16 @@
       "published": "2026-08-04T05:17:17+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13537118/sky-sports-and-audi-launch-flying-lap-series-in-unique-storytelling-experience-from-f1-race-tracks",
+      "title": "Sky Sports and Audi launch unique 'Flying Lap' track guide series",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-05-02T16:21:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-21T14:08:07.165277+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/iplayer/episode/m002p5wm",
