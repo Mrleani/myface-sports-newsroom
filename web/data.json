@@ -1,23 +1,233 @@
 {
-  "generated_at": "2026-11-21T22:44:09.621581+00:00",
+  "generated_at": "2026-11-22T13:58:48.255884+00:00",
   "stats": {
-    "total": 1475,
+    "total": 1531,
     "categories": {
-      "football": 925,
-      "formula1": 270,
-      "ufc": 280
+      "football": 955,
+      "formula1": 294,
+      "ufc": 282
     },
     "priorities": {
-      "HIGH": 498,
-      "LOW": 822,
-      "MEDIUM": 155
+      "HIGH": 530,
+      "LOW": 841,
+      "MEDIUM": 160
     },
     "sources": 8,
-    "last_scan": "2026-11-21T22:44:08.008039+00:00",
-    "last_scan_new": 68,
+    "last_scan": "2026-11-22T13:58:46.724973+00:00",
+    "last_scan_new": 56,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
+      "title": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
+      "summary": "Ferrari boss Fred Vasseur has branded the latest clash between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix “unacceptable”, calling for greater respect between his drivers.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
+      "title": "What the teams said – Race day in Las Vegas",
+      "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
+      "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
+      "summary": "Isack Hadjar admits \"I'm waiting for the team to tell me what happened\" after his front wing broke during the Las Vegas Grand Prix, denying the Red Bull driver a chance of a podium.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
+      "title": "Perez hit with five-place penalty in Qatar for Camara clash",
+      "summary": "Cadillac's Sergio Perez has been handed a grid penalty for next weekend's Qatar Grand Prix following his collision with the Haas of Rafael Camara in Las Vegas.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
+      "title": "Verstappen responds to Russell comments as rivalry reignites",
+      "summary": "Max Verstappen has shared his reaction to comments made by George Russell after an on-track incident between them earlier in the Las Vegas Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/piastri-believes-las-vegas-podium-was-exactly-the-kind-of-result-we-needed.6Vjx9TJwtUhgP05nqxbVkL",
+      "title": "'Exactly the kind of result we needed' in Vegas – Piastri",
+      "summary": "Oscar Piastri believes that a double podium for McLaren in the Las Vegas Grand Prix \"was exactly the kind of result we needed\".",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/hamilton-frustrated-by-really-harsh-las-vegas-penalty-as-hes-quizzed-on-leclerc-clash.5ASq9S5FeEJNdNi6Igej0Z",
+      "title": "Hamilton reacts to ‘really harsh’ Las Vegas GP penalty",
+      "summary": "Lewis Hamilton reflects on his 'really harsh' 10-second penalty at the Las Vegas Grand Prix and his collision with Ferrari team mate Charles Leclerc.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/i-paid-the-price-russell-laments-error-in-closing-stages-of-las-vegas-gp.546DMDVRArhwgf1nEXHR1v",
+      "title": "'I paid the price' – Russell laments Las Vegas GP error",
+      "summary": "George Russell admits that the \"risk was too high and I paid the price\" after a mistake from the Mercedes driver in the closing stages of the Las Vegas Grand Prix cost him a chance of victory.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-race-winner-verstappen-gets-your-las-vegas-vote.5QesGibVmO4x9ftqrpghbk",
+      "title": "Max Verstappen is your Las Vegas GP Driver of the Day",
+      "summary": "Max Verstappen picks up the Driver of the Day vote for the 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/antonelli-explains-annoying-last-lap-issue-in-las-vegas-as-he-admits-having-a-lot-to-learn-in-these-conditions.1i0fzBGmJSWZAK4wNaYMO9",
+      "title": "Antonelli explains ‘annoying’ last-lap issue in Las Vegas",
+      "summary": "Mercedes' Kimi Antonelli had to settle for fourth place in the Las Vegas Grand Prix after suddenly dropping out of the fight for the lead on the last lap.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
+      "title": "Manchester City v Tottenham, Birmingham v Manchester United: WSL clockwatch – live",
+      "summary": "Women’s Super League news, kicking off from 12pm GMT Live scores | Table | Follow on TikTok | And email Emillia Shaw strikes for City! Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of space in the box. The striker then has plenty of time to slide the ball home. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T13:43:47+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
+      "title": "Hull City v Brighton: Premier League – live",
+      "summary": "Premier League updates from the 2pm GMT kick-off Live scores | Table | Follow on TikTok | And mail Dom Well, maybe only City will lose this afternoon, Elisabeth Terland scored for United as I was typing. Women’s Super League: Both Manchester clubs are in serious danger of suffering shock defeats in the early WSL games this afternoon. The two matches are approaching their denouement, so catch the latest with Emillia Hawkins on our clockwatch blog. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T13:41:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o",
+      "title": "Frick delivers on 'heavy metal football' promise",
+      "summary": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T13:12:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549",
+      "title": "Hull vs Brighton LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-22T12:23:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo",
+      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+      "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T12:00:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/live/560679",
+      "title": "Cantwell penalty draws Blackburn level vs rivals Burnley LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-22T11:45:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+      "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "summary": "Club captain confirms he has been offered a new deal ‘Not the right moment to be talking about negotiations’ Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been ⁠put on hold as the club focus on turning around their terrible start to the season. Fernandes’s current deal expires at the end of this campaign, although United ⁠hold an ​option to extend their captain’s contract by a further year until June 2028, giving the club more time to reach ⁠an agreement on fresh terms. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T11:33:54+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/live/575831",
+      "title": "WSL: INCREDIBLE! Spurs beat Man City LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-22T11:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo",
+      "title": "Rochdale sack boss Watson after Northampton defeat",
+      "summary": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T10:55:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867",
+      "title": "Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP",
+      "summary": "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car. The race was neutralised on lap 19 when Sergio Perez and Rafael Camara collided; Max Verstappen was leading team-mate Hadjar but the Red Bulls and Mercedes cars lay within just over a second; the double-stack meant Hadjar ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-22T09:11:46+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo",
+      "title": "Armstrong plays down talk of Rangers transfer - gossip",
+      "summary": "Dinamo Bucharest winger Danny Armstrong says he has not talked with Rangers manager Derek McInnes about a move to Ibrox, while the chances of Jack Grealish joining Celtic are played down.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T09:10:02+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
     {
       "url": "https://www.bbc.co.uk/iplayer/live/bbcone",
       "title": "Match of the Day",
@@ -27,6 +237,346 @@
       "published": "2026-11-22T09:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po",
+      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T08:41:20+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/vasseur-furious-with-unprofessional-ferrari-clash-and-demands-fresh-talks-after-las-vegas-gp/10876847",
+      "title": "Vasseur furious with \"unprofessional\" Ferrari clash and demands fresh talks after Las Vegas GP",
+      "summary": "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis talks just three weeks after their spat in Mexico. Vasseur had to hold talks with both Leclerc and Hamilton for their costly Mexico skirmish and will do so again after his two ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-22T08:40:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+      "summary": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of them. This time last year, with Christmas on the near horizon, Stoke sat second in the Championship table and were beginning to wonder whether they might allow themselves to dream. So hopeless was their subsequent run that by the onset of spring they were forced to consider a potential relegation fight. Experience has taught the benefit of pragmatism, so no one will be getting ahead of themselves just yet. But this weekend was supposed to be the big test for Mark Robins’s team and few considered they would pass it quite so resoundingly. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T08:00:22+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+      "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirement César Azpilicueta looks well. César Azpilicueta always looks well – “ah, Captain Handsome,” one Chelsea fan says when told who’s turning up – but today especially, smiling in the sunshine. Strolling in, he eases into an easier chair, golf course spreading out beyond the terrace, west of Madrid, and orders a detox almost as green. It is nearly 20 years since he played his first game and a few months since he played his last, training kit replaced by bermudas, loafers and a polo, a picture of relaxation. So what’s it like not being a footballer? “Well, different,” he says. Then he laughs, which he does a lot. It is not a laugh-your-head-off laugh, more a chuckle, a giggle, as if amused at everything he did. And for all the self-deprecation, the lack of triumphalism, he did everything. Now, at 37, it’s not the same, although there remains much to do, Azpilicueta as understated and quietly busy as ever: “square,” he calls himself. He’s completed an MBA, a sports directorship diploma and there are media offers, a life to live. Matches to play still: against his kids the ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T08:00:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp1j7j",
+      "title": "Scottish Football Podcast",
+      "summary": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811",
+      "title": "Verstappen hits back after Russell criticism: “He’s so far below my level”",
+      "summary": "Max Verstappen has hit back at George Russell’s Friday comments by winning Formula 1’s Las Vegas Grand Prix – and delivering scathing remarks afterwards. The pair were involved in an incident in Free Practice 3, with Verstappen breaching what Russell deemed to be a gentlemen’s agreement by overtaking him ahead of a flying lap. The Briton moved to get back ahead but Verstappen ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-22T07:56:20+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615085/ferrari-boss-frederic-vasseur-blames-charles-leclerc-for-unacceptable-collision-with-lewis-hamilton-in-las-vegas-gp",
+      "title": "'Completely unacceptable! - Vasseur rebukes Leclerc for Hamilton collision",
+      "summary": "Ferrari team principal Frederic Vasseur blamed Charles Leclerc for the \"completely unacceptable\" collision with team-mate Lewis Hamilton in the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T07:50:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
+      "title": "'He's so far below my level' - Verstappen taunts Russell over Las Vegas GP error",
+      "summary": "Max Verstappen says George Russell is \"so far below my level\" in a scathing response to the Mercedes driver after winning the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T07:45:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786",
+      "title": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
+      "summary": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix. The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums rather than softs, which contributed to a further two-position drop on lap one. The new world champion recovered ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-22T07:27:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615140/real-madrid-2-1-celta-vigo-la-liga-highlights",
+      "title": "Bellingham stars as Real Madrid produce dramatic late comeback against Celta Vigo",
+      "summary": "Highlights of the La Liga match between Real Madrid and Celta Vigo.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-22T07:20:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770yn580j3o",
+      "title": "Who am I? Guess WSL star No 13",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T07:19:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o",
+      "title": "Why Arsenal are behind in race for Champions League spots",
+      "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T07:17:10+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T07:13:34+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T07:12:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615135/las-vegas-gp-max-verstappen-rips-into-george-russell-after-grand-prix-win",
+      "title": "Verstappen RIPS into Russell as feud reignited",
+      "summary": "Max Verstappen had a choice few words for long-time foe George Russell after winning the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T07:04:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold",
+      "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
+      "summary": "Bruno Fernandes exclusively told Sky Sports that Manchester United have offered him a new contract but he has put discussions on hold as he insists the club's priority must be returning to winning ways.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-22T07:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "summary": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T06:21:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677",
+      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
+      "summary": "Max Verstappen won a wild Las Vegas Grand Prix, holding off both Mercedes drivers as Formula 1’s ‘yo-yo’ racing returned – with no Silver Arrow on the eventual podium. With qualifying pacesetter Andrea Kimi Antonelli taking a five-place grid penalty for exceeding his engine allocation, Max Verstappen inherited pole position and retained the lead from George Russell at the start with an ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-22T05:45:47+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights",
+      "title": "Las Vegas Grand Prix - Race highlights",
+      "summary": "Highlights from the 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T05:42:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
+      "title": "Verstappen wins wild Las Vegas GP as Ferraris collide again",
+      "summary": "Max Verstappen produced a remarkable drive to win a wild Las Vegas Grand Prix that saw him withstand extreme pressure from George Russell and Kimi Antonelli before a late Mercedes collapse.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T05:40:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615109/las-vegas-gp-verstappen-laughs-over-team-radio-as-george-russell-hits-barrier",
+      "title": "'Ha ha, well done!' - Verstappen laughs over team radio as Russell hits barrier",
+      "summary": "George Russell hits the barrier after a lock-up when trying to overtake team-mate Kimi Antonelli at the Las Vegas Grand Prix, much to the delight of rival Max Verstappen.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T05:32:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615108/las-vegas-gp-lewis-hamilton-spins-after-collision-with-team-mate-charles-leclerc",
+      "title": "More Ferrari drama! Leclerc collides with Hamilton - leading to 10s penalty!",
+      "summary": "Lewis Hamilton spins after contact with Ferrari team-mate Charles Leclerc, which led to a 10-second penalty for the latter at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T05:15:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o",
+      "title": "Wales boss Wilkinson rules out Fishlock return",
+      "summary": "Rhian Wilkinson has not considered asking Jess Fishlock to come out of retirement for the Women's World Cup play-off final against Norway.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T05:12:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+      "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+      "summary": "Current’s opener came direct from a corner kick Debinha, Trinity Rodman trade goals in stoppage time Washington Spirit lose third consecutive NWSL final Read Jeff Rueter’s minute-by-minute report It took five years, 90 minutes and a goal for the ages, but the Kansas City Current have their first-ever NWSL championship. Riding a wave of momentum created by a 54th-minute Olimpico from midfielder Vanessa DiBernardo, and capping it off with an all-important breakaway winner from Debinha, the Current silenced the partisan, sellout crowd at the heavily-favored Washington Spirit’s home ground with a 2-1 victory on Saturday. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T03:55:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday. Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T03:01:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
+      "title": "Las Vegas GP: Reaction after Verstappen wins thriller, Hamilton-Leclerc collide",
+      "summary": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T02:53:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522901/jiri-prochazka-releases-statement-following-ufc-qatar-loss",
+      "title": "Jiri Prochazka releases statement following UFC Qatar loss",
+      "summary": "Jiri Prochazka has taken time to reflect on his UFC Qatar loss to Navajo Stirling and what he needs to do as he looks ahead to his future. Stirling landed a knockout right hook in the closing moments of Round 2 of their light heavyweight main event clash Saturday, sending Prochazka to a second straight […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T01:04:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615089/las-vegas-grand-prix-f1-academy-race-two",
+      "title": "Palmowski holds off Larsen in Las Vegas thriller to win final F1 Academy race of season",
+      "summary": "Highlights of the second F1 Academy race at the 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-22T01:01:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo",
+      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+      "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T00:13:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T00:08:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po",
+      "title": "Naderi's 'lucky punch' keeps Rangers in touch",
+      "summary": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T00:01:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o",
+      "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+      "summary": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T23:14:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522835/aljamain-sterling-reacts-to-controversial-loss-to-kevin-vallejos-at-ufc-qatar-what-can-you-do",
+      "title": "Aljamain Sterling reacts to controversial loss to Kevin Vallejos at UFC Qatar: ‘What can you do?’",
+      "summary": "Aljamain Sterling is not happy with the judges. On Saturday, Sterling fought Kevin Vallejos in the co-main event of UFC Qatar, and the former bantamweight champion had a rough night. The fight was extremely competitive, and despite having almost no success with his wrestling and grappling, Sterling clearly thought he did enough to edge out […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-21T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno",
+      "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
+      "summary": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-21T22:45:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX",
@@ -87,6 +637,16 @@
       "published": "2026-11-21T21:50:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "summary": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2 draw at Newcastle on Saturday evening. It left Mikel Arteta’s side six points clear of Brighton and Manchester City at the top of the Premier League but Arsenal’s manager was more concerned about Raya following an accidental collision with Newcastle’s William Osula. The Spaniard was helped off in evident pain and looked close to tears. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-21T21:48:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-22T13:58:46.724973+00:00"
     },
     {
       "url": "https://www.mmafighting.com/ufc/522822/need-to-go-to-185-pros-react-to-jiri-prochazka-suffering-disappointing-knockout-to-navajo-stirling-at-ufc-qatar",
