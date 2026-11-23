@@ -1,23 +1,723 @@
 {
-  "generated_at": "2026-11-22T23:10:21.563020+00:00",
+  "generated_at": "2026-11-23T17:16:06.822020+00:00",
   "stats": {
-    "total": 1587,
+    "total": 1664,
     "categories": {
-      "football": 997,
-      "formula1": 305,
-      "ufc": 285
+      "football": 1044,
+      "formula1": 324,
+      "ufc": 296
     },
     "priorities": {
-      "HIGH": 540,
-      "LOW": 878,
-      "MEDIUM": 169
+      "HIGH": 570,
+      "LOW": 919,
+      "MEDIUM": 175
     },
     "sources": 8,
-    "last_scan": "2026-11-22T23:10:19.139015+00:00",
-    "last_scan_new": 56,
+    "last_scan": "2026-11-23T17:16:05.128540+00:00",
+    "last_scan_new": 77,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
+      "title": "The timeline of Verstappen and Russell’s long rivalry",
+      "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
+      "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
+      "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
+      "title": "5 Winners and 5 Losers from Las Vegas",
+      "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
+      "title": "Qatar Grand Prix betting guide and latest odds",
+      "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
+      "title": "Perez and Camara react to Las Vegas GP clash",
+      "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
+      "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
+      "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
+      "title": "Verstappen 'from a different planet' – Mekies",
+      "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
+      "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
+      "summary": "Lando Norris and Oscar Piastri finished second and third in the Las Vegas Grand Prix, with McLaren Team Principal Andrea Stella praising their performances despite the limitations of the MCL40.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
+      "title": "The ingredients that created a Grand Prix with 352 overtakes",
+      "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T16:30:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo",
+      "title": "When is the Euro 2028 qualifying draw?",
+      "summary": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T16:25:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o",
+      "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+      "summary": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T16:17:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
+      "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T16:14:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600",
+      "title": "F1 2027 grid: Who will be racing and where?",
+      "summary": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid. So, here’s a look at the situation. Mercedes: Kimi ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T16:09:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky",
+      "title": "Rangers' McInnes wary of Frick's Aberdeen ahead of clash, live on Sky",
+      "summary": "Derek McInnes wants to strike the \"fine balance\" between consistency and using his squad during a hectic spell.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T16:03:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
+      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
+      "summary": "The manager’s first game in charge was a disaster and he needs to lift the mood within a sunken squad if a relegation battle is to be avoided Sign up for our free newsletter here In as much as any derby can ever be a free hit, there was always a sense that Mauricio Pochettino’s first game as Manchester United manager wouldn’t matter too much; nobody expected them to win away to Liverpool. This was not a game on which anybody was going to judge him, and that feeling only magnified when Leny Yoro was sent off after eight minutes. United’s victory at Anfield last season was their first for a decade; what’s difficult to do with 11 men is only going to get harder playing a man down for 82 minutes. But that does not mean that it did not matter. Although Roy Keane was determined to reject the suggestion, there was perhaps even some credit to be gleaned from having lost only 4-0 . Certainly when they were 2-0 down after 13 minutes, there was reason for United to fear an embarrassment akin to their 7-0 defeat against Liverpool in 2023 . Perhaps Pochettino deserves credit for his switch to a back three, which brought a degree of stabilisation, but United could easily have lost far more comfo",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T15:45:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/gary-neville-roy-keane-manchester-united-meltdown-comedy-club-football-daily-newsletter",
+      "title": "Football Daily | Neville, Keane and Manchester United meltdowns at world’s funniest comedy club",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Hoo-boy. Short of forgetting to put on his washable virgin wool navy trousers before striding towards the visitors’ dugout at Anfield, it’s difficult to imagine how Mauricio Pochettino’s spell in charge of Manchester United could have got off to a more humiliating start. Having witnessed his new team go a man and two goals down in less time than it takes to listen to Led Zeppelin’s Stairway to Heaven twice, it was a rendition of Sacked In The Morning that could be heard from the home fans inside 15 minutes. Poch would later complain that the decision to dismiss Leny Yoro was questionable, but it was far less baffling than his own call to hand Matthijs de Ligt his first Premier League start in a year after almost 12 months out with knack. Across 90 harrowing minutes, the Dutch defender didn’t so much look off the pace as resemble a confused tourist who’d wandered on to the pitch while trying to find his way to the stadium museum. In a footballing world obsessed with micro-marginal-gains – think custom-weighted laces, aerodynamic socks, or nice calming shades of green for training ground walls – how about one modest proposal that ot",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T15:45:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o",
+      "title": "I've wanted to crawl under a rock and hide - Pressley",
+      "summary": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T15:31:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo",
+      "title": "IFA 'positive' over upgrades needed for World Cup",
+      "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park in time for the 2035 World Cup.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T15:26:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T15:23:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+      "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
+      "summary": "No 1 to miss Dortmund game but could return for City clash ‘We were worried … he’s better than expected,’ says manager Mikel Arteta is hopeful the shoulder injury David Raya sustained at Newcastle is not too serious but confirmed the goalkeeper would miss Tuesday’s Champions League game against Borussia Dortmund. Raya was forced off in the second half of Saturday’s 2-2 draw with a suspected dislocated shoulder, raising fears he could be sidelined for an extended period. He had an MRI scan on Arsenal’s return to London and was absent from training on Monday. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T15:13:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
+      "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
+      "summary": "Country’s first World Cup since men’s 1966 edition in England Bid lists 22 stadiums as potential venues The UK is to host the 2035 Women’s World Cup, Fifa has confirmed. England, Northern Ireland, Scotland and Wales will stage the first World Cup hosted in the country since the 1966 men’s tournament in England. The UK bid was the only one under consideration for 2035. The 2031 tournament has been awarded, also uncontested, to the United States, Mexico, ⁠Costa Rica and Jamaica . The decisions were formalised at a virtual meeting of Fifa’s national associations on Monday. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T15:09:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+      "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
+      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T15:05:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/523007/deontay-wilder-gets-new-opponent-for-fury-vs-joshua-co-main-event",
+      "title": "Deontay Wilder gets new opponent for Fury vs. Joshua co-main event",
+      "summary": "Deontay Wilder will now box Martin Bakole in the co-main event of the Tyson Fury vs. Anthony Joshua card on Dec. 11 after the withdrawal of Zuffa Boxing cruiserweight Jai Opetaia, Netflix announced Monday. The card will take place at the Principality Stadium in Cardiff, Wales, and air live on Netflix. Bakole was originally slated […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
+      "title": "Emery insists no change of plan for Aston Villa despite fears over Galatasaray surface",
+      "summary": "‘Hopefully the pitch will be as best as possible,’ says Villa manager Turkish champions had to move game on Saturday Unai Emery has insisted he will not alter his plans for Aston Villa’s Champions League game at ­Galatasaray on Tuesday night on account of concerns about the state of the pitch. The Turkish champions hastily moved Saturday’s home fixture from Rams Park after starting emergency repairs to the surface this month. The Villa defender Ian Maatsen said he and his teammates were aware the pitch was in a “bad condition”. Villa were informed by Uefa last week that they would be unable to train at the venue the day before the Champions League game in order to give the pitch maximum time to recover after heavy maintenance work. Galatasaray played Saturday’s victory over Samsunspor at Basaksehir Fatih Terim stadium, a significantly smaller ground named after the former Turkey manager, who played for and managed Galatasaray. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T14:56:36+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
+      "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
+      "summary": "Désiré Doué sustained an ACL injury in PSG’s 3-2 win at Nice and joins Khvicha Kvaratskhelia on the treatment table By Get French Football News Luis Enrique is in uncharted territory, even if he insists that “it isn’t a first”. Since arriving at Paris Saint-Germain in 2023, only three players have spent more than 100 days on the sideline – Nuno Mendes, Lucas Hernandez and Presnel Kimpembe – and only Mendes is an important first-team player. But for the remainder of the season, or at least the vast majority of it, Luis Enrique must do without two of his stars: Désiré Doué and Khvicha Kvaratskhelia. Doué arrived in Nice on Saturday evening already bearing scars. The PSG forward wore a mouth guard after Davide Frattesi had dislodged one of his front teeth with a stray arm during France’s defeat by Italy during the international break. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T14:19:24+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522949/stephen-wonderboy-thompson-details-epic-ending-to-final-fight-addresses-if-hes-really-staying-retired",
+      "title": "Stephen ‘Wonderboy’ Thompson details ‘epic’ ending to final fight, addresses if he’s really staying retired",
+      "summary": "Stephen “Wonderboy” Thompson knew UFC 334 was going to be his final fight, but even he couldn’t have predicted that it would end in such a spectacular and perfect way. With less than two minutes remaining in his fight against Charles Radtke, the former welterweight title challenger uncorked a signature spinning heel kick that landed […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta",
+      "title": "Raya injury 'not too serious' says relieved Arteta",
+      "summary": "Mikel Arteta has revealed that David Raya's shoulder injury is not as bad as first feared, but is unsure when the Arsenal goalkeeper will return to action.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615572/arsenals-shocking-wsl-season-analysed-no-home-win-a-lack-of-goals-and-a-disenfranchised-fanbase",
+      "title": "Arsenal's struggles explained - and why they should have signed Putellas",
+      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T13:46:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213",
+      "title": "Was the Las Vegas GP best race of the year - or too fake?",
+      "summary": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure. Among the numerous changes for the lead, as Max Verstappen had to bat away passes from George Russell, Kimi Antonelli, and Lando Norris at various intervals throughout, the race was ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T13:44:36+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/23/welcome-to-manchester-united-mauricio-football-weekly-video",
+      "title": "Welcome to Manchester United, Mauricio | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Jordan Jarrett-Bryan and Lars Sivertsen as Mauricio Pochettino’s first game in charge at Manchester United sees them thrashed by Liverpool Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T13:36:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+      "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with Atalanta This ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A hat-trick, becoming only the third Italian to get one for Inter in the era of three points for a win. The last to do it was Christian Vieri, back in 2003. Two years before Esposito was born. We will come back to that. Esposito has been drawing premature comparisons to Vieri for some time and especially now after a barnstorming November in which he has scored eight times in five games, including three in two for his country, and two of those as part of a man-of-the-match performance during an upset win against France . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T13:18:20+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o",
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T13:07:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522254/morning-report-josh-hokit-claims-his-vision-is-still-blurry-after-ufc-334-promises-consequences-for-ciryl-gane-next-time",
+      "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time",
+      "summary": "Josh Hokit’s only regret is that he didn’t cheat. At UFC 334, Hokit challenged Ciryl Gane for the heavyweight title, and though the up-and-comer acquitted himself admirably, “The Incredible Hok” lost a unanimous decision. However, as has become routine with Gane’s fights lately, the loss had some controversy when, less than a minute into the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o",
+      "title": "Watford set to appoint former Romania boss Iordanescu",
+      "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T12:36:46+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict",
+      "title": "Man Utd to appeal Yoro red card",
+      "summary": "Manchester United have notified the FA of their intention to appeal Leny Yoro's red card against Liverpool.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T12:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-leclerc-and-hamilton/10877158",
+      "title": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
+      "summary": "The post-race media session with Ferrari Formula 1 team boss Frederic Vasseur in Las Vegas was, in several respects, almost a carbon copy of the conversation in Mexico City. On both occasions, the discussion with the written press took place in a small, almost cosy room at the back of the Ferrari hospitality area, partly because Formula 1 teams cannot rely on the hospitality units used during ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T12:15:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+      "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena against struggling opponents who had won just twice all season in the league. In the end, though, the best news of the night was that Saïd El Mala, the star of the visitors, Köln, who had scored a jaw-dropping consolation goal at the same stadium in spring, fluffed a far easier chance in the closing stages that would have condemned the champions to defeat. The word crisis is rampantly overused in sport, but this was the weekend Bayern’s injury troubles reached critical mass. With Luis Díaz, Serge Gnabry and Ismaël Saibari already missing, their talisman Harry Kane had his game curtailed after 20 minutes and by the time the second half had begun, they’d lost Michael Olise too. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T12:08:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
+      "title": "Merson: My worry is that Liverpool thought Alonso wasn't good enough",
+      "summary": "In his latest Sky Sports column, Paul Merson has raised doubts about whether Xabi Alonso is good enough as Chelsea manager - after another disappointing defeat in the Premier League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T12:08:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo",
+      "title": "Morocco and Senegal await Afcon final verdict after court case",
+      "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of the Afcon 2025 title.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T11:56:41+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo",
+      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+      "summary": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T11:49:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw33g15zeemro",
+      "title": "Mustaki out of World Cup play-off with knee injury",
+      "summary": "Republic of Ireland defender Chloe Mustaki is forced to withdraw from her side's 2027 Women's World Cup play-off final against Poland after rupturing her anterior cruciate ligament.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T11:35:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+      "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+      "summary": "Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up to 96 years while paying its management up to 5% of the scheme’s multibillion-pound value, according to documents seen by the Guardian. Previously undisclosed communications by Fifa and Thrive Capital, the lead investor for the proposal, cast fresh light on the deal to sell off football’s crown jewels. They outline a plan, produced days before July’s final of the 2026 World Cup, to profit from the sport’s burgeoning commercial revenues for almost a century. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T11:34:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
+      "title": "WSL talking points: Captain Spence inspires Spurs shock win at City and Lionesses impress",
+      "summary": "We may have a proper title race on our hands as City and Chelsea drop points and LCL strengthen their grip on third place Drew Spence rolled back the years with a vintage performance as her Tottenham side produced a shock 3-1 victory away against the defending champions, Manchester City. The 34-year-old marshalled the midfield and then had the vision to thread an outstanding through ball that split the City defence and found the run of Matilda Vinberg, who put Spurs 2-1 up. “She’s unbelievable. There are so many more gears in Drew and I wish I’d been able to work with her a bit earlier [in my career] because her leadership is second to none,” the Tottenham head coach, Martin Ho, said of the club captain. “Her performance levels, since I’ve been here, week on week have grown. She is covering every blade of grass and leads by example. For me, she’s one of the best midfielders in the league.” Tom Garry Match report: Manchester City 1-3 Tottenham Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T11:19:05+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
+      "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
+      "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-23T11:02:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13610423/harrison-armstrongs-distance-covered-stats-highlight-everton-midfielders-impact-under-david-moyes-this-season",
+      "title": "Armstrong is Everton's running man and Moyes believes he can get better",
+      "summary": "Harrison Armstrong has started every Premier League game for Everton this season, ranking in the top three for distance covered in the competition going into the weekend. This has been some year for a player who started 2026 on loan at Preston North End.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140",
+      "title": "Herta replaced at Hitech to end F2 season early",
+      "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to European single-seaters this year as part of his bid to gain an FIA Superlicence that is required to compete in Formula 1. But F2 has not gone as planned for Herta, who is ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T09:42:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo",
+      "title": "Every goal from the Women's Super League - matchweek 11",
+      "summary": "Watch all the goals from matchweek 11 in the WSL, including Annabelle Blanchard's delightful volley against London City Lionesses and Lee Geum-Min's thumping finish for Birmingham City.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T09:34:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066",
+      "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+      "summary": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had been taken for granted since last summer. The announcement of Rafael Camara as Bearman's 2027 team-mate, which came ahead of the Brazilian Grand Prix, was expected to be swiftly ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T09:05:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615535/liverpools-attack-shows-its-devastating-potential-as-florian-wirtz-steps-up-in-thumping-win-over-10-man-man-utd",
+      "title": "The day Liverpool's attack showed its devastating potential",
+      "summary": "The conditions were favourable. Leny Yoro's red card after just eight minutes. A Man Utd team devoid of confidence and defensive resilience. But on Sunday, Liverpool's attack showed its devastating potential.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T09:01:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo",
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T08:55:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno",
+      "title": "Holloway sacked by Swindon after two seasons",
+      "summary": "Swindon sack manager Ian Holloway following their poor start to the League Two season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T08:44:53+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o",
+      "title": "Watch highlights of the weekend's SPFL action",
+      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T08:14:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jeqweg7j2eo",
+      "title": "Rangers plan January exit for Cifuentes - gossip",
+      "summary": "Rangers plan January exit for midfielder as Hibs captain speaks of \"shame\" after 4-0 home loss.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T08:09:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9q8vgqerlxo",
+      "title": "Three years on NI Women finally have friendlies again",
+      "summary": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T08:06:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
+      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
+      "summary": "Everton striker has worked hard to find his scoring touch after admitting he hit ‘rock bottom’ at times last season A most unexpected name sits behind the phenomenon Erling Haaland and the £125m proven marksman Alexander Isak in the Premier League goalscoring chart this season. The rise of Thierno Barry may have surprised even the man himself but stands as a fitting reward for single-minded perseverance and the refusal to quit. “Fabulous” was David Moyes’s take on Barry’s last performance for Everton, when a double against Coventry took the striker to 10 goals for the season in all competitions and his team temporarily up to fifth. It was high praise indeed from a manager who does not dispense tributes freely, and can appear to be on the French forward’s case constantly, but was no more than Barry deserved for a display that also featured an assist for Everton’s third goal of the night. His six Premier League goals leave him joint third alongside Evanilson of Bournemouth and Aston Villa’s Nicolas Jackson. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T08:00:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/premier-league-10-talking-points-from-the-weekends-action",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "summary": "Leeds offer Chelsea a lesson, Newcastle’s summer recruits struggle and Jules Ahoka makes a name for himself What to make of Manchester United’s utterly torrid start under Mauricio Pochettino? To go glass half full as the new head coach had only three days to prepare the side for the trip to Anfield, the hope will be that time will cast the 4-0 humbling from Liverpool as the falsest of false starts. The glass-half-empty scenario, though, is that here was an XI packed with internationals that had zero clue how to sort out a dire beginning themselves. Leny Yoro’s very early red card may have been questionable but for the wall to evaporate and allow Dominik Szoboszlai’s subsequent free-kick to arrow home was damning evidence of how immature Pochettino’s new charges are. From here it became a debacle and the players, if they have anything about them, need to apologise to the head coach, hold a meeting between themselves and demand they start taking responsibility. If not, United are heading only one way: down. Jamie Jackson Match report: Liverpool 4-0 Manchester United ‘It’s painful for me’: Pochettino criticises Yoro red card decision Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T08:00:50+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
+      "summary": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-23T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o",
+      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T07:52:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T06:31:21+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T06:17:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615086/lewis-hamilton-charles-leclerc-clashes-cannot-continue-after-las-vegas-gp-with-frederic-vasseur-to-speak-to-drivers-again",
+      "title": "'This cannot continue' - Ferrari to hold fresh Leclerc-Hamilton talks after collision",
+      "summary": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\".",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-23T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13613188/qatar-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-lusail-international-circuit-live-on-sky-sports",
+      "title": "Qatar GP: UK schedule and how to watch on Sky Sports",
+      "summary": "Formula 1 heads to the Middle East for the last two rounds of the 2026 season with the Qatar Grand Prix hosting the penultimate event this weekend.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-23T06:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
+      "title": "James Gallagher retires from MMA at age 30",
+      "summary": "James Gallagher is done with MMA. On Sunday, Gallagher announced his retirement from the sport in a lengthy post on Instagram, saying there are reasons for stepping away, despite being only 30 years old, but declining to go into specifics at this time. After a lifetime dedicated to martial arts and years competing at the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o",
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T23:59:59+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo",
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T23:59:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling",
+      "title": "The Scorecard | UFC Qatar",
+      "summary": "Highlighting The Biggest Winners From UFC Fight Night: Procházka vs Stirling on November 21, 2026 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-22T23:55:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "title": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
+      "summary": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bottom-placed Crystal Palace. There was no new manager bounce for Mauricio Pochettino, who saw Leny Yoro sent off in the eighth minute for a last-ditch foul on Alexander Isak. Pochettino accepted full responsibility for the loss, but claimed the dismissal was wrong and United should have had a penalty moments earlier for a Jérémy Jacquet challenge on Bryan Mbeumo. 'It was a desperate take,\"' writes Andy Hunter at Anfield. Read the full match report here Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-22T23:33:33+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T23:20:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v",
+      "title": "Football Daily",
+      "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-22T23:14:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
       "title": "Battle for second place tightens as finish line nears",
@@ -99,6 +799,16 @@
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
+      "title": "Video: Fighter earns submission with airtight leg scissor choke",
+      "summary": "Perttu-Veli Paatola can claim to have pulled off arguably the most unique submission of the year. At a martial arts event in Kyiv, Ukraine, Paatola took advantage of some lax defense by opponent Hlib Kush to secure a rare leg scissor choke submission win. Kush might have thought he wasn’t in much danger initially, but […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo",
       "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
       "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
@@ -149,6 +859,16 @@
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/ufc/522875/kevin-vallejos-reveals-cageside-chat-with-exec-after-ufc-qatar-win-included-profane-message-for-jean-silva-lerone-murphy",
+      "title": "Kevin Vallejos reveals cageside chat with exec after UFC Qatar win included profane message for Jean Silva, Lerone Murphy",
+      "summary": "Kevin Vallejos made sure his message was loud and clear after scoring a huge win at UFC Qatar. The Argentinian featherweight improved to 5-0 in the octagon following Saturday’s main event, which saw him earn a hard-fought decision over former bantamweight titleholder Aljamain Sterling. After, Vallejos used his post-fight interview time to call for a […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T21:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
       "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
       "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading...",
@@ -177,6 +897,16 @@
       "published": "2026-11-22T20:25:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522919/video-chris-leben-eats-soccer-kick-from-yoshihiro-akiyama-wins-split-decision-in-return-to-mma",
+      "title": "Video: Chris Leben eats soccer kick from Yoshihiro Akiyama, wins split decision in return to MMA",
+      "summary": "Chris Leben ain’t done yet. On Saturday, the former UFC middleweight title challenger returned to MMA after a thirteen-year layoff, facing Yoshihiro Akiyama in his retirement fight at Black Combat 17 in Seoul, South Korea. This was a rematch of Leben and Akiyama’s 2010 UFC fight, which Leben won via triangle choke, and while the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o",
@@ -259,6 +989,16 @@
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/ufc/522682/elijah-smith-announces-new-ufc-contract-teases-fight-date",
+      "title": "Elijah Smith announces new UFC contract, teases fight date",
+      "summary": "Elijah Smith is keeping his talents inside the octagon. The blue-chip bantamweight prospect announced Saturday that he has re-signed with the UFC on a new deal after completing the final fight of his first contract in November. Smith (11-1) scored a 60-second knockout over Davey Grant at UFC Vegas 124 to improve to 4-0 in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
       "url": "https://www.skysports.com/football/news/11095/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
       "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
       "summary": "Mauricio Pochettino felt Manchester United were given an \"unfair\" red card in their 4-0 defeat at Liverpool - with Kobbie Mainoo replying \"no chance\" when asked whether Leny Yoro should have been sent off.",
@@ -337,6 +1077,16 @@
       "published": "2026-11-22T18:07:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
+      "title": "Umar Nurmagomedov issues first statement since Merab Dvalishvili attack and release from prison",
+      "summary": "Umar Nurmagomedov wants to focus on the future. Earlier this month, Nurmagomedov’s brother, Usman, attacked Merab Dvalishvili with a cohort of friends ahead of RAF Abu Dhabi. The incident resulted in all parties getting arrested, and Usman Nurmagomedov, Umar Nurmagomedov, and their associates receiving six-month prison sentences, along with substantial fines. However, last week, all […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo",
@@ -437,6 +1187,16 @@
       "published": "2026-11-22T17:00:01+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-22T23:10:19.139015+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
+      "title": "Brian Ortega reveals he told coach ‘I think I’m done’ before calling it a career at UFC Qatar",
+      "summary": "Brian Ortega knew the end was near. The veteran UFC contender called it a career Saturday following a unanimous decision loss to Dan Hooker, but as it turns out, the thought was already in the back of his head even before the fight. While things ultimately didn’t go his way, Ortega revealed he already had […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-22T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
     },
     {
       "url": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
@@ -15847,6 +16607,16 @@
       "published": "2024-12-14T21:36:07+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-12T14:33:44.330980+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13266830/max-verstappen-vs-geroge-russell-most-heated-clashes",
+      "title": "These two have history... the heated clashes between Verstappen and Russell",
+      "summary": "A look back at some of the most heated clashes between Red Bull's Max Verstappen and Mercedes' George Russell.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2024-12-04T16:03:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-23T17:16:05.128540+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/iplayer/episode/b03y76xl",
