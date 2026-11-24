@@ -1,23 +1,523 @@
 {
-  "generated_at": "2026-11-24T03:45:24.686180+00:00",
+  "generated_at": "2026-11-24T16:55:40.330063+00:00",
   "stats": {
-    "total": 1693,
+    "total": 1744,
     "categories": {
-      "football": 1062,
-      "formula1": 326,
+      "football": 1102,
+      "formula1": 337,
       "ufc": 305
     },
     "priorities": {
-      "HIGH": 579,
-      "LOW": 937,
-      "MEDIUM": 177
+      "HIGH": 597,
+      "LOW": 967,
+      "MEDIUM": 180
     },
     "sources": 8,
-    "last_scan": "2026-11-24T03:45:23.506783+00:00",
-    "last_scan_new": 29,
+    "last_scan": "2026-11-24T16:55:38.463255+00:00",
+    "last_scan_new": 51,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
+      "title": "What time is the 2026 Qatar GP and how can I watch it?",
+      "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
+      "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
+      "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
+      "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
+      "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
+      "title": "Who impressed our Power Rankings judges in Las Vegas?",
+      "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City of Lights? Check out the latest scores and overall leaderboard below…",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+      "title": "The 5 drivers most likely to qualify fastest in Qatar",
+      "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
+      "title": "Audi-backed Slater to take over Camara’s F2 seat",
+      "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next year.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
+      "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
+      "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+      "title": "The 5 drivers most likely to win in Qatar",
+      "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
+      "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
+      "summary": "Tom Hart has been stepping into the role of Max Verstappen's race engineer during the closing stages of the 2026 season, ahead of Gianpiero Lambiase's departure to McLaren.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
+      "title": "13 of F1's weirdest and most amazing records",
+      "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo",
+      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+      "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T16:34:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o",
+      "title": "Yoro has red card overturned despite ref's chief Webb backing decision",
+      "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T16:16:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
+      "title": "Aston Villa go full strength at Galatasaray LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T16:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o",
+      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T16:11:33+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo",
+      "title": "Defender Heaven open to leaving Man Utd",
+      "summary": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T15:56:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "title": "Manchester United win appeal over Yoro’s one-match suspension after Anfield red card",
+      "summary": "Mauricio Pochettino said after game it was ‘never a foul’ Player now eligible to face Brentford on Saturday Manchester United have successfully appealed against the decision to send off Leny Yoro in their 4-0 defeat to Liverpool. The defender was dismissed for denying an obvious goal scoring opportunity after eight minutes but this was found to be incorrect. The Frenchman will no longer be required to serve a one-match suspicion. He fouled Liverpool’s Alexander Isak when through on goal in the early stages at Anfield but Mauricio Pochettino insisted the striker would not have reached the ball, and therefore is was not a sending off offence. The referee Sam Barrott made a different assessment, which the video assistant did not disagree with. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T15:49:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
+      "title": "Yoro red card overturned after successful Man Utd appeal",
+      "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T15:34:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o",
+      "title": "Millwall face partial stadium closure after discriminatory chants",
+      "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T14:23:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
+      "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
+      "summary": "Senegal won January’s final 1-0 after walking off Result was overturned in March as 3-0 win for Morocco Senegal have been restored as the Africa Cup of Nations champions after a ruling by the court of arbitration for sport (Cas). Senegal beat Morocco 1-0 in a chaotic Afcon final in January but the result was overturned two months later as a 3-0 default win for Morocco by an appeals panel appointed by the Confederation of African Football (Caf). Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T14:22:36+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
+      "title": "Senegal confirmed AFCON 2025 champions after appeal",
+      "summary": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T14:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting",
+      "title": "Millwall first club hit with partial closure over discriminatory chants",
+      "summary": "Millwall have become the first club in the top four divisions of English football to be punished with a partial stadium closure for discriminatory chanting after a regulatory commission proved two FA charges.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo",
+      "title": "SFA leads tributes to former president Peat",
+      "summary": "Former Scottish FA president George Peat dies at the age of 86.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T13:35:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
+      "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
+      "summary": "Midfielder is preparing to face Liverpool after leaving the club he loves and overcoming a tough start in Belgium In April Freddie Potts was absorbing the disappointment of being substituted at half-time during West Ham’s FA Cup quarter-final defeat by Leeds. The midfielder was out of favour under Nuno Espírito Santo and could not have imagined that he would be preparing to face Liverpool in the Champions League seven months later. It is the 23-year-old’s reward for taking the difficult decision to leave his boyhood club last summer. Potts noticed his minutes were drying up in pre-season, even though West Ham were not exactly stocked with talent after relegation, and was ready for a new challenge when Club Brugge offered about £10m to sign him. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T13:00:47+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o",
+      "title": "Non-league player injured falling down badger hole",
+      "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T12:31:12+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo",
+      "title": "Palace docked points for using four sub windows in WSL win",
+      "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T12:14:19+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
+      "title": "The NWSL 2026 goals, players and nutmegs we won’t forget",
+      "summary": "An Olimpico tops the list of season highlights, with mention for Croix Bethune’s feats and a four-player nutmeg Surely the final strands of gold and silver confetti have been picked out of the well worn surface of Audi Field in Washington by now. The Kansas City Current might not have left any unclaimed after their hard-earned NWSL championship , after outlasting a late threat from the Washington Spirit to claim a first title at their opponent’s friendly confines. Before the annual onslaught of transfers and off-season rumblings fully heats up, we offer a quick look back at the NWSL season that was. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T12:00:45+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
+      "title": "Stella 'liked' Piastri's fiery response to McLaren 'be careful' warnings",
+      "summary": "McLaren team principal Andrea Stella says he liked Oscar Piastri's fiery response to radio messages warning the Australian to \"be careful\" battling his team-mate Lando Norris during the Las Vegas Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-24T12:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
+      "summary": "Too many substitutes used during win in opening game They drop place to 13th but no extra points for Everton Crystal Palace have been deducted three points in the Women’s Super League after they made substitutions in four separate windows during their 1-0 victory over Everton in September. Palace admitted breaching the competition’s rules and an independent tribunal ordered the points deduction, but no points will be awarded to Everton. It means Palace drop from 12th to 13th, below Birmingham City on goal difference. The match will not be replayed. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T11:40:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o",
+      "title": "Glens boss Ferguson apologises after seven-game ban",
+      "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T11:36:18+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615948/crystal-palace-women-deducted-three-points-in-wsl-for-making-substitutions-at-four-windows-in-everton-win",
+      "title": "Crystal Palace Women deducted three points for use of subs",
+      "summary": "Crystal Palace Women have been deducted three points in the WSL with immediate effect.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T11:34:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+      "summary": "Our cartoonist on a nightmare start for the Argentinian as he took charge of the Premier League’s biggest crisis club Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T11:31:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
+      "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+      "summary": "Noel-Williams remanded in custody by police Charges also include count of assault by penetration A League Two footballer has been charged with three counts of rape and remanded in custody by Hertfordshire police. Isiah Noel-Williams, 23, who has made seven league appearances for Barnet this season, was also charged with one count of assault by penetration, one count of engaging in sexual communication with a child and one count of supplying a class B drug. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T11:03:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/uk-automatic-qualification-2035-womens-world-cup-england-northern-ireland-scotland-wales",
+      "title": "UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup",
+      "summary": "Fifa will make decision on qualifying procedures Four 2031 hosts have been given automatic places England, Northern Ireland, Scotland and Wales are in the dark about whether they will be granted automatic qualification as hosts for the 2035 Women’s World Cup . The decision on qualification procedures will be made by Fifa, with sources at the domestic Football Associations telling the Guardian they had yet to be informed of the plan after their bid was formally accepted. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T11:00:43+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go",
+      "title": "Republic of Ireland boss Ward signs new contract",
+      "summary": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T10:45:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o",
+      "title": "Four Midlands teams in the Championship top five - can it last?",
+      "summary": "With more than a third of the season gone, Stoke City, Birmingham City, Wolves and West Brom are all in the Championship promotion race. Who can keep it up?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T10:27:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
+      "title": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
+      "summary": "French Football president faces uphill battle to win backing of continent’s decision-makers in March’s Fifa election Philippe Diallo must be learning very quickly that the battle to wrest the Fifa presidency from Gianni Infantino takes no prisoners. When Patrice Motsepe, the president of the Confederation of African Football (Caf), asked the presidents and general secretaries of its 54 member associations to give Infantino a standing ovation at Caf’s general assembly last weekend, Diallo, a guest at the event, had no choice but to cope with an uncomfortable moment. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T10:07:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
+      "title": "Timothy Weah: ‘I don’t want to beg to be back in the national team’",
+      "summary": "Winger has not played for the USMNT since the World Cup and believes good club form is his route back into the squad This was the USMNT’s summer. By extension, it was also that of the 26 players selected by Mauricio Pochettino to represent the nation at a home World Cup. It didn’t live up to expectations for all of them, and certainly not for Timothy Weah. “Obviously this summer wasn’t the best for me,” he says. Weah was one of eight players in the squad to have started all four of the US’s matches in Qatar in 2022. He remained a regular heading into this tournament but would ultimately start only one game in a campaign that came to an end at the hands of Belgium in the last 16 . “In every career you have moments where you’re a bit down, and you’re a bit in your head about things. I think the World Cup was definitely that for me,” Weah says. “On a personal level, I had to take a back seat and figure out where my place was in the squad.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T10:00:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo",
+      "title": "Dead hippo to be honoured on football club tifo",
+      "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T09:43:38+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo",
+      "title": "The youngest Premier League goalscorers this season",
+      "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T09:10:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o",
+      "title": "Barnet forward Noel-Williams charged with rape",
+      "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T08:50:17+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo",
+      "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
+      "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T08:36:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/cm04wz6ez2rgo",
+      "title": "Can returning Beattie and Haughey make an impact?",
+      "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T08:08:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
+      "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
+      "summary": "Even without the charges, the Belgian maestro will be an unwelcome throwback to happier times for Enzo Maresca As Manchester City come to terms with turbulence, one of their all-time greats has flown in to remind them of the best of times. Kevin De Bruyne will be back at the Etihad Stadium on Tuesday, evoking the greatest period of Pep Guardiola’s decade in charge when they won four straight Premier League titles and the Champions League . In Europe, things are comfortable for Enzo Maresca, with three wins from four, but they have collected a solitary point from 12 domestically recently. They are struggling to score and conceding too easily at the back, leading the Italian to experiment in his attempts to find solutions. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T08:00:10+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppl6tf",
+      "title": "Podcast: Hibs & Dundee hurting as confidence grows at Rangers",
+      "summary": "Can Dundee respond to 8-0? Hibs chase a rare home win and Rangers turn up the heat.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d71gjnznz2o",
+      "title": "Celtic duo Duran and Nygren attract interest - gossip",
+      "summary": "Premier League club keep an eye on Celtic summer signing as Serie A sides monitor the champion's Swedish midfielder...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T07:53:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615599/wolves-hit-their-stride-stoke-continue-to-dream-but-can-they-last-the-course-and-are-qpr-dark-horses-of-championship",
+      "title": "Wolves are clicking, Stoke are dreaming - but could QPR be dark horses?",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T07:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o",
+      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+      "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T06:57:16+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do",
+      "title": "Two goals in 15 games - what's going on with Gyokeres?",
+      "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T06:45:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T06:42:40+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo",
+      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T06:16:53+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
     {
       "url": "https://www.mmafighting.com/pfl/523032/14-fights-official-for-pfls-last-card-before-mvp-mma-transition-in-2027",
       "title": "14 fights official for PFL’s last card before MVP MMA transition in 2027",
@@ -16047,6 +16547,16 @@
       "published": "2026-11-05T06:49:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-09T17:27:27.016427+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033ttb/office-christmas-party",
+      "title": "A festive comedy featuring Jason Bateman, Olivia Munn and Jennifer Aniston",
+      "summary": "Office rivals, festive mayhem and one very important client",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-05T01:42:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T16:55:38.463255+00:00"
     },
     {
       "url": "https://www.ufc.com/news/mantas-kondratavicius-more-comfortable-every-time-ufc-vegas-124",
