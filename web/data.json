@@ -1,23 +1,293 @@
 {
-  "generated_at": "2026-11-23T17:16:06.822020+00:00",
+  "generated_at": "2026-11-24T03:45:24.686180+00:00",
   "stats": {
-    "total": 1664,
+    "total": 1693,
     "categories": {
-      "football": 1044,
-      "formula1": 324,
-      "ufc": 296
+      "football": 1062,
+      "formula1": 326,
+      "ufc": 305
     },
     "priorities": {
-      "HIGH": 570,
-      "LOW": 919,
-      "MEDIUM": 175
+      "HIGH": 579,
+      "LOW": 937,
+      "MEDIUM": 177
     },
     "sources": 8,
-    "last_scan": "2026-11-23T17:16:05.128540+00:00",
-    "last_scan_new": 77,
+    "last_scan": "2026-11-24T03:45:23.506783+00:00",
+    "last_scan_new": 29,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.mmafighting.com/pfl/523032/14-fights-official-for-pfls-last-card-before-mvp-mma-transition-in-2027",
+      "title": "14 fights official for PFL’s last card before MVP MMA transition in 2027",
+      "summary": "Professional Fighters League’s final card will feature 14 bouts and crown a new champion Dec. 19 in Lyon, France. PFL announced the full lineup for PFL Lyon on Monday, including a 135-pound title clash between local favorite Taylor Lapilus and Mitch McKee. Boris Atangana will take on UFC middleweight veteran Bryan Battle in the co-headliner, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T23:26:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo",
+      "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+      "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T23:07:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o",
+      "title": "Andrews praises 'versatile' Lewis-Potter",
+      "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T22:59:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T22:54:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T22:43:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
+      "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T22:40:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T22:31:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
+      "title": "Janelt scores rocket as Brentford thrash 10-man Everton to move sixth!",
+      "summary": "FREE TO WATCH: Highlights from Brentford’s match against Everton in the Premier League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T22:21:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+      "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was inevitable after James Tarkowski received his first red card in 351 Premier League appearances. Those in Tarkowski’s corner will claim the Everton captain’s tackle on Yehor Yarmoliuk would not have been a foul back in the day. This, though, was not a “game’s gone” moment. Not that sort of player? The reality is Tarkowski’s back catalogue features plenty of orange card tackles, meaning there was always likely to come a time when his luck ran out. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T22:09:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522903/on-to-the-next-one-matches-to-make-after-ufc-qatar",
+      "title": "On To the Next One: Matches to make after UFC Qatar",
+      "summary": "Navajo Stirling may have quite the decision to make in regards to his next fight after knocking out Jiri Prochazka in the main event of UFC Qatar. In fact, he could potentially face his own teammate Carlos Ulberg for the light heavyweight title. But is that the direction the UFC will go with the undefeated […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppk3nb",
+      "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
+      "summary": "Mark Chapman is joined by Conor Coady, Chris Sutton and Rory Smith.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T21:48:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o",
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T21:41:52+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/monthly-report-november-2026",
+      "title": "Monthly Report | November 2026",
+      "summary": "Handing Out Imaginary Hardware For The Best Performances From The Previous Month Inside The Octagon Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-23T21:35:51+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+      "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
+      "summary": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T21:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo",
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T21:05:23+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo",
+      "title": "Hosting World Cup means decade of excitement - Weir",
+      "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T21:03:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "summary": "Maximising the societal impact of the tournament, especially combating misogyny, should be a top priority The announcement that the 2035 Women’s World Cup will be hosted in England, Scotland, Wales and Northern Ireland has finally come and, if we aim high enough, it could have a massive societal impact. Confirmation was a foregone conclusion – the UK was the only bidder – but that did not mean the submission was complacent or lacked ambition. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T21:02:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/523044/tyson-fury-reveals-he-was-diagnosed-with-schizophrenia-after-wladimir-klitschko-win",
+      "title": "Tyson Fury reveals he was diagnosed with schizophrenia after Wladimir Klitschko win",
+      "summary": "Tyson Fury has been battling more than just boxers over the past decade. In the upcoming Netflix documentary about his life, Tyson Fury, “The Gypsy King” reveals that he was diagnosed with schizophrenia shortly after winning the unified heavyweight title from Wladimir Klitschko in 2015 (h/t Variety). “Words can’t explain the darkness I was in,” […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T21:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523065/conor-mcgregor-teases-hes-fully-back-in-the-gym-following-injury-suffered-at-ufc-329",
+      "title": "Conor McGregor teases he’s ‘fully back in the gym’ following injury suffered at UFC 329",
+      "summary": "Conor McGregor appears to be on the comeback trail. McGregor returned to the octagon after a lengthy layoff to face Max Holloway in the main event of UFC 329 in July. The former two-division champion suffered a knee injury in the opening moments of the fight when he threw a jumping kick, and that led […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615552/are-manchester-united-in-a-relegation-battle-gary-neville-and-jamie-carragher-assess-their-survival-chances",
+      "title": "Are Man Utd genuinely in a relegation battle?",
+      "summary": "What started as a blip has become a problem far more systemic for Man Utd.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T19:45:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615767/chelsea-must-sign-centre-back-or-will-achieve-nothing-with-levi-colwill-and-wesley-fofana-says-jamie-carragher",
+      "title": "Carra: Chelsea must sign centre-back or achieve nothing",
+      "summary": "Jamie Carragher believes Chelsea must sign a dominant centre-back or they will have \"no chance of achieving anything\".",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-23T19:37:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/one/522934/christian-lee-responds-to-one-championship-stripping-his-welterweight-title-im-far-from-finished",
+      "title": "Christian Lee responds to ONE Championship stripping his welterweight title: ‘I’m far from finished’",
+      "summary": "Christian Lee ain’t done yet. On Wednesday, ONE Championship announced it had stripped Lee of its welterweight championship after four years of inactivity in the division. This came on the heels of Lee losing the lightweight title to Tye Ruotolo just a few weeks earlier, leaving the former champ-champ suddenly without any titles. Over the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
+      "title": "Has Verstappen feud reignited at wrong time for Russell?",
+      "summary": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-23T18:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+      "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor",
+      "summary": "Ilia Topuria has an idea for next year. This summer, Topuria lost his UFC lightweight title after being stopped on the stool against Justin Gaethje at UFC White House. Afterward, Topuria spent a long time recovering, but he recently announced that he’s back to regular training and lobbied for a rematch with Gaethje. Barring that, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T18:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
+      "title": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
+      "summary": "Rivals have been heading in opposite directions in recent years but latest clash showed some things never change “If we didn’t celebrate a goal, especially in this game, that would be madness,” Kike Salas said. Instead, this was madness, the kind of moment a derby is meant to have, even if it has nothing else. It was late, it was lucky, and there wasn’t even a winner but right there, right then, at 24 minutes past 8pm on Saturday evening in the Ramón Sánchez-Pizjuán Stadium, it felt like there was. Frankly it was a bit rubbish, as bad a goal as you’ll see, but it was also the best, practically Pelé against the Nazis . Suddenly there were arms and legs everywhere, tears too. Cameras confirmed it. Zoom in and there they are: actual, real life tears. In the 91st minute of the 146th meeting between Sevilla Fútbol Club and Real Betis Balompié – “derby of derbies” according to Luis García, the Sevilla coach for whom it was the first – Salas’s shot from 18 yards went through Marc Bartra’s legs and Álvaro Valles’s hands. The ball dribbled into the Betis net so apologetically it barely touched the net at all and hadn’t got there before Sevilla’s vice-captain was gone. Raised in Morón de la ",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-23T17:49:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877159",
+      "title": "Max Verstappen considering 2027 Daytona 24 Hours entry",
+      "summary": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona. The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the question of whether he is seriously considering taking part in the Rolex 24, the endurance race held on the road course of Daytona International Speedway. When Autosport put that question to him during ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-23T17:43:13+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
       "title": "The timeline of Verstappen and Russell’s long rivalry",
@@ -109,6 +379,16 @@
       "first_seen": "2026-11-23T17:16:05.128540+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/ufc/523011/islam-makhachev-says-usman-nurmagomedov-merab-dvalishvili-situation-got-blown-way-out-of-proportion",
+      "title": "Islam Makhachev says Usman Nurmagomedov-Merab Dvalishvili situation ‘got blown way out of proportion’",
+      "summary": "Islam Makhachev doesn’t think the Usman Nurmagomedov-Merab Dvalishvili situation is a big deal. Earlier this month, Nurmagomedov attacked Dvalishvili in a hotel ahead of RAF Abu Dhabi, leading to a brawl that resulted in multiple arrests. Eventually, Nurmagomedov and his associates were released from prison after the Abu Dhabi Court reduced their sentences following an […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o",
       "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
       "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
@@ -167,6 +447,16 @@
       "published": "2026-11-23T16:03:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523008/video-kevin-holland-calls-for-mike-perry-fight-with-creative-gta-6-scene",
+      "title": "Video: Kevin Holland calls for Mike Perry fight with creative GTA 6 scene",
+      "summary": "Kevin Holland wants to welcome Mike Perry back to the UFC, and he’s using the viral launch of Grand Theft Auto 6 to do it. Perry recently re-signed with the promotion, and confirmed exclusively to MMA Fighting that he signed an eight-fight deal for his second stint with the UFC. With “Platinum” being from the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-23T16:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-24T03:45:23.506783+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
