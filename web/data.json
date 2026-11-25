@@ -1,23 +1,523 @@
 {
-  "generated_at": "2026-11-25T01:52:45.619418+00:00",
+  "generated_at": "2026-11-25T16:44:06.192590+00:00",
   "stats": {
-    "total": 1793,
+    "total": 1843,
     "categories": {
-      "football": 1135,
-      "formula1": 338,
-      "ufc": 320
+      "football": 1170,
+      "formula1": 350,
+      "ufc": 323
     },
     "priorities": {
-      "HIGH": 617,
-      "LOW": 990,
-      "MEDIUM": 186
+      "HIGH": 631,
+      "LOW": 1016,
+      "MEDIUM": 196
     },
     "sources": 8,
-    "last_scan": "2026-11-25T01:52:44.021133+00:00",
-    "last_scan_new": 49,
+    "last_scan": "2026-11-25T16:44:04.392582+00:00",
+    "last_scan_new": 50,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
+      "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
+      "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
+      "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
+      "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
+      "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
+      "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
+      "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
+      "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
+      "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
+      "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
+      "title": "What tyres will the teams have for the Qatar Grand Prix?",
+      "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+      "title": "Best value early bets for the Qatar Grand Prix",
+      "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
+      "title": "Our early Bet Builder for the Qatar Grand Prix",
+      "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Sunderland latest: Key players out for Europa League clash",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T16:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo",
+      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+      "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T16:28:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties",
+      "title": "Williams handed F1 penalties after minor breach of cost cap",
+      "summary": "Williams have reached an \"Accepted Breach Agreement\" with the FIA in terms of F1's cost cap, receiving financial and wind tunnel time penalties.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-25T16:17:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league",
+      "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
+      "summary": "The sight of Matthijs de Ligt, arms outstretched in disbelief at the lack of cover as Alexander Isak raced away from him, immediately felt symbolic. The Dutchman is only 27 years old but this looked like a zonal defender now living in a man-to-man marking world.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
+      "summary": "PIF seeking investment to fund infrastructure projects JP Morgan appointed to handle the sale Newcastle United’s owner, Saudi Arabia’s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new shares. The New York-based bank JP Morgan, whose most recent involvement in a major football deal was Fifa’s aborted attempt to sell off 20% of its commercial rights last summer, has been appointed to handle the sale, as first reported by the Athletic . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T15:36:32+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision",
+      "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
+      "summary": "Mauricio Pochettino fumed over Leny Yoro's red card for Manchester United in their defeat to Liverpool, but also felt Dominik Szoboszlai's opener should not have stood – is he right?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T15:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game. The legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he was ubiquitously known by generations of football fans – by EA Sports, which makes the popular football simulator FC27. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T15:13:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
+      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Early in the second half of Tuesday night’s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din emitted over the Plainmoor public address system. “The game has stopped because the Torquay Tannoy system is making a loud noise that won’t stop,” posted Chesham on their Social Media Disgrace account. “I’m not kidding.” A sort of aural cross between an ocean liner’s foghorn and a party conference speech delivered by a senior member of the Reform party, it eventually stopped and play resumed with Torquay running out 2-1 winners. In this constantly changing world of global disruptions, uncertainties and risks, with social, political and economic disaffection seemingly on the rise everywhere, it’s genuinely heartening to know that some things never change . ‘Plus ça change, plus c’est la même chose’, as the late, great French writer Jean-Baptiste Alphonse Karr famously said, something that I’m sure Big Dunc is well aware of” – Noble Francis. May I be the 1,092nd correspondent to demand a review of the Letter o’ the Day award for Monday – and it be awarded to Declan Hackett",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T15:13:01+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523288/famed-striking-coach-eddie-cha-dies-at-53",
+      "title": "Famed striking coach Eddie Cha dies at 53",
+      "summary": "Eddie Cha, one of the sport’s top striking coaches, has suddenly died. Multiple people with knowledge of the situation confirmed to MMA Fighting that Cha passed away at the age of 53. The cause of death is unknown at this time. Cha served as head striking coach at Fight Ready in Glendale, Ariz. Cha worked […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environment Off! Off! Off! The past three Premier League games have featured a red card, each for a different reason. Brighton’s Costinha was sent off for two bookings at Hull , Leny Yoro collected a red card against Liverpool for denying a goalscoring opportunity ( though his suspension was overturned on appeal ) and James Tarkowski saw red for serious foul play at Brentford . This season is shaping up to be an outlier in the VAR era of officiating in English football. The latest red cards took the Premier League total to 22 in 2026-27. The rate of 0.2 per game equates to 76 across the whole season, which would equal the Premier League record set in 2005-06. Refereeing has evolved in the past decade, though. The average across the seven completed campaigns since VAR was introduced is 0.12 per game, with a high of 0.15 in 2023-24. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T14:46:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
+      "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City’s terrible recent run continues with a draw at home to Napoli. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T14:38:54+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
+      "title": "Guardiola says next coaching role will be with a national team amid USA links",
+      "summary": "Coach turned down Italy offer, needing ‘time for myself’ Pochettino says he’d tell Guardiola to take USMNT job Pep Guardiola has said he doesn’t know when he’ll return to football but that his next coaching role will be with a national team. In an interview with former Barcelona teammate Romario on Tuesday, Guardiola was asked if there was a team he had never coached but would like to. He answered “a national team” and called it “the next step”. Guardiola has been floated as a target for the US national team, who must replace Mauricio Pochettino after his departure for Manchester United. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T14:07:50+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
+      "title": "Do Ferrari need to make Hamilton their No 1 driver?",
+      "summary": "Charles Leclerc and Lewis Hamilton's latest run-in at the Las Vegas Grand Prix has ramped up scrutiny on Ferrari and what the team will do to try to avoid more costly on-track incidents between their two drivers.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-25T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523273/former-ufc-champ-tyron-woodley-reacts-to-being-selected-as-featured-artist-in-new-aloe-blacc-song-first-round",
+      "title": "Former UFC champ Tyron Woodley reacts to being selected as featured artist in new Aloe Blacc song ‘First Round’",
+      "summary": "Tyron Woodley’s rap lyrics are back out there for the world to hear. Woodley, along with veteran NFL player Anthony Hines III and former NBA player Troy Hudson were selected to be featured artists in Aloe Blacc’s new song “First Round.” The Grammy-nominated and Emmy award-winning artist has partnered up with Pro Athlete Community (PAC) […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523123/morning-report-josh-hokit-admits-ciryl-gane-is-a-nice-guy-reveals-backstage-run-in-with-him-after-ufc-334",
+      "title": "Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him after UFC 334",
+      "summary": "Josh Hokit has a hard time stirring up beef with Ciryl Gane. At UFC 334, Hokit challenged Gane for the heavyweight title, losing a competitive decision in one of the better fights of 2026. Before the fight, Hokit did everything he could to rile Gane up to no avail, and even after fighting him for […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
+      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
+      "summary": "Englishman hailed by teammates and manager Mourinho after coming on to completely change Champions League game against PSV Eindhoven “It was one of those moments when you’re just: ‘Wow.’” Bernardo Silva had a good view of Jude Bellingham scoring the goal, the golazo , that put Real Madrid into the lead and the Bernabéu on its feet, shock giving way to song, naa, naa, naa, na-na-na-naa, na-na-na-naa ringing round again. “I have no idea what I did,” the Englishman said afterwards. What he did was turn all Le Tissier. Lifting the ball with his left, raising it with his right, twisting and not letting it drop, he sent it arching from the outside of his boot into the far corner, something straight out of the 90s. “I just kind of hit it,” Bellingham reckoned; not wanting to hit it too hard, it had gone “looping”, “stabbing”, he said. “Normally [my goals are] a lot closer, aren’t they? I was a bit surprised, honestly. Normally from there I’m looking to see who is an option to play it through to, but it popped up nicely. It was nice.” Nice? It was, Silva said, “special”. A “work of art” Marca called it. The presenter on one radio station claimed it was the best goal he had ever seen, and i",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T12:59:29+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno",
+      "title": "Raheem Sterling - from national icon to suspended jail sentence",
+      "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T12:42:57+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
+      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here | Osasu Obayiuwana",
+      "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governance A journey of 310 days and three legal proceedings to confirm two things we know – that Senegal beat Morocco 1-0 to win the 2025 Africa Cup of Nations and, most importantly, that the decision of a referee remains final and sacrosanct – has produced the longest, most comical and embarrassing Afcon final in the tournament’s 69-year history. As the Confederation of African Football (Caf) executive committee member Samir Sobha told the Guardian, the decision of the organisation’s appeals board in March to overturn Senegal’s victory and award the title to Morocco, prompting a legal charade ended by the court of arbitration for sport’s verdict on Tuesday , was a “big joke” that brought Caf and the Afcon into needless disrepute. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T12:41:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
+      "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easy Not many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin bowling. The England head coach ringing to tell her of a first senior international call-up qualified as an exception for the overjoyed London City Lionesses striker. After scoring with a pin-point finish at the Emirates this month under the gaze of Sarina Wiegman, Goodwin had been hotly tipped to be given a chance with the Lionesses and she is now eager to impress as the squad prepare to face Ukraine in their World Cup qualifying playoff. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T12:24:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o",
+      "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
+      "summary": "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T12:03:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+      "summary": "The coach will leave early after the postponement of the Asian Cup and, while there has been clear progress, some had hoped for better results at World Cups A popular Christmas tradition in Japan is to head to KFC but there is an unexpected item on the menu to chew over this year for the millions who do so – a meaty debate over Hajime Moriyasu’s eight years as national-team head coach. Among the many consequences of the Asian Cup’s postponement from January 2027 to December is the fact his tenure has ended early. The 58-year-old was supposed to stay on until February to cap that lengthy spell with (hopefully) a deserved trophy, hand over to Go Oiwa and then, perhaps, blaze a trail to Europe. Instead he left this month, after 113 games in charge during which Japan became a global force to be reckoned with, even if there are those who think he underdelivered. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T12:00:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+      "summary": "He gets 12-month sentence suspended for 18 months Former England forward must do community service Raheem Sterling has avoided being sent to jail after he received a suspended sentence of 12 months for pleading guilty to a prolonged period of reckless driving while impaired by the drug nitrous oxide. The former England international, who five years ago was leading the Three Lions’ charge to a European Championship final, stood expressionless in the dock as the sentence was read out by district judge Kirsty Allman at Basingstoke magistrates court. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T11:34:10+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no",
+      "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
+      "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T11:32:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616290/raheem-sterling-former-england-international-given-suspended-12-month-jail-sentence-for-dangerous-driving",
+      "title": "Sterling given suspended jail sentence for dangerous driving",
+      "summary": "Former England player Raheem Sterling has been given a suspended 12-month jail sentence for dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T11:30:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616028/raheem-sterling-enjoyed-a-wonderful-premier-league-career-but-regularly-attracted-controversy-is-there-any-way-back",
+      "title": "Sterling's career was defined by comebacks - this could be one too many",
+      "summary": "There once existed a time where Raheem Sterling was an unstoppable force. A player with a uniquely abstract running style, he still somehow evoked effortless poise when moving with the ball. A glider across a pitch.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T11:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo",
+      "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
+      "summary": "Our Ask Me Anything team explain why the Premier League fixtures have some unusual kick-off times this weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T11:25:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po",
+      "title": "Watford appoint Iordanescu as head coach",
+      "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T11:15:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo",
+      "title": "Wales and West Ham's Morgan suffers serious injury",
+      "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T10:38:44+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T10:11:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o",
+      "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
+      "summary": "Leicester City boss Russell Martin describes Tuesday's 1-1 draw with Blackpool as the most frustrating result of his career.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T10:09:10+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+      "summary": "The job of Mauricio Pochettino’s successor is to fine-tune a team on the up. That requires a bureaucrat rather than a figurehead First, let’s get the Pep Exception out of the way. Or perhaps we’d better call it the Guardiola Caveat. Regardless, the point is the same. If US Soccer can get Pep Guardiola to manage the United States men’s national team, it should. Because when you have the chance to employ the most successful and influential coach of his generation, the thinker who stands upstream of essentially every major tactical current of the last two decades, you just have to do it. But let us assume that US Soccer can’t appoint Guardiola, because he is only a few months into his post-Manchester City sabbatical and still busying himself defending his body of work . Because he has given no recent indication that he wants the job, even though he spent a previous break between managerial gigs living in New York City and was probably only being supportive of his newly-appointed colleague Mauricio Pochettino when he called the project “fascinating” two years ago. Also because he has only ever signed on to coach teams stacked with Ballon d’Or contenders, posing a Phil Jackson-type, bar",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T10:00:12+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo",
+      "title": "Why Man City can't wear their new kit in Premier League",
+      "summary": "BBC Sport's Ask Me Anything team explains why Manchester City will not be able to wear their new fourth kit in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T09:38:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607",
+      "title": "Alonso: “We can't be competitive with the power unit we have”",
+      "summary": "Fernando Alonso says Honda is “a very long way behind” its Formula 1 rivals and Aston Martin therefore “can’t be competitive” with the Japanese engine, albeit expressing hope for the future. As F1 switched to power units featuring 47% electrical energy, Honda’s new powertrain has been lacking both power and reliability. The ADUO upgrade introduced by the manufacturer at the Dutch ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-25T09:16:47+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn898zl80o",
+      "title": "'Two faces' & rudely named set-pieces end Hibs' long wait for home win",
+      "summary": "Hibs show they are capable of winning ugly with the help of a beautiful goal as Marink Reedijk guides them to a first home league win in nearly eight months against Dundee.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T09:04:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "summary": "A new book charts the complicated relationship between the two legends, starting on a sunny afternoon in Rio in 1979 Pelé and Diego Maradona first met in April 1979, not long after the Argentinian led his country’s under-20 side to the finals of the World Youth Cup. Maradona told a journalist friend that his dream was to meet the Brazilian, and after a few weeks of aborted attempts to bring them together – mostly because Diego did not want to travel on a Monday, the one day he had free for his girlfriend Claudia – the meeting finally took place in Rio. Reporter Guillermo Blanco, who was writing about the meeting for Argentinian sports magazine El Gráfico, got the OK from Pelé’s people and was so intent on making it happen that he checked Maradona onto a flight one Sunday night without telling him. He collared the young man after Argentine Juniors played Huracán and then raced to the airport and put him on a plane with his father, his agent and a photographer. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T08:00:10+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
+      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
+      "summary": "Plus: the quickest team to go from FA Cup winners to the first round and matches delayed by snowball fights Mail us with all of your questions and answers “Ronaldinho played for Ravenna, in Serie C, earlier this month. It was his first professional appearance in more than 11 years,” writes George Jones. “Have any other footballers had long career hiatuses? And has any player had a longer hiatus than 11 years?” Ronaldinho’s last professional appearance before his return for Ravenna came on 26 September 2015 for Fluminense, who won 2-0 at home against Goiás. He was withdrawn after 45 minutes. Fans of symmetry will be pleased to see that 11 years and 50 days later, the Brazilian returned for Ravenna in a 2-0 home win against another team with five letters and an accent in their name, Forlì, and was withdrawn after 45 minutes. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T08:00:09+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pprk8s",
+      "title": "Podcast: Flying under the radar? Scottish football's unsung heroes",
+      "summary": "Hidden gems: Scottish football's best-kept secrets",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6lymzn0lx02o",
+      "title": "Celtic consider move for midfielder Ashour - gossip",
+      "summary": "Celtic linked with Egypt midfielder as Rangers prepare to offload striker...",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T07:54:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o",
+      "title": "How to unearth young stars, the Bayern Munich way",
+      "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T07:22:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
+      "title": "Villeneuve: Verstappen showed 'race craft' edge over Mercedes pair in Vegas",
+      "summary": "Former Formula 1 world champion Jacques Villeneuve says Max Verstappen's Las Vegas Grand Prix victory showed that Mercedes' Kimi Antonelli and George Russell will not be able to beat the Red Bull driver in next year's championship unless they have a superior car.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-25T07:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T06:56:11+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o",
+      "title": "Are Manchester United this season's Tottenham?",
+      "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T06:22:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo",
       "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
