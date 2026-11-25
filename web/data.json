@@ -1,23 +1,403 @@
 {
-  "generated_at": "2026-11-24T16:55:40.330063+00:00",
+  "generated_at": "2026-11-25T01:52:45.619418+00:00",
   "stats": {
-    "total": 1744,
+    "total": 1793,
     "categories": {
-      "football": 1102,
-      "formula1": 337,
-      "ufc": 305
+      "football": 1135,
+      "formula1": 338,
+      "ufc": 320
     },
     "priorities": {
-      "HIGH": 597,
-      "LOW": 967,
-      "MEDIUM": 180
+      "HIGH": 617,
+      "LOW": 990,
+      "MEDIUM": 186
     },
     "sources": 8,
-    "last_scan": "2026-11-24T16:55:38.463255+00:00",
-    "last_scan_new": 51,
+    "last_scan": "2026-11-25T01:52:44.021133+00:00",
+    "last_scan_new": 49,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo",
+      "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
+      "summary": "Rangers manager Derek McInnes says his team's naivety and complacency made their task more difficult in their thrilling 3-2 win over Aberdeen, but hails their ability to get the job done.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T01:20:53+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523204/gabriel-bonfim-vs-sean-brady-fight-night-event-adds-slew-of-undercard-fights",
+      "title": "Gabriel Bonfim vs. Sean Brady fight night event adds slew of undercard fights",
+      "summary": "UFC Vegas 125 is starting to take shape. Earlier this month, the UFC announced that Gabriel Bonfim and Sean Brady would meet in a welterweight matchup in the main event of UFC Vegas 125 on Jan. 23. The two were originally scheduled to fight a few weeks ago at UFC Vegas 124, but a staph […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T00:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o",
+      "title": "Bellingham plays down Zidane comparison after wonder goal",
+      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T23:54:10+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o",
+      "title": "Arteta says Arsenal need more luck to kill off games",
+      "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T23:44:04+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppqqv0",
+      "title": "Sportsound reaction to thriller at Ibrox",
+      "summary": "Reaction to big wins for Rangers and Hibs",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T23:25:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo",
+      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T23:17:42+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+      "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T23:02:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
+      "title": "Arsenal showing bluntless in attack - but Man City have problems too",
+      "summary": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T22:54:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything",
+      "title": "'You question everything' - Haaland lays City's frustrations bare",
+      "summary": "Erling Haaland has admitted Manchester City's poor form is affecting the players, admitting \"when you don't win, you question everything\" after they were held 2-2 at home by Napoli in the Champions League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T22:51:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
+      "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
+      "summary": "Preston revival continues in 4-0 thrashing of Cardiff Scott Parker still waiting for first win at Hammers Will Lankshear was back among the goals as Middlesbrough cemented their position at the top of the Championship with a 2-1 win over Swansea . Lankshear had missed the final two games before the international break because of a hamstring injury, and was only afforded a late substitute appearance in Saturday’s win over Bristol City. Having been restored to the starting lineup at the Riverside, the Championship’s leading scorer claimed his 14th league goal of the season to re-establish his side’s lead in the second half after Joseph Opoku’s driven finish had cancelled out Myles Peart-Harris’ opener. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T22:44:08+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13616207/mauricio-pochettino-questions-bradley-barcola-impact-on-dominik-szoboszlai-goal-and-makes-eberechi-eze-comparison",
+      "title": "Poch cites Eze as he questions Barcola role in Szoboszlai goal - is he right?",
+      "summary": "Speaking ahead of his side's clash against Sporting Lisbon, Manchester United boss Mauricio Pochettino questioned Bradley Barcola's impact on Dominik Szoboszlai's freekick goal and made a comparison to Eberechi Eze's disallowed attempt from 2025.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T22:18:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo",
+      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T22:05:31+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
+      "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
+      "summary": "For reasons best known to those eyeing the pound signs, Manchester City gave a debut to a special rust-coloured kit in front of a nonplussed crowd. It was of a piece with their performance for most of a familiarly frustrating night that at least concluded with a shot of energy, the home side belatedly shaking off their torpor and ending the prospect of a triumphant return to the Etihad for Kevin De Bruyne. Despite the relief sparked by a fine equaliser by Rayan Cherki, who was rewarded for an insistent but hitherto fruitless evening’s endeavours when his angled shot flashed past Vanja Milinkovic-Savic, it was hard to see this as anything but a perfect snapshot of their autumn difficulties. Nobody could pretend City were up against crack opposition in a one-paced Napoli, who are eighth in Serie A and lack the brio of old, but they simply cannot keep the door shut and could not have quibbled about departing with a defeat. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T22:01:51+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
+      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
+      "summary": "Arsenal’s sky-high standards are slipping. For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse themselves and earn a deserved draw. After Newcastle on Saturday , this time it was an impressive Borussia Dortmund who became only the second side to take points off Arsenal in their past 15 group stage games in this competition. It could have been worse had an offside flag not ruled out Jobe ­Bellingham’s goal after Max Beier equalised a thunderbolt from Viktor Gyökeres. But the much-maligned Sweden striker was guilty of a glaring miss late on as Arsenal laid siege to Dortmund’s goal, racking up 30 shots by the final whistle. The German side had to hang on for a result that gave their travelling fans a night to remember, although Arteta admitted his players must be more clinical when Real Madrid and Jude Bellingham visit north London in a fortnight. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T22:01:50+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523185/aljamain-sterling-questions-judging-conspiracy-kevin-vallejos-slippery-takedown-defense-in-ufc-qatar-loss",
+      "title": "Aljamain Sterling questions judging ‘conspiracy,’ Kevin Vallejos’ slippery takedown defense in UFC Qatar loss",
+      "summary": "Aljamain Sterling still has questions about what happened at UFC Qatar. Kevin Vallejos earned a unanimous decision over Sterling in their co-main event bout this Saturday, getting the nod after 15 minutes of closely fought action that saw neither man assert themselves for any significant stretch of time. Several fighters were critical of the action, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/report/577669",
+      "title": "Wasteful Arsenal held by Borussia Dortmund",
+      "summary": "Arsenal were punished for failing to take their chances for the second game in a row as Maximilian Beier clinched a 1-1 draw for Borussia Dortmund in the Champions League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T21:56:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616134/mauricio-pochettino-man-utd-boss-fumes-at-var-in-liverpool-loss-over-leny-yoro-and-dominik-szoboszlai-calls",
+      "title": "Poch fumes at Yoro red and thinks Szoboszlai goal shouldn't have stood",
+      "summary": "Mauricio Pochettino has heavily criticised VAR in Manchester United's loss at Liverpool after Leny Yoro's red card was overturned, while the Argentine believes Dominik Szoboszlai’s opener should not have stood.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T21:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/portsmouth-vs-west-ham-united/report/560695",
+      "title": "Parker still winless as Portsmouth beat West Ham",
+      "summary": "Scott Parker's winless start to life as West Ham boss continued as Odin Bailey netted his first Portsmouth goal in a 1-0 victory at Fratton Park.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T21:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/middlesbrough-vs-swansea-city/report/560693",
+      "title": "Lankshear steers Boro back to the top of the Championship",
+      "summary": "Will Lankshear was back among the goals as Middlesbrough cemented their position at the top of the Championship with a 2-1 win over Swansea City.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T21:35:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/joshua-van-still-growing-ufc-336",
+      "title": "Joshua Van | Still Growing",
+      "summary": "Flyweight Champion Joshua Van Discusses Shifts Since Becoming Champion, Talking Trash, And Facing Manel Kape At UFC 336 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-24T21:22:16+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o",
+      "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
+      "summary": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T21:08:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko",
+      "title": "Man Utd target Collins - Wednesday's gossip",
+      "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T20:51:44+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
+      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "summary": "This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the scene of their unforgettable Europa League triumph , or at Fenerbahce in January, they came away with a bloody nose. Galatasaray’s match-winner, Deniz Gul, finished with similar, the substitute requiring a bandage after bravely taking a boot to the face from Nicolas Jackson as the hosts rippled the net on 77 minutes. It was the game’s first effort on target, Galatasaray maintaining their commanding form on home soil to extend Villa’s winless run to six matches in all competitions. On the outside, this is a gladiatorial arena, a giant spaceship parked on Ali Sami Yen complex. But inside there is a poor pitch that began cutting up during the warm-up. John McGinn, one of four changes from Villa’s stalemate with Sunderland on Saturday, gestured towards the turf in frustration after a through ball went awry, but nobody of a Villa persuasion could blame defeat on the surface. As Unai Emery had stated, it was the same for both teams. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T20:03:50+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523090/israel-adesanya-compares-city-kickboxing-split-to-bad-breakup-i-ripped-the-band-aid-off",
+      "title": "Israel Adesanya compares City Kickboxing split to bad breakup: ‘I ripped the Band-Aid off’",
+      "summary": "Former UFC middleweight champion Israel Adesanya shocked the world when he announced he was splitting with his longtime team at City Kickboxing and head coach Eugene Bareman. It was a relationship that lasted over 16 years and helped Adesanya become one of the best middleweights of all time while constantly threatening the top of the […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo",
+      "title": "Bayern hold 'constructive' talks over Musiala's health",
+      "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Max Eberl insists.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T19:58:58+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/carlos-prates-right-where-he-expected-to-be-ufc-336",
+      "title": "Carlos Prates | Right Where He Expected To Be",
+      "summary": "Fighting Nerds Standout Carlos Prates Talks Ascent To Interim Championship Fight In Toronto Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-24T19:54:05+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
+      "title": "Villa beaten late on at Galatasaray as winless run continues",
+      "summary": "Aston Villa's winless run extended to six games as a late Deniz Gul's header saw them beaten 1-0 by Galatasaray in the Champions League league phase.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T19:40:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13616079/portsmouth-vs-west-ham-live-championship-match-updates-score-stream-and-free-highlights",
+      "title": "Boro win to go top; West Ham beaten by Portsmouth - EFL highlights",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T19:15:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
+      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
+      "summary": "Playmaker in best form since moving to Anfield ‘I am really enjoying playing under Iraola’ Florian Wirtz has credited Andoni Iraola with helping him recapture the form that made him one of the most coveted players in Europe when he joined Liverpool in a deal worth up to £116m in 2025. The Germany international believes he is in the best form of his Liverpool career, having had a difficult debut season under Arne Slot and also struggled in the early weeks of Iraola’s reign. Wirtz scored an exquisite improvised goal in the 4-0 defeat of Manchester United on Sunday when he also created 10 chances from open play. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T19:02:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523146/daniel-cormier-warns-navajo-stirling-if-hes-unwilling-to-fight-teammate-carlos-ulberg-then-alex-pereira-can-get-title-fight-right-away",
+      "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’",
+      "summary": "Daniel Cormier understands the conundrum Navajo Stirling and Carlos Ulberg are currently dealing with. Stirling scored an impressive knockout over Jiri Prochazka in this past Saturday’s UFC Qatar main event to remain undefeated and leave little doubt that he is a top contender at 205 pounds, arguably No. 1. However, Ulberg, the current champion of […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/10-exciting-doubleheader-close-out-2026",
+      "title": "The 10 | An Exciting Doubleheader to Close Out 2026",
+      "summary": "Getting Hyped For The Most Intriguing Fights From This Year’s Final Two Events Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-24T18:44:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/exciting-welterweight-tilt-between-5-sean-brady-and-6-gabriel-bonfim-headlines-first-meta-apex",
+      "title": "Exciting Welterweight Tilt Between (#5) Sean Brady And (#6) Gabriel Bonfim Headlines First Meta APEX Card Of 2027",
+      "summary": "UFC Fight Night: Brady vs Bonfim Tickets On Sale Friday, December 4 Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-24T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523149/raoni-barcelos-confident-he-will-fight-again-after-scary-collapse-i-really-want-to-come-back",
+      "title": "Raoni Barcelos confident he will fight again after scary collapse: ‘I really want to come back’",
+      "summary": "Raoni Barcelos wants to resume his career after a frightening scare in his most recent UFC fight in September. Barcelos was minutes away from winning a decision over Raul Rosas Jr. in a UFC Vegas main event on Sept. 26 when he suddenly collapsed and blacked out. The 39-year-old bantamweight was rushed to a Las […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533",
+      "title": "What's next for Herta after F1 2027 snub?",
+      "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also raises key questions over what's next for Colton Herta. With Cadillac's majority owner TWG enamoured with the prospect of having an American driver in one of its cars before too ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-24T17:59:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.ufc.com/news/ufc-names-boring-mattress-official-partner-ufc-bjj",
+      "title": "UFC NAMES BORING MATTRESS OFFICIAL PARTNER OF UFC BJJ",
+      "summary": "New Boring Mattress Submission Of The Night Bonus Rewards The UFC BJJ Competitor Who Executes The Best Finish At Each Event Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-24T17:19:58+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo",
+      "title": "Klopp advice and Iraola confidence boosts Wirtz",
+      "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-24T17:19:08+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+      "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
+      "summary": "Referees’ chief Howard Webb admitted it was a “quick check” by VAR for Arsenal defender Jurrien Timber’s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners’ win at Anfield.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T17:13:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
+      "title": "Man Utd to contact PL and refs over 'totally wrong' Yoro red card interpretation",
+      "summary": "Manchester United will contact ProRef and the Premier League directly over what they believe to be a 'totally wrong' interpretation of Leny Yoro's red card against Liverpool.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
       "title": "What time is the 2026 Qatar GP and how can I watch it?",
@@ -139,6 +519,16 @@
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
     },
     {
+      "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+      "title": "Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Sometimes, the beautiful game can make Football Daily feel old. Even Monday’s ostensibly old-school fixture between Brentford and Everton felt like the future destroying the past. The analytics-coded hosts prevailed 4-0 and James Tarkowski was dismissed by the VAR overlords for a challenge that would have been considered “firm but fair” on the muddy pitches of our youth. “I don’t think you can tackle like that in this day and age,” a misty-eyed David Moyes sighed after the game, before heading to the team bus to rewatch the Battle of Santiago . If Sunday was Gary Neville’s Sistine Chapel [ Monday’s Football Daily ], then his commentary on the Fernando Torres goal for Chelsea against Barcelona must be his David ” – Ronnie McMahon. Regarding Declan Hackett’s assertion [ Monday’s letters ] that Donald Trump will be helping his mate Mauricio Pochettino by ringing the FA to overturn Lenny Yoro’s red card, perhaps Poch should be careful what he wishes for: Trump may equally decide to get Michael Carrick reinstated, as he also has a bit of previous for that sort of thing” – Dexter O Riordan. In all the time that I have been watching foot",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T16:16:52+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
       "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
       "title": "Aston Villa go full strength at Galatasaray LIVE!",
       "summary": "",
@@ -157,6 +547,26 @@
       "published": "2026-11-24T16:11:33+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
+      "title": "2028 Copa América to be played in United States with six Concacaf teams",
+      "summary": "South American tournament was in US in 2024 and 2016 Concacaf teams determined by 2027 Gold Cup Games will overlap with Euro 2028 but not Olympics The 2028 Copa América will be played in the United States and expanded to include teams from the Concacaf region, bringing the landmark South American international competition to the US for a third time in five editions. Conmebol, the South American confederation that runs the tournament, and Concacaf, the confederation governing soccer in North and Central America and the Caribbean, jointly announced the long-rumored arrangement on Tuesday, framing it as an extension of a “strategic partnership” between the organizations. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T16:08:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523018/between-the-links-whats-next-for-jiri-prochazka-josh-hokit-wants-ciryl-gane-rematch-more",
+      "title": "Between the Links: What’s next for Jiri Prochazka? Josh Hokit wants Ciryl Gane rematch, more",
+      "summary": "UFC Qatar ended in spectacular fashion with Navajo Stirling’s incredible knockout of Jiri Prochazka in a pivotal light heavyweight contest. While Stirling has a lot of interesting options ahead of him, Prochazka has now been stopped in two straight. Where does the popular fighter go from here? On an all-new, Thanksgiving week edition of Between […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T16:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo",
@@ -187,6 +597,26 @@
       "published": "2026-11-24T15:34:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523170/nikolas-motta-shows-off-ghastly-facial-injuries-following-ufc-qatar-loss",
+      "title": "Nikolas Motta shows off ghastly facial injuries following UFC Qatar loss",
+      "summary": "Nikolas Motta is wearing his wounds from his brutal UFC Qatar fight with Dom Mar Fan. Fan won a dominant decision over Motta this past Saturday, in a bout that arguably shouldn’t have even gone to the scorecards with Motta’s face bloodied and busted up heading into the final round. Motta’s team didn’t intervene and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T15:31:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/523082/olympic-champion-kyle-snyder-defends-crossover-matches-in-raf-despite-repeated-fights-brawls",
+      "title": "Olympic champion Kyle Snyder defends crossover matches in RAF despite repeated fights, brawls",
+      "summary": "RAF has helped propel the sport of wrestling to new levels since first debuting in 2025 but the promotion has also seen a number of fights and brawls break out before and after matches, almost exclusively involving athletes crossing over from MMA. Arman Tsarukyan famously punched Georgio Poullas after their first match. Khamzat Chimaev stomped […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o",
@@ -229,6 +659,16 @@
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/ufc/523076/matt-brown-defends-josh-hokits-complaints-about-eye-poke-in-ciryl-gane-fight-a-fcking-point-deduction-at-minimum",
+      "title": "Matt Brown defends Josh Hokit’s complaints about eye poke in Ciryl Gane fight: ‘A f*cking point deduction at minimum’",
+      "summary": "Josh Hokit claims he’s still feeling the after effects from an eye poke in his loss to Ciryl Gane at UFC 334 that didn’t force a stop in the action or a penalty from referee Marc Goddard. While he continued fighting, Hokit ultimately lost a unanimous decision; now, he says he’s still dealing with blurry […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo",
       "title": "SFA leads tributes to former president Peat",
       "summary": "Former Scottish FA president George Peat dies at the age of 86.",
@@ -239,6 +679,16 @@
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
     },
     {
+      "url": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
+      "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
+      "summary": "Ticketing model was in place for 2026 men’s World Cup Fans criticized system but Fifa saw record revenues A dynamic pricing model is set to be used in ticket sales for games held in the United States at the 2031 Women’s World Cup , which will be co-hosted with Mexico, Costa Rica and Jamaica. Sources involved with the bid, which was formally ratified by Fifa on Monday, have told the Guardian it is inevitable that variable pricing will be used in the US after its successful application at last summer’s men’s World Cup, which generated about $5bn in ticket sales and hospitality, a significant increase on Fifa’s projection of $3.3bn. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T13:33:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
       "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
       "summary": "Midfielder is preparing to face Liverpool after leaving the club he loves and overcoming a tough start in Belgium In April Freddie Potts was absorbing the disappointment of being substituted at half-time during West Ham’s FA Cup quarter-final defeat by Leeds. The midfielder was out of favour under Nuno Espírito Santo and could not have imagined that he would be preparing to face Liverpool in the Champions League seven months later. It is the 23-year-old’s reward for taking the difficult decision to leave his boyhood club last summer. Potts noticed his minutes were drying up in pre-season, even though West Ham were not exactly stocked with talent after relegation, and was ready for a new challenge when Club Brugge offered about £10m to sign him. Continue reading...",
@@ -247,6 +697,16 @@
       "published": "2026-11-24T13:00:47+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/522968/morning-report-drew-dober-recounts-wild-story-of-his-second-ever-mma-fight-against-sawed-off-after-no-show-opponent",
+      "title": "Morning Report: Drew Dober recounts wild story of second-ever MMA fight against ‘Sawed Off’ after no-show opponent",
+      "summary": "Drew Dober’s been in MMA a long time, and as such, he’s got stories. A 48-fight veteran who has spent the past 13 years in the UFC, Dober has been fighting since 2006, first as an amateur, before turning professional in 2009. And if you ask any fighter whose been around the game that long, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-24T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o",
@@ -267,6 +727,16 @@
       "published": "2026-11-24T12:14:19+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674",
+      "title": "Cherki salvages draw with Napoli but Man City frustrate",
+      "summary": "Rayan Cherki’s late strike salvaged a 2-2 draw for Manchester City at home to Napoli in the Champions League but Enzo Maresca’s side again struggled to find their fluency.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-24T12:09:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
@@ -437,6 +907,16 @@
       "published": "2026-11-24T08:08:33+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-24T16:55:38.463255+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
+      "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
+      "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga club Ethan Nwaneri has one record Max Dowman can never break. It is more than four years since he became the youngest player to appear in the Premier League , with Dowman, his fellow Hale End academy graduate, older by 54 days when he made his highly anticipated debut . But after a week when Arsenal published an article dedicated to Dowman’s growing collection of milestones, Nwaneri risks becoming the club’s forgotten teenager. Nwaneri joined Borussia Dortmund on loan in the summer and returns to the Emirates Stadium in the Champions League on Tuesday, although the 19-year-old will probably be on the bench, having not started for the German club yet in the competition. Despite making a good impression with an assist on his Bundesliga debut, against Hoffenheim, he has not started in the league since 17 October and has yet to complete more than 65 minutes in a Bundesliga match. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-24T08:00:11+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
@@ -2747,6 +3227,16 @@
       "published": "2026-11-21T21:50:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-21T22:44:08.008039+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/rangers-vs-aberdeen/report/578619",
+      "title": "Rangers edge Aberdeen in five-goal thriller to cut Celtic's Premiership lead",
+      "summary": "Rangers are just one point behind in the Premiership title race after a dramatic fightback against a rejuvenated Aberdeen.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-21T21:50:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-25T01:52:44.021133+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
