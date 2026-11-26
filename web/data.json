@@ -1,23 +1,443 @@
 {
-  "generated_at": "2026-11-26T01:29:50.457471+00:00",
+  "generated_at": "2026-11-26T16:18:39.990033+00:00",
   "stats": {
-    "total": 1890,
+    "total": 1932,
     "categories": {
-      "football": 1208,
-      "formula1": 353,
+      "football": 1236,
+      "formula1": 367,
       "ufc": 329
     },
     "priorities": {
-      "HIGH": 658,
-      "LOW": 1033,
-      "MEDIUM": 199
+      "HIGH": 677,
+      "LOW": 1053,
+      "MEDIUM": 202
     },
     "sources": 8,
-    "last_scan": "2026-11-26T01:29:49.606882+00:00",
-    "last_scan_new": 47,
+    "last_scan": "2026-11-26T16:18:37.714801+00:00",
+    "last_scan_new": 42,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
+      "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
+      "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
+      "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
+      "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
+      "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
+      "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
+      "title": "Everything you need to know about the Lusail International Circuit",
+      "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
+      "title": "2027 line-ups confirmed: Who is on the grid for next season?",
+      "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the grid next season? Read on to find out…",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
+      "title": "Why Bearman’s new Haas deal took so long to get over the line",
+      "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
+      "title": "Bearman to continue with Haas for 2027",
+      "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940",
+      "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
+      "summary": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practice. It infuriated the Briton, with Verstappen ruining the Mercedes driver's lap by passing him into the last corner - an unwritten rule that the Dutchman doesn't tend to mind breaking. Russell responded by sending ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T15:56:53+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
+      "title": "Russell: Feud with Verstappen 'avoidable' and 'unnecessary'",
+      "summary": "George Russell says he was \"amused\" by Max Verstappen’s criticism of him after their feud reignited at the Las Vegas Grand Prix but admits it was \"avoidable\".",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-26T15:55:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o",
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "summary": "BBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T15:01:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "summary": "The French side earned their first group win over troubled German giants as Bellingham and Betis also caught the eye Bayern Munich have hit a snagging point, with injuries wracking Vincent Kompany’s squad just as the head coach returns to work following his own health scare. For Lille’s winner, to exact Bayern’s first loss of the season, Aleksandar Pavlović had an own goal for the ages, desperately chasing back to then somehow direct the ball into his own net. Bayern are 15th in the Champions League table, and with Harry Kane out until well into 2027 and 18-year-old Lennart Karl asked to lead the line, resources are stretched. Jamal Musiala, subject of club grandees Uli Hoeness and Karl Heinz-Rummenigge’s gripes over his contract in the light of his neurological condition, could also play only 15 minutes. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T15:00:39+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo",
+      "title": "Lammens errors shine light on calamitous Man Utd defence",
+      "summary": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T14:56:30+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615822/jens-berthel-askou-interview-former-motherwell-coach-transforming-toulouse-with-commitment-to-possession-football",
+      "title": "Meet the ex-Motherwell coach now tactically transforming Toulouse too",
+      "summary": "When Jens Berthel Askou spoke to Elijah Just about joining Motherwell, painting a picture of a team that would control the ball, he took some convincing. “I could understand his scepticism,” Askou tells Sky Sports . They had worked together before.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T14:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13616840/qatar-gp-oliver-bearman-says-he-has-unfinished-business-with-haas-in-2027",
+      "title": "'Unfinished business' - Bearman to continue with Haas in 2027",
+      "summary": "Oliver Bearman is delighted to once again be racing for Haas next season.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-26T14:06:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
+      "title": "David Squires on … youth development and nightmare parents on the touchline",
+      "summary": "Our cartoonist on those parents who live vicariously through the successes of their children on the football pitch Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T14:00:37+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o",
+      "title": "The American manager with a maths degree making history in La Liga",
+      "summary": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T13:49:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do",
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T13:23:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek action Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T12:36:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
+      "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
+      "summary": "Mauricio Pochettino will need more than just good performances to turn Manchester United’s season around – refereeing decisions will have to go their way too.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T12:20:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek action Rate, review, share on Apple Podcasts and join the conversation on email . One day we’ll start a podcast with something other than Manchester United, but not today. Mauricio Pochettino’s side had a weird game in Lisbon, is the new manager just unlucky? United had two soft disallowed goals, one denying them victory. Is it unlucky to concede two penalties minutes apart or is that just bad? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T12:11:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616792/leny-yoro-red-card-written-reasons-why-manchester-united-defenders-red-card-at-liverpool-was-overturned-published-by-the-fa",
+      "title": "Yoro red card: Written reasons for overturned decision revealed",
+      "summary": "The Football Association has released the written reasons why Leny Yoro's red card for Manchester United at Liverpool was overturned - even though refereeing body Pro Ref said the on-field decision was correct.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T12:09:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+      "summary": "Rivals engage law firm Wiggin as they seek damages Claim could be worth hundreds of millions of pounds Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the Premier League’s financial rules that could be worth hundreds of millions of pounds. The clubs have engaged the services of the London-based media, entertainment and technology specialists Wiggin. Arsenal are using their retained lawyers, HFS Kramer, to prepare their own claim. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T12:00:34+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o",
+      "title": "Fifa confirms internal data stolen in cyber attack",
+      "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T11:30:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pq0m9k",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Three Lionesses join Ellen, Ben & Em ahead of their 2027 World Cup play-off final.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T11:18:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
+      "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
+      "summary": "The Damallsvenskan once mastered Europe and attracted the best players, but many are now worried for its future On 12 October 2003, Sweden stood still. The women’s football team were playing Germany in the World Cup final. TV4 set a new viewing record as almost half the nation watched the game go into extra time, where Nia Künzer scored the golden goal winner after 98 minutes. It was a bitter pill to swallow but there was still the belief that the tournament would mark the start of women’s football’s commercial breakthrough in Sweden. After all, how could sponsors and broadcasters ignore such undeniable interest? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T11:00:32+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846",
+      "title": "Alonso to not let his age determine F1 retirement",
+      "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23 seasons from 2001 to 2026, and the two-time champion has maintained his involvement well beyond his peers’ retirement age despite his current 245-race winless streak. Read ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T10:42:24+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+      "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+      "summary": "Even the best managers can struggle to escape ex-players’ need to manufacture a crisis for content. Enter Michael Carrick … A podcast studio in Manchester. A production runner pours water into jugs. Gary Neville enters the room with Michael Carrick. Neville: Just so you know, we’re already filming. This is the intro bit, where we show everyone coming on to set and doing some light banter. It humanises us. The viewer sees it and thinks we’re just mates chatting about football, rather than scions of a global podcast empire commercially obliged to produce an endless scroll of provocative content for money. I always say: why can’t you be both? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T10:19:16+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+      "title": "‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala",
+      "summary": "Bundesliga champions lost 2-1 to Lille on Wednesday Kimmich defends Musiala’s neurological condition The Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club’s “not Bayern-like” treatment of his teammate Jamal Musiala, who has a condition which causes seizures. Senior Bayern figures have publicly questioned Musiala’s performances and contract after repeated seizures caused by a neurological condition, including two on the field in pre-season games, drawing protests from the players’ union Fifpro. Now Kimmich, the club’s vice-captain, has spoken out and warned Bayern risked undermining their family image. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T10:19:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
+      "title": "Delap's chance at redemption against toothless Chelsea",
+      "summary": "When Liam Delap joined Chelsea in the summer of 2025, he probably had ambitions of cementing himself as an elite Premier League No 9. Perhaps even positioning himself to be the heir to Harry Kane's throne for England.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/haas-announce-bearman-f1-2027/10877815",
+      "title": "Haas finally announces Bearman for F1 2027",
+      "summary": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal. The American squad announced the renewal on Thursday, meaning the 21-year-old Briton will partner Brazilian rookie Rafael Camara at Haas next season. It means the 2027 grid is now complete ahead of the final two rounds of the 2026 campaign, one in which ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T09:04:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "summary": "Head coach questions ‘difficult to understand’ decisions Zirkzee joins Pochettino in offering support to Lammens Mauricio Pochettino claimed Manchester United were punished unfairly after again appearing to suffer from faulty officiating in Wednesday night’s 2-2 draw at Sporting . The key decision from Szymon Marciniak came when Amad Diallo’s first-half strike was ruled out due to the referee adjudging Youri Tielemans to have fouled Gonçalo Inácio just before the finish. Tielemans was booked and so when he received a second yellow card in second-half added time, he was sent off for United’s fifth red card in their last nine games. This followed Leny Yoro’s red card in Sunday’s 4-0 loss at Liverpool that was later rescinded . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T09:00:56+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13610208/oliver-bearman-to-remain-with-haas-for-2027-f1-season-after-new-contract-finally-agreed-ahead-of-qatar-gp",
+      "title": "Bearman confirmed to stay at Haas for 2027",
+      "summary": "Haas have confirmed Oliver Bearman will stay at the team for the 2027 Formula 1 season, after protracted contract talks resulted in a one-year extension.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-26T09:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13616675/sporting-lisbon-vs-manchester-united-three-things-we-learnt-from-sporting-vs-man-utd",
+      "title": "'Poch feels let down by ref decisions' - Three things we learnt from Sporting vs Man Utd",
+      "summary": "Sky Sports' Danyal Khan gives three things we learnt from Manchester United's 2-2 draw away to Sporting Lisbon in the Champions League on Wednesday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T08:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po",
+      "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
+      "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T08:02:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
+      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
+      "summary": "Crystal Palace’s influential supporters’ group disbanded 24 hours before their first home game this season – and Selhurst Park has not been the same since Simon Teesdale could not help feeling mixed emotions when his beloved Crystal Palace won the Conference League in Leipzig in May. He started going to Selhurst Park with his father in the 1980s, became a season-ticket holder in the 1990s and has watched with pride as the club established itself as a permanent fixture in the Premier League over the past 14 years. Palace finally secured a major trophy in the 2025 FA Cup final – an experience Teesdale remembers as “one of the best days of my life” – and followed that up by winning the Conference League but he decided in August not to renew his season ticket. “Something happened between the FA Cup win and today that changed me,” he wrote in an emotional article published last month on his website. “Tipped me over the edge. Actually, it’s fairer to say that something accelerated in that period of time. The seeds were sown years ago.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T08:00:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppzlbj",
+      "title": "Podcast: Celtic's European curse & Hearts' Monaco mission",
+      "summary": "Can Celtic end their European away-day misery as Hearts welcome Monaco?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lv3k29gpo",
+      "title": "Dundee United's Farrugia out until new year - gossip",
+      "summary": "Injury blow for Dundee United midfielder as Monaco boss pinpoints Hearts danger men.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T07:42:21+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo",
+      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+      "summary": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T07:28:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o",
+      "title": "The Portuguese second-tier team hosting Celtic in Europe",
+      "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T07:26:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T06:53:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo",
+      "title": "'Laughing gas has ended careers' - so how common is it in football?",
+      "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T06:18:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit",
+      "title": "What impact will tyre-limit rule have on Qatar GP?",
+      "summary": "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-26T06:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
     {
       "url": "https://www.ufc.com/news/remembering-eddie-cha-1973-2026",
       "title": "Remembering Eddie Cha (1973-2026)",
