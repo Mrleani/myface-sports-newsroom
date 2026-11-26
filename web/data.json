@@ -1,23 +1,473 @@
 {
-  "generated_at": "2026-11-25T16:44:06.192590+00:00",
+  "generated_at": "2026-11-26T01:29:50.457471+00:00",
   "stats": {
-    "total": 1843,
+    "total": 1890,
     "categories": {
-      "football": 1170,
-      "formula1": 350,
-      "ufc": 323
+      "football": 1208,
+      "formula1": 353,
+      "ufc": 329
     },
     "priorities": {
-      "HIGH": 631,
-      "LOW": 1016,
-      "MEDIUM": 196
+      "HIGH": 658,
+      "LOW": 1033,
+      "MEDIUM": 199
     },
     "sources": 8,
-    "last_scan": "2026-11-25T16:44:04.392582+00:00",
-    "last_scan_new": 50,
+    "last_scan": "2026-11-26T01:29:49.606882+00:00",
+    "last_scan_new": 47,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.ufc.com/news/remembering-eddie-cha-1973-2026",
+      "title": "Remembering Eddie Cha (1973-2026)",
+      "summary": "UFC is devastated to learn about the passing of Eddie Cha. Eddie served as a coach to numerous UFC fighters over the years, and was a friend to many of us within the organization. Read the Full Article Here",
+      "category": "ufc",
+      "source": "UFC Official",
+      "published": "2026-11-26T01:55:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
+      "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
+      "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
+      "title": "5 storylines we're excited about ahead of the Qatar GP",
+      "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T00:24:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o",
+      "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+      "summary": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T00:22:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523375/charges-dismissed-against-anthony-smith-after-july-arrest-smith-releases-statement",
+      "title": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement",
+      "summary": "Former UFC title challenger Anthony Smith had the criminal charges against him dismissed after he was initially arrested back in July. On Wednesday, the Sarpy County district attorney announced that the charges against Smith had been dropped. Smith pleaded not guilty during his arraignment after he was charged with four felonoes, including an attempt of […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T23:56:07+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o",
+      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+      "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T23:38:42+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T23:25:30+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o",
+      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+      "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T23:16:18+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616618/man-utd-goalkeeper-senne-lammens-criticised-for-howler-in-sporting-draw-by-jamie-carragher",
+      "title": "Carra: Lammens confidence worrying but Poch will feel Man Utd were robbed",
+      "summary": "Jamie Carragher says Manchester United goalkeeper Senne Lammens' confidence is a cause for concern after his howler cost Mauricio Pochettino a first win since taking charge.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T23:10:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo",
+      "title": "Martinez secures Inter win against Stuttgart",
+      "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T23:02:15+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/gfl/523371/gfl-reveals-first-look-at-new-gloves-as-promotion-prepares-for-debut-event",
+      "title": "GFL reveals first look at new gloves as promotion prepares for debut event",
+      "summary": "The GFL has unveiled another piece of the puzzle as the troubled organization prepares to finally launch its first event on Dec. 18. On Wednesday, the GFL revealed a first look at the new gloves that the promotion plans to use when the Buenos Aries Gauchos take on the Miami Monsters in Argentina. The white […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T23:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
+      "summary": "George Hirst double earns Potters 2-1 win over Millwall Burnley’s winless home run extends to 24 matches George Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go level on points with Middlesbrough at the top. The Scotland international scored his second goal for the Potters in the 1-0 win over Birmingham on Saturday and doubled his tally for the season to take Stoke back into the automatic promotion places. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T22:55:48+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+      "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
+      "summary": "Lille 2-1 Bayern Munich, Sabah 1-4 Barcelona Malen penalty earns Roma 2-2 draw at PSG Bayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for the German giants worsened. Dayot Upamecano opened the scoring for Bayern but Ayase Ueda levelled for Lille before a horror Aleksandar Pavlovic own goal gifted the hosts victory. Bayern’s unbeaten record in all competitions was ended by a Lille side who kicked off in 35th place in the tournament’s league phase. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T22:38:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do",
+      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+      "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:32:51+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o",
+      "title": "PSG held by Roma as in-form Malen scores again",
+      "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:27:14+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o",
+      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:24:57+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro",
+      "title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:12:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo",
+      "title": "Gordon stars in comfortable Barca win over Sabah",
+      "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:07:02+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo",
+      "title": "Borussia Dortmund fight back to draw with Arsenal",
+      "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:05:57+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o",
+      "title": "Blunt Villa beaten by late Galatasaray winner",
+      "summary": "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:05:53+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do",
+      "title": "Cherki rescues point for Man City against Napoli",
+      "summary": "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:05:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+      "title": "Lammens errors cost Manchester United victory in frantic finale at Sporting",
+      "summary": "“We are a strong team,” Mauricio Pochettino exhorted, then watched Manchester United’s unerring ability to cause drama every time they lace up their boots. Cruising, it seemed, at 2-1 and with 10 minutes left, they unravelled, as Senne Lammens dropped a high ball in front of his goal and a grateful Luis Suárez equalised with a bicycle kick. Cut almost instantly to Sporting’s Kaique Pereira who bundled the ball in for United’s apparent winner only for Szymon Marciniak to be ordered to the screen by the video assistant referee, where the official ruled the goal out for a foul on the goalkeeper by Patrick Dorgu. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T22:05:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o",
+      "title": "Real Madrid put in five-star second half to win against PSV",
+      "summary": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T22:05:45+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+      "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
+      "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola’s team delivered an accomplished away display to bring Club Brugge’s impressive run to a halt and step closer to automatic qualification from the Champions League group. A week that supposedly represented a test of Liverpool’s credentials has brought rich encouragement before Sunday’s Merseyside derby. Following the 4-0 destruction of Manchester United there was another display of outstanding finishing from Alexander Isak and Florian Wirtz. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T22:04:10+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/report/577686",
+      "title": "Poch denied first Man Utd win by Lammens howler at Sporting",
+      "summary": "Mauricio Pochettino was denied a first victory as Manchester United head coach by a goalkeeping howler from Senne Lammens in an incident-packed 2-2 draw with Sporting in the Champions League as Youri Tielemans was sent off late on.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T22:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/report/577679",
+      "title": "Isak and Wirtz power Liverpool to easy victory at Club Brugge",
+      "summary": "Liverpool recovered from their shock defeat to Fenerbahce in their last Champions League outing to beat Club Brugge 3-0 and improve their chances of a top-eight league phase finish.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T21:50:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro",
+      "title": "Ferguson's Glentoran reign hits early turbulence",
+      "summary": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T21:41:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616560/liverpool-transfer-news-sidy-barhama-ndiaye-agrees-deal-to-sign-for-reds-paper-talk",
+      "title": "Papers: Liverpool agree deal to sign Senegal teenager Ndiaye",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T21:40:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/burnley-vs-birmingham-city/report/560699",
+      "title": "Burnley break winless home record as Birmingham win at Turf Moor",
+      "summary": "Burnley set a new record for the longest home run without a league win as Birmingham reaffirmed their Sky Bet Championship promotion credentials with a 2-0 victory at Turf Moor thanks to August Priske's strike and Jaydon Banel's own goal.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T21:35:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T21:27:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "summary": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough prior to his arrival as he questioned why some of his squad cannot speak English after a number of years in the country. Glasner was tempted to move to the City Ground by owner Evangelos Marinakis after winning the FA Cup and Conference League at Crystal Palace. However, Forest have won two of their opening 11 Premier League games and sit outside the relegation zone only on goal difference. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T21:17:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523361/stipe-miocic-predicts-who-would-have-the-edge-in-hypothetical-jon-jones-vs-francis-ngannou-matchup",
+      "title": "Stipe Miocic predicts who ‘would have the edge’ in hypothetical Jon Jones vs. Francis Ngannou matchup",
+      "summary": "Stipe Miocic has faced both Jon Jones and Francis Ngannou in the UFC octagon, and while the promotion had chances to make a fight between Jones and Ngannou happen, they couldn’t get it over the goal line. The former, two-time UFC heavyweight champion split a two-fight series with Ngannou, and was stopped by Jones in […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo",
+      "title": "Liverpool mull Quansah return - Thursday's gossip",
+      "summary": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T20:57:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o",
+      "title": "EFL Trophy holders Luton face Palace U21s in last 32",
+      "summary": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T20:55:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/mls-playoff-format-changes",
+      "title": "MLS settles on new playoff format after considering double elimination",
+      "summary": "16 teams will qualify for the playoffs, down from 18 Best-of-three format eliminated in first round Semi-finals, MLS Cup will be single-elimination The 2026 MLS Cup playoffs have only just begun, but the league is already finalizing another change to its postseason format. Beginning with the 2027-28 season, MLS will eliminate its short-lived wild card round to condense the playoff field to 16 teams and also get rid of the best-of-three format for the first round, sources confirmed to the Guardian after an earlier report by The Athletic . Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T19:33:24+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/523355/raf-15-match-card-start-time-for-arman-tsarukyan-vs-anthony-pettis",
+      "title": "RAF 15 match card, start time for Arman Tsarukyan vs. Anthony Pettis",
+      "summary": "At RAF 15, there will be a plethora of RAF gold up for grabs Saturday night. Arman Tsarukyan continues to stay busy on the wrestling mats, squaring off against former UFC champion Anthony Pettis in a middleweight crossover title match in the co-main event at NOW Arena in Hoffman Estates, Ill. Former two-division UFC champion […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
+      "title": "Raheem Sterling’s rise and fall: a sign football is broken? - The Latest",
+      "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City player, who was awarded an MBE in 2021. Sterling started playing professional football at 16, and his sentencing has raised questions about whether there are sufficient protections for younger players. Lucy Hough speaks to the Guardian columnist and sportswriter Jonathan Liew Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T18:48:50+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppxp3z",
+      "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+      "summary": "Stockport County's Ollie Norwood tells us what has meant he keeps scoring epic free kicks",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T18:35:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o",
+      "title": "Glasner criticises Forest players yet to learn English",
+      "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T18:32:55+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
+      "title": "Peter Storey obituary",
+      "summary": "Arsenal midfielder capped by England 19 times whose life after football suffered a drink-fuelled decline The footballer Peter Storey , who has died aged 81, was a tough-tackling midfielder for Arsenal when they won the double of the First Division championship and the FA Cup in 1971. Arsenal were only the fourth team to achieve the double at that point (it has since been won another nine times), and Storey, who appeared in 49 of the 51 league and FA Cup games that season, played as big a role as anyone in securing the honours with his defensive solidity, ball-winning skills, “good engine”, sound distribution and reliable occasional penalty taking. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T17:40:02+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno",
+      "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+      "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T17:32:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
+      "summary": "Unai Emery wanted the winger but, like Harvey Elliott last season, he has been left out in the cold despite Villa’s attacking struggles It is three years this week since Alejandro Garnacho opened the scoring for Manchester United in a 3-3 draw at Galatasaray in the Champions League, on a typically boisterous night in Istanbul when Victor Lindelöf and Aaron Wan-Bissaka, now his teammates at Aston Villa, were also among the starters. At the time, Garnacho was a teenage star flourishing on the grandest of stages, a fixture in the United team and fresh from scoring an outrageous overhead kick at Goodison Park a few days earlier that would later clinch the Premier League’s goal-of-the-season award. He went on to score twice at Old Trafford on Boxing Day, in a 3-2 victory against Villa, and a couple of months later his double at home to West Ham was the catalyst for that iconic celebration photo of Garnacho, Kobbie Mainoo and Rasmus Højlund sitting on the advertising hoardings at the Stretford End, beaming smiles all round. All three were at the heart of United’s plans for a bright future, beacons of hope. At the end of that season, Garnacho signed off in style, he and Mainoo scoring aga",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-25T17:00:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523319/ufc-star-jean-silva-hit-by-car-during-preparation-for-ironman",
+      "title": "UFC star Jean Silva hit by car during preparation for Ironman",
+      "summary": "UFC featherweight Jean Silva said he was hit by a car in Aracaju, Brazil, while preparing to compete in an Ironman on Sunday in the city. Silva posted a video on his Instagram on Tuesday saying that a man purposely swerved his car toward him and then fled the scene. Silva said he and his […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-25T17:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o",
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T16:46:36+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
       "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
@@ -99,6 +549,16 @@
       "first_seen": "2026-11-25T16:44:04.392582+00:00"
     },
     {
+      "url": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744",
+      "title": "Williams breaches F1 2025 cost cap, Alpine guilty of procedural violation",
+      "summary": "Williams and Alpine have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a sporting penalty for overspending and Alpine handed a fine. The FIA announced on Wednesday that Williams overspent the 2025 cost cap by £627,000 or 0.48%. The overspend was found to be unintentional through the way the team interpreted the financial ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-25T16:42:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
       "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Sunderland latest: Key players out for Europa League clash",
       "summary": "",
@@ -117,6 +577,16 @@
       "published": "2026-11-25T16:28:10+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo",
+      "title": "Leicester no longer for sale as owner looks to future",
+      "summary": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-25T16:19:45+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-26T01:29:49.606882+00:00"
     },
     {
       "url": "https://www.skysports.com/f1/news/12433/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties",
