@@ -1,23 +1,513 @@
 {
-  "generated_at": "2026-11-27T01:27:04.818946+00:00",
+  "generated_at": "2026-11-27T16:03:41.737262+00:00",
   "stats": {
-    "total": 1981,
+    "total": 2034,
     "categories": {
-      "football": 1266,
-      "formula1": 378,
-      "ufc": 337
+      "football": 1304,
+      "formula1": 389,
+      "ufc": 341
     },
     "priorities": {
-      "HIGH": 692,
-      "LOW": 1078,
-      "MEDIUM": 211
+      "HIGH": 702,
+      "LOW": 1109,
+      "MEDIUM": 223
     },
     "sources": 8,
-    "last_scan": "2026-11-27T01:27:04.157024+00:00",
-    "last_scan_new": 49,
+    "last_scan": "2026-11-27T16:03:40.004316+00:00",
+    "last_scan_new": 53,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/fp1-antonelli-leads-russell-in-qatar-as-mercedes-control-opening-practice.3v7t8Oja9vAGkic9TxN7FR",
+      "title": "Antonelli leads Russell in Qatar as Mercedes control FP1",
+      "summary": "Kimi Antonelli finished fastest in Free Practice 1 ahead of the Qatar Grand Prix, the Mercedes driver beating team mate George Russell and Isack Hadjar's Red Bull.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-qatar-2026.4b9OJ86R4u41lS38JHHCuO",
+      "title": "AS IT HAPPENED: First practice for the Qatar GP",
+      "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/boxing/523620/report-tyson-fury-cleared-for-anthony-joshua-fight-wife-retracts-schizophrenia-claim",
+      "title": "Report: Tyson Fury cleared for Anthony Joshua fight, wife retracts schizophrenia claim",
+      "summary": "Tyson Fury is ready for his highly anticipated matchup with Anthony Joshua after being given a clean bill of mental health. A scene from Fury’s self-titled Netflix documentary recently raised concern, with the fighter discussing his well-documented battle with “depression,” “anxiety,” and a “bipolar diagnosis” following a career-changing win over Wladimir Klitschko in 2015. Fury’s […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T16:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
+      "summary": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Barry Let’s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right and then fell apart – a bit like Manchester City. Here’s the latest edition of Premier League: 10 things to look out for this weekend. Before you get to the infographic, a quiz question: which player is the second-top scorer in the Premier League over the last 12 months [Erling Haaland first, obvs]? Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T15:50:42+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o",
+      "title": "Arsenal head coach Slegers leaves by mutual consent",
+      "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T15:43:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
+      "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
+      "summary": "Club languishing sixth in WSL after six home draws Held high hopes of mounting title challenge this term Renée Slegers has left her job as Arsenal Women’s head coach after a dismal set of results, with the club saying she has gone by mutual consent. The 37-year-old had been under contract until 2029 after signing a three-and-a-half-year deal in January but six consecutive home draws in the Women’s Super League this season have left Arsenal sixth, 12 points behind the leaders, Chelsea, and eight points adrift of a European place. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T15:11:25+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo",
+      "title": "Man Utd trigger Fernandes' one-year contract extension",
+      "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T15:08:41+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo",
+      "title": "What happens now for Bayern Munich and Musiala?",
+      "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T15:03:12+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523605/artem-lobov-open-to-reconcile-with-conor-mcgregor-but-he-did-things-while-this-whole-court-case-was-going-on-that-i-cant-forgive",
+      "title": "Artem Lobov open to reconcile with Conor McGregor but ‘he did things while this whole court case was going on that I can’t forgive’",
+      "summary": "There may be a future where Artem Lobov and Conor McGregor are friends again, but the former UFC fighter said it would require a lot of forgiving on his part in order to make that happen. Despite the turbulent past few years, Lobov considered the possibility of reconciling with the Irishman in the future. “Of […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13592850/renee-slegers-sacked-by-arsenal-only-18-months-after-winning-champions-league-following-poor-start-to-wsl-season",
+      "title": "Slegers sacked by Arsenal",
+      "summary": "Renee Slegers has been sacked as Arsenal head coach after a poor start to the Women's Super League season.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
+      "title": "Maresca: You can't compare Man City and Arsenal",
+      "summary": "Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn’t be compared after his side's early-season form raised expectations.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T14:47:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-qatar-gp-fp1-report-10878259/10878259",
+      "title": "F1 Qatar GP: Antonelli leads Russell in opening practice",
+      "summary": "Newly crowned world champion Kimi Antonelli has comfortably topped first practice at Formula 1's Qatar Grand Prix, holding off Mercedes team-mate George Russell as drivers grappled with the tricky Lusail circuit. One week on from the high-speed drag race on the streets of Las Vegas, drivers and teams were facing a completely different challenge as they sampled the high downforce motorcycle ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T14:39:27+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo",
+      "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+      "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T14:37:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo",
+      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+      "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T14:37:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13617130/qatar-gp-kimi-antonelli-dominates-first-practice-from-george-russell-at-lusail-international-circuit",
+      "title": "Antonelli dominates Qatar first practice",
+      "summary": "Kimi Antonelli dominated first practice for the Qatar Grand Prix as he led team-mate George Russell in a Mercedes one-two.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T14:30:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
+      "title": "Man Utd activate Fernandes contract extension clause",
+      "summary": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T14:10:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/521741/manel-kape-warns-joshua-van-his-time-is-coming-at-ufc-336-its-the-end-of-the-road",
+      "title": "Manel Kape warns Joshua Van his time is coming at UFC 336: ‘It’s the end of the road’",
+      "summary": "NEW YORK—Manel Kape is ready to hold UFC gold. On Jan. 30, Kape challenges Joshua Van for the flyweight title in the main event of UFC 336 in Toronto. The title shot is a long time coming for Kape, who joined the UFC in 2021 as a former RIZIN champion. But despite his road to […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T14:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo",
+      "title": "Iordanescu ready for Watford 'challenge'",
+      "summary": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T13:58:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
+      "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
+      "summary": "Emmanuel Macron: incidents had ‘no place in sport’ Nazi salutes alleged among Levski Sofia fans The presidents of France and Bulgaria have condemned violence that broke out at a Europa League fixture between Marseille and Levski Sofia in the Stade Vélodrome. Television footage showed Marseille fans cornering a group of Levski supporters in the stands before beating them relentlessly, including with a belt. One Levski fan is seen bleeding from the head as he receives multiple blows while trying to protect a female friend. Reports from inside the stadium on Thursday suggested violence began after a Levski supporter was seen making a Nazi salute. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T13:58:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o",
+      "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
+      "summary": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T13:16:05+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523455/morning-report-chael-sonnen-suggests-radical-interpretation-of-existing-eye-poke-rules",
+      "title": "Morning Report: Chael Sonnen suggests radical interpretation of existing eye poke rules",
+      "summary": "Chael Sonnen doesn’t think MMA needs to look far to fix its eye poke problem: The solution has been there all along. Responding to a viewer who sent him an excerpt from the Unified Rules of MMA, Sonnen found himself questioning the fundamental process of officiating eye pokes based on the following wording from subsection […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T13:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
+      "title": "Russell: Hamilton ruthless like Verstappen but has grace and values",
+      "summary": "George Russell says Lewis Hamilton is an equally \"ruthless competitor\" to Max Verstappen but that his former team-mate has \"incredible values, grace and dignity\".",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T12:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617184/qatar-gp-george-russell-states-lewis-hamilton-is-ruthless-like-max-verstappen-but-has-grace-and-values",
+      "title": "Russell praises Hamilton's 'grace and values' amid Verstappen feud",
+      "summary": "George Russell says Lewis Hamilton is an equally 'ruthless competitor' to Max Verstappen but that his former team-mate has 'incredible values, grace and dignity'. Watch the full interview during Sky Sports F1's live Qatar GP coverage on Sunday.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T12:25:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko",
+      "title": "Ipswich Women sign Ademiluyi for record fee",
+      "summary": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T12:10:39+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
+      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
+      "summary": "There is cynicism and jealousy but one of County’s top scorers is 39 as club try to climb leagues again after tumbling It was a vidiprinter moment worthy of a double take. Ross County 1 Cove Rangers 1 (Keir 52). Would Cove, scrapping for survival in Scottish League One, put an unlikely end last Saturday to the most emphatic run in British senior football? Don’t be silly, retorted County; four goals in the closing 17 minutes extended the Dingwall side’s goal difference to plus 45 (for 56, against 11). Played 16, won 14, drawn two. There is as much chance of Mike McCarthy settling down for Christmas dinner with Aaron Rodgers as there is of County missing out on promotion back to Scotland’s second tier. Taking in cup competitions they have scored 102 goals this season. An assessment from the captain, Brian Graham, of a frankly irrelevant loss on penalties to Stenhousemuir in the Challenge Cup epitomises the County approach. “We should have been five- or six-nil up at half-time,” an irked Graham says. “That shows the standards we have set. We lost a dubious goal, which shouldn’t have stood.” Earlier in that competition County whacked 14 past a Hearts youth side before defeating a Celti",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T12:00:10+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo",
+      "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+      "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T11:57:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170",
+      "title": "Sainz proposes intriguing DRS solution for F1 2030",
+      "summary": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product. F1 is set to move to all-new turbo V8 engines in 2030, with a smaller electric unit of up to 200kW and sustainable fuel. That should make engines simpler, cheaper and lighter, and therefore reduce the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T11:48:18+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878121",
+      "title": "Honda can't find an issue after Fernando Alonso's intriguing \"broken engine\" radio message",
+      "summary": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “Box, box, broken engine.” In the media pen afterwards, the Spaniard reiterated that something was wrong with the power unit in his Aston Martin: “The engine was down from the beginning of the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T11:03:47+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo",
+      "title": "EFL preview: Happy Potters face struggling Hammers",
+      "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T11:03:43+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+      "title": "Qatar GP: Antonelli tops first practice from Russell LIVE!",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T10:37:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o",
+      "title": "Botman banned from driving for using phone at wheel",
+      "summary": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T10:34:09+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-drivers-go-through-quizzical-exercise-in-stewarding-debate/10878073",
+      "title": "F1 drivers go through quizzical exercise in stewarding debate",
+      "summary": "Few matters of day-to-day business in a Formula 1 weekend divide opinion as deeply as stewarding decisions, particularly their consistency. A vocal minority of drivers tend to dominate this debate while others pointedly avoid getting involved. The FIA leaned into this in its annual summit with the drivers, deploying the online quiz platform Kahoot! to solicit a broad spectrum of opinion. It's ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T10:30:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T10:24:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo",
+      "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
+      "summary": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T10:11:58+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
+      "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
+      "summary": "Niko Kovac’s team lead the way and, with Bayern Munich wounded, have a golden chance to be German champions for the first time in 15 years Borussia Dortmund’s dreams have a habit of becoming nightmares, like when they somehow handed Bayern Munich the Bundesliga title on the final day of the 2022-23 season. Or when an 89th-minute Arjen Robben goal won the 2013 Champions League final for the same opponents. Whenever Dortmund suffer heartbreak, it usually involves Bayern. As things stand, however, Niko Kovac’s side hold a two-point lead over Bayern at the top of the Bundesliga. Both teams are unbeaten, but Dortmund may be the more stable of the two at the moment, especially with Harry Kane expected to miss several months through injury. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T10:00:01+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons",
+      "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
+      "summary": "To earn comparisons to Lamine Yamal after just three Premier League appearances might seem a little far-fetched, but Roberto De Zerbi showed no hesitation.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616787/pascal-gross-and-luka-vuskovic-helping-drive-fabian-hurzelers-brighton-and-their-stunning-premier-league-start",
+      "title": "Brighton's perfect blend: The duo key to Seagulls' rise",
+      "summary": "It was a painful Sunday afternoon at Hull, but by the time Brighton pair Luka Vuskovic and Pascal Gross arrived at the beachside restaurant on Tuesday, you got the impression they didn't need too much of the bracing near-frozen sea air to boost the mood.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/tarik-muharemovic-leeds-bosnia-dad-parents",
+      "title": "Tarik Muharemovic: ‘Dad is at every Leeds game. I sometimes hear him shouting from the stands’",
+      "summary": "Bosnia centre-half on learning from Chiellini and Bonucci, his club’s European ambitions and the debt he owes his refugee parents Tarik Muharemovic is proving one of the best signings of this Premier League season and there will be special resonance when his upwardly mobile Leeds side host Coventry on Saturday. Whereas Muharemovic’s father, Rasim, has been a matchday regular since the defender’s £34.1m move from Sassuolo, his mother, Elmedina, will watch her son play for Leeds for the first time. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T09:57:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10878126",
+      "title": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
+      "summary": "“My superpower was preparation.” This may not make for a fascinating storyline but perfectly encapsulates how Nico Rosberg surpassed Lewis Hamilton on his way the 2016 Formula 1 world title. You won’t often hear drivers downplay their natural ability, but 10 years on from his triumph with Mercedes, Rosberg was very open about it in the latest Beyond The Grid podcast. He couldn’t ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T09:35:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson",
+      "title": "'Man Utd being relegated would be biggest shock in history... but it won't happen'",
+      "summary": "In his latest Sky Sports column, Paul Merson previews a big weekend for Manchester United, before Arsenal take on Manchester City in a huge game live this Sunday.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T09:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o",
+      "title": "Why Cambridgeshire derby could be season-defining",
+      "summary": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T08:25:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
+      "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "summary": "The constant turnover of players and staff has made consistency an elusive quality at Stamford Bridge Liam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo Maresca as the next Harry Kane. Fast forward a year, though, and there was no chance of Delap joining Kane in England’s World Cup squad. The striker’s form was miserable and the only surprise was that Chelsea made a profit when they sold him to Nottingham Forest for £50m last summer. On one level it looks like good business. Delap’s only season at Stamford Bridge featured one serious hamstring injury, one league goal, one ridiculous red card and not much else. Analysts at other clubs rated him at Ipswich and felt Chelsea was the wrong fit for his direct style of play. The mistake was less the decision not to give Delap another season, no matter the worries over cover for João Pedro, more the call to sign him in the first place. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T08:00:57+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pq69mt",
+      "title": "Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview",
+      "summary": "Another criticial weekend of SPFL action with a huge grudge match at Tynecastle.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T08:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616834/hull-city-should-be-in-league-one-this-season-according-to-expected-goals-so-how-do-the-tigers-keep-winning-in-the-premier-league",
+      "title": "Hull should be in League One, says xG - so how do they keep winning?",
+      "summary": "Hull aren't doing much wrong as a newly promoted club so far. A great start to the campaign has them middle of the Premier League table, clear of the relegation zone and unbeaten at home all season.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T08:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y127xxye5o",
+      "title": "Goodwin backs Sapsford for Australia call-up - gossip",
+      "summary": "Dundee United manager backs striker for international call-up as Hibs boss offers advice to forward.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T07:21:15+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo",
+      "title": "What makes or breaks a high press?",
+      "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T07:17:13+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T06:59:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o",
+      "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
+      "summary": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T06:58:33+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go",
+      "title": "Man City owners should be forced to sell, say clubs",
+      "summary": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T06:38:14+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
       "title": "All the stories that got the Qatar paddock talking",
@@ -327,6 +817,26 @@
       "published": "2026-11-26T19:19:49+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616958/george-hemmings-exclusive-aston-villa-prospect-unfazed-by-rapid-rise-in-unai-emerys-squad-as-he-eyes-next-step",
+      "title": "Hemmings unfazed by rise at Villa and eager to take next step",
+      "summary": "Two days after being thrown into a cauldron in Istanbul during Aston Villa's loss to Galatasaray in the Champions League, George Hemmings strolls into the media centre at Bodymoor Heath, sliders on, looking entirely at home in the senior surroundings that should be new to him.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T19:09:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
+      "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
+      "summary": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T19:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o",
@@ -1347,6 +1857,16 @@
       "published": "2026-11-25T17:32:30+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-26T01:29:49.606882+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616467/florian-wirtz-helping-to-unlock-alexander-isak-at-liverpool-as-antonio-silva-shines-for-bournemouth-the-radar",
+      "title": "Wirtz unlocking Isak, plus a signing of the season contender",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T17:18:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
     },
     {
       "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
@@ -3797,6 +4317,16 @@
       "published": "2026-11-23T06:00:00+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-23T17:16:05.128540+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002mdy1",
+      "title": "A festive classic, now available on BBC iPlayer",
+      "summary": "Kate Winslet stars. Sometimes the heart needs a holiday to find where it truly belongs",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-23T01:30:27+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T16:03:40.004316+00:00"
     },
     {
       "url": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
