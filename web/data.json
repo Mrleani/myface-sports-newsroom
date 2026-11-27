@@ -1,23 +1,433 @@
 {
-  "generated_at": "2026-11-26T16:18:39.990033+00:00",
+  "generated_at": "2026-11-27T01:27:04.818946+00:00",
   "stats": {
-    "total": 1932,
+    "total": 1981,
     "categories": {
-      "football": 1236,
-      "formula1": 367,
-      "ufc": 329
+      "football": 1266,
+      "formula1": 378,
+      "ufc": 337
     },
     "priorities": {
-      "HIGH": 677,
-      "LOW": 1053,
-      "MEDIUM": 202
+      "HIGH": 692,
+      "LOW": 1078,
+      "MEDIUM": 211
     },
     "sources": 8,
-    "last_scan": "2026-11-26T16:18:37.714801+00:00",
-    "last_scan_new": 42,
+    "last_scan": "2026-11-27T01:27:04.157024+00:00",
+    "last_scan_new": 49,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
+      "title": "All the stories that got the Qatar paddock talking",
+      "summary": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-qatar-grand-prix.4En8C9V0hDrmUFFiwxjmu1",
+      "title": "What could shake up the Qatar betting markets?",
+      "summary": "After the lights go out in Lusail, clued-up bettors will be poised to make smart betting decisions in real time markets.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
+      "title": "Russell reacts to Verstappen’s Las Vegas comments",
+      "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/were-all-disappointed-leclerc-and-hamilton-address-aftermath-of-las-vegas-clash.34d9bV1J0varyAnDCWPAjU",
+      "title": "Leclerc and Hamilton address aftermath of Las Vegas clash",
+      "summary": "After contact limited them to the lower end of the points in Las Vegas, Charles Leclerc and Lewis Hamilton have insisted they’re working towards a solution to avoid further intra-team incidents.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/lindblad-left-trying-to-hold-back-tears-after-las-vegas-spin-as-he-reflects-on-emotional-social-media-post.6eGFigwGZhsbeR31PHHf4j",
+      "title": "Lindblad left ‘trying to hold back tears’ after Las Vegas spin",
+      "summary": "The Las Vegas Grand Prix ended in heartbreak for Arvid Lindblad, with the Racing Bulls driver having since opened up about the emotions he experienced following his spin out of the race.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/obviously-not-easy-camara-reacts-to-decision-to-sacrifice-f2-title-challenge-for-haas-drive.ltxdSbb5ibvHqIXHBAMId",
+      "title": "Camara reacts to decision to sacrifice F2 title challenge",
+      "summary": "Rafael Camara will see out the 2026 season with Haas instead of pursuing the Formula 2 title.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
+      "title": "Bearman reflects on new Haas deal and Ferrari hopes",
+      "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523451/mma-community-celebrates-thanksgiving-2026",
+      "title": "MMA community celebrates Thanksgiving 2026",
+      "summary": "It’s been as chaotic and unpredictable year as any in the MMA world, but at least, with Thanksgiving, we can all take one day to pause and be grateful for what we have. Oh, and to stuff our fat little faces. If there are any athletes deserving of thanks, it’s certainly the men and women […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T01:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o",
+      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+      "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T00:18:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes of fortune. After they lost to Chelsea in October, a seventh defeat in 10 winless games, Forest’s form improved and they won seven of their next 12 in all competitions. But after beating Chelsea in May, their seventh victory in a 10-game unbeaten run, Forest’s form dipped dramatically and they have won only twice since. Oliver Glasner’s criticism of players whose “standards [are] not high enough” is clearly designed to raise them. Time will tell if it has worked but the key man this week is one who should have no issues with motivation and whose English is at least decent. Liam Delap, facing the side that signed and swiftly discarded him, could really trouble Wesley Fofana and Levi Colwill. The Chelsea centre-back pairing were described as playing like “two novices” by Jamie Carragher after they were outfought by Dominic Calvert-Lewin last week. “Until they sign that dominant centre-back and leader, they’v",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T00:00:48+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523473/video-valter-walker-enraged-after-being-struck-by-fruit-on-reality-show-accidentally-smacks-jose-aldo",
+      "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo",
+      "summary": "Valter Walker is quite the character and where he goes, shenanigans are sure to follow. At the moment, Walker is participating in a reality show program being filmed in conjunction with an upcoming Hype FC event on Dec. 20, headlined by a pair of submission-only matches featuring Ignacio Bahamondes vs. Colby Covington in the main […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T00:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko",
+      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T23:59:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+      "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
+      "summary": "Marco Rose’s team close in on qualification Marseille v Levski Sofia marred by crowd trouble Bournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to win 2-1 at Celta Vigo . It was a remarkable 10th victory in succession in all competitions for Marco Rose’s side and it might have been the most satisfying of the lot for the manager, coming as it did after his team had found themselves a goal down and a man down at half-time. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T23:24:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o",
+      "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+      "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T22:27:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+      "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+      "summary": "Jagiellonia Bialystok’s head coach, Adrian Siemieniec, claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career in which he has already celebrated a Polish title. His players did everything to guarantee it was not an anticlimax as they revelled in highlighting Sunderland’s struggles in front of goal courtesy of some intelligent defending. Along the way they also responded to falling behind with an almost immediate equaliser and forced the impressive Robin Roefs into the evening’s more taxing saves. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T22:27:37+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pq4ydb",
+      "title": "Euro Leagues",
+      "summary": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T22:13:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+      "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace’s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr’s goal having been second best throughout against Real Sociedad, this game – and perhaps the south London club’s entire trajectory – was turned on its head after Jon Martín was sent off for denying Jean-Philippe Mateta an equaliser. The France striker made no mistake with his penalty before Dwight McNeil – who made up for scoring an own goal in Saturday’s defeat by Coventry capped an extraordinary comeback in Frank’s first home match since succeeding Pierre Sage. Despite Yéremy Pino’s saved penalty in stoppage time and a number of other chances that were squandered, Dean Henderson pulled off a stunning late save to seal the victory and revive Palace’s Europa League campaign. Suddenly Palace have hope where there appeared to be none and the Premier League’s bottom side will head into Sunday’s crucial showdown with Hull with a spring in their step. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T22:10:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523497/josh-hokit-offers-to-save-bum-ufc-light-heavyweight-division-navajo-stirling-responds",
+      "title": "Josh Hokit offers to save ‘bum’ UFC light heavyweight division, Navajo Stirling responds",
+      "summary": "Josh Hokit has brought plenty of excitement to the heavyweight division, now he might drop down in weight and do the same. If that’s what Hokit decides to do, top contender Navajo Stirling will be waiting for him. The undefeated Stirling currently finds himself in an awkward position, having scored consecutive knockouts over former light […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/crystal-palace-vs-real-sociedad/report/577815",
+      "title": "Frank earns first Palace win with late comeback against Sociedad",
+      "summary": "Thomas Frank earned his first win as Crystal Palace manager, coming from behind to beat Real Sociedad 2-1 in the Europa League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/torreense-vs-celtic/report/577828",
+      "title": "Duran scores late Celtic winner to keep Europa League hopes alive",
+      "summary": "Camilo Duran came off the bench to keep Celtic's Europa League hopes alive with a vital win against Torreense.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/hearts-vs-monaco/report/577948",
+      "title": "Vrancken proud of Hearts players despite last-gasp defeat to Monaco",
+      "summary": "Wouter Vrancken expressed pride in his Hearts team after an agonising 3-2 defeat at home to Monaco left their Conference League hopes hanging by a thread.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Bournemouth latest: 'Everyone was motivated' – Adli hails Cherries character in Celta win",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o",
+      "title": "Haaland considers Man City exit - Friday's gossip",
+      "summary": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T21:25:06+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
+      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+      "summary": "Democrats to examine Fifa Forward Enterprise scandal Infantino could be subpoenaed to give evidence A number of past and present Fifa employees have received letters requesting they attend interviews for a congressional investigation into the global governing body sparked by the Fifa Forward Enterprise scandal. Letters were sent on Wednesday to a number of staff along with a handful of former employees who held senior positions. They have been asked by Democrats on the House judiciary committee to give evidence as efforts gather pace to examine Gianni Infantino’s failed FFE scheme along with links between Fifa and the Trump administration. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T21:11:24+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
+      "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
+      "summary": "Turkey’s top diplomat speaks with Georgian counterpart Europa League match halted after police enter stands Turkey’s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas’s Europa League match against Israeli club Hapoel Be’er-Sheva in Batumi, a foreign ministry source confirmed. Turkey’s Hakan Fidan “has spoken by phone” with his Georgian counterpart, Maka Botchorishvili, the source said, adding: “Officials from the Turkish embassy in Tbilisi and the consulate general in Batumi are at the stadium. All necessary steps are being taken to ensure the safety of our citizens and protect their rights.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T20:47:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044",
+      "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
+      "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team. The initial plan was for Lambiase to ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T20:02:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
+      "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+      "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts “I’m an angel and a demon,” Éric Cantona says intently during a gripping new documentary about his life on and off the football pitch. “And an angel or a demon, you love him or you hate him. I’m far from being the person with the greatest integrity. I’m far from being the person who always tells the truth. I’m far from being the person who has never been hypocritical. Maybe I’m a good person, but I can also be a flower of evil. It’s the first time in my life I’ve realised this. I am a flower of evil, and I find it very beautiful.” It’s hard to know what to expect from the only written interview pinned to the release of Cantona: Flower of Evil . Joel Cantona has warned that his famous brother will walk out at any mention of the enduring crisis surrounding Manchester United , whether it’s a question about Mauricio Pochettino’s arrival or the Glazer family’s ruinous ownership of the club. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T20:00:44+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch",
+      "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch",
+      "summary": "Dricus du Plessis has been on the hunt for another fight with Khamzat Chimaev, even if the UFC isn’t interested for now. Chimaev defeated du Plessis at UFC 319 to become middleweight champion, only to subsequently lose the title to Sean Strickland at UFC 328. While Chimaev and Strickland settled their business, du Plessis returned […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T20:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/report/577814",
+      "title": "Bournemouth make European history after coming from behind to beat Celta Vigo",
+      "summary": "Bournemouth continued their magnificent run of form with a 2-1 victory against Celta Vigo, creating two bits of history in the process.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T20:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o",
+      "title": "Carsley eyes Euros history with England U21s after draw",
+      "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T19:35:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o",
+      "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+      "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T19:19:49+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o",
+      "title": "What will returning Magill bring to Northern Ireland?",
+      "summary": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T18:34:20+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
+      "title": "Leclerc denies having 'No 1 clause' in Ferrari contract",
+      "summary": "Charles Leclerc has strongly denied suggestions he has a No 1 driver clause in his Ferrari contract.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-26T18:12:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o",
+      "title": "Calvert-Lewin signs new Leeds deal until 2029",
+      "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T18:00:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/videos/523047/anything-but-fighting-jim-miller-loves-thanksgiving",
+      "title": "Anything but fighting: Jim Miller loves Thanksgiving",
+      "summary": "NEW YORK — UFC lightweight veteran Jim Miller speaks with MMA Fighting’s José Youngs on Anything But Fighting about his love for Thanksgiving, hunting, cooking, his cookbook, preparing and grilling meat, plus more. Miller (39-20) was last seen on the wrong end of a first-round knockout by Terrance McKinney in their catchweight fight at UFC […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club",
+      "title": "Calvert-Lewin signs new Leeds deal",
+      "summary": "Dominic Calvert-Lewin has signed a new deal at Leeds, keeping him at the club until the summer of 2029.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T18:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o",
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T17:12:45+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979",
+      "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
+      "summary": "Ferrari driver Lewis Hamilton says he is confident that he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas Grand Prix. A fortnight on from a costly on-track incident fighting for the lead in Mexico, which drew the ire of team boss Fred Vasseur, history repeated itself when Leclerc was found responsible for contact with ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T17:07:17+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlyl36my6m7o",
+      "title": "SFA to deliver revised proposal after young player vote delayed",
+      "summary": "The Scottish FA will continue consulting with SPFL clubs in a bid to get more game time for homegrown talent after initial plans put forward by the governing body failed to reach a member vote.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T16:49:44+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo",
+      "title": "Fofana has apologised for interview - Alonso",
+      "summary": "Chelsea manager Xabi Alonso says defender Wesley Fofana has apologised for his controversial comments in an interview he gave without permission from the club.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-26T16:47:47+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960",
+      "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "summary": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”. The Ferrari pair have been at loggerheads several times during the second half of the 2026 F1 campaign, clashing at Monza, Zandvoort and Mexico before their latest spat in Las Vegas. Last ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-26T16:26:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
       "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
@@ -89,6 +499,26 @@
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
     },
     {
+      "url": "https://www.mmafighting.com/ufc/523442/ufc-champion-carlos-ulberg-and-navajo-stirlings-coach-rules-out-teammates-ever-fighting",
+      "title": "UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting",
+      "summary": "Carlos Ulberg vs. Navajo Stirling for the UFC light heavyweight title? It’s not happening. That’s according to the fighters’ coach, City Kickboxing boss Eugene Bareman, who told reporters at a press conference in their gym at Auckland, New Zealand, that there is no way Ulberg will ever defend his title against his longtime friend and […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T16:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616076/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
+      "title": "PL Predictions: How will your club fare this weekend?",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T16:00:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
       "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940",
       "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
       "summary": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practice. It infuriated the Briton, with Verstappen ruining the Mercedes driver's lap by passing him into the last corner - an unwritten rule that the Dutchman doesn't tend to mind breaking. Russell responded by sending ... Keep reading",
@@ -109,6 +539,26 @@
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
+      "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
+      "summary": "After Chelsea fell to back-to-back losses with a 4-1 humiliation by Leeds at Stamford Bridge last Saturday, Sky Sports News reporter James Savundra examines the latest developments at Stamford Bridge.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T15:55:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
+      "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Bayern Munich’s 2-1 defeat to Lille was arguably the most eye-catching of Wednesday night’s Bigger Cup results, but anyone who tuned into proceedings at Stade Pierre-Mauroy will have been unsurprised by the outcome. Not so much an elite European tie as a game of Name That Bayern Reserve, the German champions’ starting lineup resembled a pale facsimile of its usual self. Their current knack-list includes such high-profile names as – deep breath – Harry Kane, Michael Olise, Alphonso Davies, Manuel Neuer, Serge Gnabry, Luis Díaz, Jamal Musiala and Ismael Saibari. And with Díaz and Musiala only fit enough for places on the bench, Konrad Laimer was deployed as a makeshift striker. The veteran right-back is famously as handy as a small pot, but filling Kane’s iconic Skechers proved a task too far for the Austrian. I liked Erling Haaland’s observation that football can simultaneously be “easy and difficult” [yesterday’s Football Daily]. That got me thinking about other things that have conflicting characteristics. Soup can be both sweet and sour. My feelings for my partner often run hot and cold. And my daily tea-timely newsletter can be",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-26T15:48:28+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
       "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o",
       "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
       "summary": "BBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games.",
@@ -127,6 +577,16 @@
       "published": "2026-11-26T15:00:39+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523424/tai-tuivasa-booked-for-ufc-sydney-looking-to-avoid-historic-losing-streak",
+      "title": "Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak",
+      "summary": "Tai Tuivasa is fighting to avoid being etched in the UFC history books for the wrong reason. MMA Fighting confirmed with sources with knowledge of the matchup that Tuivasa (14-11) is set to face Jhonata Diniz (9-3) in a heavyweight bout at UFC Sydney on Feb. 6. The bout was first reported by Laerte Viana. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T15:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo",
@@ -167,6 +627,16 @@
       "published": "2026-11-26T14:00:37+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523067/a-very-ufc-thanksgiving-which-fighters-best-embody-our-favorite-holiday-foods",
+      "title": "A Very UFC Thanksgiving: Which fighters best embody our favorite holiday foods?",
+      "summary": "Happy Thanksgiving! For those of us in the United States, today is one of our most beloved holidays, Thanksgiving, a day when we come together with friends and family to celebrate all that we’re grateful for by stuffing our faces until we need new pants. The centerpiece of any Thanksgiving celebration is the feast. Celebrants […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-26T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
     },
     {
       "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o",
@@ -279,6 +749,16 @@
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-cs-universitatea-craiova/report/577942",
+      "title": "Osman stars as Brighton bounce back with Conference League win",
+      "summary": "Ibrahim Osman scored his first Brighton goals as his side returned to winning ways by cruising to a 4-0 success over 10-man Universitatea Craiova in the Conference League.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T10:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
       "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
       "summary": "Even the best managers can struggle to escape ex-players’ need to manufacture a crisis for content. Enter Michael Carrick … A podcast studio in Manchester. A production runner pours water into jugs. Gary Neville enters the room with Michael Carrick. Neville: Just so you know, we’re already filming. This is the intro bit, where we show everyone coming on to set and doing some light banter. It humanises us. The viewer sees it and thinks we’re just mates chatting about football, rather than scions of a global podcast empire commercially obliged to produce an endless scroll of provocative content for money. I always say: why can’t you be both? Continue reading...",
@@ -307,6 +787,16 @@
       "published": "2026-11-26T10:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-26T16:18:37.714801+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/report/577827",
+      "title": "Sunderland held by Jagiellonia as banned travelling fans ejected",
+      "summary": "Sunderland have expressed their disappointment after some Jagiellonia Bialystok fans were in attendance in home areas during their 1-1 Europa League draw at the Stadium of Light.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-26T09:48:00+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-27T01:27:04.157024+00:00"
     },
     {
       "url": "https://www.autosport.com/f1/news/haas-announce-bearman-f1-2027/10877815",
