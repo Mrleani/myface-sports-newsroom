@@ -1,23 +1,363 @@
 {
-  "generated_at": "2026-11-28T01:01:42.063067+00:00",
+  "generated_at": "2026-11-28T14:58:46.619697+00:00",
   "stats": {
-    "total": 2083,
+    "total": 2120,
     "categories": {
-      "football": 1333,
-      "formula1": 405,
-      "ufc": 345
+      "football": 1363,
+      "formula1": 411,
+      "ufc": 346
     },
     "priorities": {
-      "HIGH": 726,
-      "LOW": 1130,
-      "MEDIUM": 227
+      "HIGH": 733,
+      "LOW": 1157,
+      "MEDIUM": 230
     },
     "sources": 8,
-    "last_scan": "2026-11-28T01:01:40.268736+00:00",
-    "last_scan_new": 49,
+    "last_scan": "2026-11-28T14:58:45.113010+00:00",
+    "last_scan_new": 37,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-qatar-2026.tg0SyDKW7zSS95TpZSB3t",
+      "title": "LIVE COVERAGE: All the action from final practice in Qatar",
+      "summary": "Live coverage of Saturday's third practice session for the 2026 Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
+      "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
+      "summary": "️⚽️ U️pdates from 3pm (GMT) kick-offs around the grounds ⚽️ Get in touch: follow us over on BlueSky Rangers (4-2-3-1) Pandur; Sterling, Fernandez, Makhanya, Rommens; Raskin, Chukwuani; Curtis, Gassama, Kim; Naderi. Subs: Kelly, Nedeljkovic, Godfrey, Penrice, Dragojevic, Neil, Bouanani, Miovski, Kelsy. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T14:36:43+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617502/what-happened-next-preston-goal-disallowed-in-bizarre-circumstances",
+      "title": "Have you ever seen this?! Preston goal disallowed in BIZARRE circumstances!",
+      "summary": "Referee Tom Reeves caused confusion at Deepdale after he disallowed a goal from Alfie Devine due to the ball striking the official in the build-up.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T14:02:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/live-blog/12433/13617474/f1-qatar-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-in-doha",
+      "title": "Qatar GP: Russell currently fastest from Antonelli in final practice LIVE!",
+      "summary": "",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-28T14:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo",
+      "title": "Swansea close in on Alexandersson as next boss",
+      "summary": "Swansea City are close to agreeing a deal to appoint Freyr Alexandersson as their new head coach.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T13:56:02+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo",
+      "title": "England call up Wubben-Moy for World Cup play-off",
+      "summary": "Arsenal defender Lotte Wubben-Moy is called up to the England squad for next month's Women's World Cup play-off ties against Ukraine, with Lauren Hemp and Jess Carter withdrawing.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T13:41:04+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+      "title": "Merson: Chelsea must beat Palace, but are the players behind Alonso?",
+      "summary": "Crystal Palace's Premier League visit to Stamford Bridge on Wednesday is one of the biggest matches Chelsea have had for a long time, according to Sky Sports' Paul Merson.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T13:31:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/rangers-vs-falkirk/live/558421",
+      "title": "Naderi leads the line as Rangers make five changes vs Falkirk LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T13:30:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
+      "title": "Zirkzee starts for first time in PL since May as Man Utd host Brentford LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T13:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
+      "title": "Leeds vs Coventry LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T13:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo",
+      "title": "Work in progress but Liverpool find belief again with Iraola",
+      "summary": "With the attack finally firing and Liverpool looking more solid at the back, Andoni Iraola has got the fans believing again. Just in time for derby day.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T12:36:26+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
+      "title": "Merse: Are the Chelsea players playing for Alonso?",
+      "summary": "Paul Merson runs the rule over Chelsea's defeat to Nottingham Forest on Friday - is Xabi Alonso under increasing pressure?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T12:16:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/28/jorgen-strand-larsen-cancer-crystal-place-father-norway",
+      "title": "Jørgen Strand Larsen: ‘Dad and I have been best mates since I was a kid – that’s not going to change’",
+      "summary": "Striker determined to raise prostate cancer awareness after father, who scored goals for fun at amateur level in Norway, received terminal diagnosis It is a fresh Friday afternoon at Selhurst Park and, after posing for a couple of pictures in front of the red and blue Holmesdale End, Jørgen Strand Larsen holds a scarf overhead in true new-signing style. This is not the last step before a routine announcement, nor is this a run-of-the-mill club, his manicured moustache a giveaway. The Crystal Palace and Norway striker has joined forces with Prostate Cancer UK to raise awareness of the disease after his father, Atle Wester, was given a terminal diagnosis this year. Strand Larsen arrives after a recovery session following Thomas Frank’s first victory since taking charge. He devotes more than an hour to learning more about a subject close to his heart, meeting Dr Matthew Hobbs, the charity’s research director, before a round-table conversation with Mark Bright, a Palace ambassador, and a couple of fans with links to the cause. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T12:15:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/fia-explores-drs-return-alongside-push-to-pass-system-for-f1s-v8-engines/10878582",
+      "title": "FIA explores DRS return alongside push-to-pass system for F1’s V8 engines",
+      "summary": "Although the framework announced last week establishes the key elements of Formula 1’s next power unit regulations – a 2.1-litre turbocharged V8 with a significantly reduced electrical component – many details still need to be worked out over the coming months. One of the key remaining questions is how to facilitate overtaking. For 2026, the FIA introduced overtake mode, but that is ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-28T12:04:31+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617455/ashley-cole-in-talks-to-take-over-at-bristol-rovers-as-pressure-mounts-on-steve-evans-after-defeat-to-tranmere",
+      "title": "Cole in talks to become Bristol Rovers boss as pressure mounts on Evans",
+      "summary": "Ashley Cole has held talks with Bristol Rovers about the possibility of taking over as manager, as pressure mounts on Steve Evans.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T11:58:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "summary": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his best?",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T11:53:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/28/steph-catley-celebrates-milestone-as-matildas-battle-past-colombia-in-feisty-canberra-friendly",
+      "title": "Steph Catley celebrates milestone as Matildas battle past Colombia in feisty Canberra friendly",
+      "summary": "Catley wore the armband for Australia in her 150th cap Goals to Alanna Kennedy and Caitlin Foord capped off a 3-1 win Steph Catley has celebrated her 150th appearance for Australia in style, playing a key role in the Matildas’ go-ahead goal as they kicked away in the second half to secure a 3-1 win over Colombia. After Alanna Kennedy and Linda Caicedo netted inside the opening 15 minutes, Catley’s 59th-minute corner ricocheted off Daniela Arias’s back to put Australia into the ascendancy, before Caitlin Foord struck three minutes later to secure a match-winning cushion. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T11:19:25+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
+      "title": "West Ham vs Stoke as Parker searches for first win as Hammers boss LIVE!",
+      "summary": "",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-28T10:54:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878549",
+      "title": "Why Williams breached the 2025 F1 cost cap",
+      "summary": "Williams' breach of Formula 1's cost cap regulations for the 2025 season was down to a difference in interpretation between its own finance team and the FIA adjudicators, relating to the company's restructure as the team moved assets into a new limited liability partnership. The Grove squad was found to have committed a \"minor overspend breach\" of £627,000 in the 2025 cost cap, although the ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-28T10:41:51+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo",
+      "title": "How Cardiff are changing Swansea derby narrative",
+      "summary": "Cardiff City used to be the dysfunctional poor relations in south Wales derbies, but they are changing the narrative with their rivals Swansea City.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T10:07:52+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-far-more-extreme-than-pirelli-expected/10878519",
+      "title": "100% wear in 15 laps – F1’s tyre challenges in Qatar far more extreme than Pirelli expected",
+      "summary": "Every year, the Lusail International Circuit represents the biggest challenge on the Formula 1 calendar for its sole tyre supplier, Pirelli. It is precisely for that reason that a maximum stint length is once again in place this season, with the limit this time set at 27 laps per set of tyres. The latter was based on Pirelli's pre-event simulations, but in practice, the situation is proving ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-28T09:11:29+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq143gn0gd80o",
+      "title": "Sheffield United scout Hearts' McPake - gossip",
+      "summary": "Hearts winger linked with Sheffield United as former St Johnstone chairman reveals 49ers approach.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T08:36:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo",
+      "title": "Ranking the Premier League's ultimate free-kick specialists",
+      "summary": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T08:14:24+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+      "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
+      "summary": "Liverpool head coach sees parallels with Athletic v Sociedad derby as he comes up against his old foe David Moyes “I haven’t lived this derby,” Andoni Iraola acknowledged, and yet he already feels it. A former Athletic Bilbao captain coming up against an ex-Real Sociedad head coach needs no instruction on the importance of winning a derby, whether in the Basque country or on Merseyside. But this week, as the Liverpool head coach approaches his first experience of the latter, there has been no escape. “It has been very easy for me here,” says Iraola of his five months on Merseyside. “Family-wise we have settled in really well. People here are very friendly, they love to talk to you but in a very respectful way. This week there has been a lot [of interaction with Liverpool fans], especially with playing big games against United and Everton. ‘We need to win, we need to win,’ they say.” Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T08:00:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/28/renee-slegers-arsenal-womens-super-league",
+      "title": "The Renéessance is over but Arsenal’s chaotic cycle will go on without further change | Suzanne Wrack",
+      "summary": "Renée Slegers’ exit, 18 months on from European glory, was inevitable but much of the blame lies with those higher up The Renéessance is over. Three down, how many more to go? The exit of Arsenal manager, Renée Slegers, 18 months after delivering European glory was somewhat inevitable, her position made untenable after six home draws in six games and just 15 points from 11 games, but will it solve the Gunners’ problems? There were high expectations in north London prior to the season, after difficult starts in back-to-back WSL campaigns put them outside a real title challenge within the opening few games. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T08:00:33+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/hankook-poised-to-enter-race-for-f1-tyre-supply-contract/10878399",
+      "title": "Hankook poised to enter race for F1 tyre supply contract",
+      "summary": "It's another vivid demonstration of Formula 1's ever-growing global reach and popularity that another serious contender has emerged to bid for its exclusive tyre-supply contract. Pirelli took over from Bridgestone as F1's sole tyre supplier in 2011 and for much of its first decade it faced little in the way of concerted challenge when renewal time rolled around. That has changed in recent ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-28T08:00:03+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o",
+      "title": "I watched every Brighton game at Dortmund - Gross",
+      "summary": "Brighton's Pascal Gross shares why he returned after getting his move to Borussia Dortmund.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T07:29:50+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o",
+      "title": "How dad's embarrassment was making of Gross at Brighton",
+      "summary": "Pascal Gross says his dad 'embarrassment' at him looking for free-kicks played an important part in him becoming the player he is today at Brighton.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T07:25:04+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T07:04:56+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno",
+      "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+      "summary": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T06:54:09+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo",
+      "title": "How a football team rebuilt after 19 players died in plane crash",
+      "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-28T06:30:34+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/raf-wrestling/523674/raf-15-results-cejudo-vs-song",
+      "title": "RAF 15 Results: Cejudo vs. Song",
+      "summary": "MMA Fighting has RAF 15 results for the Cejudo vs. Song match card at NOW Arena in Chicago on Saturday night. In the main event, former Olympic gold medalist and two-division UFC champion Henry Cejudo defends his RAF lightweight crossover title against No. 4-ranked bantamweight and former UFC opponent Song Yadong in Song’s promotional debut. […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-28T05:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+      "summary": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a foregone conclusion, but Friday’s all-or-nothing qualifier against El Salvador gave some reason for nerves. This was the first competitive game for Emma Hayes’ team since their Olympic gold medal match in August 2024, the end of two years of only friendlies. Given the global advances in women’s soccer over the years, maybe El Salvador could spring an all-time upset. The suspense ultimately lasted for eight minutes and 20 seconds. The USWNT opened the scoring in their Concacaf W Championship quarter-final with El Salvador in the ninth minute; a nifty training-ground set piece routine ending with Kennedy Wesley prodding the ball into the net, putting the hosts in the driver’s seat for an 8-0 win and a spot in next summer’s big show. With the win, the US maintains their perfect Women’s World Cup attendance record, a part of all 10 tournaments to date. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T04:14:42+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "summary": "Santiago Rodríguez strikes in stoppage time to seal win Inter Miami fail to defend 2025 MLS Cup title. Messi retired internationally earlier this year Inter Miami’s quest to defend their MLS Cup title is over. The South Florida side had two gilt-edged chances to take the lead in Game 2 of their best-of-three first-round series against Columbus in the MLS Playoffs on Friday, but missed both of them along with several others, later succumbing to a terrific stoppage-time winner from Santi Rodríguez in a 1-0 win for the Crew. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-28T03:53:14+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/are-mercedes-the-team-to-beat-in-qatar.6iRbqa3JJ85o0bWNYQTlTl",
       "title": "Are Mercedes the team to beat in Qatar?",
@@ -879,6 +1219,16 @@
       "first_seen": "2026-11-27T16:03:40.004316+00:00"
     },
     {
+      "url": "https://www.skysports.com/football/news/11095/13616312/scottish-premiership-can-rangers-halt-falkirk-to-move-top-before-hearts-host-celtic-live-on-sky-is-time-running-out-for-neil-mccann-at-kilmarnock",
+      "title": "Rangers eye top spot vs flying Falkirk as Celtic face Tynecastle test",
+      "summary": "There could be a change at the top of the Scottish Premiership if Rangers can halt the league's form team, but how long would they keep Celtic off the summit?",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T10:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/27/tarik-muharemovic-leeds-bosnia-dad-parents",
       "title": "Tarik Muharemovic: ‘Dad is at every Leeds game. I sometimes hear him shouting from the stands’",
       "summary": "Bosnia centre-half on learning from Chiellini and Bonucci, his club’s European ambitions and the debt he owes his refugee parents Tarik Muharemovic is proving one of the best signings of this Premier League season and there will be special resonance when his upwardly mobile Leeds side host Coventry on Saturday. Whereas Muharemovic’s father, Rasim, has been a matchday regular since the defender’s £34.1m move from Sassuolo, his mother, Elmedina, will watch her son play for Leeds for the first time. Continue reading...",
@@ -997,6 +1347,16 @@
       "published": "2026-11-27T06:38:14+00:00",
       "priority": "HIGH",
       "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/m0011xv1",
+      "title": "Gary Speed: 15 Years On",
+      "summary": "Fifteen years since the passing of Gary Speed, we hear from his family and friends.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T01:29:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
     },
     {
       "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
@@ -2517,6 +2877,16 @@
       "published": "2026-11-25T16:17:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-25T16:44:04.392582+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13616425/why-scott-parker-has-been-unable-to-halt-west-hams-slide-in-the-early-weeks-of-his-tenure-after-inheriting-significant-problems",
+      "title": "Why is Championship cheat code Parker finding life tough at West Ham?",
+      "summary": "The hope was that relegation would at least give West Ham the opportunity to reset, enjoy some winning football and, ideally, bounce straight back stronger. The reality, however, is proving rather different.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-25T16:04:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T14:58:45.113010+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league",
