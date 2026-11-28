@@ -1,23 +1,493 @@
 {
-  "generated_at": "2026-11-27T16:03:41.737262+00:00",
+  "generated_at": "2026-11-28T01:01:42.063067+00:00",
   "stats": {
-    "total": 2034,
+    "total": 2083,
     "categories": {
-      "football": 1304,
-      "formula1": 389,
-      "ufc": 341
+      "football": 1333,
+      "formula1": 405,
+      "ufc": 345
     },
     "priorities": {
-      "HIGH": 702,
-      "LOW": 1109,
-      "MEDIUM": 223
+      "HIGH": 726,
+      "LOW": 1130,
+      "MEDIUM": 227
     },
     "sources": 8,
-    "last_scan": "2026-11-27T16:03:40.004316+00:00",
-    "last_scan_new": 53,
+    "last_scan": "2026-11-28T01:01:40.268736+00:00",
+    "last_scan_new": 49,
     "last_scan_errors": 0
   },
   "articles": [
+    {
+      "url": "https://www.formula1.com/en/latest/article/are-mercedes-the-team-to-beat-in-qatar.6iRbqa3JJ85o0bWNYQTlTl",
+      "title": "Are Mercedes the team to beat in Qatar?",
+      "summary": "F1.com analyses the state of play after the first day of action at the Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/it-looks-like-a-very-difficult-weekend-leclerc-searching-for-answers-after-tricky-friday-in-qatar.34CxxcaWerPPLl84sU9cZq",
+      "title": "Leclerc searching for answers after tricky Friday in Qatar",
+      "summary": "Charles Leclerc reflected on Ferrari’s lack of pace in Qatar as Diego Ioverno offered reassurance over Lewis Hamilton’s stoppage in second practice.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6",
+      "title": "What the teams said – Friday in Qatar",
+      "summary": "The drivers and teams report back on all the action from Friday practice at the Lusail International Circuit, ahead of the 2026 Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/a-bit-of-a-difficult-day-verstappen-and-red-bull-left-looking-for-car-balance-after-friday-in-qatar.zvqj1nQ6dBT2PSxEzzKWP",
+      "title": "Verstappen and Red Bull left looking for car balance in Qatar",
+      "summary": "Max Verstappen admits that he and Red Bull had \"a bit of a difficult day\" during Friday practice ahead of the Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/racing-bulls-lead-the-midfield-charge-in-qatar-after-changes-pay-off.11wtPFM25qXm0dPTocDHRn",
+      "title": "Racing Bulls lead midfield in Qatar after 'really big step'",
+      "summary": "Racing Bulls led the midfield pack after Friday practice ahead of the Qatar Grand Prix, as Liam Lawson and Arvid Lindblad finished Free Practice 2 in P9 and P10.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-in-the-markets-for-the-qatar-grand-prix.2mQLEJUkKJHjLj8bHzNnaI",
+      "title": "Best Qualifying bets for the Qatar Grand Prix",
+      "summary": "Our expert betting writers share their top picks for Qualifying at the Lusail International Circuit.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/its-never-nice-gasly-explains-dramatic-high-speed-spin-during-qatar-practice.11hIcFNT6zuvEG0mwAggDn",
+      "title": "'It's never nice' – Gasly explains dramatic FP2 spin",
+      "summary": "Pierre Gasly has revealed how a combination of low tyre temperatures and increased bottoming contributed to his FP2 spin in Qatar, as Alpine continue to battle handling difficulties.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/i-dont-think-weve-been-further-off-norris-worried-by-mclarens-deficit-to-mercedes-in-qatar.6mwnUPpxnOsIv6YJ7O6Lgm",
+      "title": "Norris worried by McLaren’s deficit to Mercedes in Qatar",
+      "summary": "Lando Norris believes McLaren are fighting for P3 at the Qatar Grand Prix after Mercedes led the way in both of Friday’s practice sessions.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/you-can-never-write-off-max-and-the-others-antonelli-wary-of-rivals-despite-topping-friday-in-qatar.2bsPJciIE8epCdw1AXd6zC",
+      "title": "Antonelli wary of rivals despite topping Friday in Qatar",
+      "summary": "Kimi Antonelli believes \"you can never write off Max [Verstappen] and the others\" despite the new World Champion and Mercedes dominating Friday practice ahead of the Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
+      "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
+      "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25.",
+      "category": "formula1",
+      "source": "Formula1.com",
+      "published": null,
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
+      "title": "What went wrong for Alonso's Chelsea at Forest?",
+      "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3-2 defeat at Nottingham Forest.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T23:40:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523655/henry-cejudo-reflects-on-passing-of-eddie-cha-master-cha-you-will-always-be-remembered",
+      "title": "Henry Cejudo reflects on passing of Eddie Cha: ‘Master Cha, you will always be remembered’",
+      "summary": "Henry Cejudo is going to miss Eddie Cha. On Wednesday, Cha, the famed striking coach at Fight Ready in Glendale, Ariz., died suddenly of unknown causes. During his career, Cha worked with some of the biggest names in MMA, but arguably his most successful student is former UFC flyweight and bantamweight champion Henry Cejudo. Speaking […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+      "title": "Papers: Man Utd in running for Paz, but Champions League key",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T23:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o",
+      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+      "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:58:49+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm62pw2e18dwo",
+      "title": "Ayr beat Largs to book place in Scottish Cup fourth round",
+      "summary": "Watch the goals from Ayr United's Scottish Cup win over Largs Thistle.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:57:03+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo",
+      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+      "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:47:57+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do",
+      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+      "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:45:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o",
+      "title": "Bremen fight back to earn draw in six-goal thriller",
+      "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:37:16+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o",
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T22:30:22+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+      "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+      "summary": "‘It’s only been done once and that’s what we want’ Arteta not being drawn on City’s financial charges Mikel Arteta has set Arsenal the ­target of emulating Manchester City by becoming only the second team in Premier League history to record 100 points in a season. Arteta was an assistant for Pep Guardiola’s side when they achieved the landmark in the 2017-18 campaign, beating second-placed Manchester United by 19 points. City head to the Emirates Stadium on Sunday already trailing Arsenal by six points after just 11 games, with Enzo Maresca’s side having failed to win any of their four previous league matches. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T22:30:22+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/roberto-de-zerbi-tottenham-sunderland",
+      "title": "‘My Tottenham was born’: De Zerbi harks back to opening defeat for Sunderland return",
+      "summary": "Spurs head coach intends to draw on last season’s trauma Italian praises club after Williams-Barnett signs contract Tottenham’s trip to Sunderland takes Roberto De Zerbi back to the start. The Italian’s first game as the club’s manager came at the Stadium of Light in April and relegation was on the cards when his new side slipped to a 1-0 defeat . The result left Spurs in the bottom three, two points below West Ham, and De Zerbi has not forgotten the reaction in the dressing room after the final whistle. Survival was secured on the final day of last season but he is taking nothing for granted after a promising run of form. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T22:30:22+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/southampton-middlesbrough-championship-match-report-spygate-finn-azaz",
+      "title": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro",
+      "summary": "When asked whether he had any regrets about running the length of the pitch to goad the Middlesbrough supporters he used to call his own with a mock crying celebration, Finn Azaz was unequivocal. “None whatsoever,” said the Southampton playmaker. And you get the sense that very few associated with his club disagreed. Southampton, and their manager Tonda Eckert, long ago admitted their Spygate crime. Based on the behaviour of many connected to the south-coast club – their manager a notable exception – they have embraced it. The sense of aggrievement that it cost them the chance of promotion last season remains. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T22:11:28+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+      "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+      "summary": "Wesley Fofana, as a former Leicester player, might have expected the celebrating Nottingham Forest fans to give him a hard time. But, at the end of a week in which he invited opprobrium by making light of missing a penalty at Liverpool in an unsanctioned French interview, he endured the ultimate ignominy when Chelsea supporters followed a four-letter suggestion to tell the defender: “You’re not welcome here.” Fofana was humiliated by Liam Delap before fouling the former Chelsea striker for a penalty that Morgan Gibbs-White converted for the first of his two goals. The result, coming after Forest’s win against Manchester City in their last match at the City Ground, means they climb three points clear of the Premier League’s relegation zone. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T22:10:35+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights",
+      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
+      "summary": "Highlights from the Premier League clash between Nottingham Forest and Chelsea.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T22:08:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
+      "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'",
+      "summary": "Southampton's unbeaten start to the season at St Mary's continued as they beat leaders Middlesbrough 2-0.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T22:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo",
+      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T21:59:48+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617366/southampton-2-0-middlesbrough-championship-highlights",
+      "title": "Manning and Azaz lead Saints to victory in feisty 'Spygate' reunion",
+      "summary": "Highlights of the Sky Bet Championship match between Southampton and Middlesbrough.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T21:55:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o",
+      "title": "Celtic defend head of security amid Green Brigade row",
+      "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T21:50:01+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
+      "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+      "summary": "Morgan Gibbs-White scored two in Nottingham Forest’s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T21:45:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617359/southampton-v-middlesbrough-saints-second-causes-chaos-after-azaz-goads-boro-fans",
+      "title": "Azaz does a full Adebayor to celebrate in front of Boro fans!",
+      "summary": "Finn Azaz does his best Emmanuel Adebayor impression to celebrate in front of Middlesbrough supporters after scoring for Southampton.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T21:42:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o",
+      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T21:31:54+00:00",
+      "priority": "MEDIUM",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o",
+      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+      "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T21:19:27+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523624/former-city-kickboxing-fighter-slams-team-for-wanting-to-talk-sht-and-lie-compares-coach-to-pig",
+      "title": "Former City Kickboxing fighter slams team for wanting ‘to talk sh*t and lie,’ compares coach to pig",
+      "summary": "There is apparently no shortage of drama when it comes to coach Eugene Bareman and his City Kickboxing team. The New Zealand-based gym has made plenty of positive headlines in 2026, with fighters like Alexander Volkanovski and Carlos Ulberg delivering massive championship wins, and top light heavyweight contender Navajo Stirling continuing his impressive unbeaten run, […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T21:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/p0pqb0nm",
+      "title": "Football Daily",
+      "summary": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T20:47:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix",
+      "title": "'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar",
+      "summary": "Charles Leclerc believes an “outlier” has given Mercedes a “massive” advantage at the Qatar Grand Prix, after Kimi Antonelli and George Russell dominated Friday’s practice sessions.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T20:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
+      "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
+      "summary": "A sensational start for the Italian was swiftly followed by a dismal run and long faces in the team This is the great known unknown in Manchester City’s run of one win – in addition to victory on penalties against Brighton in the Carabao Cup – in seven matches. After guilty verdicts were returned regarding the breaking of Premier League financial rules, Enzo Maresca’s team went to Anfield and handed Liverpool a 3-0 schooling . Yet this proved the falsest of dawns, with Andoni Iraola’s nascent side perhaps caught in a bad moment. City have since managed one league victory ( 3-2 over Ipswich , six days later) and two more wins in regulation time (in the Champions League) in 10 matches. The sequence includes one point from the past four league fixtures. Maresca argues that his, too, is an embryonic project so there will be uneven form. “I am not a magician,” he said on Friday. But it is also fair to ponder whether, after the adrenaline surge of an us-against-the-world mentality carried City to the Liverpool and Ipswich wins, the grim reality of what the guilty verdict may mean for careers is affecting players. City have appealed against the ruling, saying they are “innocent of the acc",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T20:00:19+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland",
+      "title": "Cody Garbrandt announces retirement bout to take place at UFC Cleveland",
+      "summary": "CHICAGO—Cody Garbrandt is ready to fight for the final time. The former UFC bantamweight champion told MMA Fighting’s Mike Heck he expects to be booked to compete at UFC Cleveland on Feb. 13 in what will be the final fight of his career. Garbrandt, 35, broke the news while discussing his upcoming wrestling match with […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T19:00:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/watch/video/13617299/qatar-grand-prix-practice-highlights",
+      "title": "Big spins and Verstappen-Hamilton near miss in dramatic Qatar practice",
+      "summary": "Highlights from Friday's practice sessions at the Qatar Grand Prix.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T18:26:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/f1-qatar-gp-fp2-report/10878347",
+      "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
+      "summary": "Kimi Antonelli has swept Friday's running at Formula 1's Qatar Grand Prix in Doha after topping a second practice session that was interrupted by two red flags. Second practice in the cooler evening conditions presented more relevant conditions ahead of Saturday's qualifying session around the same time, with the track temperatures around 10 degrees lower than the afternoon's sweltering FP1 ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T18:20:55+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/f1/news/12433/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions",
+      "title": "Antonelli completes Qatar Friday practice double for dominant Mercedes",
+      "summary": "Kimi Antonelli topped his team-mate George Russell in both of Friday's practice sessions at the Qatar Grand Prix as Mercedes produced a dominant showing.",
+      "category": "formula1",
+      "source": "Sky Sports F1",
+      "published": "2026-11-27T18:20:00+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement",
+      "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement",
+      "summary": "Tyron Woodley shared more time in the UFC octagon with Stephen Thompson than anyone else, and their competitive rivalry has transformed into a friendship. Thompson recently retired following a highlight-reel knockout win over Charles Radtke at UFC 334. “Wonderboy” competed for the UFC welterweight title twice in his career, with both fights taking place against […]",
+      "category": "ufc",
+      "source": "MMA Fighting",
+      "published": "2026-11-27T18:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878359",
+      "title": "Audi loses F1 appeal over Tsunoda’s Italian GP restart – here’s why",
+      "summary": "More than two months after the Formula 1 race at Monza, the result of the Italian Grand Prix has finally been confirmed. Audi believed that Racing Bulls driver Yuki Tsunoda – who was given the opportunity to stand in following Isack Hadjar's wrist injury and Liam Lawson's subsequent promotion – deserved a penalty for a potential restart infringement. Following Charles Leclerc's heavy ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T17:58:05+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo",
+      "title": "Emery praises Garnacho attitude after Villa selection snub",
+      "summary": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T17:42:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.autosport.com/f1/news/fia-details-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878336",
+      "title": "FIA details F1 engine freeze and imposes testing restrictions ahead of V8 return",
+      "summary": "Formula 1 manufacturers will no longer be allowed to work on the current generation of power units from mid-2028, the FIA's single-seater director Nikolas Tombazis has revealed in an exclusive interview with Autosport. First revealed by Autosport over the Las Vegas Grand Prix weekend, the measure is intended to prevent manufacturers from having to work on two projects simultaneously and also ... Keep reading",
+      "category": "formula1",
+      "source": "Autosport F1",
+      "published": "2026-11-27T17:14:37+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/27/watford-hottest-managerial-seat-pozzos-football-daily-newsletter",
+      "title": "Football Daily | Watford, the Pozzos and the hottest managerial seat in the game",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! A few weeks ago, Alessio Dionisi was forced to deny the “fake news” he had joined Sean Dyche, Gianfranco Zola, Beppe Sannino, Óscar García, Billy McKinlay, Slavisa Jokanovic, Quique Sánchez Flores (twice), Walter Mazzarri, Marco Silva, Javi Gracia (twice), Nigel Pearson, Vladimir Ivic, Xisco Muñoz, Claudio Ranieri, Roy Hodgson, Rob Edwards, Slaven Bilic, Chris Wilder, Valérien Ismael, Tom Cleverley, Paulo Pezzolano and Edward Still in being sacked by the Pozzo family since 2012. There was no denial on Sunday, when the axe inevitably fell on the head coach following a 4-0 shellacking at Sheffield United and the Italian left after only 18 games in charge. While his reign is unlikely to live long in the memory of anyone at Vicarage Road, Dionisi can at least boast on his LinkedIn page that in terms of longevity under the Pozzos, he took charge of 18 more matches than Dyche, 17 more than García and 16 more than McKinlay. Indeed, he even outlasted Rob Edwards, who was assured he would be backed “come hell or high water” upon his 2022 appointment, only to be fired from the ejector seat 11 games later. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T16:36:35+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/nov/27/nations-championship-finale-merseyside-derby-and-qatar-gp-follow-with-us",
+      "title": "Nations Championship finale, Merseyside derby and Qatar GP – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T16:29:04+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo",
+      "title": "Spurs' Savio to miss festive fixtures after injury setback",
+      "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
+      "category": "football",
+      "source": "BBC Sport Football",
+      "published": "2026-11-27T16:05:30+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
     {
       "url": "https://www.formula1.com/en/latest/article/fp1-antonelli-leads-russell-in-qatar-as-mercedes-control-opening-practice.3v7t8Oja9vAGkic9TxN7FR",
       "title": "Antonelli leads Russell in Qatar as Mercedes control FP1",
@@ -69,6 +539,16 @@
       "first_seen": "2026-11-27T16:03:40.004316+00:00"
     },
     {
+      "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+      "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+      "summary": "Club activate option and plan further talks with captain ‘I am not nice,’ says Pochettino as he targets improvement Manchester United have triggered a clause to extend the captain Bruno Fernandes’ contract until the summer of 2028 on a day when Mauricio Pochettino warned his players they should not expect him to be “nice” in his attempts to turn around the club’s fortunes. Fernandes’ deal was due to expire in June and by exercising the option United have avoided the risk from January that he could negotiate a pre-contract agreement with a club abroad to join on a free next summer. Fernandes said this month that talks over a longer extension were on hold “because of the context of the team and the club”. He has turned down two United contract offers. Continue reading...",
+      "category": "football",
+      "source": "The Guardian Football",
+      "published": "2026-11-27T15:29:41+00:00",
+      "priority": "HIGH",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
+    },
+    {
       "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
       "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
       "summary": "Club languishing sixth in WSL after six home draws Held high hopes of mounting title challenge this term Renée Slegers has left her job as Arsenal Women’s head coach after a dismal set of results, with the club saying she has gone by mutual consent. The 37-year-old had been under contract until 2029 after signing a three-and-a-half-year deal in January but six consecutive home draws in the Women’s Super League this season have left Arsenal sixth, 12 points behind the leaders, Chelsea, and eight points adrift of a European place. Continue reading...",
@@ -117,6 +597,16 @@
       "published": "2026-11-27T15:00:00+00:00",
       "priority": "LOW",
       "first_seen": "2026-11-27T16:03:40.004316+00:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11095/13615727/renee-slegers-has-left-arsenal-by-mutual-consent-how-her-tenure-went-from-hero-to-zero-in-such-a-short-space-of-time",
+      "title": "Where did it go wrong for Slegers at Arsenal?",
+      "summary": "Arsenal have parted company with Renee Slegers after less than two years permanently in charge, during which time the club celebrated unrivalled highs and endured dispiriting lows. The polarisation of the Dutchwoman's tenure is quite unusual.",
+      "category": "football",
+      "source": "Sky Sports Football",
+      "published": "2026-11-27T15:00:00+00:00",
+      "priority": "LOW",
+      "first_seen": "2026-11-28T01:01:40.268736+00:00"
     },
     {
       "url": "https://www.skysports.com/football/news/11095/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
